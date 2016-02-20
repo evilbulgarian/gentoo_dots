@@ -1,0 +1,40 @@
+
+# Aliases {{{
+alias fsociety="ssh dean@box.fsociety.info"
+alias error418="ssh -p 500 dean@error418.info"
+alias criticalcompass="ssh -p 500 dean@criticalcompass.com"
+alias weather="curl -4 wttr.in/Melbourne"
+
+
+# do updates
+alias upgrade="sudo emerge --sync && sudo eix-sync && emerge -uavDN @world"
+alias changeduse="sudo emerge --ask --changed-use @world"
+
+
+# Makes ls list all files and always use color
+alias ls="export LC_COLLATE="C"; ls --color=always --group-directories-first"
+alias clrs="xrdb -load ~/.Xresources"
+
+
+# Create vim colorscheme on open
+alias nvim="erb -T - ~/output/ryuuko.erb > ~/colorschemes/ryuuko/colors/ryuuko.vim && nvim"
+
+# }}}
+
+# Functions {{{
+
+# ls on every cd
+function chpwd() {
+  ls
+}
+
+# Do maths in the terminal
+= () {
+    calc="${@//p/+}"
+    calc="${calc//x/*}"
+    echo "$(($calc))"
+}
+
+
+# }}}
+

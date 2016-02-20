@@ -1,0 +1,6 @@
+#!/bin/sh
+
+toilet -f larry3d -t --gay "         updates"
+echo
+sudo update -a
+sudo emerge_notifier
