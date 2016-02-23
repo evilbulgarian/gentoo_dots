@@ -1,0 +1,88 @@
+#!/bin/bash
+#
+# Example config file for cdm(1).
+# Values set here is the default as in cdm(1).
+
+# List of programs, commands with whitespaces should be quoted or escaped.
+# If unset, all sessions in /etc/X11/Sessions or /usr/share/xsessions are
+# offered as choices.
+#
+# (An example:)
+binlist=(
+  '~/.xinitrc'                    # Launch your X session,
+  '/bin/zsh --login'              # or just execute your shell,
+)
+
+# List all program display names, one-by-one matched with $binlist.
+# Names with whitespaces should be quoted or escaped.
+#
+# (Continued example:)
+namelist=(':: bspwm ::' '::  zsh  ::')
+
+# Type of the programs, one-by-one matched with $binlist.
+# `C' for *C*onsole programs, which would be `exec'ed.
+# `X' for *X* programs, which would be run with cdm-xlaunch(1).
+#
+# (Continued example:)
+flaglist=(X C)
+
+# Index of the first item in the menu.
+countfrom=1
+
+# Set default display.
+display=1
+
+# Where should the first X tty be spawned?
+# special value `keep' causes to run X in current tty.
+xtty=keep
+
+# Should cdm(1) stick to the specified display?
+locktty=yes
+
+# Use ConsoleKit for X session?
+consolekit=no
+
+# Timeout for waiting for X session to register with ConsoleKit.
+cktimeout=30
+
+# Additional arguments to pass to X server, which is usually called as:
+#   /usr/bin/X :$display "${serverargs[@]}" vt$((xtty+display))
+# Arguments with whitespaces should be quoted or escaped.
+serverargs=(-nolisten tcp)
+
+# Alternative method of calling startx(/setsid). Should only be set if cdm
+# does not start X as expected (bash -x shows call to setsid startx, but for
+# no apparent reason does not start X).
+# Only provided in the hope it may be useful, not a guaranteed fix.
+altstartx=yes
+
+# "default" selection if you just press enter or space
+#
+default=1
+
+# "timeout" in seconds to automatically run "default" program from the 
+# program list binlist
+#
+# 0 means no "timeout" so no "default" selection
+timeout=0
+
+# CAUTION!!!
+# This option will overwrite your ~/.xinitrc
+# 
+# It will generate a new ~/.xinitrc from an specified "xinitcommon" script 
+# and execute startx to launch it
+#
+# The process is simple, it will use the "xinitcommon" specified file
+# to create a new ~/.xinitrc with an extra line at the end 
+# "exec binlist[selected]"
+#
+# So, you only have to provide a common .xinitrc script that configures
+# everything but doesn't start X
+#
+# Undeclared or blank means not to use this option
+#
+# Example: xinitcommon=~/.xinitrc.cdm
+xinitcommon=
+
+# To not redirect the X output to /dev/null
+verbose=no
