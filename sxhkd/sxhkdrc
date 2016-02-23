@@ -9,7 +9,7 @@ super + shift + Escape
 super + {_,shift + }q
     bspc node -{c,k}
 
-super + t
+super + shift + t
     bspc desktop -l next
 
 super + {t,p,s,f}
@@ -59,6 +59,12 @@ super + y
 super + m
     bspc node -s biggest
 
+# Circulate the leaves of the tree of the focused desktop
+super + {c,shift + c}
+    bspc node @/ --circulate {forward,backward}
+
+super + ctrl + comma
+    bspc node @/ --rotate 90
 
 super + {_,shift + }{h,j,k,l}
     bspc node -{f,s} {west,south,north,east}
@@ -93,8 +99,9 @@ super + {Left,Down,Up,Right}
 super + {_,shift + }{1-9,0}
     bspc {desktop -f,node -d} '^{1-9,10}'
 
-super + {comma,period}
-	bspc desktop --circulate {backward,forward}
+# Balance windows
+super + b
+   bspc desktop --balance
 
 ~button1
     bspc pointer -g focus
@@ -130,8 +137,8 @@ super + shift + p
 super + F3
     pamixer -i 2
 
-super + control + f
-    firefox
+super + control + b
+    qutebrowser
 
 mod4 + BackSpace
     comptontoggle.sh
@@ -145,10 +152,10 @@ super + shift + u
 super + shift + v
 	urxvt -name "vpn" --geometry 100x50 -e zsh -c "work"
 
-super + shift + w
-	urxvt -name "weechat" -e zsh -c "weechat"
+super + ctrl + w
+	urxvt -name "weechat" -e zsh -c "tmux -c weechat"
 
-super + shift + M
+super + ctrl + M
 	urxvt -name "mutt" -e zsh -c "mutt"
 
 super + shift + F3
