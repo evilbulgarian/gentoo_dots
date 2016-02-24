@@ -1,0 +1,912 @@
+2016-01-24 12:27:19	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #python
+2016-01-24 12:27:19	 - 	Topic for #python is "Don't paste, use https://bpaste.net/+python | http://bit.ly/psf-coc | NO LOL | Tutorial: http://bit.ly/MCAhYx | New programmer? http://goo.gl/c170V | Specify 2.x or 3.x in your question | Find your local User Group: http://goo.gl/S1Zsq | #python-fr #python.de #python-es #python.tw #python.pl #python-br #python-nl #python-ir #python.it #python-ro #python-india #python-hu #python-dev"
+2016-01-24 12:27:19	 - 	Topic set by papna on Mon, 11 Jan 2016 03:29:40
+2016-01-24 12:27:20	 - 	Channel #python: 1704 nicks (0 ops, 0 voices, 1704 normals)
+2016-01-24 12:27:22	 - 	Channel created on Sun, 26 Nov 2006 17:42:41
+2016-01-24 12:27:24	dispatch3d	why doesn't this work for pandas dataframe? https://bpaste.net/show/cdeb8e9d645b
+2016-01-24 12:28:41	fs0ciety	im new to python, and on really have done shell scripting. but i was wondering if there is an easy to import a color coded logo into python quickly. here is the original bash code
+2016-01-24 12:28:42	fs0ciety	https://bpaste.net/show/6f3331ab33c2
+2016-01-24 12:29:23	 < 	brendel (~brice@cev75-5-88-175-55-89.fbx.proxad.net) has quit (Ping timeout: 245 seconds)
+2016-01-24 12:29:23	agronholm	dispatch3d: did you mean 'A' instead of A?
+2016-01-24 12:29:24	 > 	poddus (~poddus@host11-2.natpool.mwn.de) has joined #python
+2016-01-24 12:29:24	agronholm	(I've never used Pandas)
+2016-01-24 12:30:03	 > 	seanp2k (~seanp2k@69.53.232.0) has joined #python
+2016-01-24 12:30:05	 > 	msjche (~msjche@unaffiliated/msjche) has joined #python
+2016-01-24 12:30:14	 > 	elyob (~elyob@host86-143-228-240.range86-143.btcentralplus.com) has joined #python
+2016-01-24 12:30:15	 < 	skift (~skift@unaffiliated/skift) has quit (Ping timeout: 250 seconds)
+2016-01-24 12:30:22	dispatch3d	angronholm yes
+2016-01-24 12:30:38	 < 	juiko (~user@190.162.146.18) has quit (Read error: Connection reset by peer)
+2016-01-24 12:31:02	artois	fs0ciety: heh
+2016-01-24 12:31:11	 > 	heyts (~Thomas@ool-435232a1.dyn.optonline.net) has joined #python
+2016-01-24 12:31:12	 > 	Burrito (~Burrito@unaffiliated/burrito) has joined #python
+2016-01-24 12:31:19	dispatch3d	angronholm dunno how you picked out that error without using panda's but anyhow
+2016-01-24 12:31:24	 > 	juiko (~user@190.162.146.18) has joined #python
+2016-01-24 12:31:41	 > 	scripore (~scripore@cpe-69-204-241-15.nyc.res.rr.com) has joined #python
+2016-01-24 12:31:52	papna	dispatch3d: It isn't clear what you want it to do.
+2016-01-24 12:31:59	papna	dispatch3d: You might mean df[A][B]
+2016-01-24 12:32:01	papna	Erm
+2016-01-24 12:32:18	papna	dispatch3d: You might mean print df[['A', 'B']] (or print df)
+2016-01-24 12:32:20	agronholm	dispatch3d: well, I didn't see you define variables A or B anywhere, and you were using the strings 'A' and 'B' as dict keys
+2016-01-24 12:32:25	 > 	vvalien (~vvalien@unaffiliated/vvalien) has joined #python
+2016-01-24 12:32:28	 < 	poddus (~poddus@host11-2.natpool.mwn.de) has quit (Client Quit)
+2016-01-24 12:32:41	dispatch3d	I want to change the type to float for both key's then print both of them
+2016-01-24 12:32:50	pythonsnake	hi
+2016-01-24 12:32:59	pythonsnake	is there a way to write lines to file without \n?
+2016-01-24 12:33:06	pythonsnake	like new lines without having to explicitely say it
+2016-01-24 12:33:26	 < 	__machine (~mrmachine@c110-20-30-1.rivrw8.nsw.optusnet.com.au) has left #python
+2016-01-24 12:33:27	 > 	skift (~skift@unaffiliated/skift) has joined #python
+2016-01-24 12:33:27	 > 	springermac_ (~quassel@184-13-105-79.dr01.clbg.wv.frontiernet.net) has joined #python
+2016-01-24 12:33:28	 - 	springermac is now known as Guest59221
+2016-01-24 12:34:03	 - 	springermac_ is now known as springermac
+2016-01-24 12:34:09	 < 	jstein (~quassel@gentoo/developer/jstein) has quit (Remote host closed the connection)
+2016-01-24 12:34:12	artois	fs0ciety: here's an example I found:  print('\033[1;35mMagenta like Mimosa\033[1;m')
+2016-01-24 12:34:19	artois	should be straightforward
+2016-01-24 12:34:25	nedbat	pythonsnake: in python3:  print("blah", file=f)
+2016-01-24 12:34:40	dispatch3d	I figured it out with your help, thanks, yes Ineeded to do df[['A', 'B']]
+2016-01-24 12:34:47	pythonsnake	nedbat: and 2?
+2016-01-24 12:34:55	nedbat	pythonsnake: print >>f, "hi there"
+2016-01-24 12:34:59	 < 	nadiroll_ (~nadirollo@82.163.124.2) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 12:35:00	 < 	stay__up (~Clams@cpe-104-162-100-170.nyc.res.rr.com) has quit (Ping timeout: 264 seconds)
+2016-01-24 12:35:08	pythonsnake	nice, thanks
+2016-01-24 12:35:08	 < 	Guest59221 (~quassel@172.79.198.171) has quit (Ping timeout: 265 seconds)
+2016-01-24 12:35:16	 > 	runciter (~mrw@c-73-158-177-121.hsd1.ca.comcast.net) has joined #python
+2016-01-24 12:37:04	dispatch3d	can I do a pearson's correlation between a boolean and an integer?
+2016-01-24 12:37:08	 < 	dmpeters63 (~dmpeters6@107-142-101-126.lightspeed.nsvltn.sbcglobal.net) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2016-01-24 12:37:32	agronholm	a boolean is an integer
+2016-01-24 12:37:35	 > 	Quantumcross (~weechat@cpe-67-242-177-30.rochester.res.rr.com) has joined #python
+2016-01-24 12:38:06	Quantumcross	hey, I'm helping someone use pip to install a package
+2016-01-24 12:38:15	 < 	nyexpress (~textual@unaffiliated/nyexpress) has left #python ("Textual IRC Client: www.textualapp.com")
+2016-01-24 12:38:29	Quantumcross	it's installed by pip in ~/.local/..../site-packages
+2016-01-24 12:38:32	Quantumcross	so I had him
+2016-01-24 12:38:40	 < 	benbacardi (uid133145@gateway/web/irccloud.com/x-kzbwrgpvgdahxjkr) has quit (Quit: Connection closed for inactivity)
+2016-01-24 12:38:46	dispatch3d	yeah it works thanks.
+2016-01-24 12:38:52	Quantumcross	export PYTHONPATH=/home/.../site-packages:$PYTHONPATH
+2016-01-24 12:38:59	dispatch3d	anyone have experience with online programming courses? just wondering if there's any good ones for beginners
+2016-01-24 12:39:09	Quantumcross	but his path is starting with the system path anyway, with the custom path AFTER that
+2016-01-24 12:39:15	Quantumcross	so it's finding the system version first
+2016-01-24 12:40:17	 > 	mistermocha (~mistermoc@108-217-164-28.lightspeed.sntcca.sbcglobal.net) has joined #python
+2016-01-24 12:40:38	 < 	skift (~skift@unaffiliated/skift) has quit (Remote host closed the connection)
+2016-01-24 12:41:14	 < 	elastix (~Thunderbi@cpc21-addl4-2-0-cust195.6-3.cable.virginm.net) has quit (Quit: elastix)
+2016-01-24 12:41:24	 < 	localuser- (~quassel@unaffiliated/localuser-) has quit (Remote host closed the connection)
+2016-01-24 12:41:36	 > 	gh0st (~gh0st@a89-154-145-32.cpe.netcabo.pt) has joined #python
+2016-01-24 12:41:54	 > 	AkashicLegend (~AkashicLe@unaffiliated/akashiclegend) has joined #python
+2016-01-24 12:41:56	 > 	JamesNZ (~JamesNZ@fedora/JamesNZ) has joined #python
+2016-01-24 12:42:20	 < 	mistermocha (~mistermoc@108-217-164-28.lightspeed.sntcca.sbcglobal.net) has quit (Remote host closed the connection)
+2016-01-24 12:43:00	 < 	heyts (~Thomas@ool-435232a1.dyn.optonline.net) has quit (Ping timeout: 260 seconds)
+2016-01-24 12:43:08	 > 	jlf (~user@pdpc/supporter/active/jlf) has joined #python
+2016-01-24 12:44:03	 < 	Tennis (~Tennis@unaffiliated/tennis) has quit (Quit: Leaving)
+2016-01-24 12:45:19	 < 	TomatoBag (~TomatoBag@modemcable168.139-83-70.mc.videotron.ca) has quit (Quit:  HydraIRC -> http://www.hydrairc.com <- The professional IRC Client :D)
+2016-01-24 12:45:21	 < 	seanp2k (~seanp2k@69.53.232.0) has quit (Quit: seanp2k)
+2016-01-24 12:47:02	 > 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 12:51:50	 > 	toli (~toli@ip-83-134-71-101.dsl.scarlet.be) has joined #python
+2016-01-24 12:51:53	 < 	Kirito (~Kirito@pdpc/supporter/student/kirito) has quit (Remote host closed the connection)
+2016-01-24 12:51:56	 > 	jbel (~jbel@c-76-120-66-196.hsd1.co.comcast.net) has joined #python
+2016-01-24 12:52:45	 > 	Leates (~Leates@unaffiliated/rbxdev) has joined #python
+2016-01-24 12:53:12	 < 	elbo22 (~iefk@unaffiliated/elbo22) has quit (Remote host closed the connection)
+2016-01-24 12:53:15	 > 	YP-HW7 (~YP-Win10@bcdc71d0.skybroadband.com) has joined #python
+2016-01-24 12:54:21	mandeep	in regex if i want to disregard whitespace if it exists at the beginning of a pattern would i use [^\s]?
+2016-01-24 12:54:21	 > 	Soaked (~Soaked@unaffiliated/soaked) has joined #python
+2016-01-24 12:54:26	 < 	Leates_ (~Leates@unaffiliated/rbxdev) has quit (Ping timeout: 240 seconds)
+2016-01-24 12:54:42	 < 	Earlo (~Earlo@2001:708:30:1080:5c76:1e99:a1c1:5171) has quit (Remote host closed the connection)
+2016-01-24 12:55:00	 < 	agireud (~M00N@cpe-66-68-33-156.austin.res.rr.com) has quit (Ping timeout: 256 seconds)
+2016-01-24 12:55:56	 > 	Jammyhammy (~Jammy@ip98-183-71-200.lf.br.cox.net) has joined #python
+2016-01-24 12:56:18	 < 	sunri5e (~sunri5e@unaffiliated/sunri5e) has quit (Ping timeout: 250 seconds)
+2016-01-24 12:56:34	 > 	seanp2k (~seanp2k@69.53.232.0) has joined #python
+2016-01-24 12:57:09	 > 	agireud (~M00N@cpe-66-68-33-156.austin.res.rr.com) has joined #python
+2016-01-24 12:57:22	enfinitee	Alright, got another question. I'm trying to write a script that renames folders with stupid names (i.e. "!-DJ-Skinja-!"") to remove the "!-" and hyphen between "DJ-Skinja." I have some code written that doesn't work...http://pastebin.com/scuD5RMr
+2016-01-24 12:57:23	infobob	http://paste.pound-python.org/show/muBiT9Y8rKrRXKxRCC1e/ (repasted for enfinitee)
+2016-01-24 12:57:35	altendky	mandeep:  what's the rest of your regex.  if i don't care about something at the beginning of a pattern i generally just don't write it in the regex.
+2016-01-24 12:57:35	nedbat	mandeep: what do you mean by disregard?
+2016-01-24 12:58:13	 > 	sunri5e (~sunri5e@unaffiliated/sunri5e) has joined #python
+2016-01-24 12:58:30	 > 	lobius (~Thunderbi@2602:30a:2e45:2ba0:9976:2a8:3e39:2ce5) has joined #python
+2016-01-24 12:58:49	 > 	Pinkamena_D (~Pinkamena@c-69-136-96-66.hsd1.nj.comcast.net) has joined #python
+2016-01-24 12:58:49	 < 	peret (~peret@unaffiliated/peret) has left #python
+2016-01-24 12:58:52	mandeep	nedbat:  if it exists then re.match should fail
+2016-01-24 12:58:54	 < 	Burrito (~Burrito@unaffiliated/burrito) has quit (Quit: Leaving)
+2016-01-24 12:59:11	 > 	scottschecter (~scottsche@c-76-115-234-122.hsd1.or.comcast.net) has joined #python
+2016-01-24 12:59:12	 < 	scottschecter (~scottsche@c-76-115-234-122.hsd1.or.comcast.net) has quit (Max SendQ exceeded)
+2016-01-24 12:59:18	mandeep	regex = re.compile("^[0-9][0-9]:[0-5][0-9]:[0-5][0-9]$")
+2016-01-24 12:59:52	altendky	mandeep: i think adding something like (?<!\s), a negative look-behind
+2016-01-24 13:00:24	 > 	Agent_Smith_BR (~Agent_Smi@unaffiliated/agent-smith-br/x-9903544) has joined #python
+2016-01-24 13:00:37	altendky	mandeep: although you are already requiring that the first char on the line is 0-9 because of starting with ^
+2016-01-24 13:00:55	mandeep	that's what i thought
+2016-01-24 13:01:12	 > 	tbsf (~tbsf@c-71-205-108-77.hsd1.co.comcast.net) has joined #python
+2016-01-24 13:01:26	mandeep	altendky: maybe the end of the regex is what is throwing me off
+2016-01-24 13:01:31	 > 	Hoffman (~Hoffman@unaffiliated/hoffman) has joined #python
+2016-01-24 13:01:32	 < 	lornaevo (~andrew.lo@pool-100-38-168-233.nycmny.fios.verizon.net) has quit
+2016-01-24 13:01:56	mandeep	by using $ dont i fail a match if there is whitespace at the end of the string?
+2016-01-24 13:02:04	 > 	rclanan (~rclanan@1292288-054-v3981-static.fklninaa.metronetinc.net) has joined #python
+2016-01-24 13:02:04	 > 	Burrito (~Burrito@unaffiliated/burrito) has joined #python
+2016-01-24 13:02:05	 > 	Leates_ (~Leates@unaffiliated/rbxdev) has joined #python
+2016-01-24 13:02:29	 > 	localuser- (~quassel@unaffiliated/localuser-) has joined #python
+2016-01-24 13:02:32	 < 	s2013 (~textual@209.36.96.57) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 13:02:35	 < 	Leates (~Leates@unaffiliated/rbxdev) has quit (Ping timeout: 240 seconds)
+2016-01-24 13:02:36	altendky	 omandeep: yes.  the ^ and $ match the beginning and end so you are requiring that you have exclusively what you are trying to match and nothing else
+2016-01-24 13:03:25	 > 	donspaulding (~donspauld@98.215.46.106) has joined #python
+2016-01-24 13:03:33	mandeep	altendky: that's what i thought but if i use "00:00:00\n" then re.match does not fail
+2016-01-24 13:03:42	 > 	s2013 (~textual@209.36.96.57) has joined #python
+2016-01-24 13:04:01	nedbat	mandeep: can you show use the code, and the run of the program?
+2016-01-24 13:04:02	wleslie	mandeep: \n is 'the end of the line'
+2016-01-24 13:04:06	 < 	hiratara (~hiratara@240f:7:4708:1:4090:cea9:644b:c0ee) has quit (Ping timeout: 250 seconds)
+2016-01-24 13:04:11	wleslie	$ matches the end of either the string, or the line
+2016-01-24 13:04:28	altendky	mandeep: if you want to reject that then you may have to do a multiline regex or something
+2016-01-24 13:04:29	 < 	dbristow (~dbristow@nylug/member/dbristow) has quit (Read error: Connection reset by peer)
+2016-01-24 13:04:30	 > 	rustyrazorblade (~rustyrazo@pool-108-13-149-246.lsanca.fios.verizon.net) has joined #python
+2016-01-24 13:04:36	 < 	artois (~artois@funtoo/user/artois) has quit (Quit: quit)
+2016-01-24 13:05:02	mandeep	nedbat: https://bpaste.net/show/e4714b1a4114
+2016-01-24 13:05:34	_habnabit	Quantumcross, you don't need PYTHONPATH for any of that
+2016-01-24 13:05:37	mandeep	so a time of "00:00:00\n" does not fail the re.match
+2016-01-24 13:05:47	 < 	tbsf (~tbsf@c-71-205-108-77.hsd1.co.comcast.net) has quit (Ping timeout: 250 seconds)
+2016-01-24 13:06:11	_habnabit	mandeep, this is a common problem with using ^ and $. you need either .fullmatch or \A and \Z
+2016-01-24 13:06:17	_habnabit	mandeep, ^ and $ are rarely useful
+2016-01-24 13:06:37	 > 	kumarat9pm (~surendra@220-244-12-79.static.tpgi.com.au) has joined #python
+2016-01-24 13:07:00	_habnabit	mandeep, but, i'm not sure why you're using str.split here when you could use capture groups
+2016-01-24 13:07:05	 < 	rclanan (~rclanan@1292288-054-v3981-static.fklninaa.metronetinc.net) has quit (Ping timeout: 276 seconds)
+2016-01-24 13:07:07	 > 	catpiggest (~catpig@p5B09E214.dip0.t-ipconnect.de) has joined #python
+2016-01-24 13:07:12	 < 	Tobbi (~tobbi@unaffiliated/tobbi) has quit (Remote host closed the connection)
+2016-01-24 13:07:26	altendky	mandeep: why would you want to reject something with leading or trailing whitespace?  ditto on capture groups
+2016-01-24 13:07:36	mandeep	altendky: just part of the problem
+2016-01-24 13:07:57	altendky	mandeep: ah, contrived scenario.  alrighty.  :]
+2016-01-24 13:08:02	mandeep	yeah :(
+2016-01-24 13:08:04	 > 	hiratara (~hiratara@240f:7:4708:1:8883:b4ff:ff56:264d) has joined #python
+2016-01-24 13:08:15	 > 	baxx (~user@97e67e13.skybroadband.com) has joined #python
+2016-01-24 13:08:23	 < 	donspaulding (~donspauld@98.215.46.106) has quit (Ping timeout: 276 seconds)
+2016-01-24 13:08:25	mandeep	_habnabit: fullmatch works in py3, but im working with py2 here :(
+2016-01-24 13:08:33	_habnabit	mandeep, then use \A and \Z
+2016-01-24 13:08:57	 > 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 13:08:58	enfinitee	philr, do you have time for another question?
+2016-01-24 13:09:06	philr	enfinitee: Again, I'd recommend you print the things you are passing to os.rename and comment out the actual os.rename call until you are confident it's doing the right thing.
+2016-01-24 13:09:22	 < 	the_rat (~the_rat@ip5f5aef15.dynamic.kabel-deutschland.de) has quit (Remote host closed the connection)
+2016-01-24 13:09:25	mandeep	_habnabit: yep that was it. thanks!
+2016-01-24 13:09:38	mandeep	had no clue \A or \Z existed
+2016-01-24 13:09:48	_habnabit	mandeep, that's why people use ^ and $
+2016-01-24 13:10:14	mandeep	_habnabit: haha because they dont know about \A and \Z?
+2016-01-24 13:10:20	 < 	mjburgess (~mjburgess@host-79-77-35-228.static.as9105.com) has quit (Ping timeout: 276 seconds)
+2016-01-24 13:10:24	_habnabit	mandeep, right. as i said, ^ and $ are rarely useful
+2016-01-24 13:10:36	 > 	wilbert (~wilbert@unaffiliated/wilbert) has joined #python
+2016-01-24 13:10:36	 < 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 250 seconds)
+2016-01-24 13:10:44	mandeep	_habnabit: it's funny that you mention that. i learned ^ and $ from other regexes
+2016-01-24 13:10:52	 < 	kadfak (~kadfak@yhikas2.ttu.ee) has quit (Ping timeout: 256 seconds)
+2016-01-24 13:10:54	mandeep	thanks for teaching me something new
+2016-01-24 13:10:59	 < 	catpigger (~catpig@p5B09E45C.dip0.t-ipconnect.de) has quit (Ping timeout: 276 seconds)
+2016-01-24 13:11:48	altendky	again, ditto.  good to know
+2016-01-24 13:11:52	 < 	krobzaur (~Kyle@c-75-68-113-169.hsd1.nh.comcast.net) has quit (Ping timeout: 265 seconds)
+2016-01-24 13:11:57	 < 	rrr (~chatzilla@45.55.25.22) has quit (Remote host closed the connection)
+2016-01-24 13:12:43	 > 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 13:12:48	enfinitee	philr, this is actually a new question! xD
+2016-01-24 13:12:51	 < 	TheRinger (~TheRinger@c-73-35-211-122.hsd1.wa.comcast.net) has quit (Quit: Leaving)
+2016-01-24 13:13:05	enfinitee	Oh wait you're talking about the script I pasted. I'll do that, change them to print statements...but I still am not sure why it's not working
+2016-01-24 13:13:08	 > 	DiCablo (~DiCablo@unaffiliated/dicablo) has joined #python
+2016-01-24 13:13:14	enfinitee	Like, removing the "!-" and hyphens
+2016-01-24 13:13:27	 < 	AkashicLegend (~AkashicLe@unaffiliated/akashiclegend) has quit (Ping timeout: 272 seconds)
+2016-01-24 13:13:49	philr	enfinitee: Hopefully printing them will give you a clue.
+2016-01-24 13:14:04	 < 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 272 seconds)
+2016-01-24 13:14:20	mandeep	altendky: thanks for mentioning (?>!) ill have to read more about it
+2016-01-24 13:14:21	 > 	AkashicLegend (~AkashicLe@unaffiliated/akashiclegend) has joined #python
+2016-01-24 13:14:53	enfinitee	The script won't even run because of some kind of syntax error. It's telling me the "!" in my filename.startswith("!") is an int or something
+2016-01-24 13:15:03	_habnabit	enfinitee, pastebin the traceback
+2016-01-24 13:15:41	 < 	Rodya_ (~Rodya_@pool-108-52-28-121.phlapa.fios.verizon.net) has quit (Remote host closed the connection)
+2016-01-24 13:16:20	enfinitee	_habnabit, he's talking about asscript I already, pasted, but here it is: http://pastebin.com/scuD5RMr
+2016-01-24 13:16:20	infobob	http://paste.pound-python.org/show/muBiT9Y8rKrRXKxRCC1e/ (repasted for enfinitee)
+2016-01-24 13:16:43	enfinitee	infobob, you are the true mvp
+2016-01-24 13:16:53	 < 	osieln (~one@unaffiliated/osieln) has quit (Quit: leaving)
+2016-01-24 13:17:11	runciter	enfinitee: that ends up being something like os.rename(file, 10)
+2016-01-24 13:17:21	runciter	but then not even because you're doing len(10)
+2016-01-24 13:17:29	 < 	iraj (~iraj@unaffiliated/iraj) has quit (Ping timeout: 276 seconds)
+2016-01-24 13:17:36	 < 	wilbert (~wilbert@unaffiliated/wilbert) has quit (Ping timeout: 264 seconds)
+2016-01-24 13:17:43	 > 	minip (minip@unaffiliated/minip) has joined #python
+2016-01-24 13:17:56	runciter	enfinitee: do you want to remove a certain set of characters from the filename?
+2016-01-24 13:18:13	runciter	enfinitee: if the characters are always at the ends, look into str.strip
+2016-01-24 13:18:35	runciter	enfinitee: if they're anywhere in the string, you can do something like ''.join(c for c in name if c not in BAD_CHARS)
+2016-01-24 13:18:45	 < 	neoncontrails (~neoncontr@76-196-233-65.lightspeed.sndgca.sbcglobal.net) has quit (Remote host closed the connection)
+2016-01-24 13:18:47	enfinitee	Yes, I have a file, for instance, that is "!-DJ-SkinjA-!," and I want to rename it to "DJ Skinja. I'm learning how to do this one bit at a time and starting with the "!", but it's not going to well haha"
+2016-01-24 13:19:10	 < 	jbel (~jbel@c-76-120-66-196.hsd1.co.comcast.net) has quit (Remote host closed the connection)
+2016-01-24 13:19:13	runciter	(or on python 2, filter(str.isalpha, yourname))
+2016-01-24 13:19:15	enfinitee	runciter, I've never seen that kind of format before. Still new to Python. Do you have any examples I could look at?
+2016-01-24 13:19:27	 < 	elyob (~elyob@host86-143-228-240.range86-143.btcentralplus.com) has quit (Quit: My iMac has gone to sleep. ZZZzzz…)
+2016-01-24 13:19:31	runciter	enfinitee: generally https://docs.python.org/2/tutorial/
+2016-01-24 13:19:32	 > 	alanwill (~alanwill@c-50-185-32-30.hsd1.ca.comcast.net) has joined #python
+2016-01-24 13:19:37	runciter	enfinitee: https://docs.python.org/2/tutorial/introduction.html#strings
+2016-01-24 13:19:46	runciter	enfinitee: https://docs.python.org/2/library/stdtypes.html#string-methods
+2016-01-24 13:20:04	 > 	grekkos (~gmcquilla@64.187.160.122) has joined #python
+2016-01-24 13:20:43	 > 	wagnerrp (~wagnerrp_@mythtv/developer/wagnerrp) has joined #python
+2016-01-24 13:21:12	 < 	Pinkamena_D (~Pinkamena@c-69-136-96-66.hsd1.nj.comcast.net) has quit (Ping timeout: 264 seconds)
+2016-01-24 13:21:46	 > 	notdaniel (~notdaniel@162-231-196-159.lightspeed.irvnca.sbcglobal.net) has joined #python
+2016-01-24 13:23:58	 > 	dancrew32 (~quassel@c-71-198-130-216.hsd1.ca.comcast.net) has joined #python
+2016-01-24 13:24:12	 < 	s2013 (~textual@209.36.96.57) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 13:24:23	 < 	dancrew32 (~quassel@c-71-198-130-216.hsd1.ca.comcast.net) has quit (Client Quit)
+2016-01-24 13:24:52	 > 	sssilver (~sssilver@cpe-70-112-245-224.austin.res.rr.com) has joined #python
+2016-01-24 13:25:00	 < 	xvx (~xvx@93.191.201.219) has quit (Ping timeout: 260 seconds)
+2016-01-24 13:25:11	 > 	dancrew32 (~quassel@c-71-198-130-216.hsd1.ca.comcast.net) has joined #python
+2016-01-24 13:26:13	 < 	TE (~chatzilla@99-126-31-86.lightspeed.miamfl.sbcglobal.net) has quit (Quit: ChatZilla 0.9.92 [Firefox 43.0.4/20160105164030])
+2016-01-24 13:26:40	 > 	elyob (~elyob@host86-143-228-240.range86-143.btcentralplus.com) has joined #python
+2016-01-24 13:26:46	 > 	Draecos (~Draecos@203-121-194-11.e-wire.net.au) has joined #python
+2016-01-24 13:27:02	 > 	kadoban (~mud@unaffiliated/kadoban) has joined #python
+2016-01-24 13:27:25	enfinitee	Thanks, runciter
+2016-01-24 13:27:29	 > 	dbristow (~dbristow@nylug/member/dbristow) has joined #python
+2016-01-24 13:28:06	runciter	enfinitee: for sure
+2016-01-24 13:28:24	 < 	enfinitee (~redjax@cpe-66-61-87-31.neo.res.rr.com) has quit (Quit: Leaving)
+2016-01-24 13:28:34	 > 	s2013 (~textual@209.36.96.57) has joined #python
+2016-01-24 13:28:39	 > 	Rodya_ (~Rodya_@pool-108-52-28-121.phlapa.fios.verizon.net) has joined #python
+2016-01-24 13:29:18	 < 	elyob (~elyob@host86-143-228-240.range86-143.btcentralplus.com) has quit (Client Quit)
+2016-01-24 13:29:32	 < 	dancrew32 (~quassel@c-71-198-130-216.hsd1.ca.comcast.net) has quit (Remote host closed the connection)
+2016-01-24 13:29:45	 < 	ritlew (~Thunderbi@2601:406:300:3000:2903:ad1a:e554:ff67) has quit (Quit: ritlew)
+2016-01-24 13:30:57	 > 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 13:31:08	 > 	elyob (~elyob@host86-143-228-240.range86-143.btcentralplus.com) has joined #python
+2016-01-24 13:31:25	Vainglory	https://bitbucket.org/pride/sloth/src/8557c7be946a71ef70a3ae80d2439423f6c2b086/sloth/cardio.py?at=master&fileviewer=file-view-default is there anything that can be changed with this?
+2016-01-24 13:32:35	 > 	Pinkamena_D (~Pinkamena@c-69-136-96-66.hsd1.nj.comcast.net) has joined #python
+2016-01-24 13:32:47	 < 	elyob (~elyob@host86-143-228-240.range86-143.btcentralplus.com) has quit (Client Quit)
+2016-01-24 13:33:05	 < 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 276 seconds)
+2016-01-24 13:33:42	 > 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 13:33:50	 > 	donspaulding (~donspauld@98.215.46.106) has joined #python
+2016-01-24 13:34:14	 < 	eblip (~ebot@unaffiliated/eblip) has quit (Remote host closed the connection)
+2016-01-24 13:34:45	 < 	rustyrazorblade (~rustyrazo@pool-108-13-149-246.lsanca.fios.verizon.net) has quit (Quit: rustyrazorblade)
+2016-01-24 13:34:52	 > 	evansde77 (~evansde77@c-71-201-249-102.hsd1.il.comcast.net) has joined #python
+2016-01-24 13:35:07	 > 	elyob (~elyob@host86-143-228-240.range86-143.btcentralplus.com) has joined #python
+2016-01-24 13:35:30	 < 	JayFK (~JayFK@p5DE877C1.dip0.t-ipconnect.de) has quit (Ping timeout: 260 seconds)
+2016-01-24 13:35:34	 > 	chemist69_ (~apl@a89-182-155-253.net-htp.de) has joined #python
+2016-01-24 13:35:36	 < 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 264 seconds)
+2016-01-24 13:36:33	 > 	JayFK (~JayFK@p4FFA3A8F.dip0.t-ipconnect.de) has joined #python
+2016-01-24 13:36:57	 < 	dispatch3d (18e0dbe3@gateway/web/freenode/ip.24.224.219.227) has quit (Quit: Page closed)
+2016-01-24 13:37:26	 < 	Hoffman (~Hoffman@unaffiliated/hoffman) has quit
+2016-01-24 13:37:49	 < 	raccoon_ops (~raccoon_o@99-16-98-161.lightspeed.snrsca.sbcglobal.net) has quit (Quit: raccoon_ops)
+2016-01-24 13:37:56	 > 	rgtk (~rgtk@ip-91.246.72.229.skyware.pl) has joined #python
+2016-01-24 13:38:20	 < 	lobius (~Thunderbi@2602:30a:2e45:2ba0:9976:2a8:3e39:2ce5) has quit (Ping timeout: 250 seconds)
+2016-01-24 13:38:26	 < 	chemist69 (~apl@a89-182-206-165.net-htp.de) has quit (Ping timeout: 240 seconds)
+2016-01-24 13:38:45	 > 	zebulan_ (~zebulan@S010600e04da68c2e.cg.shawcable.net) has joined #python
+2016-01-24 13:38:53	 < 	zebulan_ (~zebulan@S010600e04da68c2e.cg.shawcable.net) has quit (Client Quit)
+2016-01-24 13:39:14	 > 	zebulan_ (~zebulan@S010600e04da68c2e.cg.shawcable.net) has joined #python
+2016-01-24 13:40:02	 < 	bnprk (~vinay@116.202.193.97) has quit (Ping timeout: 272 seconds)
+2016-01-24 13:40:15	 < 	renketon (~renketon@97-95-103-242.dhcp.bycy.mi.charter.com) has quit
+2016-01-24 13:40:47	ifohancroft	Is there an easy way to capture keypress in Python3 or even better a key combo? I need it to work no matter it is pressed while the script is running (I mean if I for example have Firefox window on focus and i press T and the python script is running in another window
+2016-01-24 13:40:52	 < 	zebulan_ (~zebulan@S010600e04da68c2e.cg.shawcable.net) has quit (Client Quit)
+2016-01-24 13:41:05	 > 	zebulan_ (~zebulan@S010600e04da68c2e.cg.shawcable.net) has joined #python
+2016-01-24 13:41:24	philr	Vainglory: You could spell kilometre correctly.
+2016-01-24 13:41:27	 < 	stranac (~stranac@93-137-246-250.adsl.net.t-com.hr) has quit (Quit: Leaving)
+2016-01-24 13:41:41	 < 	zebulan_ (~zebulan@S010600e04da68c2e.cg.shawcable.net) has quit (Client Quit)
+2016-01-24 13:41:45	tos9	ifohancroft: the way is whatever is involved for #yourdesktopenvironment
+2016-01-24 13:42:12	 < 	rgtk (~rgtk@ip-91.246.72.229.skyware.pl) has quit (Ping timeout: 248 seconds)
+2016-01-24 13:42:17	philr	Vainglory: (and while you're there, why not make those named constants rather than comments)
+2016-01-24 13:42:36	Vainglory	philr: https://en.wikipedia.org/wiki/Kilometer
+2016-01-24 13:42:44	 < 	szt (~szt@botters/szt) has quit (Ping timeout: 248 seconds)
+2016-01-24 13:42:50	Vainglory	'named constants rather than comments'?
+2016-01-24 13:42:54	ifohancroft	tos9 Do you mean it depends how the desktop environments handles keyboard input?
+2016-01-24 13:43:10	 < 	andreazevedo (~andreazev@c-98-248-38-45.hsd1.ca.comcast.net) has quit (Ping timeout: 256 seconds)
+2016-01-24 13:43:20	tos9	ifohancroft: Yes.
+2016-01-24 13:43:27	 > 	szt (~szt@botters/szt) has joined #python
+2016-01-24 13:43:51	 > 	zebulan (~zebulan@S010600e04da68c2e.cg.shawcable.net) has joined #python
+2016-01-24 13:44:44	 > 	Wild_Cat (~Wild_Cat@184-175-13-226.dsl.teksavvy.com) has joined #python
+2016-01-24 13:45:15	Vainglory	philr: what does that mean? 'named constants rather than comments'
+2016-01-24 13:45:39	 > 	schneider (bnrld@unaffiliated/schneider) has joined #python
+2016-01-24 13:46:23	 > 	kermit (~zip55413@pdpc/supporter/bronze/kermit) has joined #python
+2016-01-24 13:47:28	altendky	Vainglory: rather than something like `return 42 # the answer to life the universe and everything` you could do `the_answer_to_life_the_universe_and_everything = 42` and `return the_answer_to_life_the_universe_and_everything`  (note i didn't read your actual script)
+2016-01-24 13:47:48	Vainglory	altendky: not sure where that would apply
+2016-01-24 13:47:53	Vainglory	kind of why i asked
+2016-01-24 13:48:00	 < 	x2xx3x (~x2x@d83-187-160-169.cust.tele2.at) has quit (Quit: Bye !!! ;P)
+2016-01-24 13:48:13	tos9	ifohancroft: Yes.
+2016-01-24 13:48:21	tos9	Erm, sorry, mis-up-arrow.
+2016-01-24 13:48:24	 < 	nonny_t (~nonny_t@host-92-20-94-148.as13285.net) has quit
+2016-01-24 13:48:27	autrilla	Vainglory: split the main method up into more methods
+2016-01-24 13:48:31	altendky	Vainglory: you've got a bunch of numeric literals...
+2016-01-24 13:48:34	philr	Vainglory: You have comments at the top of the file with the conversion ratio between miles and kilometres.
+2016-01-24 13:48:41	 < 	tlab (~tlab@104.235.20.192) has quit (Ping timeout: 276 seconds)
+2016-01-24 13:48:44	Vainglory	philr: alright?
+2016-01-24 13:48:56	autrilla	philr: in this case most of them are fine
+2016-01-24 13:49:10	runciter	Vainglory: https://bitbucket.org/pride/sloth/src/8557c7be946a71ef70a3ae80d2439423f6c2b086/sloth/cardio.py?at=master&fileviewer=file-view-default#cardio.py-179
+2016-01-24 13:49:13	Vainglory	autrilla: into /more/?
+2016-01-24 13:49:20	philr	OK, I guess I have poor taste.  I'll see myself out.
+2016-01-24 13:49:20	 < 	amitprakash (~amitpraka@122.161.92.130) has quit (Read error: Connection reset by peer)
+2016-01-24 13:49:23	runciter	why would you put .62137 there
+2016-01-24 13:49:30	 > 	krobzaur (~Kyle@c-75-68-113-169.hsd1.nh.comcast.net) has joined #python
+2016-01-24 13:49:32	 < 	nidr0x (~z4.30i@nidr0x.ddns.jazztel.es) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2016-01-24 13:49:38	autrilla	Vainglory: yes, it's too long. It's hard to understand.
+2016-01-24 13:49:43	altendky	Vainglory: 1.609344, 60, 3, 42, 3600
+2016-01-24 13:49:44	runciter	why not put KM_TO_MILE
+2016-01-24 13:49:47	runciter	etc. etc.
+2016-01-24 13:49:49	Vainglory	runciter: because points are distributed using miles
+2016-01-24 13:50:00	 < 	stanreg (~stan_reg@69-165-206-5.cable.teksavvy.com) has quit (Quit: Leaving)
+2016-01-24 13:50:08	 < 	baweaver (~baweaver@2601:644:8201:2807:71c9:d99b:f015:6201) has quit (Remote host closed the connection)
+2016-01-24 13:50:08	runciter	of course, but it's dumb to put some unnamed numeric literal there
+2016-01-24 13:50:09	Vainglory	so if someone is using km, it needs to be converted to ensure points are given equally among the two
+2016-01-24 13:50:15	runciter	this is known as a magic number
+2016-01-24 13:50:29	tos9	Vainglory: Defining Exception.__init__ is not very nice, especially without calling super. You've also got a large number of conditionals, which is often a sign that you don't have enough objects. You're also assigning to random attributes of objects, which isn't typically a thing you should do.
+2016-01-24 13:50:36	autrilla	Vainglory: you should have a method used to convert between units
+2016-01-24 13:50:45	autrilla	well, more than one
+2016-01-24 13:51:01	 > 	umib0zu (~umib0zu@146-115-43-219.c3-0.abr-ubr1.sbo-abr.ma.cable.rcn.com) has joined #python
+2016-01-24 13:51:05	 < 	toli (~toli@ip-83-134-71-101.dsl.scarlet.be) has quit (Ping timeout: 246 seconds)
+2016-01-24 13:51:31	Vainglory	well, feel free to give a push request.
+2016-01-24 13:51:40	 > 	felipapo (~felipapo@nat-130-132-173-172.central.yale.edu) has joined #python
+2016-01-24 13:51:47	runciter	but you didn't ask for that
+2016-01-24 13:52:08	runciter	you asked if there was anything that could be changed, and now you know that there are some things
+2016-01-24 13:52:10	autrilla	runciter: I think def km_to_miles(km): return km * 1.6 is better than giving the magic number a name and multiplying every time
+2016-01-24 13:52:14	altendky	Vainglory: in did_i_get_points() you could shift to a dict something more akin to {'Run':3, 'Jog':10, 'Walk':15} (not exactly but create an association between the values and ranges)
+2016-01-24 13:52:16	runciter	autrilla: i agree
+2016-01-24 13:52:32	 > 	sinonick (~quassel@ppp091138144182.dsl.hol.gr) has joined #python
+2016-01-24 13:53:06	 < 	CircleS7en (~CircleSe7@207-229-179-207.c3-0.drb-ubr1.chi-drb.il.cable.rcn.com) has quit (Quit: Leaving)
+2016-01-24 13:53:07	runciter	autrilla: though i might even make a Distance object with conversion methods
+2016-01-24 13:53:10	 > 	lxiun (~bnrld@unaffiliated/schneider) has joined #python
+2016-01-24 13:53:18	Vainglory	well, i'll be in https://pad.riseup.net/p/G6fPKNJjlRZ6 if anyone wants to help
+2016-01-24 13:53:22	 > 	andreazevedo (~andreazev@c-98-248-38-45.hsd1.ca.comcast.net) has joined #python
+2016-01-24 13:53:44	 < 	alanwill (~alanwill@c-50-185-32-30.hsd1.ca.comcast.net) has quit (Quit: My machine has gone to sleep. ZZZzzz…)
+2016-01-24 13:53:56	 < 	baxx (~user@97e67e13.skybroadband.com) has quit (Ping timeout: 256 seconds)
+2016-01-24 13:54:18	 > 	wrmkh (~bnrld@unaffiliated/schneider) has joined #python
+2016-01-24 13:54:35	 < 	schneider (bnrld@unaffiliated/schneider) has quit (Ping timeout: 240 seconds)
+2016-01-24 13:54:51	jaziz	If someone PMs me a message and I'm not logged on to IRC, will it show once I come online?
+2016-01-24 13:55:07	runciter	jaziz: no, but on some servers you can leave a memo for someone
+2016-01-24 13:55:43	jaziz	runciter, Ah. That's not something implementable on a client?
+2016-01-24 13:55:54	runciter	jaziz: nope
+2016-01-24 13:56:01	jaziz	mmm
+2016-01-24 13:56:02	runciter	jaziz: indeed, how could it be?
+2016-01-24 13:56:15	runciter	jaziz: suppose you're client A and i'm client B, and we both use server S
+2016-01-24 13:56:15	jaziz	runciter, No idea haha
+2016-01-24 13:56:30	runciter	jaziz: i (B) send you (A) a message via (S) when we're both logged in
+2016-01-24 13:56:41	tos9	x/qui
+2016-01-24 13:56:46	jaziz	runciter, mhm
+2016-01-24 13:57:00	runciter	jaziz: if (B) send you (A) a message via (S), but you're not there, i (B) knows you're not there because (S) tells me you're not there
+2016-01-24 13:57:16	runciter	jaziz: you (A) aren't there, right?  so you surely can't know i tried to send you anything
+2016-01-24 13:57:24	 > 	toli (~toli@ip-83-134-71-71.dsl.scarlet.be) has joined #python
+2016-01-24 13:57:26	runciter	jaziz: the only parties that could know about the missed message are me (A) and the server (S)
+2016-01-24 13:57:35	 < 	lxiun (~bnrld@unaffiliated/schneider) has quit (Ping timeout: 245 seconds)
+2016-01-24 13:57:59	jaziz	runciter, but (A) is aware that (B) is not online, right?
+2016-01-24 13:58:23	runciter	jaziz: oh, i think you got them reversed
+2016-01-24 13:58:31	jaziz	runciter, yea haha
+2016-01-24 13:58:35	jaziz	runciter, vice versa, I mean
+2016-01-24 13:58:39	 < 	kumarat9pm (~surendra@220-244-12-79.static.tpgi.com.au) has quit (Ping timeout: 250 seconds)
+2016-01-24 13:58:54	jaziz	runciter, you might've gotten mixed up, too haha
+2016-01-24 13:58:56	 > 	xterm (~xterm@178.135.82.120) has joined #python
+2016-01-24 13:59:12	jaziz	runciter, But yeah, (B) is aware that (A) didn't receive the message, right?
+2016-01-24 13:59:15	runciter	jaziz: i did ;)
+2016-01-24 13:59:23	runciter	jaziz: yes -- it's possible that the client that sends the messages could store it
+2016-01-24 13:59:30	runciter	jaziz: but there are two problems with that
+2016-01-24 13:59:34	 < 	mathemancer (~mathemanc@185.22.183.197) has quit (Ping timeout: 250 seconds)
+2016-01-24 13:59:46	jaziz	runciter, what're those?
+2016-01-24 13:59:47	runciter	jaziz: one is, the client would have to know that the intended recipient is available
+2016-01-24 13:59:56	runciter	jaziz: i don't think IRC lets you do that super easily
+2016-01-24 14:00:01	 < 	s2013 (~textual@209.36.96.57) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 14:00:05	jaziz	runciter, really?
+2016-01-24 14:00:08	jaziz	runciter, seems simple enough
+2016-01-24 14:00:10	runciter	jaziz: you would have to try to send the message occassionally and see if it gets through or not
+2016-01-24 14:00:15	jaziz	runciter, yeah, like that
+2016-01-24 14:00:15	 > 	cnnx (~cizzi@MTRLPQ3401W-LP130-01-1176432826.dsl.bell.ca) has joined #python
+2016-01-24 14:00:23	cnnx	whats the best language to write a 2d game playable over a lan or the internet by 2 players? C, pyhton, something else? (on linux)
+2016-01-24 14:00:27	jaziz	runciter, like, not at spam rate, maybe like once every 5min
+2016-01-24 14:00:35	 > 	rrr (~chatzilla@180.169.44.50) has joined #python
+2016-01-24 14:00:38	runciter	jaziz: what if i'm only online for 4 minutes?
+2016-01-24 14:00:49	jaziz	runciter, haha
+2016-01-24 14:00:53	jaziz	runciter, that's rough
+2016-01-24 14:00:57	 < 	felipapo (~felipapo@nat-130-132-173-172.central.yale.edu) has quit (Quit: felipapo)
+2016-01-24 14:00:57	runciter	jaziz: it gets worse
+2016-01-24 14:01:00	jaziz	runciter, but at least the feature would be there
+2016-01-24 14:01:14	 > 	s2013 (~textual@209.36.96.57) has joined #python
+2016-01-24 14:01:21	 > 	mathemancer (~mathemanc@185.22.183.197) has joined #python
+2016-01-24 14:01:22	jaziz	runciter, and 9/10 times my 5min would start before you logged on haha
+2016-01-24 14:01:24	 < 	karstenk (~karstenk@p5DC1D31F.dip0.t-ipconnect.de) has quit (Ping timeout: 264 seconds)
+2016-01-24 14:01:30	runciter	jaziz: because it's not just that the other side would need to be online, it's that you too would need to be online
+2016-01-24 14:01:37	jaziz	runciter, well, yeah
+2016-01-24 14:01:45	runciter	jaziz: so you would need these things to sync up
+2016-01-24 14:01:55	runciter	jaziz: and you might be surprised how often they didn't
+2016-01-24 14:02:08	runciter	jaziz: there are things you could tune, but it's difficult to tune this just right -- that's why AIM introduce buddy lists
+2016-01-24 14:02:12	runciter	introduced*
+2016-01-24 14:02:24	runciter	jaziz: having said that, give it a shot
+2016-01-24 14:02:25	jaziz	runciter, AIM haha
+2016-01-24 14:02:35	jaziz	runciter, I haven't really started it yet :/
+2016-01-24 14:02:43	 > 	rclanan (~rclanan@1292288-054-v3981-static.fklninaa.metronetinc.net) has joined #python
+2016-01-24 14:02:49	jaziz	runciter, But definitely want to make it my first project
+2016-01-24 14:02:50	 > 	_jotbe (~jotbe@x55b13785.dyn.telefonica.de) has joined #python
+2016-01-24 14:02:58	runciter	jaziz: this is a super interesting thing experiment with, and learning how to debug it will teach you a lot
+2016-01-24 14:02:59	Pinkamena_D	is there an easy way to find if some datetime.date() is in the current month?
+2016-01-24 14:03:00	 < 	sssilver (~sssilver@cpe-70-112-245-224.austin.res.rr.com) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 14:03:20	jaziz	runciter, making an IRC client or this specific thing?
+2016-01-24 14:03:35	 < 	xterm (~xterm@178.135.82.120) has quit (Ping timeout: 265 seconds)
+2016-01-24 14:03:36	 < 	wrmkh (~bnrld@unaffiliated/schneider) has quit (Read error: Connection reset by peer)
+2016-01-24 14:03:42	runciter	Pinkamena_D: yourdate.month == datetime.date.today().month
+2016-01-24 14:03:52	runciter	jaziz: both!
+2016-01-24 14:03:59	 < 	elyob (~elyob@host86-143-228-240.range86-143.btcentralplus.com) has quit (Quit: My iMac has gone to sleep. ZZZzzz…)
+2016-01-24 14:04:00	jaziz	runciter, awesome haha
+2016-01-24 14:04:02	runciter	have at it!
+2016-01-24 14:04:03	Pinkamena_D	wow, so simple
+2016-01-24 14:04:06	jaziz	nice
+2016-01-24 14:04:08	 > 	schneider (~bnrld@unaffiliated/schneider) has joined #python
+2016-01-24 14:04:11	jaziz	Curious, though
+2016-01-24 14:04:16	jaziz	where should I start?
+2016-01-24 14:04:22	jaziz	google "how to make an IRC client?"
+2016-01-24 14:04:23	jaziz	haha
+2016-01-24 14:04:35	runciter	jaziz: just be prepared for this to not behave as you expect, and don't get discouraged.  instead, dig in and igure out how to debug problems
+2016-01-24 14:04:43	runciter	jaziz: https://bit.ly/ircbot
+2016-01-24 14:04:53	runciter	jaziz: that's an irc bot, but an irc bot is an automated irc client
+2016-01-24 14:05:07	 < 	Draecos (~Draecos@203-121-194-11.e-wire.net.au) has quit (Quit: This computer has gone to sleep)
+2016-01-24 14:05:12	jaziz	runciter, oh, interesting
+2016-01-24 14:05:19	runciter	jaziz: i advise you to think of this in terms of two things -- the user interface and the network interaction
+2016-01-24 14:05:19	jaziz	hm
+2016-01-24 14:05:47	jaziz	Will keep that in mind
+2016-01-24 14:05:50	runciter	jaziz: you can start on either one -- i'd get used to twisted's irc client stuff a bit, then i'd work out an interface that wasn't hooked up to anything
+2016-01-24 14:05:51	 > 	amitprakash (~amitpraka@122.161.92.130) has joined #python
+2016-01-24 14:05:57	runciter	jaziz: then as soon as possible i'd tie the two together
+2016-01-24 14:06:01	 > 	aglenday (~aglenday@115.187.243.41) has joined #python
+2016-01-24 14:06:17	runciter	jaziz: and with manhole, you could edit the client as it was running
+2016-01-24 14:06:22	 < 	s2013 (~textual@209.36.96.57) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 14:06:24	 < 	jotbe (~jotbe@f054077011.adsl.alicedsl.de) has quit (Ping timeout: 256 seconds)
+2016-01-24 14:06:27	runciter	this is a fun way to develop thing
+2016-01-24 14:06:28	runciter	s
+2016-01-24 14:06:33	runciter	anyway, sky's the limit!
+2016-01-24 14:06:40	jaziz	haha nice
+2016-01-24 14:06:43	jaziz	wait, what is "this?"
+2016-01-24 14:06:45	 > 	s2013 (~textual@209.36.96.57) has joined #python
+2016-01-24 14:06:57	jaziz	oh, network interaction & UI?
+2016-01-24 14:07:08	 > 	MinusGix (~MinusGix@184.53.32.40) has joined #python
+2016-01-24 14:07:31	 > 	bq_ (~chatzilla@45.55.25.22) has joined #python
+2016-01-24 14:07:32	runciter	jaziz: being able to edit the code of an application you're running
+2016-01-24 14:07:35	 < 	rclanan (~rclanan@1292288-054-v3981-static.fklninaa.metronetinc.net) has quit (Ping timeout: 260 seconds)
+2016-01-24 14:07:41	jaziz	ohh yeah
+2016-01-24 14:07:43	jaziz	that sounds cool
+2016-01-24 14:07:47	jaziz	will make note of this "manhole"
+2016-01-24 14:07:47	runciter	python doesn't really allow for hot code reloading, but you can hook a repl up to a python process
+2016-01-24 14:08:27	 > 	nidr0x (~z4.30i@nidr0x.ddns.jazztel.es) has joined #python
+2016-01-24 14:08:37	 < 	rrr (~chatzilla@180.169.44.50) has quit (Ping timeout: 250 seconds)
+2016-01-24 14:08:40	jaziz	what's a repl?
+2016-01-24 14:08:47	 - 	bq_ is now known as rrr
+2016-01-24 14:08:53	runciter	jaziz: https://en.wikipedia.org/wiki/REPL
+2016-01-24 14:09:00	 > 	neoncontrails (~neoncontr@76-196-233-65.lightspeed.sndgca.sbcglobal.net) has joined #python
+2016-01-24 14:09:43	 < 	Debnet (Marc@2a01:e35:2e9c:d7f0:2dd7:cca6:67a:919a) has quit (Read error: Connection reset by peer)
+2016-01-24 14:09:50	 > 	scottschecter (~scottsche@c-76-115-234-122.hsd1.or.comcast.net) has joined #python
+2016-01-24 14:10:15	 < 	cyborg-one (~cyborg-on@130-0-58-226.broadband.tenet.odessa.ua) has quit (Quit: cyborg-one)
+2016-01-24 14:10:35	 > 	raccoon_ops (~raccoon_o@99-16-98-161.lightspeed.snrsca.sbcglobal.net) has joined #python
+2016-01-24 14:10:40	jaziz	runciter, nice
+2016-01-24 14:10:40	jaziz	thanks
+2016-01-24 14:10:48	jaziz	exciting stuff
+2016-01-24 14:10:52	jaziz	just made my "project" folder
+2016-01-24 14:11:02	jaziz	gonna have to earn that (s) on the end of that word haha
+2016-01-24 14:12:18	 > 	tobinski_ (~tobinski@x2f5498e.dyn.telefonica.de) has joined #python
+2016-01-24 14:13:33	 > 	eb0t (~ebot@unaffiliated/eblip) has joined #python
+2016-01-24 14:14:16	 < 	AfroThundr (~AfroThund@2601:147:c001:6667:9c20:ccd0:104e:ae4a) has quit (Ping timeout: 240 seconds)
+2016-01-24 14:14:47	 < 	umib0zu (~umib0zu@146-115-43-219.c3-0.abr-ubr1.sbo-abr.ma.cable.rcn.com) has quit (Quit: umib0zu)
+2016-01-24 14:15:46	 < 	WindChimes (~WindChime@vpn-user-248-186.nomadic.bris.ac.uk) has quit (Ping timeout: 240 seconds)
+2016-01-24 14:15:48	 > 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 14:15:59	 < 	tobinski___ (~tobinski@x2f5c479.dyn.telefonica.de) has quit (Ping timeout: 250 seconds)
+2016-01-24 14:16:30	 < 	gelignite (~gelignite@f049181011.adsl.alicedsl.de) has quit (Read error: Connection reset by peer)
+2016-01-24 14:17:29	 < 	raccoon_ops (~raccoon_o@99-16-98-161.lightspeed.snrsca.sbcglobal.net) has quit (Quit: raccoon_ops)
+2016-01-24 14:18:02	 < 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 272 seconds)
+2016-01-24 14:18:05	 < 	hutch34 (~hutch34@66.231.152.24) has quit (Ping timeout: 265 seconds)
+2016-01-24 14:18:12	 < 	fscala (~fscala@unaffiliated/fscala) has quit (Ping timeout: 250 seconds)
+2016-01-24 14:18:51	 < 	flex (~flex@dslb-094-223-082-024.094.223.pools.vodafone-ip.de) has quit (Ping timeout: 245 seconds)
+2016-01-24 14:19:39	 > 	fscala (~fscala@unaffiliated/fscala) has joined #python
+2016-01-24 14:19:49	 < 	Maxed (~Maxed@pool-68-132-142-44.nycmny.fios.verizon.net) has quit
+2016-01-24 14:20:14	 > 	DrCFrankenstein (~DrCFranke@unaffiliated/drcfrankenstein) has joined #python
+2016-01-24 14:20:14	 > 	ritlew (~Thunderbi@2601:406:300:3000:1c74:b899:15b5:a854) has joined #python
+2016-01-24 14:20:15	 < 	hunter (~thm@96.90.203.81) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 14:21:14	 > 	AfroThundr (~AfroThund@mobile-166-171-059-179.mycingular.net) has joined #python
+2016-01-24 14:21:15	 < 	AfroThundr (~AfroThund@mobile-166-171-059-179.mycingular.net) has quit (Max SendQ exceeded)
+2016-01-24 14:21:32	 > 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has joined #python
+2016-01-24 14:21:45	 < 	YP-HW7 (~YP-Win10@bcdc71d0.skybroadband.com) has quit (Read error: Connection reset by peer)
+2016-01-24 14:22:01	 > 	enterprisey (~enterpris@wikipedia/APerson) has joined #python
+2016-01-24 14:22:04	 < 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has quit (Max SendQ exceeded)
+2016-01-24 14:22:47	 > 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has joined #python
+2016-01-24 14:23:19	 < 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has quit (Max SendQ exceeded)
+2016-01-24 14:23:57	 < 	nidr0x (~z4.30i@nidr0x.ddns.jazztel.es) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 14:24:00	 < 	seeit (~seeit@cpe-24-28-155-131.satx.res.rr.com) has quit (Remote host closed the connection)
+2016-01-24 14:24:05	 > 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has joined #python
+2016-01-24 14:24:18	 < 	HTT-Bird (~HTT-Bird@unaffiliated/htt-bird) has quit (Read error: Connection reset by peer)
+2016-01-24 14:24:44	 < 	evansde77 (~evansde77@c-71-201-249-102.hsd1.il.comcast.net) has quit (Remote host closed the connection)
+2016-01-24 14:25:00	 < 	Pinkamena_D (~Pinkamena@c-69-136-96-66.hsd1.nj.comcast.net) has quit (Ping timeout: 272 seconds)
+2016-01-24 14:25:07	 < 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has quit (Max SendQ exceeded)
+2016-01-24 14:25:47	 > 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has joined #python
+2016-01-24 14:25:48	 > 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 14:26:48	 < 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has quit (Max SendQ exceeded)
+2016-01-24 14:27:02	 < 	doza (~doza@cpe-69-203-216-154.nyc.res.rr.com) has quit (Ping timeout: 276 seconds)
+2016-01-24 14:27:22	 < 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 256 seconds)
+2016-01-24 14:27:32	 > 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has joined #python
+2016-01-24 14:27:47	 > 	dlitvak (~dlitvak@186.134.13.60) has joined #python
+2016-01-24 14:27:58	 > 	Pinkamena_D (~Pinkamena@c-69-136-96-66.hsd1.nj.comcast.net) has joined #python
+2016-01-24 14:28:58	 < 	alarmmm (~alarmmm@cpe-65-190-48-161.nc.res.rr.com) has quit (Remote host closed the connection)
+2016-01-24 14:29:05	 > 	felipapo (~felipapo@nat-130-132-173-172.central.yale.edu) has joined #python
+2016-01-24 14:30:01	 < 	c0ncealed (~c0ncealed@unaffiliated/c0ncealed) has quit (Remote host closed the connection)
+2016-01-24 14:31:01	 < 	felipapo (~felipapo@nat-130-132-173-172.central.yale.edu) has quit (Client Quit)
+2016-01-24 14:31:16	 > 	c0ncealed (~c0ncealed@unaffiliated/c0ncealed) has joined #python
+2016-01-24 14:32:17	 < 	mattallmill (~mattallmi@ip68-103-129-112.ks.ok.cox.net) has quit (Quit: Konversation terminated!)
+2016-01-24 14:34:44	 < 	jabagawee (~jabagawee@unaffiliated/jabagawee) has quit (Ping timeout: 256 seconds)
+2016-01-24 14:34:45	 > 	DeafKids (~DeafKids@unaffiliated/frozenpigs) has joined #python
+2016-01-24 14:35:06	 < 	frostschutz (~frostschu@x2f68e8b.dyn.telefonica.de) has quit (Ping timeout: 240 seconds)
+2016-01-24 14:35:25	 > 	frostschutz (~frostschu@x2f69e90.dyn.telefonica.de) has joined #python
+2016-01-24 14:35:52	 < 	donspaulding (~donspauld@98.215.46.106) has quit (Remote host closed the connection)
+2016-01-24 14:36:06	 > 	jteneyck (~jteneyck@unaffiliated/josephteneyck) has joined #python
+2016-01-24 14:36:43	 > 	donspaulding (~donspauld@98.215.46.106) has joined #python
+2016-01-24 14:37:28	 > 	msjche_ (~msjche@gateway/vpn/privateinternetaccess/msjche) has joined #python
+2016-01-24 14:38:07	 > 	Barun (~Barun@117.211.90.154) has joined #python
+2016-01-24 14:38:19	 < 	msjche (~msjche@unaffiliated/msjche) has quit (Ping timeout: 272 seconds)
+2016-01-24 14:38:28	 < 	mandeep (~mandeep@2602:306:3013:d610:2903:faf5:d4e1:df69) has quit (Remote host closed the connection)
+2016-01-24 14:39:00	 > 	speaklanguages (d92a7aba@gateway/web/freenode/ip.217.42.122.186) has joined #python
+2016-01-24 14:39:26	 > 	Ascender (~CoolRever@cpe-76-188-21-40.neo.res.rr.com) has joined #python
+2016-01-24 14:39:44	 > 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 14:39:44	Ascender	hey all, any Clevelanders?
+2016-01-24 14:40:00	DiCablo	NYC here :p
+2016-01-24 14:40:13	 > 	PovAddict (~nicolas@kde/nalvarez) has joined #python
+2016-01-24 14:40:25	offby1	DiCablo: how much snow are you under?
+2016-01-24 14:40:27	Ascender	can always count on someone from the big apple representing
+2016-01-24 14:40:34	 > 	mandeep (~mandeep@2602:306:3013:d610:a0fa:1f05:d29f:3443) has joined #python
+2016-01-24 14:40:45	DiCablo	where i am its about 20 inches
+2016-01-24 14:40:56	Ascender	jesus
+2016-01-24 14:41:14	Ascender	Boss is like "Do you own a snow mobile???"
+2016-01-24 14:41:22	DiCablo	just finished cleaning my driveway and backyard xD
+2016-01-24 14:41:36	 < 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 240 seconds)
+2016-01-24 14:41:45	 < 	juiko (~user@190.162.146.18) has quit (Remote host closed the connection)
+2016-01-24 14:41:47	PovAddict	meanwhile I have 22°C
+2016-01-24 14:41:50	offby1	maybe I'm a dummy, but 20 inches doesn't sound like a lot, for an area that regularly gets snow
+2016-01-24 14:41:58	 < 	jteneyck (~jteneyck@unaffiliated/josephteneyck) has quit (Remote host closed the connection)
+2016-01-24 14:42:07	Ascender	yeah now that I think about it you're right
+2016-01-24 14:42:09	 > 	jteneyck (~jteneyck@unaffiliated/josephteneyck) has joined #python
+2016-01-24 14:42:17	Ascender	"20" just makes it seem like a lot
+2016-01-24 14:42:20	TarVanimelde	Probably a lot for one night...
+2016-01-24 14:42:25	 > 	virtualvoid (~virtualvo@unaffiliated/virtualvoid) has joined #python
+2016-01-24 14:42:31	offby1	TarVanimelde: fair enoug
+2016-01-24 14:42:32	offby1	h
+2016-01-24 14:42:47	 > 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 14:42:55	 < 	LiberalPepper (~Anxious@130.225.244.206) has quit (Ping timeout: 240 seconds)
+2016-01-24 14:43:09	DiCablo	its not that bad
+2016-01-24 14:43:16	DiCablo	just that wind is annoying xD
+2016-01-24 14:43:38	 < 	eb0t (~ebot@unaffiliated/eblip) has quit (Read error: Connection reset by peer)
+2016-01-24 14:44:12	DiCablo	PovAddict you lucky chap XD
+2016-01-24 14:44:36	 < 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 264 seconds)
+2016-01-24 14:44:39	 < 	virtualvoid (~virtualvo@unaffiliated/virtualvoid) has quit (Client Quit)
+2016-01-24 14:44:40	 < 	donspaulding (~donspauld@98.215.46.106) has quit (Ping timeout: 265 seconds)
+2016-01-24 14:44:58	Ascender	i wanna feel and see the seasons
+2016-01-24 14:45:13	 > 	ryanisnan (~ryanisnan@50.68.17.35) has joined #python
+2016-01-24 14:47:10	 < 	efco (uid56060@gateway/web/irccloud.com/x-txhdwzhmkuyauzza) has quit (Quit: Connection closed for inactivity)
+2016-01-24 14:47:57	 > 	howdoi (uid224@gateway/web/irccloud.com/x-ntsyivznkldmxevy) has joined #python
+2016-01-24 14:48:34	 < 	ryanisnan (~ryanisnan@50.68.17.35) has quit (Client Quit)
+2016-01-24 14:48:49	 < 	rrr (~chatzilla@45.55.25.22) has quit (Remote host closed the connection)
+2016-01-24 14:48:52	 < 	saschpe (~saschpe@opensuse/member/saschpe) has quit (Ping timeout: 248 seconds)
+2016-01-24 14:50:46	 > 	bsharitt (~bsharitt@69.150.96.144) has joined #python
+2016-01-24 14:50:58	 > 	Raynes (~macro@unaffiliated/raynes) has joined #python
+2016-01-24 14:51:01	 > 	jamesp9 (~pinkbits@59.167.114.37) has joined #python
+2016-01-24 14:51:07	 > 	rrr (~chatzilla@45.55.25.22) has joined #python
+2016-01-24 14:51:22	 > 	saschpe (~saschpe@opensuse/member/saschpe) has joined #python
+2016-01-24 14:51:34	 > 	elbo22 (~iefk@unaffiliated/elbo22) has joined #python
+2016-01-24 14:52:06	Raynes	Hey guys. I've been hacking Python for ages and was just taken aback a bit by a bit of syntax in Python source code that I can't figure out for the life of me what it's doing, nor can my also-Pythonista roommie. Particularly, this line: https://github.com/python/cpython/blob/master/Lib/asyncio/queues.py#L41
+2016-01-24 14:52:14	Raynes	What on earth is that asterisk doing there?
+2016-01-24 14:52:21	PovAddict	o.o
+2016-01-24 14:52:23	PovAddict	that's news to me too
+2016-01-24 14:52:34	Raynes	I've been trying to figure it out in a repl but dis isn't helping
+2016-01-24 14:52:38	Raynes	It's like it's not even there.
+2016-01-24 14:52:40	PovAddict	I mean
+2016-01-24 14:52:43	Raynes	I don't get it and it's bothering me lol
+2016-01-24 14:52:46	PovAddict	*foo means get all other arguments into a list
+2016-01-24 14:52:52	PovAddict	but an asterisk alone with no arg name?
+2016-01-24 14:53:03	Raynes	oYeah
+2016-01-24 14:53:13	Raynes	That's what's blowing my mind.
+2016-01-24 14:53:18	_habnabit	Raynes, it means 'every argument after this can only be specified by name'
+2016-01-24 14:53:31	Raynes	Oh thank goodness
+2016-01-24 14:53:35	 > 	kumarat9pm (~surendra@220-244-12-79.static.tpgi.com.au) has joined #python
+2016-01-24 14:53:43	PovAddict	how intuitive XD
+2016-01-24 14:53:44	Raynes	Somebody who knows Python other than Guido.
+2016-01-24 14:53:51	 < 	jlems (~quassel@wireless1x-155-41-102-60.bu.edu) has quit (Ping timeout: 245 seconds)
+2016-01-24 14:54:00	_habnabit	PovAddict, this is programming; 'intuitive' doesn't apply
+2016-01-24 14:54:05	Raynes	hehe
+2016-01-24 14:54:06	PovAddict	indeed
+2016-01-24 14:54:09	Raynes	I just can't find docs on this at all
+2016-01-24 14:54:18	PovAddict	the only intuitive user interface is the nipple, everything else is learned
+2016-01-24 14:54:19	agronholm	where have you looked?
+2016-01-24 14:54:23	Raynes	But admittedly I decided to come here pretty quickly when I started digging into the spec.
+2016-01-24 14:54:31	 < 	frostschutz (~frostschu@x2f69e90.dyn.telefonica.de) has quit (Remote host closed the connection)
+2016-01-24 14:54:32	PovAddict	Raynes: "pydoc3 def" has it
+2016-01-24 14:54:33	_habnabit	Raynes, https://www.python.org/dev/peps/pep-0457/
+2016-01-24 14:54:46	 < 	Brozo (~Brozo@71-35-99-238.tukw.qwest.net) has quit (Quit: Leaving...)
+2016-01-24 14:54:52	_habnabit	oops, wrong one
+2016-01-24 14:54:56	Raynes	pydoc3 is a thing? My goodness.
+2016-01-24 14:55:00	_habnabit	https://www.python.org/dev/peps/pep-3102/
+2016-01-24 14:55:24	 < 	notdaniel (~notdaniel@162-231-196-159.lightspeed.irvnca.sbcglobal.net) has quit (Quit: Bye!)
+2016-01-24 14:55:44	 > 	umib0zu (~umib0zu@146-115-43-219.c3-0.abr-ubr1.sbo-abr.ma.cable.rcn.com) has joined #python
+2016-01-24 14:56:12	 < 	weemsledeux (~textual@unaffiliated/weems) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 14:56:16	 < 	orly_owl (~david@unaffiliated/orly-owl/x-3167833) has quit (Ping timeout: 265 seconds)
+2016-01-24 14:57:11	 > 	heyts (~Thomas@ool-435232a1.dyn.optonline.net) has joined #python
+2016-01-24 14:57:13	 > 	le4fy (~le4fy@c-68-80-109-83.hsd1.pa.comcast.net) has joined #python
+2016-01-24 14:57:31	 < 	enterprisey (~enterpris@wikipedia/APerson) has quit (Remote host closed the connection)
+2016-01-24 14:57:36	Raynes	Thanks guys, you've been super helpful. It was bugging the heck out of me.
+2016-01-24 14:58:14	 > 	voidpirate (~voidpirat@ip68-4-69-217.oc.oc.cox.net) has joined #python
+2016-01-24 14:58:31	 < 	umib0zu (~umib0zu@146-115-43-219.c3-0.abr-ubr1.sbo-abr.ma.cable.rcn.com) has quit (Client Quit)
+2016-01-24 14:58:51	 < 	kadoban (~mud@unaffiliated/kadoban) has quit (Ping timeout: 245 seconds)
+2016-01-24 14:59:52	 < 	cssko (~cssko@cpe-24-209-203-159.cinci.res.rr.com) has quit (Read error: Connection reset by peer)
+2016-01-24 15:01:04	 > 	bshritt (~bsharitt@69.150.96.144) has joined #python
+2016-01-24 15:01:13	 < 	bsharitt (~bsharitt@69.150.96.144) has quit (Quit: Leaving)
+2016-01-24 15:01:21	 < 	bshritt (~bsharitt@69.150.96.144) has quit (Client Quit)
+2016-01-24 15:01:27	 < 	DeafKids (~DeafKids@unaffiliated/frozenpigs) has quit (Quit: Kernel Panic)
+2016-01-24 15:02:26	 < 	Montezuma (~trevor@HULLPQ2038W-LP130-02-3467426399.dial.bell.ca) has quit (Quit: Leaving)
+2016-01-24 15:02:27	 < 	lompik (lompik@unaffiliated/lompik) has quit (Quit: WeeChat 1.3)
+2016-01-24 15:02:29	 > 	bsharitt (~bsharitt@69.150.96.144) has joined #python
+2016-01-24 15:03:13	 < 	bsharitt (~bsharitt@69.150.96.144) has quit (Client Quit)
+2016-01-24 15:03:15	 < 	Ariel_Calzada (~aricalso@181.55.239.20) has quit (Quit: Leaving.)
+2016-01-24 15:03:40	 > 	rclanan (~rclanan@1292288-054-v3981-static.fklninaa.metronetinc.net) has joined #python
+2016-01-24 15:03:55	 > 	forgottenone (~forgotten@176.233.98.196) has joined #python
+2016-01-24 15:04:06	 < 	Pinkamena_D (~Pinkamena@c-69-136-96-66.hsd1.nj.comcast.net) has quit (Ping timeout: 240 seconds)
+2016-01-24 15:05:27	 > 	umib0zu (~umib0zu@146-115-43-219.c3-0.abr-ubr1.sbo-abr.ma.cable.rcn.com) has joined #python
+2016-01-24 15:05:41	 < 	braincrash (~braincras@bl4-130-198.dsl.telepac.pt) has quit (Quit: bye bye)
+2016-01-24 15:06:02	 > 	Hoffman (~Hoffman@unaffiliated/hoffman) has joined #python
+2016-01-24 15:06:18	 < 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has quit (Read error: Connection reset by peer)
+2016-01-24 15:06:54	 < 	umib0zu (~umib0zu@146-115-43-219.c3-0.abr-ubr1.sbo-abr.ma.cable.rcn.com) has quit (Client Quit)
+2016-01-24 15:08:38	 < 	rclanan (~rclanan@1292288-054-v3981-static.fklninaa.metronetinc.net) has quit (Ping timeout: 276 seconds)
+2016-01-24 15:08:48	 > 	duncannz (~duncannz@118-93-5-72.dsl.dyn.ihug.co.nz) has joined #python
+2016-01-24 15:09:13	 > 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has joined #python
+2016-01-24 15:09:18	 < 	Reflex|UORage (~reflex@c-73-168-89-28.hsd1.in.comcast.net) has quit (Ping timeout: 256 seconds)
+2016-01-24 15:09:33	 > 	DLSteve (~DLSteve@c-73-239-22-33.hsd1.wa.comcast.net) has joined #python
+2016-01-24 15:09:38	 > 	the_rat (~the_rat@2a02:8109:8380:3e8c:f44f:31e5:b8bb:9e4) has joined #python
+2016-01-24 15:09:42	 < 	Burrito (~Burrito@unaffiliated/burrito) has quit (Quit: Leaving)
+2016-01-24 15:10:15	 < 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has quit (Read error: Connection reset by peer)
+2016-01-24 15:11:42	 > 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has joined #python
+2016-01-24 15:12:56	 < 	aglenday (~aglenday@115.187.243.41) has quit (Ping timeout: 272 seconds)
+2016-01-24 15:14:13	 > 	malinoff (~malinoff@unaffiliated/malinoff) has joined #python
+2016-01-24 15:14:16	 < 	the_rat (~the_rat@2a02:8109:8380:3e8c:f44f:31e5:b8bb:9e4) has quit (Ping timeout: 245 seconds)
+2016-01-24 15:14:24	 < 	govg (~govg@unaffiliated/govg) has quit (Ping timeout: 256 seconds)
+2016-01-24 15:15:18	 > 	alanwill (~alanwill@c-50-185-32-30.hsd1.ca.comcast.net) has joined #python
+2016-01-24 15:15:33	 > 	Draecos (~Draecos@203-121-194-11.e-wire.net.au) has joined #python
+2016-01-24 15:15:34	 > 	govg (~govg@unaffiliated/govg) has joined #python
+2016-01-24 15:16:56	 > 	braincrash (~braincras@81.193.129.224) has joined #python
+2016-01-24 15:17:19	 < 	Seppy (~SilentPen@unaffiliated/silentpenguin) has quit (Remote host closed the connection)
+2016-01-24 15:19:15	 < 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has quit (Read error: Connection reset by peer)
+2016-01-24 15:19:32	 > 	lompik (lompik@unaffiliated/lompik) has joined #python
+2016-01-24 15:19:46	 > 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has joined #python
+2016-01-24 15:20:03	 < 	cnnx (~cizzi@MTRLPQ3401W-LP130-01-1176432826.dsl.bell.ca) has quit (Quit: Lost terminal)
+2016-01-24 15:20:06	 < 	andreazevedo (~andreazev@c-98-248-38-45.hsd1.ca.comcast.net) has quit (Ping timeout: 245 seconds)
+2016-01-24 15:20:34	 > 	skift (~skift@unaffiliated/skift) has joined #python
+2016-01-24 15:20:39	 < 	al-damiri (~manzoor@unaffiliated/al-damiri) has quit (Ping timeout: 256 seconds)
+2016-01-24 15:20:45	 < 	Soaked (~Soaked@unaffiliated/soaked) has quit (Read error: Connection reset by peer)
+2016-01-24 15:20:54	 > 	flex (~flex@dslb-094-223-082-024.094.223.pools.vodafone-ip.de) has joined #python
+2016-01-24 15:21:06	 < 	obihann (~jhann@DRMONS0544W-142167140144.dhcp-dynamic.FibreOp.ns.bellaliant.net) has quit (Ping timeout: 260 seconds)
+2016-01-24 15:21:14	 > 	telboon (~telboon@unaffiliated/telboon) has joined #python
+2016-01-24 15:21:15	 < 	skift (~skift@unaffiliated/skift) has quit (Client Quit)
+2016-01-24 15:21:38	 < 	grekkos (~gmcquilla@64.187.160.122) has quit (Ping timeout: 276 seconds)
+2016-01-24 15:21:41	semvoz	hello, I am using Python 3 (3.5.1), and I have a script which has a list with a lot of values, I wanted to know what is the best way to store that list? Should I serialize it and load it when the script start or any other solution?
+2016-01-24 15:22:16	 > 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 15:22:34	tos9	semvoz: What's wrong with it as-is?
+2016-01-24 15:23:30	semvoz	let's say my text editor is struggling each time I open that file..
+2016-01-24 15:23:36	 < 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 264 seconds)
+2016-01-24 15:24:56	malinoff	semvoz: switch to a better editor
+2016-01-24 15:25:05	 > 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 15:25:11	 > 	johnkevinmbasco (~johnkevin@112.208.135.193) has joined #python
+2016-01-24 15:25:50	 > 	seeit (~seeit@2605:6000:6308:2000:44b3:d576:3896:ef54) has joined #python
+2016-01-24 15:25:53	semvoz	also I would prefer to keep it more like a configuration thing, not really a plain variable with 1000+ values
+2016-01-24 15:26:21	 > 	AkashicLegend_ (~AkashicLe@unaffiliated/akashiclegend) has joined #python
+2016-01-24 15:26:42	speaklanguages	why not store the data in a database?
+2016-01-24 15:26:50	 < 	govg (~govg@unaffiliated/govg) has quit (Ping timeout: 276 seconds)
+2016-01-24 15:27:10	 < 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 245 seconds)
+2016-01-24 15:27:21	semvoz	database would be overkill?
+2016-01-24 15:27:36	_habnabit	semvoz, what's 'overkill' mean?
+2016-01-24 15:27:40	malinoff	semvoz: configuration that contains 1000+ values doesn't sound very convenient.
+2016-01-24 15:27:45	speaklanguages	an alternative could be in a separate text file
+2016-01-24 15:27:47	 > 	obihann (~jhann@DRMONS0544W-142167140144.dhcp-dynamic.FibreOp.ns.bellaliant.net) has joined #python
+2016-01-24 15:27:52	_habnabit	semvoz, how often do you edit this?
+2016-01-24 15:27:54	PovAddict	you have so many values that your text editor dies, but a database is overkill?
+2016-01-24 15:27:55	 > 	d4rkforce (~darkforce@pdpc/supporter/student/d4rkforce) has joined #python
+2016-01-24 15:28:03	malinoff	semvoz: what's the purpose of these values?
+2016-01-24 15:28:08	 < 	AkashicLegend (~AkashicLe@unaffiliated/akashiclegend) has quit (Ping timeout: 276 seconds)
+2016-01-24 15:28:09	 - 	AkashicLegend_ is now known as AkashicLegend
+2016-01-24 15:28:19	semvoz	I do not edit it often at all
+2016-01-24 15:28:33	semvoz	the goal is basically to allow the user to provide a value, and check it against that list
+2016-01-24 15:28:40	_habnabit	semvoz, how about sqlite?
+2016-01-24 15:29:10	 < 	dlitvak (~dlitvak@186.134.13.60) has quit (Read error: Connection reset by peer)
+2016-01-24 15:29:38	 > 	Tophat (~Tophat@unaffiliated/tophat) has joined #python
+2016-01-24 15:29:58	semvoz	hmm, I am not really excited by adding a database just for one table and deal with sql just to check if my value is in it either
+2016-01-24 15:30:07	semvoz	might go with a text file, or json list
+2016-01-24 15:30:20	_habnabit	semvoz, except that you said your editor is having trouble
+2016-01-24 15:30:20	 < 	amitprakash (~amitpraka@122.161.92.130) has quit (Remote host closed the connection)
+2016-01-24 15:30:35	_habnabit	semvoz, sqlite means you don't have to have the whole thing displayed at once
+2016-01-24 15:30:40	 > 	thedangler (~thedangle@CPE68b6fcf41be3-CM68b6fcf41be0.cpe.net.cable.rogers.com) has joined #python
+2016-01-24 15:30:43	PovAddict	semvoz: http://qdb.us/81458
+2016-01-24 15:30:55	 > 	ofaem (bnrld@unaffiliated/schneider) has joined #python
+2016-01-24 15:31:17	Tophat	Would someone mind helping me with a script to replace the $VALUES in a text file with inputs entered by the end user?  https://bpaste.net/show/57e170cedd31
+2016-01-24 15:31:23	 < 	d4rkforc1 (~darkforce@pdpc/supporter/student/d4rkforce) has quit (Ping timeout: 276 seconds)
+2016-01-24 15:32:04	 < 	sdothum (~sdothum@108.63.133.5) has quit (Quit: ZNC - 1.6.0 - http://znc.in)
+2016-01-24 15:32:06	thedangler	hello, using the requests lib how can I print out the request that was sent to the server? i tried doing response.request.data but its says its None but im uploading something to a server and its working except it for one piece.
+2016-01-24 15:32:11	semvoz	I will have a look into the sqlite option if takes too long, thank you for your suggestions!
+2016-01-24 15:32:52	_habnabit	Tophat, use a template engine like mako
+2016-01-24 15:33:06	_habnabit	thedangler, is this for debugging?
+2016-01-24 15:33:25	jaziz	Is there something like // that records the ceiling of the quotient?
+2016-01-24 15:33:38	_habnabit	jaziz, no
+2016-01-24 15:33:38	thedangler	im trying to debug something yes
+2016-01-24 15:33:43	_habnabit	thedangler, then use wireshark or mitmproxy
+2016-01-24 15:33:44	jaziz	_habnabit, :(
+2016-01-24 15:33:48	 < 	schneider (~bnrld@unaffiliated/schneider) has quit (Ping timeout: 264 seconds)
+2016-01-24 15:33:54	KirkMcDonald	jaziz: No. math.ceil is probably the closest thing.
+2016-01-24 15:33:59	thedangler	im making the upload why would I do that
+2016-01-24 15:34:01	_habnabit	only for floats though
+2016-01-24 15:34:04	jaziz	gotcha
+2016-01-24 15:34:11	_habnabit	thedangler, so you can debug it...?
+2016-01-24 15:34:35	KirkMcDonald	jaziz: You can also use divmod, and add 1 if the modulus is nonzero.
+2016-01-24 15:34:48	Tophat	_habnabit: mako?
+2016-01-24 15:34:52	_habnabit	Tophat, mako
+2016-01-24 15:35:00	jaziz	KirkMcDonald, is divmod the %?
+2016-01-24 15:35:03	Tophat	uh-oh better get mako
+2016-01-24 15:35:07	KirkMcDonald	jaziz: divmod() is a builtin function.
+2016-01-24 15:35:13	KirkMcDonald	jaziz: It does // and % at the same time.
+2016-01-24 15:35:18	jaziz	KirkMcDonald, ahh gotcha
+2016-01-24 15:35:19	jaziz	ooooohh
+2016-01-24 15:35:22	_habnabit	oh, i remember the other way to do this
+2016-01-24 15:35:30	_habnabit	((x - 1) // y) + 1
+2016-01-24 15:35:38	jaziz	whoahoooo that's cool
+2016-01-24 15:35:51	jaziz	wow
+2016-01-24 15:35:55	jaziz	what a useful function
+2016-01-24 15:36:29	 < 	johnkevinmbasco (~johnkevin@112.208.135.193) has quit
+2016-01-24 15:36:42	 < 	rrr (~chatzilla@45.55.25.22) has quit (Remote host closed the connection)
+2016-01-24 15:38:16	jaziz	_habnabit, why the -1?
+2016-01-24 15:38:27	ssbr_at_work	'cause - 1
+2016-01-24 15:38:32	ssbr_at_work	er, 'cause + 1
+2016-01-24 15:38:45	 > 	rrr (~chatzilla@45.55.25.22) has joined #python
+2016-01-24 15:38:48	 > 	rgtk (~rgtk@ip-91.246.72.229.skyware.pl) has joined #python
+2016-01-24 15:38:52	ssbr_at_work	I assume he's moving rounding to the other side or something
+2016-01-24 15:38:58	ssbr_at_work	for ceiling instead of floor
+2016-01-24 15:39:11	jaziz	yeah, but why do you have to do -1 at all if you're doing ceiling?
+2016-01-24 15:39:33	jaziz	wouldn't the ceiling just be that result plus one? (unless it were a whole number)
+2016-01-24 15:39:53	_habnabit	jaziz, yes, that's the edge case
+2016-01-24 15:40:09	Tophat	_habnabit: sorry - mako is a bit of a confusion - will read up on how to use templates.  Thank you.
+2016-01-24 15:40:22	 < 	kylls (~kylls_@unaffiliated/kylls) has quit (Ping timeout: 272 seconds)
+2016-01-24 15:40:39	jaziz	_habnabit, oh haha
+2016-01-24 15:40:39	jaziz	nice
+2016-01-24 15:40:52	ssbr_at_work	I literally don't understand it, but I'm tired.
+2016-01-24 15:41:13	jaziz	ssbr_at_work, also, I've been wondering for months now--does the first part of your nick mean "super smash bros?"
+2016-01-24 15:41:25	 > 	theWhisperIn_ (~quassel@24.41.154.60) has joined #python
+2016-01-24 15:41:29	 > 	poincare101 (~dhaivat@65.112.10.159) has joined #python
+2016-01-24 15:41:30	ssbr_at_work	jaziz: no, it's a contraction of an old nick
+2016-01-24 15:41:36	 > 	donspaulding (~donspauld@98.215.46.106) has joined #python
+2016-01-24 15:41:37	jaziz	ssbr_at_work, aw
+2016-01-24 15:41:38	ssbr_at_work	I'm thinking of switching to "devinj" or something though
+2016-01-24 15:41:51	jaziz	Thought you'd been playing smash at work all this time
+2016-01-24 15:41:52	ssbr_at_work	jaziz: if they release super smash bros revenge, I am so screwed for internet nicks
+2016-01-24 15:41:58	jaziz	hahaha
+2016-01-24 15:42:38	 < 	wordsToL_ (~wordsToLi@gateway/vpn/privateinternetaccess/wordstoliveby) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2016-01-24 15:42:40	 < 	jackcom (~jack@unaffiliated/jackcom) has left #python
+2016-01-24 15:42:41	 > 	govg (~govg@unaffiliated/govg) has joined #python
+2016-01-24 15:42:57	 < 	kumarat9pm (~surendra@220-244-12-79.static.tpgi.com.au) has quit (Remote host closed the connection)
+2016-01-24 15:43:08	 < 	ensyde (~ensyde@2606:a000:64cf:3000:f820:53c1:7d44:87e6) has quit (Quit: Leaving)
+2016-01-24 15:43:16	 < 	rgtk (~rgtk@ip-91.246.72.229.skyware.pl) has quit (Ping timeout: 248 seconds)
+2016-01-24 15:43:19	 < 	rrr (~chatzilla@45.55.25.22) has quit (Remote host closed the connection)
+2016-01-24 15:43:26	poincare101	Hi everyone. Quick question about numpy. If I have a row vector v = v = np.array([[1,2]]), then why does v * v.T not return the dot product (and returns a 2x2 matrix instead)?
+2016-01-24 15:44:04	 > 	doza (~doza@cpe-69-203-216-154.nyc.res.rr.com) has joined #python
+2016-01-24 15:44:40	 > 	strayArchie (~strayArch@c-67-188-87-144.hsd1.ca.comcast.net) has joined #python
+2016-01-24 15:44:55	 > 	rrr (~chatzilla@45.55.25.22) has joined #python
+2016-01-24 15:44:58	 < 	sofly (uid114192@gateway/web/irccloud.com/x-oeflcobboevinmko) has quit (Quit: Connection closed for inactivity)
+2016-01-24 15:45:48	 > 	WindChimes (~WindChime@vpn-user-248-186.nomadic.bris.ac.uk) has joined #python
+2016-01-24 15:45:49	 < 	DrCharlesT (~DrCharles@184-91-100-100.res.bhn.net) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 15:46:10	 < 	donspaulding (~donspauld@98.215.46.106) has quit (Ping timeout: 250 seconds)
+2016-01-24 15:46:30	 < 	SobanVuex (~SobanVuex@135-23-200-133.cpe.pppoe.ca) has quit (Quit: Leaving)
+2016-01-24 15:47:22	 < 	jteneyck (~jteneyck@unaffiliated/josephteneyck) has quit (Remote host closed the connection)
+2016-01-24 15:47:28	ssbr_at_work	poincare101: x.dot(x.T)
+2016-01-24 15:47:39	 < 	PovAddict (~nicolas@kde/nalvarez) has left #python ("Konversation terminated!")
+2016-01-24 15:47:51	poincare101	ssbr_at_work: But my goal is to write something like this: v * sigma * v.transpose()
+2016-01-24 15:47:59	poincare101	ssbr_at_work: And I can't understand why that thing doesn't work
+2016-01-24 15:47:59	 > 	fearnothing (~nothing@unaffiliated/fearnothing) has joined #python
+2016-01-24 15:48:06	ssbr_at_work	poincare101: because * isn't the dot product
+2016-01-24 15:48:20	poincare101	ssbr_at_work: but sigma is a matrix in the above example (a 13x13 matrix)
+2016-01-24 15:48:30	ssbr_at_work	poincare101: a matrix, or an array?
+2016-01-24 15:48:34	ssbr_at_work	use dot anyway
+2016-01-24 15:48:48	poincare101	ssbr_at_work: so would that look like this: v.dot(sigma.dot(v.T))?
+2016-01-24 15:49:45	ssbr_at_work	poincare101: I think so.
+2016-01-24 15:50:31	 < 	WindChimes (~WindChime@vpn-user-248-186.nomadic.bris.ac.uk) has quit (Ping timeout: 245 seconds)
+2016-01-24 15:50:37	 > 	baweaver (~baweaver@c-24-4-24-160.hsd1.ca.comcast.net) has joined #python
+2016-01-24 15:51:00	 > 	sssilver (~sssilver@cpe-70-112-245-224.austin.res.rr.com) has joined #python
+2016-01-24 15:51:15	 < 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has quit (Read error: Connection reset by peer)
+2016-01-24 15:51:27	 > 	glocked (~Blake@167.160.116.182) has joined #python
+2016-01-24 15:51:42	 > 	dheerajchand (~dheerajch@108-73-0-23.lightspeed.austtx.sbcglobal.net) has joined #python
+2016-01-24 15:52:07	 > 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has joined #python
+2016-01-24 15:52:20	 < 	rrr (~chatzilla@45.55.25.22) has quit (Remote host closed the connection)
+2016-01-24 15:53:14	 > 	rrr (~chatzilla@45.55.25.22) has joined #python
+2016-01-24 15:53:37	 < 	andrew9183 (~greenfree@38.88.246.186) has quit (Quit: andrew9183)
+2016-01-24 15:54:56	 < 	TyrfingMjolnir (~Tyrfing@94.89-10-104.nextgentel.com) has quit (Ping timeout: 272 seconds)
+2016-01-24 15:55:26	 < 	Wild_Cat (~Wild_Cat@184-175-13-226.dsl.teksavvy.com) has quit (Ping timeout: 276 seconds)
+2016-01-24 15:56:44	 < 	blackwind_123 (~IceChat9@103.62.68.137) has quit (Ping timeout: 276 seconds)
+2016-01-24 15:56:50	 < 	rrr (~chatzilla@45.55.25.22) has quit (Remote host closed the connection)
+2016-01-24 15:56:54	 < 	baweaver (~baweaver@c-24-4-24-160.hsd1.ca.comcast.net) has quit (Ping timeout: 256 seconds)
+2016-01-24 15:56:55	 > 	bobsterman (ca24b369@gateway/web/cgi-irc/kiwiirc.com/ip.202.36.179.105) has joined #python
+2016-01-24 15:57:54	papna	poincare101: (Or, sometimes nice to reduce confusion, use np.einsum)
+2016-01-24 15:58:10	poincare101	papna: what does that do?
+2016-01-24 15:59:17	papna	poincare101: It lets you use the Einsein summmation convetion instead of thinking of the tensors in terms of abstract algebraic operators.
+2016-01-24 15:59:31	 < 	JamesNZ (~JamesNZ@fedora/JamesNZ) has quit (Quit: Leaving)
+2016-01-24 15:59:35	 < 	Barun (~Barun@117.211.90.154) has quit (Ping timeout: 260 seconds)
+2016-01-24 15:59:45	 > 	xterm (~xterm@178.135.82.120) has joined #python
+2016-01-24 15:59:46	 < 	localuser- (~quassel@unaffiliated/localuser-) has quit (Remote host closed the connection)
+2016-01-24 15:59:57	ssbr_at_work	well someone here is a real engineer
+2016-01-24 16:00:20	papna	poincare101: You just indicate by repeating an index name which you want to sum along
+2016-01-24 16:00:42	papna	poincare101: If you're not familiar with the convention, it might not be so helpful to you :)
+2016-01-24 16:00:46	papna	ssbr_at_work: I wish
+2016-01-24 16:01:19	poincare101	papna: Ah, I am not familiar but seems straightforward. You basically specify the index and then multiply using that index.
+2016-01-24 16:01:23	Ascender	my iq is clearly too low for this conversation
+2016-01-24 16:01:30	Ascender	the conversation i wasn't invited to
+2016-01-24 16:01:35	Ascender	the conversation i've just abruptly interrupted
+2016-01-24 16:01:37	Ascender	that conversation
+2016-01-24 16:01:38	Ascender	that one
+2016-01-24 16:01:40	Ascender	right there
+2016-01-24 16:01:53	bobsterman	scraping a website using requests, but some of the urls are broken, what should be http://lmywebsite.com/view.php?id=926&section=1, is http://learn.canterbury.ac.nz/course/view.php?id=926§ion=1 instead. Where is this rogue § symbol coming from?
+2016-01-24 16:01:57	ssbr_at_work	Ascender: we get it. we get the joke.
+2016-01-24 16:02:01	 > 	rrr (~chatzilla@45.55.25.22) has joined #python
+2016-01-24 16:02:09	Ascender	do you REALLY though?
+2016-01-24 16:02:33	bobsterman	shit, forgot to scrub the second url haha
+2016-01-24 16:02:47	 < 	rrr (~chatzilla@45.55.25.22) has quit (Remote host closed the connection)
+2016-01-24 16:02:47	 < 	Gentilhomme (~cao@unaffiliated/gentilhomme) has quit (Read error: Connection reset by peer)
+2016-01-24 16:02:56	 < 	kkeuning (~textual@c-98-253-165-107.hsd1.il.comcast.net) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 16:03:24	 < 	forgottenone (~forgotten@176.233.98.196) has quit (Quit: Konversation terminated!)
+2016-01-24 16:03:28	 > 	Gentilhomme (~cao@unaffiliated/gentilhomme) has joined #python
+2016-01-24 16:03:36	papna	bobsterman: You got the URL from another webpage linking this webpage?
+2016-01-24 16:03:36	 > 	rrr (~chatzilla@45.55.25.22) has joined #python
+2016-01-24 16:03:56	 > 	zidhuss (~zidhuss@unaffiliated/zidhuss) has joined #python
+2016-01-24 16:04:10	papna	bobsterman: A bad HTML parser might be mistaking &sect for &sect; :)
+2016-01-24 16:04:20	 > 	sgfltx2 (~sgflt@p54B5A2DA.dip0.t-ipconnect.de) has joined #python
+2016-01-24 16:04:22	 < 	xterm (~xterm@178.135.82.120) has quit (Ping timeout: 250 seconds)
+2016-01-24 16:04:25	bobsterman	no, first link from chrome dev tools, second link is from requests
+2016-01-24 16:04:27	bobsterman	yea
+2016-01-24 16:04:40	 > 	rclanan (~rclanan@1292288-054-v3981-static.fklninaa.metronetinc.net) has joined #python
+2016-01-24 16:04:56	bobsterman	ignore the second url, thats me forgetting to scrub personal info lol
+2016-01-24 16:04:59	papna	bobsterman: How does a link come from requests?
+2016-01-24 16:05:07	papna	bobsterman: How did you really get it?
+2016-01-24 16:05:26	papna	bobsterman: Pastebin your code and output
+2016-01-24 16:05:41	 < 	tristianc (~tristianc@pool-100-36-92-89.washdc.fios.verizon.net) has quit (Quit: Konversation terminated!)
+2016-01-24 16:06:01	bobsterman	requests to download the whole webpage
+2016-01-24 16:06:27	papna	bobsterman: This doesn't add clarity. You got the URL that you are feeding to requests somehow -- how?
+2016-01-24 16:06:46	bobsterman	oh, the url into requests is just a string
+2016-01-24 16:06:59	papna	bobsterman: How precisely is the problem being observed?
+2016-01-24 16:07:07	papna	bobsterman: Pastebin real code and real output
+2016-01-24 16:07:08	 > 	AcTiVaTe (~activate@195-241-203-245.ip.telfort.nl) has joined #python
+2016-01-24 16:07:21	 < 	staticshock (~anton@c-98-248-37-219.hsd1.ca.comcast.net) has quit (Ping timeout: 250 seconds)
+2016-01-24 16:07:27	bobsterman	but the html returned from requests.get() is fine, except links like the ones above have a werid § symbol
+2016-01-24 16:07:47	 < 	sgfltx (~sgflt@p4FDF212A.dip0.t-ipconnect.de) has quit (Ping timeout: 276 seconds)
+2016-01-24 16:08:01	 < 	seanp2k (~seanp2k@69.53.232.0) has quit (Quit: seanp2k)
+2016-01-24 16:08:02	papna	bobsterman: But how are you observing or accessing the HTML?
+2016-01-24 16:08:04	papna	bobsterman: https://en.wikipedia.org/wiki/Show,_don't_tell
+2016-01-24 16:08:14	 < 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has quit (Read error: Connection reset by peer)
+2016-01-24 16:08:39	 > 	lili (uid79385@gateway/web/irccloud.com/x-mtuskezbfgvuejac) has joined #python
+2016-01-24 16:08:51	bobsterman	in the pycharm terminal
+2016-01-24 16:08:58	 < 	thedangler (~thedangle@CPE68b6fcf41be3-CM68b6fcf41be0.cpe.net.cable.rogers.com) has quit (Quit: zzzzzzz)
+2016-01-24 16:09:02	bobsterman	ill get a paste up
+2016-01-24 16:09:44	 < 	rclanan (~rclanan@1292288-054-v3981-static.fklninaa.metronetinc.net) has quit (Ping timeout: 276 seconds)
+2016-01-24 16:09:51	 > 	tristianc (~tristianc@pool-100-36-92-89.washdc.fios.verizon.net) has joined #python
+2016-01-24 16:10:28	 > 	quetzakubica (~quetzacot@89-66-216-112.dynamic.chello.pl) has joined #python
+2016-01-24 16:10:36	 > 	Pinkamena_D (~Pinkamena@c-69-136-96-66.hsd1.nj.comcast.net) has joined #python
+2016-01-24 16:10:38	 > 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has joined #python
+2016-01-24 16:10:53	 > 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 16:11:02	 < 	DiCablo (~DiCablo@unaffiliated/dicablo) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2016-01-24 16:11:36	 < 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 240 seconds)
+2016-01-24 16:12:25	bobsterman	papna: https://bpaste.net/show/3ad9cd22d516
+2016-01-24 16:13:24	 > 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 16:13:42	 < 	glocked (~Blake@167.160.116.182) has quit (Quit: WeeChat 1.3)
+2016-01-24 16:13:45	 > 	lordarkmemo (~memo@186.81.220.97) has joined #python
+2016-01-24 16:14:29	bobsterman	expected: http://example.com/view.php?id=926&section=1        but get this instead: http://example.com/view.php?id=926§ion=1
+2016-01-24 16:14:33	papna	bobsterman: BeautifulSoup isn't very good. The website is probably also broken. It's ending up that &sect is being mistaken for the HTML entity &sect;
+2016-01-24 16:14:58	bobsterman	the error happens before it goes into beautiful soup though
+2016-01-24 16:15:41	bobsterman	i think you might be right by thinking its &sect
+2016-01-24 16:16:02	 < 	NomadJim (~NomadJim@pdpc/supporter/active/nomadjim) has quit (Quit: Leaving)
+2016-01-24 16:16:14	 < 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 276 seconds)
+2016-01-24 16:16:50	papna	bobsterman: You can use stream=True and .raw.read() to get the data as bytes, if you think requests itself is doing it
+2016-01-24 16:16:59	 < 	Draecos (~Draecos@203-121-194-11.e-wire.net.au) has quit (Quit: This computer has gone to sleep)
+2016-01-24 16:17:05	lordarkmemo	i have python 2.7 by default (2.7.9 debian 8), and wanna get the latest version.  what is the best and efficient way to manage package and version of python.  anacond, pip, etc
+2016-01-24 16:17:13	papna	bobsterman: So far I haven't seen complete code and corresponding, illustrative output, so it's hard for me really to know what you're seeing
+2016-01-24 16:17:26	 > 	wlemuel (~lemuel@180.156.198.67) has joined #python
+2016-01-24 16:18:11	 - 	McKraken is now known as McKraken_zzzzz
+2016-01-24 16:18:27	 > 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 16:18:57	bobsterman	papna, yea, im sure i have isolated the problem to requests.get(url), the rest of code is just for scraping, which i dont thin will help you
+2016-01-24 16:18:58	 > 	shyn (~shyn@unaffiliated/shyn) has joined #python
+2016-01-24 16:18:59	 < 	altendky (uid135382@gateway/web/irccloud.com/x-ffmdzogwewufrqym) has quit (Quit: Connection closed for inactivity)
+2016-01-24 16:19:33	 < 	s2013 (~textual@209.36.96.57) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 16:19:34	 > 	XYEaQMZJvS (~qqq@99-54-41-187.lightspeed.snjsca.sbcglobal.net) has joined #python
+2016-01-24 16:19:50	 < 	AkashicLegend (~AkashicLe@unaffiliated/akashiclegend) has quit (Quit: AkashicLegend)
+2016-01-24 16:20:10	 < 	DLSteve (~DLSteve@c-73-239-22-33.hsd1.wa.comcast.net) has quit (Quit: All rise, the honorable DLSteve has left the channel.)
+2016-01-24 16:20:22	 < 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 265 seconds)
+2016-01-24 16:20:38	 > 	ddsl (~ddsl@5.167.89.149) has joined #python
+2016-01-24 16:21:16	 > 	HappyKatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has joined #python
+2016-01-24 16:21:38	 < 	wlemuel (~lemuel@180.156.198.67) has quit (Quit: leaving)
+2016-01-24 16:23:00	 < 	happyCatt (~happyKatt@rrcs-173-196-13-26.west.biz.rr.com) has quit (Ping timeout: 264 seconds)
+2016-01-24 16:25:08	 > 	evansde77 (~evansde77@c-71-201-249-102.hsd1.il.comcast.net) has joined #python
+2016-01-24 16:25:55	 < 	rrr (~chatzilla@45.55.25.22) has quit (Remote host closed the connection)
+2016-01-24 16:25:57	 > 	raccoon_ops (~raccoon_o@99-16-98-161.lightspeed.snrsca.sbcglobal.net) has joined #python
+2016-01-24 16:26:52	 > 	rrr (~chatzilla@45.55.25.22) has joined #python
+2016-01-24 16:26:56	 < 	hiptobecubic (~john@unaffiliated/hiptobecubic) has quit (Ping timeout: 256 seconds)
+2016-01-24 16:27:17	 < 	Wutata (~Wutata@a91-154-155-92.elisa-laajakaista.fi) has quit (Ping timeout: 276 seconds)
+2016-01-24 16:27:54	 > 	tiwula (~lane@74-81-251-156.static.logl001.digis.net) has joined #python
+2016-01-24 16:28:22	 < 	d3v (~asdf@182.48.232.11) has quit (Read error: Connection reset by peer)
+2016-01-24 16:28:55	 > 	umib0zu (~umib0zu@146-115-43-219.c3-0.abr-ubr1.sbo-abr.ma.cable.rcn.com) has joined #python
+2016-01-24 16:29:36	 < 	doc_chicken (~doc_chick@unaffiliated/doc-chicken/x-3391747) has quit (Remote host closed the connection)
+2016-01-24 16:29:53	 < 	evansde77 (~evansde77@c-71-201-249-102.hsd1.il.comcast.net) has quit (Ping timeout: 276 seconds)
+2016-01-24 16:30:46	 < 	sssilver (~sssilver@cpe-70-112-245-224.austin.res.rr.com) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-01-24 16:30:59	 > 	QF-MichaelK (~mystic-ho@unaffiliated/qf-michaelk) has joined #python
+2016-01-24 16:31:02	 > 	dlitvak (~dlitvak@186.134.13.60) has joined #python
+2016-01-24 16:31:12	 > 	sssilver (~sssilver@cpe-70-112-245-224.austin.res.rr.com) has joined #python
+2016-01-24 16:31:40	 > 	jcdesimp (~jcdesimp@pool-108-20-236-233.bstnma.fios.verizon.net) has joined #python
+2016-01-24 16:32:22	 < 	Tophat (~Tophat@unaffiliated/tophat) has quit (Quit: Tophat)
+2016-01-24 16:33:59	 > 	AkashicLegend (~AkashicLe@unaffiliated/akashiclegend) has joined #python
+2016-01-24 16:34:06	 < 	AkashicLegend (~AkashicLe@unaffiliated/akashiclegend) has quit (Client Quit)
+2016-01-24 16:34:29	 - 	irc: disconnected from server

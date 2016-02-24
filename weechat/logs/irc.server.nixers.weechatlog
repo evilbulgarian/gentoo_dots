@@ -1,0 +1,38 @@
+2016-01-20 22:36:16	 - 	irc: connecting to server irc.nixers.net/6697 (SSL)...
+2016-01-20 22:36:18	 - 	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-01-20 22:36:18	 - 	gnutls: receiving 2 certificates
+2016-01-20 22:36:18	 - 	 - certificate[1] info:
+2016-01-20 22:36:18	 - 	   - subject `C=NO,CN=irc.unix.chat,EMAIL=hostmaster@unix.chat', issuer `C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Class 1 Primary Intermediate Server CA', RSA key 2048 bits, signed using RSA-SHA256, activated `2015-09-03 23:24:42 UTC', expires `2016-09-03 02:08:01 UTC', SHA-1 fingerprint `421f6bf27af857a513db7dabea04bf9e5cb3d831'
+2016-01-20 22:36:18	 - 	 - certificate[2] info:
+2016-01-20 22:36:18	 - 	   - subject `C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Class 1 Primary Intermediate Server CA', issuer `C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Certification Authority', RSA key 2048 bits, signed using RSA-SHA256, activated `2007-10-14 20:54:17 UTC', expires `2022-10-14 20:54:17 UTC', SHA-1 fingerprint `0ad38a30abc0f0b605b45c727a90819e7ff9daf4'
+2016-01-20 22:36:18	 !!! 	gnutls: the hostname in the certificate does NOT match "irc.nixers.net"
+2016-01-20 22:36:18	 - 	gnutls: peer's certificate is trusted
+2016-01-20 22:36:18	 !!! 	irc: TLS handshake failed
+2016-01-20 22:36:18	 !!! 	irc: error: Error in the certificate.
+2016-01-20 22:36:18	 - 	irc: reconnecting to server in 10 seconds
+2016-01-20 22:36:28	 - 	irc: reconnecting to server...
+2016-01-20 22:36:28	 - 	irc: connecting to server irc.nixers.net/6697 (SSL)...
+2016-01-20 22:36:29	 - 	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-01-20 22:36:29	 - 	gnutls: receiving 2 certificates
+2016-01-20 22:36:29	 - 	 - certificate[1] info:
+2016-01-20 22:36:29	 - 	   - subject `C=NO,CN=irc.unix.chat,EMAIL=hostmaster@unix.chat', issuer `C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Class 1 Primary Intermediate Server CA', RSA key 2048 bits, signed using RSA-SHA256, activated `2015-09-03 23:24:42 UTC', expires `2016-09-03 02:08:01 UTC', SHA-1 fingerprint `421f6bf27af857a513db7dabea04bf9e5cb3d831'
+2016-01-20 22:36:29	 - 	 - certificate[2] info:
+2016-01-20 22:36:29	 - 	   - subject `C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Class 1 Primary Intermediate Server CA', issuer `C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Certification Authority', RSA key 2048 bits, signed using RSA-SHA256, activated `2007-10-14 20:54:17 UTC', expires `2022-10-14 20:54:17 UTC', SHA-1 fingerprint `0ad38a30abc0f0b605b45c727a90819e7ff9daf4'
+2016-01-20 22:36:29	 !!! 	gnutls: the hostname in the certificate does NOT match "irc.nixers.net"
+2016-01-20 22:36:29	 - 	gnutls: peer's certificate is trusted
+2016-01-20 22:36:29	 !!! 	irc: TLS handshake failed
+2016-01-20 22:36:29	 !!! 	irc: error: Error in the certificate.
+2016-01-20 22:36:29	 - 	irc: reconnecting to server in 20 seconds
+2016-01-20 22:36:49	 - 	irc: reconnecting to server...
+2016-01-20 22:36:49	 - 	irc: connecting to server irc.nixers.net/6697 (SSL)...
+2016-01-20 22:36:50	 - 	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-01-20 22:36:50	 - 	gnutls: receiving 2 certificates
+2016-01-20 22:36:50	 - 	 - certificate[1] info:
+2016-01-20 22:36:50	 - 	   - subject `C=NO,CN=irc.unix.chat,EMAIL=hostmaster@unix.chat', issuer `C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Class 1 Primary Intermediate Server CA', RSA key 2048 bits, signed using RSA-SHA256, activated `2015-09-03 23:24:42 UTC', expires `2016-09-03 02:08:01 UTC', SHA-1 fingerprint `421f6bf27af857a513db7dabea04bf9e5cb3d831'
+2016-01-20 22:36:50	 - 	 - certificate[2] info:
+2016-01-20 22:36:50	 - 	   - subject `C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Class 1 Primary Intermediate Server CA', issuer `C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Certification Authority', RSA key 2048 bits, signed using RSA-SHA256, activated `2007-10-14 20:54:17 UTC', expires `2022-10-14 20:54:17 UTC', SHA-1 fingerprint `0ad38a30abc0f0b605b45c727a90819e7ff9daf4'
+2016-01-20 22:36:50	 !!! 	gnutls: the hostname in the certificate does NOT match "irc.nixers.net"
+2016-01-20 22:36:50	 - 	gnutls: peer's certificate is trusted
+2016-01-20 22:36:50	 !!! 	irc: TLS handshake failed
+2016-01-20 22:36:50	 !!! 	irc: error: Error in the certificate.
+2016-01-20 22:36:50	 - 	irc: reconnecting to server in 40 seconds

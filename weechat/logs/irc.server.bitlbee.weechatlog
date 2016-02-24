@@ -1,0 +1,2018 @@
+2016-01-21 00:10:28	 - 	irc: connecting to server localhost/6667...
+2016-01-21 00:10:28	 - 	irc: connected to localhost/6667 (::1)
+2016-01-21 00:10:28	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-01-21 00:10:28	 - 	Welcome to the BitlBee gateway, fsociety
+2016-01-21 00:10:28	 - 	Host localhost is running BitlBee 3.4.1 Linux/x86_64.
+2016-01-21 00:10:28	 - 	BitlBee <http://www.bitlbee.org/>
+2016-01-21 00:10:28	 - 	localhost 3.4.1 abiswRo ntC
+2016-01-21 00:10:28	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-01-21 00:10:28	 - 	- localhost Message Of The Day -
+2016-01-21 00:10:28	 - 	- Welcome to the BitlBee server at localhost.
+2016-01-21 00:10:28	 - 	-
+2016-01-21 00:10:28	 - 	- This server is running BitlBee version 3.4.1.
+2016-01-21 00:10:28	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-01-21 00:10:28	 - 	-
+2016-01-21 00:10:28	 - 	- You are getting this message because the server administrator has not
+2016-01-21 00:10:28	 - 	- yet had the time (or need) to change it.
+2016-01-21 00:10:28	 - 	-
+2016-01-21 00:10:28	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-01-21 00:10:28	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-01-21 00:10:28	 - 	- information.
+2016-01-21 00:10:28	 - 	-
+2016-01-21 00:10:28	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-01-21 00:10:28	 - 	- -- BitlBee development team.
+2016-01-21 00:10:28	 - 	-
+2016-01-21 00:10:28	 - 	- ... Buzzing, haha, get it?
+2016-01-21 00:10:28	 - 	End of MOTD
+2016-01-21 00:10:28	 - 	User mode [+s] by fsociety
+2016-01-21 00:10:55	 - 	User mode [+R] by fsociety
+2016-01-21 07:31:17	 - 	irc: disconnected from server
+2016-01-21 11:08:34	 - 	irc: connecting to server localhost/6667...
+2016-01-21 11:08:34	 - 	irc: connected to localhost/6667 (::1)
+2016-01-21 11:08:34	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-01-21 11:08:34	 - 	Welcome to the BitlBee gateway, fsociety
+2016-01-21 11:08:34	 - 	Host localhost is running BitlBee 3.4.1 Linux/x86_64.
+2016-01-21 11:08:34	 - 	BitlBee <http://www.bitlbee.org/>
+2016-01-21 11:08:34	 - 	localhost 3.4.1 abiswRo ntC
+2016-01-21 11:08:34	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-01-21 11:08:34	 - 	- localhost Message Of The Day -
+2016-01-21 11:08:34	 - 	- Welcome to the BitlBee server at localhost.
+2016-01-21 11:08:34	 - 	-
+2016-01-21 11:08:34	 - 	- This server is running BitlBee version 3.4.1.
+2016-01-21 11:08:34	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-01-21 11:08:34	 - 	-
+2016-01-21 11:08:34	 - 	- You are getting this message because the server administrator has not
+2016-01-21 11:08:34	 - 	- yet had the time (or need) to change it.
+2016-01-21 11:08:34	 - 	-
+2016-01-21 11:08:34	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-01-21 11:08:34	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-01-21 11:08:34	 - 	- information.
+2016-01-21 11:08:34	 - 	-
+2016-01-21 11:08:34	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-01-21 11:08:34	 - 	- -- BitlBee development team.
+2016-01-21 11:08:34	 - 	-
+2016-01-21 11:08:34	 - 	- ... Buzzing, haha, get it?
+2016-01-21 11:08:34	 - 	End of MOTD
+2016-01-21 11:08:34	 - 	User mode [+s] by fsociety
+2016-01-21 11:08:38	 - 	User mode [+R] by fsociety
+2016-01-21 18:11:56	 - 	irc: disconnected from server
+2016-02-08 14:25:49	 - 	irc: connecting to server localhost/6667...
+2016-02-08 14:25:49	 - 	irc: connected to localhost/6667 (::1)
+2016-02-08 14:25:49	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-08 14:25:49	 - 	Welcome to the BitlBee gateway, fsociety
+2016-02-08 14:25:49	 - 	Host localhost is running BitlBee 3.4.1 Linux/x86_64.
+2016-02-08 14:25:49	 - 	BitlBee <http://www.bitlbee.org/>
+2016-02-08 14:25:49	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-08 14:25:49	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-08 14:25:49	 - 	- localhost Message Of The Day -
+2016-02-08 14:25:49	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-08 14:25:49	 - 	-
+2016-02-08 14:25:49	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-08 14:25:49	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-08 14:25:49	 - 	-
+2016-02-08 14:25:49	 - 	- You are getting this message because the server administrator has not
+2016-02-08 14:25:49	 - 	- yet had the time (or need) to change it.
+2016-02-08 14:25:49	 - 	-
+2016-02-08 14:25:49	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-08 14:25:49	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-08 14:25:49	 - 	- information.
+2016-02-08 14:25:49	 - 	-
+2016-02-08 14:25:49	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-08 14:25:49	 - 	- -- BitlBee development team.
+2016-02-08 14:25:49	 - 	-
+2016-02-08 14:25:49	 - 	- ... Buzzing, haha, get it?
+2016-02-08 14:25:49	 - 	End of MOTD
+2016-02-08 14:25:49	 - 	User mode [+s] by fsociety
+2016-02-08 14:25:54	 - 	User mode [+R] by fsociety
+2016-02-09 15:56:59	 !!! 	Closing link: BitlBee server shutting down
+2016-02-09 15:56:59	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-09 15:56:59	 - 	irc: disconnecting from server...
+2016-02-09 15:56:59	 - 	irc: disconnected from server
+2016-02-09 15:56:59	 - 	irc: reconnecting to server in 10 seconds
+2016-02-09 15:57:00	 - 	irc: disconnected from server
+2016-02-18 11:04:48	 - 	irc: connecting to server localhost/6667...
+2016-02-18 11:04:48		[11:04]
+2016-02-18 11:04:48	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 11:04:48	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 11:04:48	 - 	Welcome to the BitlBee gateway, fsociety
+2016-02-18 11:04:48	 - 	Host localhost is running BitlBee 3.4.1 Linux/x86_64.
+2016-02-18 11:04:48	 - 	BitlBee <http://www.bitlbee.org/>
+2016-02-18 11:04:48	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 11:04:48	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 11:04:48	 - 	- localhost Message Of The Day -
+2016-02-18 11:04:48	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 11:04:48	 - 	-
+2016-02-18 11:04:48	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 11:04:48	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 11:04:48	 - 	-
+2016-02-18 11:04:48	 - 	- You are getting this message because the server administrator has not
+2016-02-18 11:04:48	 - 	- yet had the time (or need) to change it.
+2016-02-18 11:04:48	 - 	-
+2016-02-18 11:04:48	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 11:04:48	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 11:04:48	 - 	- information.
+2016-02-18 11:04:48	 - 	-
+2016-02-18 11:04:48	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 11:04:48	 - 	- -- BitlBee development team.
+2016-02-18 11:04:48	 - 	-
+2016-02-18 11:04:48	 - 	- ... Buzzing, haha, get it?
+2016-02-18 11:04:48	 - 	End of MOTD
+2016-02-18 11:04:48	 - 	User mode [+s] by fsociety
+2016-02-18 11:05:06	 - 	User mode [+R] by fsociety
+2016-02-18 11:11:00		[11:05]
+2016-02-18 11:31:50	 - 	irc: disconnected from server
+2016-02-18 11:31:50		[11:31]
+2016-02-18 11:32:09	 - 	irc: connecting to server localhost/6667...
+2016-02-18 11:32:09		[11:32]
+2016-02-18 11:32:09	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 11:32:09	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 11:32:09	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 11:32:09	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 11:32:09	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 11:32:09	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 11:32:09	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 11:32:09	 - 	- localhost Message Of The Day -
+2016-02-18 11:32:09	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 11:32:09	 - 	-
+2016-02-18 11:32:09	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 11:32:09	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 11:32:09	 - 	-
+2016-02-18 11:32:09	 - 	- You are getting this message because the server administrator has not
+2016-02-18 11:32:09	 - 	- yet had the time (or need) to change it.
+2016-02-18 11:32:09	 - 	-
+2016-02-18 11:32:09	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 11:32:09	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 11:32:09	 - 	- information.
+2016-02-18 11:32:09	 - 	-
+2016-02-18 11:32:09	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 11:32:09	 - 	- -- BitlBee development team.
+2016-02-18 11:32:09	 - 	-
+2016-02-18 11:32:09	 - 	- ... Buzzing, haha, get it?
+2016-02-18 11:32:09	 - 	End of MOTD
+2016-02-18 11:32:09	 - 	User mode [+s] by fsociety
+2016-02-18 11:32:12	 - 	User mode [+R] by fsociety
+2016-02-18 11:38:00		[11:32]
+2016-02-18 13:02:43	 !!! 	irc: this buffer is not a channel!
+2016-02-18 13:02:43		[13:02]
+2016-02-18 13:03:58	 - 	[NicholasB] is away: Offline
+2016-02-18 13:09:00		[13:03]
+2016-02-18 13:20:12	 - 	irc: disconnected from server
+2016-02-18 13:32:39	 - 	irc: connecting to server localhost/6667...
+2016-02-18 13:32:39		[13:32]
+2016-02-18 13:32:39	 !!! 	irc: connection refused
+2016-02-18 13:32:39	 - 	irc: reconnecting to server in 10 seconds
+2016-02-18 13:32:44	 - 	irc: disconnected from server
+2016-02-18 13:33:08	 - 	irc: connecting to server localhost/6667...
+2016-02-18 13:33:08		[13:33]
+2016-02-18 13:33:08	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 13:33:09	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 13:33:09	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 13:33:09	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 13:33:09	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 13:33:09	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 13:33:09	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 13:33:09	 - 	- localhost Message Of The Day -
+2016-02-18 13:33:09	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 13:33:09	 - 	-
+2016-02-18 13:33:09	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 13:33:09	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 13:33:09	 - 	-
+2016-02-18 13:33:09	 - 	- You are getting this message because the server administrator has not
+2016-02-18 13:33:09	 - 	- yet had the time (or need) to change it.
+2016-02-18 13:33:09	 - 	-
+2016-02-18 13:33:09	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 13:33:09	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 13:33:09	 - 	- information.
+2016-02-18 13:33:09	 - 	-
+2016-02-18 13:33:09	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 13:33:09	 - 	- -- BitlBee development team.
+2016-02-18 13:33:09	 - 	-
+2016-02-18 13:33:09	 - 	- ... Buzzing, haha, get it?
+2016-02-18 13:33:09	 - 	End of MOTD
+2016-02-18 13:33:09	 - 	User mode [+s] by fsociety
+2016-02-18 13:33:12	 - 	User mode [+R] by fsociety
+2016-02-18 13:33:33	 - 	[NicholasB] is away: Mobile
+2016-02-18 13:39:00		[13:33]
+2016-02-18 13:49:24	 - 	irc: disconnected from server
+2016-02-18 13:55:15	 - 	irc: connecting to server localhost/6667...
+2016-02-18 13:55:15		[13:55]
+2016-02-18 13:55:15	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 13:55:15	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 13:55:15	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 13:55:15	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 13:55:15	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 13:55:15	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 13:55:15	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 13:55:15	 - 	- localhost Message Of The Day -
+2016-02-18 13:55:15	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 13:55:15	 - 	-
+2016-02-18 13:55:15	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 13:55:15	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 13:55:15	 - 	-
+2016-02-18 13:55:15	 - 	- You are getting this message because the server administrator has not
+2016-02-18 13:55:15	 - 	- yet had the time (or need) to change it.
+2016-02-18 13:55:15	 - 	-
+2016-02-18 13:55:15	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 13:55:15	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 13:55:15	 - 	- information.
+2016-02-18 13:55:15	 - 	-
+2016-02-18 13:55:15	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 13:55:15	 - 	- -- BitlBee development team.
+2016-02-18 13:55:15	 - 	-
+2016-02-18 13:55:15	 - 	- ... Buzzing, haha, get it?
+2016-02-18 13:55:15	 - 	End of MOTD
+2016-02-18 13:55:15	 - 	User mode [+s] by fsociety
+2016-02-18 13:55:18	 - 	User mode [+R] by fsociety
+2016-02-18 13:56:34	 - 	irc: disconnected from server
+2016-02-18 13:56:55	 - 	irc: connecting to server localhost/6667...
+2016-02-18 13:56:55		[13:56]
+2016-02-18 13:56:55	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 13:56:55	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 13:56:55	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 13:56:55	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 13:56:55	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 13:56:55	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 13:56:55	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 13:56:55	 - 	- localhost Message Of The Day -
+2016-02-18 13:56:55	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 13:56:55	 - 	-
+2016-02-18 13:56:55	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 13:56:55	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 13:56:55	 - 	-
+2016-02-18 13:56:55	 - 	- You are getting this message because the server administrator has not
+2016-02-18 13:56:55	 - 	- yet had the time (or need) to change it.
+2016-02-18 13:56:55	 - 	-
+2016-02-18 13:56:55	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 13:56:55	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 13:56:55	 - 	- information.
+2016-02-18 13:56:55	 - 	-
+2016-02-18 13:56:55	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 13:56:55	 - 	- -- BitlBee development team.
+2016-02-18 13:56:55	 - 	-
+2016-02-18 13:56:55	 - 	- ... Buzzing, haha, get it?
+2016-02-18 13:56:55	 - 	End of MOTD
+2016-02-18 13:56:55	 - 	User mode [+s] by fsociety
+2016-02-18 13:56:57	 - 	User mode [+R] by fsociety
+2016-02-18 14:02:00		[13:56]
+2016-02-18 14:14:26	 - 	irc: disconnected from server
+2016-02-18 14:15:18	 - 	irc: connecting to server localhost/6667...
+2016-02-18 14:15:18		[14:15]
+2016-02-18 14:15:18	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 14:15:18	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 14:15:18	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 14:15:18	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 14:15:18	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 14:15:18	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 14:15:18	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 14:15:18	 - 	- localhost Message Of The Day -
+2016-02-18 14:15:18	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 14:15:18	 - 	-
+2016-02-18 14:15:18	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 14:15:18	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 14:15:18	 - 	-
+2016-02-18 14:15:18	 - 	- You are getting this message because the server administrator has not
+2016-02-18 14:15:18	 - 	- yet had the time (or need) to change it.
+2016-02-18 14:15:18	 - 	-
+2016-02-18 14:15:18	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 14:15:18	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 14:15:18	 - 	- information.
+2016-02-18 14:15:18	 - 	-
+2016-02-18 14:15:18	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 14:15:18	 - 	- -- BitlBee development team.
+2016-02-18 14:15:18	 - 	-
+2016-02-18 14:15:18	 - 	- ... Buzzing, haha, get it?
+2016-02-18 14:15:18	 - 	End of MOTD
+2016-02-18 14:15:18	 - 	User mode [+s] by fsociety
+2016-02-18 14:15:23	 - 	User mode [+R] by fsociety
+2016-02-18 14:21:00		[14:15]
+2016-02-18 15:04:14	 - 	irc: disconnected from server
+2016-02-18 15:04:14		[15:04]
+2016-02-18 16:51:56	 - 	irc: connecting to server localhost/6667...
+2016-02-18 16:51:56		[16:51]
+2016-02-18 16:51:56	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 16:51:56	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 16:51:56	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 16:51:56	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 16:51:56	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 16:51:56	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 16:51:56	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 16:51:56	 - 	- localhost Message Of The Day -
+2016-02-18 16:51:56	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 16:51:56	 - 	-
+2016-02-18 16:51:56	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 16:51:56	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 16:51:56	 - 	-
+2016-02-18 16:51:56	 - 	- You are getting this message because the server administrator has not
+2016-02-18 16:51:56	 - 	- yet had the time (or need) to change it.
+2016-02-18 16:51:56	 - 	-
+2016-02-18 16:51:56	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 16:51:56	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 16:51:56	 - 	- information.
+2016-02-18 16:51:56	 - 	-
+2016-02-18 16:51:56	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 16:51:56	 - 	- -- BitlBee development team.
+2016-02-18 16:51:56	 - 	-
+2016-02-18 16:51:56	 - 	- ... Buzzing, haha, get it?
+2016-02-18 16:51:56	 - 	End of MOTD
+2016-02-18 16:51:56	 - 	User mode [+s] by fsociety
+2016-02-18 16:51:59	 - 	User mode [+R] by fsociety
+2016-02-18 16:57:00		[16:51]
+2016-02-18 20:53:22	 - 	irc: connecting to server localhost/6667...
+2016-02-18 20:53:22		[20:53]
+2016-02-18 20:53:22	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 20:53:22	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 20:53:22	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 20:53:22	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 20:53:22	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 20:53:22	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 20:53:22	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 20:53:22	 - 	- localhost Message Of The Day -
+2016-02-18 20:53:22	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 20:53:22	 - 	-
+2016-02-18 20:53:22	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 20:53:22	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 20:53:22	 - 	-
+2016-02-18 20:53:22	 - 	- You are getting this message because the server administrator has not
+2016-02-18 20:53:22	 - 	- yet had the time (or need) to change it.
+2016-02-18 20:53:22	 - 	-
+2016-02-18 20:53:22	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 20:53:22	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 20:53:22	 - 	- information.
+2016-02-18 20:53:22	 - 	-
+2016-02-18 20:53:22	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 20:53:22	 - 	- -- BitlBee development team.
+2016-02-18 20:53:22	 - 	-
+2016-02-18 20:53:22	 - 	- ... Buzzing, haha, get it?
+2016-02-18 20:53:22	 - 	End of MOTD
+2016-02-18 20:53:22	 - 	User mode [+s] by fsociety
+2016-02-18 20:53:24	 - 	User mode [+R] by fsociety
+2016-02-18 20:59:00		[20:53]
+2016-02-18 21:09:47	 - 	irc: disconnected from server
+2016-02-18 21:09:57	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:09:57	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:09:57	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:09:57	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:09:57	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:09:57	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:09:57	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:09:57	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:09:57	 - 	- localhost Message Of The Day -
+2016-02-18 21:09:57	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:09:57	 - 	-
+2016-02-18 21:09:57	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:09:57	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:09:57	 - 	-
+2016-02-18 21:09:57	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:09:57	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:09:57	 - 	-
+2016-02-18 21:09:57	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:09:57	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:09:57	 - 	- information.
+2016-02-18 21:09:57	 - 	-
+2016-02-18 21:09:57	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:09:57	 - 	- -- BitlBee development team.
+2016-02-18 21:09:57	 - 	-
+2016-02-18 21:09:57	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:09:57	 - 	End of MOTD
+2016-02-18 21:09:57	 - 	User mode [+s] by fsociety
+2016-02-18 21:10:05	 - 	User mode [+R] by fsociety
+2016-02-18 21:16:00		[21:10]
+2016-02-18 21:26:13	 !!! 	Closing link: BitlBee server shutting down
+2016-02-18 21:26:13	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-18 21:26:13	 - 	irc: disconnecting from server...
+2016-02-18 21:26:13	 - 	irc: disconnected from server
+2016-02-18 21:26:13	 - 	irc: reconnecting to server in 10 seconds
+2016-02-18 21:26:23	 - 	irc: reconnecting to server...
+2016-02-18 21:26:23	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:26:23	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:26:23	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:26:23	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:26:23	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:26:23	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:26:23	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:26:23	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:26:23	 - 	- localhost Message Of The Day -
+2016-02-18 21:26:23	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:26:23	 - 	-
+2016-02-18 21:26:23	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:26:23	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:26:23	 - 	-
+2016-02-18 21:26:23	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:26:23	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:26:23	 - 	-
+2016-02-18 21:26:23	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:26:23	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:26:23	 - 	- information.
+2016-02-18 21:26:23	 - 	-
+2016-02-18 21:26:23	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:26:23	 - 	- -- BitlBee development team.
+2016-02-18 21:26:23	 - 	-
+2016-02-18 21:26:23	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:26:23	 - 	End of MOTD
+2016-02-18 21:26:23	 - 	User mode [+s] by fsociety
+2016-02-18 21:26:31	 - 	User mode [+R] by fsociety
+2016-02-18 21:28:11	 - 	irc: disconnected from server
+2016-02-18 21:28:27	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:28:27		[21:28]
+2016-02-18 21:28:27	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:28:27	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:28:27	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:28:27	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:28:27	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:28:27	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:28:27	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:28:27	 - 	- localhost Message Of The Day -
+2016-02-18 21:28:27	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:28:27	 - 	-
+2016-02-18 21:28:27	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:28:27	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:28:27	 - 	-
+2016-02-18 21:28:27	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:28:27	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:28:27	 - 	-
+2016-02-18 21:28:27	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:28:27	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:28:27	 - 	- information.
+2016-02-18 21:28:27	 - 	-
+2016-02-18 21:28:27	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:28:27	 - 	- -- BitlBee development team.
+2016-02-18 21:28:27	 - 	-
+2016-02-18 21:28:27	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:28:27	 - 	End of MOTD
+2016-02-18 21:28:27	 - 	User mode [+s] by fsociety
+2016-02-18 21:28:30	 - 	User mode [+R] by fsociety
+2016-02-18 21:32:01	 !!! 	Closing link: BitlBee server shutting down
+2016-02-18 21:32:01	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-18 21:32:01	 - 	irc: disconnecting from server...
+2016-02-18 21:32:01	 - 	irc: disconnected from server
+2016-02-18 21:32:01	 - 	irc: reconnecting to server in 10 seconds
+2016-02-18 21:32:07	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:32:07	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:32:07	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:32:07	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:32:07	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:32:07	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:32:07	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:32:07	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:32:07	 - 	- localhost Message Of The Day -
+2016-02-18 21:32:07	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:32:07	 - 	-
+2016-02-18 21:32:07	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:32:07	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:32:07	 - 	-
+2016-02-18 21:32:07	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:32:07	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:32:07	 - 	-
+2016-02-18 21:32:07	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:32:07	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:32:07	 - 	- information.
+2016-02-18 21:32:07	 - 	-
+2016-02-18 21:32:07	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:32:07	 - 	- -- BitlBee development team.
+2016-02-18 21:32:07	 - 	-
+2016-02-18 21:32:07	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:32:07	 - 	End of MOTD
+2016-02-18 21:32:07	 - 	User mode [+s] by fsociety
+2016-02-18 21:32:14	 - 	User mode [+R] by fsociety
+2016-02-18 21:38:00		[21:32]
+2016-02-18 21:42:15	 !!! 	Closing link: BitlBee server shutting down
+2016-02-18 21:42:15	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-18 21:42:15	 - 	irc: disconnecting from server...
+2016-02-18 21:42:15	 - 	irc: disconnected from server
+2016-02-18 21:42:15	 - 	irc: reconnecting to server in 10 seconds
+2016-02-18 21:42:25	 - 	irc: reconnecting to server...
+2016-02-18 21:42:25	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:42:25	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:42:25	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:42:25	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:42:25	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:42:25	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:42:25	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:42:25	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:42:25	 - 	- localhost Message Of The Day -
+2016-02-18 21:42:25	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:42:25	 - 	-
+2016-02-18 21:42:25	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:42:25	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:42:25	 - 	-
+2016-02-18 21:42:25	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:42:25	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:42:25	 - 	-
+2016-02-18 21:42:25	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:42:25	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:42:25	 - 	- information.
+2016-02-18 21:42:25	 - 	-
+2016-02-18 21:42:25	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:42:25	 - 	- -- BitlBee development team.
+2016-02-18 21:42:25	 - 	-
+2016-02-18 21:42:25	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:42:25	 - 	End of MOTD
+2016-02-18 21:42:25	 - 	User mode [+s] by fsociety
+2016-02-18 21:45:20	 - 	irc: disconnected from server
+2016-02-18 21:45:21	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:45:21		[21:45]
+2016-02-18 21:45:21	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:45:21	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:45:21	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:45:21	 !!! 	irc: this buffer is not a channel!
+2016-02-18 21:45:21	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:45:21	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:45:21	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:45:21	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:45:21	 - 	- localhost Message Of The Day -
+2016-02-18 21:45:21	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:45:21	 - 	-
+2016-02-18 21:45:21	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:45:21	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:45:21	 - 	-
+2016-02-18 21:45:21	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:45:21	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:45:21	 - 	-
+2016-02-18 21:45:21	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:45:21	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:45:21	 - 	- information.
+2016-02-18 21:45:21	 - 	-
+2016-02-18 21:45:21	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:45:21	 - 	- -- BitlBee development team.
+2016-02-18 21:45:21	 - 	-
+2016-02-18 21:45:21	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:45:21	 - 	End of MOTD
+2016-02-18 21:45:21	 - 	User mode [+s] by fsociety
+2016-02-18 21:45:56	 - 	irc: disconnected from server
+2016-02-18 21:45:57	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:45:57		[21:45]
+2016-02-18 21:45:57	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:45:57	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:45:57	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:45:57	 !!! 	irc: this buffer is not a channel!
+2016-02-18 21:45:57	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:45:57	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:45:57	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:45:57	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:45:57	 - 	- localhost Message Of The Day -
+2016-02-18 21:45:57	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:45:57	 - 	-
+2016-02-18 21:45:57	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:45:57	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:45:57	 - 	-
+2016-02-18 21:45:57	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:45:57	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:45:57	 - 	-
+2016-02-18 21:45:57	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:45:57	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:45:57	 - 	- information.
+2016-02-18 21:45:57	 - 	-
+2016-02-18 21:45:57	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:45:57	 - 	- -- BitlBee development team.
+2016-02-18 21:45:57	 - 	-
+2016-02-18 21:45:57	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:45:57	 - 	End of MOTD
+2016-02-18 21:45:57	 - 	User mode [+s] by fsociety
+2016-02-18 21:47:30	 - 	irc: disconnected from server
+2016-02-18 21:47:31	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:47:31		[21:47]
+2016-02-18 21:47:31	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:47:31	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:47:31	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:47:31	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-18 21:47:31	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:47:31	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:47:31	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:47:31	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:47:31	 - 	- localhost Message Of The Day -
+2016-02-18 21:47:31	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:47:31	 - 	-
+2016-02-18 21:47:31	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:47:31	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:47:31	 - 	-
+2016-02-18 21:47:31	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:47:31	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:47:31	 - 	-
+2016-02-18 21:47:31	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:47:31	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:47:31	 - 	- information.
+2016-02-18 21:47:31	 - 	-
+2016-02-18 21:47:31	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:47:31	 - 	- -- BitlBee development team.
+2016-02-18 21:47:31	 - 	-
+2016-02-18 21:47:31	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:47:31	 - 	End of MOTD
+2016-02-18 21:47:31	 - 	User mode [+s] by fsociety
+2016-02-18 21:47:46	 - 	irc: disconnected from server
+2016-02-18 21:47:55	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:47:55		[21:47]
+2016-02-18 21:47:55	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:47:55	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:47:55	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:47:55	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-18 21:47:55	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:47:55	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:47:55	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:47:55	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:47:55	 - 	- localhost Message Of The Day -
+2016-02-18 21:47:55	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:47:55	 - 	-
+2016-02-18 21:47:55	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:47:55	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:47:55	 - 	-
+2016-02-18 21:47:55	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:47:55	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:47:55	 - 	-
+2016-02-18 21:47:55	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:47:55	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:47:55	 - 	- information.
+2016-02-18 21:47:55	 - 	-
+2016-02-18 21:47:55	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:47:55	 - 	- -- BitlBee development team.
+2016-02-18 21:47:55	 - 	-
+2016-02-18 21:47:55	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:47:55	 - 	End of MOTD
+2016-02-18 21:47:55	 - 	User mode [+s] by fsociety
+2016-02-18 21:48:51	 - 	irc: disconnected from server
+2016-02-18 21:48:56	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:48:56		[21:48]
+2016-02-18 21:48:56	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:48:56	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:48:56	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:48:56	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-18 21:48:56	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:48:56	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:48:56	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:48:56	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:48:56	 - 	- localhost Message Of The Day -
+2016-02-18 21:48:56	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:48:56	 - 	-
+2016-02-18 21:48:56	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:48:56	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:48:56	 - 	-
+2016-02-18 21:48:56	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:48:56	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:48:56	 - 	-
+2016-02-18 21:48:56	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:48:56	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:48:56	 - 	- information.
+2016-02-18 21:48:56	 - 	-
+2016-02-18 21:48:56	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:48:56	 - 	- -- BitlBee development team.
+2016-02-18 21:48:56	 - 	-
+2016-02-18 21:48:56	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:48:56	 - 	End of MOTD
+2016-02-18 21:48:56	 - 	User mode [+s] by fsociety
+2016-02-18 21:48:56	 - 	User mode [+R] by fsociety
+2016-02-18 21:49:36	 - 	[NicholasB] is away: Mobile
+2016-02-18 21:50:07	 - 	irc: disconnected from server
+2016-02-18 21:50:36	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:50:36		[21:50]
+2016-02-18 21:50:36	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:50:36	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:50:36	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:50:36	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-18 21:50:36	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:50:36	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:50:36	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:50:36	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:50:36	 - 	- localhost Message Of The Day -
+2016-02-18 21:50:36	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:50:36	 - 	-
+2016-02-18 21:50:36	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:50:36	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:50:36	 - 	-
+2016-02-18 21:50:36	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:50:36	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:50:36	 - 	-
+2016-02-18 21:50:36	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:50:36	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:50:36	 - 	- information.
+2016-02-18 21:50:36	 - 	-
+2016-02-18 21:50:36	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:50:36	 - 	- -- BitlBee development team.
+2016-02-18 21:50:36	 - 	-
+2016-02-18 21:50:36	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:50:36	 - 	End of MOTD
+2016-02-18 21:50:36	 - 	User mode [+s] by fsociety
+2016-02-18 21:50:36	 - 	User mode [+R] by fsociety
+2016-02-18 21:52:39	 - 	[NicholasB] is away: Mobile
+2016-02-18 21:58:00		[21:52]
+2016-02-18 21:59:01	 - 	irc: disconnected from server
+2016-02-18 21:59:11	 - 	irc: connecting to server localhost/6667...
+2016-02-18 21:59:11	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 21:59:11	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 21:59:11	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 21:59:11	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 21:59:11	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 21:59:11	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 21:59:11	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 21:59:11	 - 	- localhost Message Of The Day -
+2016-02-18 21:59:11	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 21:59:11	 - 	-
+2016-02-18 21:59:11	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 21:59:11	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 21:59:11	 - 	-
+2016-02-18 21:59:11	 - 	- You are getting this message because the server administrator has not
+2016-02-18 21:59:11	 - 	- yet had the time (or need) to change it.
+2016-02-18 21:59:11	 - 	-
+2016-02-18 21:59:11	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 21:59:11	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 21:59:11	 - 	- information.
+2016-02-18 21:59:11	 - 	-
+2016-02-18 21:59:11	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 21:59:11	 - 	- -- BitlBee development team.
+2016-02-18 21:59:11	 - 	-
+2016-02-18 21:59:11	 - 	- ... Buzzing, haha, get it?
+2016-02-18 21:59:11	 - 	End of MOTD
+2016-02-18 21:59:11	 - 	User mode [+s] by fsociety
+2016-02-18 21:59:11	 - 	User mode [+R] by fsociety
+2016-02-18 22:05:00		[21:59]
+2016-02-18 22:51:40	 - 	irc: disconnected from server
+2016-02-18 22:51:40		[22:51]
+2016-02-18 22:52:19	 - 	irc: connecting to server localhost/6667...
+2016-02-18 22:52:19		[22:52]
+2016-02-18 22:52:19	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 22:52:19	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 22:52:19	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 22:52:19	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-18 22:52:19	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 22:52:19	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 22:52:19	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 22:52:19	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 22:52:19	 - 	- localhost Message Of The Day -
+2016-02-18 22:52:19	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 22:52:19	 - 	-
+2016-02-18 22:52:19	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 22:52:19	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 22:52:19	 - 	-
+2016-02-18 22:52:19	 - 	- You are getting this message because the server administrator has not
+2016-02-18 22:52:19	 - 	- yet had the time (or need) to change it.
+2016-02-18 22:52:19	 - 	-
+2016-02-18 22:52:19	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 22:52:19	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 22:52:19	 - 	- information.
+2016-02-18 22:52:19	 - 	-
+2016-02-18 22:52:19	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 22:52:19	 - 	- -- BitlBee development team.
+2016-02-18 22:52:19	 - 	-
+2016-02-18 22:52:19	 - 	- ... Buzzing, haha, get it?
+2016-02-18 22:52:19	 - 	End of MOTD
+2016-02-18 22:52:19	 - 	User mode [+s] by fsociety
+2016-02-18 22:52:19	 - 	User mode [+R] by fsociety
+2016-02-18 23:21:51	 - 	irc: disconnected from server
+2016-02-18 23:21:51		[23:21]
+2016-02-18 23:22:05	 - 	irc: connecting to server localhost/6667...
+2016-02-18 23:22:05		[23:22]
+2016-02-18 23:22:05	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 23:22:05	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 23:22:05	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 23:22:05	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-18 23:22:05	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 23:22:05	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 23:22:05	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 23:22:05	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 23:22:05	 - 	- localhost Message Of The Day -
+2016-02-18 23:22:05	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 23:22:05	 - 	-
+2016-02-18 23:22:05	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 23:22:05	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 23:22:05	 - 	-
+2016-02-18 23:22:05	 - 	- You are getting this message because the server administrator has not
+2016-02-18 23:22:05	 - 	- yet had the time (or need) to change it.
+2016-02-18 23:22:05	 - 	-
+2016-02-18 23:22:05	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 23:22:05	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 23:22:05	 - 	- information.
+2016-02-18 23:22:05	 - 	-
+2016-02-18 23:22:05	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 23:22:05	 - 	- -- BitlBee development team.
+2016-02-18 23:22:05	 - 	-
+2016-02-18 23:22:05	 - 	- ... Buzzing, haha, get it?
+2016-02-18 23:22:05	 - 	End of MOTD
+2016-02-18 23:22:05	 - 	User mode [+s] by fsociety
+2016-02-18 23:22:05	 - 	User mode [+R] by fsociety
+2016-02-18 23:42:28	 - 	irc: disconnected from server
+2016-02-18 23:42:28		[23:42]
+2016-02-18 23:44:54	 - 	irc: connecting to server localhost/6667...
+2016-02-18 23:44:54		[23:44]
+2016-02-18 23:44:54	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 23:44:54	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 23:44:54	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 23:44:54	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-18 23:44:54	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 23:44:54	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 23:44:54	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 23:44:54	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 23:44:54	 - 	- localhost Message Of The Day -
+2016-02-18 23:44:54	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 23:44:54	 - 	-
+2016-02-18 23:44:54	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 23:44:54	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 23:44:54	 - 	-
+2016-02-18 23:44:54	 - 	- You are getting this message because the server administrator has not
+2016-02-18 23:44:54	 - 	- yet had the time (or need) to change it.
+2016-02-18 23:44:54	 - 	-
+2016-02-18 23:44:54	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 23:44:54	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 23:44:54	 - 	- information.
+2016-02-18 23:44:54	 - 	-
+2016-02-18 23:44:54	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 23:44:54	 - 	- -- BitlBee development team.
+2016-02-18 23:44:54	 - 	-
+2016-02-18 23:44:54	 - 	- ... Buzzing, haha, get it?
+2016-02-18 23:44:54	 - 	End of MOTD
+2016-02-18 23:44:54	 - 	User mode [+s] by fsociety
+2016-02-18 23:44:54	 - 	User mode [+R] by fsociety
+2016-02-18 23:48:19	 - 	irc: disconnected from server
+2016-02-18 23:48:54	 - 	irc: connecting to server localhost/6667...
+2016-02-18 23:48:54		[23:48]
+2016-02-18 23:48:54	 - 	irc: connected to localhost/6667 (::1)
+2016-02-18 23:48:54	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-18 23:48:54	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-18 23:48:54	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-18 23:48:54	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-18 23:48:54	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-18 23:48:54	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-18 23:48:54	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-18 23:48:54	 - 	- localhost Message Of The Day -
+2016-02-18 23:48:54	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-18 23:48:54	 - 	-
+2016-02-18 23:48:54	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-18 23:48:54	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-18 23:48:54	 - 	-
+2016-02-18 23:48:54	 - 	- You are getting this message because the server administrator has not
+2016-02-18 23:48:54	 - 	- yet had the time (or need) to change it.
+2016-02-18 23:48:54	 - 	-
+2016-02-18 23:48:54	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-18 23:48:54	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-18 23:48:54	 - 	- information.
+2016-02-18 23:48:54	 - 	-
+2016-02-18 23:48:54	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-18 23:48:54	 - 	- -- BitlBee development team.
+2016-02-18 23:48:54	 - 	-
+2016-02-18 23:48:54	 - 	- ... Buzzing, haha, get it?
+2016-02-18 23:48:54	 - 	End of MOTD
+2016-02-18 23:48:54	 - 	User mode [+s] by fsociety
+2016-02-18 23:48:54	 - 	User mode [+R] by fsociety
+2016-02-19 00:08:29	 - 	irc: disconnected from server
+2016-02-19 00:08:29		[00:08]
+2016-02-19 00:10:55	 - 	irc: connecting to server localhost/6667...
+2016-02-19 00:10:55		[00:10]
+2016-02-19 00:10:55	 - 	irc: connected to localhost/6667 (::1)
+2016-02-19 00:10:55	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-19 00:10:55	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-19 00:10:55	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-19 00:10:55	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-19 00:10:55	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-19 00:10:55	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-19 00:10:55	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-19 00:10:55	 - 	- localhost Message Of The Day -
+2016-02-19 00:10:55	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-19 00:10:55	 - 	-
+2016-02-19 00:10:55	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-19 00:10:55	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-19 00:10:55	 - 	-
+2016-02-19 00:10:55	 - 	- You are getting this message because the server administrator has not
+2016-02-19 00:10:55	 - 	- yet had the time (or need) to change it.
+2016-02-19 00:10:55	 - 	-
+2016-02-19 00:10:55	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-19 00:10:55	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-19 00:10:55	 - 	- information.
+2016-02-19 00:10:55	 - 	-
+2016-02-19 00:10:55	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-19 00:10:55	 - 	- -- BitlBee development team.
+2016-02-19 00:10:55	 - 	-
+2016-02-19 00:10:55	 - 	- ... Buzzing, haha, get it?
+2016-02-19 00:10:55	 - 	End of MOTD
+2016-02-19 00:10:55	 - 	User mode [+s] by fsociety
+2016-02-19 00:10:55	 - 	User mode [+R] by fsociety
+2016-02-19 00:13:01	 - 	irc: disconnected from server
+2016-02-19 00:14:23	 - 	irc: connecting to server localhost/6667...
+2016-02-19 00:14:23		[00:14]
+2016-02-19 00:14:23	 - 	irc: connected to localhost/6667 (::1)
+2016-02-19 00:14:23	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-19 00:14:23	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-19 00:14:23	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-19 00:14:23	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-19 00:14:23	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-19 00:14:23	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-19 00:14:23	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-19 00:14:23	 - 	- localhost Message Of The Day -
+2016-02-19 00:14:23	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-19 00:14:23	 - 	-
+2016-02-19 00:14:23	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-19 00:14:23	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-19 00:14:23	 - 	-
+2016-02-19 00:14:23	 - 	- You are getting this message because the server administrator has not
+2016-02-19 00:14:23	 - 	- yet had the time (or need) to change it.
+2016-02-19 00:14:23	 - 	-
+2016-02-19 00:14:23	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-19 00:14:23	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-19 00:14:23	 - 	- information.
+2016-02-19 00:14:23	 - 	-
+2016-02-19 00:14:23	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-19 00:14:23	 - 	- -- BitlBee development team.
+2016-02-19 00:14:23	 - 	-
+2016-02-19 00:14:23	 - 	- ... Buzzing, haha, get it?
+2016-02-19 00:14:23	 - 	End of MOTD
+2016-02-19 00:14:23	 - 	User mode [+s] by fsociety
+2016-02-19 00:14:23	 - 	User mode [+R] by fsociety
+2016-02-19 07:28:45	 !!! 	BitlBee crashed! (SIGSEGV received)
+2016-02-19 07:28:45		[07:28]
+2016-02-19 07:28:45	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-19 07:28:45	 - 	irc: disconnecting from server...
+2016-02-19 07:28:45	 - 	irc: disconnected from server
+2016-02-19 07:28:45	 - 	irc: reconnecting to server in 10 seconds
+2016-02-19 07:28:55	 - 	irc: reconnecting to server...
+2016-02-19 07:28:55	 - 	irc: connecting to server localhost/6667...
+2016-02-19 07:28:55	 - 	irc: connected to localhost/6667 (::1)
+2016-02-19 07:28:55	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-19 07:28:55	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-19 07:28:55	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-19 07:28:55	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-19 07:28:55	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-19 07:28:55	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-19 07:28:55	 - 	- localhost Message Of The Day -
+2016-02-19 07:28:55	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-19 07:28:55	 - 	-
+2016-02-19 07:28:55	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-19 07:28:55	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-19 07:28:55	 - 	-
+2016-02-19 07:28:55	 - 	- You are getting this message because the server administrator has not
+2016-02-19 07:28:55	 - 	- yet had the time (or need) to change it.
+2016-02-19 07:28:55	 - 	-
+2016-02-19 07:28:55	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-19 07:28:55	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-19 07:28:55	 - 	- information.
+2016-02-19 07:28:55	 - 	-
+2016-02-19 07:28:55	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-19 07:28:55	 - 	- -- BitlBee development team.
+2016-02-19 07:28:55	 - 	-
+2016-02-19 07:28:55	 - 	- ... Buzzing, haha, get it?
+2016-02-19 07:28:55	 - 	End of MOTD
+2016-02-19 07:28:55	 - 	User mode [+s] by fsociety
+2016-02-19 07:28:55	 - 	User mode [+R] by fsociety
+2016-02-19 07:34:00		[07:28]
+2016-02-19 10:32:33	 - 	irc: disconnected from server
+2016-02-19 10:32:33		[10:32]
+2016-02-19 10:32:35	 - 	irc: connecting to server localhost/6667...
+2016-02-19 10:32:35		[10:32]
+2016-02-19 10:32:35	 - 	irc: connected to localhost/6667 (::1)
+2016-02-19 10:32:35	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-19 10:32:35	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-19 10:32:35	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-19 10:32:35	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-19 10:32:35	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-19 10:32:35	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-19 10:32:35	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-19 10:32:35	 - 	- localhost Message Of The Day -
+2016-02-19 10:32:35	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-19 10:32:35	 - 	-
+2016-02-19 10:32:35	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-19 10:32:35	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-19 10:32:35	 - 	-
+2016-02-19 10:32:35	 - 	- You are getting this message because the server administrator has not
+2016-02-19 10:32:35	 - 	- yet had the time (or need) to change it.
+2016-02-19 10:32:35	 - 	-
+2016-02-19 10:32:35	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-19 10:32:35	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-19 10:32:35	 - 	- information.
+2016-02-19 10:32:35	 - 	-
+2016-02-19 10:32:35	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-19 10:32:35	 - 	- -- BitlBee development team.
+2016-02-19 10:32:35	 - 	-
+2016-02-19 10:32:35	 - 	- ... Buzzing, haha, get it?
+2016-02-19 10:32:35	 - 	End of MOTD
+2016-02-19 10:32:35	 - 	User mode [+s] by fsociety
+2016-02-19 10:32:35	 - 	User mode [+R] by fsociety
+2016-02-19 16:46:38	 - 	irc: disconnected from server
+2016-02-19 16:46:38		[16:46]
+2016-02-19 17:58:28	 - 	irc: connecting to server localhost/6667...
+2016-02-19 17:58:28		[17:58]
+2016-02-19 17:58:28	 - 	irc: connected to localhost/6667 (::1)
+2016-02-19 17:58:28	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-19 17:58:28	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-19 17:58:28	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-19 17:58:28	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-19 17:58:28	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-19 17:58:28	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-19 17:58:28	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-19 17:58:28	 - 	- localhost Message Of The Day -
+2016-02-19 17:58:28	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-19 17:58:28	 - 	-
+2016-02-19 17:58:28	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-19 17:58:28	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-19 17:58:28	 - 	-
+2016-02-19 17:58:28	 - 	- You are getting this message because the server administrator has not
+2016-02-19 17:58:28	 - 	- yet had the time (or need) to change it.
+2016-02-19 17:58:28	 - 	-
+2016-02-19 17:58:28	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-19 17:58:28	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-19 17:58:28	 - 	- information.
+2016-02-19 17:58:28	 - 	-
+2016-02-19 17:58:28	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-19 17:58:28	 - 	- -- BitlBee development team.
+2016-02-19 17:58:28	 - 	-
+2016-02-19 17:58:28	 - 	- ... Buzzing, haha, get it?
+2016-02-19 17:58:28	 - 	End of MOTD
+2016-02-19 17:58:28	 - 	User mode [+s] by fsociety
+2016-02-19 17:58:28	 - 	User mode [+R] by fsociety
+2016-02-19 17:58:53	 - 	irc: disconnected from server
+2016-02-20 00:57:00	 - 	irc: connecting to server localhost/6667...
+2016-02-20 00:57:00		[00:57]
+2016-02-20 00:57:00	 - 	irc: connected to localhost/6667 (::1)
+2016-02-20 00:57:00	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-20 00:57:00	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-20 00:57:00	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-20 00:57:00	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-20 00:57:00	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-20 00:57:00	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-20 00:57:00	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-20 00:57:00	 - 	- localhost Message Of The Day -
+2016-02-20 00:57:00	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-20 00:57:00	 - 	-
+2016-02-20 00:57:00	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-20 00:57:00	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-20 00:57:00	 - 	-
+2016-02-20 00:57:00	 - 	- You are getting this message because the server administrator has not
+2016-02-20 00:57:00	 - 	- yet had the time (or need) to change it.
+2016-02-20 00:57:00	 - 	-
+2016-02-20 00:57:00	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-20 00:57:00	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-20 00:57:00	 - 	- information.
+2016-02-20 00:57:00	 - 	-
+2016-02-20 00:57:00	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-20 00:57:00	 - 	- -- BitlBee development team.
+2016-02-20 00:57:00	 - 	-
+2016-02-20 00:57:00	 - 	- ... Buzzing, haha, get it?
+2016-02-20 00:57:00	 - 	End of MOTD
+2016-02-20 00:57:00	 - 	User mode [+s] by fsociety
+2016-02-20 00:57:00	 - 	User mode [+R] by fsociety
+2016-02-20 00:59:34	 !!! 	BitlBee crashed! (SIGSEGV received)
+2016-02-20 00:59:34	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-20 00:59:34	 - 	irc: disconnecting from server...
+2016-02-20 00:59:34	 - 	irc: disconnected from server
+2016-02-20 00:59:34	 - 	irc: reconnecting to server in 10 seconds
+2016-02-20 00:59:44	 - 	irc: reconnecting to server...
+2016-02-20 00:59:44	 - 	irc: connecting to server localhost/6667...
+2016-02-20 00:59:44	 - 	irc: connected to localhost/6667 (::1)
+2016-02-20 00:59:44	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-20 00:59:44	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-20 00:59:44	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-20 00:59:44	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-20 00:59:44	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-20 00:59:44	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-20 00:59:44	 - 	- localhost Message Of The Day -
+2016-02-20 00:59:44	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-20 00:59:44	 - 	-
+2016-02-20 00:59:44	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-20 00:59:44	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-20 00:59:44	 - 	-
+2016-02-20 00:59:44	 - 	- You are getting this message because the server administrator has not
+2016-02-20 00:59:44	 - 	- yet had the time (or need) to change it.
+2016-02-20 00:59:44	 - 	-
+2016-02-20 00:59:44	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-20 00:59:44	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-20 00:59:44	 - 	- information.
+2016-02-20 00:59:44	 - 	-
+2016-02-20 00:59:44	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-20 00:59:44	 - 	- -- BitlBee development team.
+2016-02-20 00:59:44	 - 	-
+2016-02-20 00:59:44	 - 	- ... Buzzing, haha, get it?
+2016-02-20 00:59:44	 - 	End of MOTD
+2016-02-20 00:59:44	 - 	User mode [+s] by fsociety
+2016-02-20 00:59:44	 - 	User mode [+R] by fsociety
+2016-02-20 01:05:00		[00:59]
+2016-02-20 11:34:09	 - 	irc: disconnected from server
+2016-02-20 11:34:09		[11:34]
+2016-02-20 15:55:20	 - 	irc: connecting to server localhost/6667...
+2016-02-20 15:55:20		[15:55]
+2016-02-20 15:55:20	 - 	irc: connected to localhost/6667 (::1)
+2016-02-20 15:55:20	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-20 15:55:20	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-20 15:55:20	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-20 15:55:20	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-20 15:55:20	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-20 15:55:20	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-20 15:55:20	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-20 15:55:20	 - 	- localhost Message Of The Day -
+2016-02-20 15:55:20	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-20 15:55:20	 - 	-
+2016-02-20 15:55:20	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-20 15:55:20	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-20 15:55:20	 - 	-
+2016-02-20 15:55:20	 - 	- You are getting this message because the server administrator has not
+2016-02-20 15:55:20	 - 	- yet had the time (or need) to change it.
+2016-02-20 15:55:20	 - 	-
+2016-02-20 15:55:20	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-20 15:55:20	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-20 15:55:20	 - 	- information.
+2016-02-20 15:55:20	 - 	-
+2016-02-20 15:55:20	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-20 15:55:20	 - 	- -- BitlBee development team.
+2016-02-20 15:55:20	 - 	-
+2016-02-20 15:55:20	 - 	- ... Buzzing, haha, get it?
+2016-02-20 15:55:20	 - 	End of MOTD
+2016-02-20 15:55:20	 - 	User mode [+s] by fsociety
+2016-02-20 15:55:20	 - 	User mode [+R] by fsociety
+2016-02-20 20:05:42	 - 	irc: disconnected from server
+2016-02-20 20:05:42		[20:05]
+2016-02-20 20:05:44	 - 	irc: connecting to server localhost/6667...
+2016-02-20 20:05:44		[20:05]
+2016-02-20 20:05:44	 - 	irc: connected to localhost/6667 (::1)
+2016-02-20 20:05:44	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-20 20:05:44	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-20 20:05:44	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-20 20:05:44	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-20 20:05:44	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-20 20:05:44	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-20 20:05:44	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-20 20:05:44	 - 	- localhost Message Of The Day -
+2016-02-20 20:05:44	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-20 20:05:44	 - 	-
+2016-02-20 20:05:44	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-20 20:05:44	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-20 20:05:44	 - 	-
+2016-02-20 20:05:44	 - 	- You are getting this message because the server administrator has not
+2016-02-20 20:05:44	 - 	- yet had the time (or need) to change it.
+2016-02-20 20:05:44	 - 	-
+2016-02-20 20:05:44	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-20 20:05:44	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-20 20:05:44	 - 	- information.
+2016-02-20 20:05:44	 - 	-
+2016-02-20 20:05:44	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-20 20:05:44	 - 	- -- BitlBee development team.
+2016-02-20 20:05:44	 - 	-
+2016-02-20 20:05:44	 - 	- ... Buzzing, haha, get it?
+2016-02-20 20:05:44	 - 	End of MOTD
+2016-02-20 20:05:44	 - 	User mode [+s] by fsociety
+2016-02-20 20:05:44	 - 	User mode [+R] by fsociety
+2016-02-20 20:13:28	 - 	irc: disconnected from server
+2016-02-20 20:13:36	 - 	irc: connecting to server localhost/6667...
+2016-02-20 20:13:36		[20:13]
+2016-02-20 20:13:36	 - 	irc: connected to localhost/6667 (::1)
+2016-02-20 20:13:36	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-20 20:13:36	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-20 20:13:36	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-20 20:13:36	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-20 20:13:36	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-20 20:13:36	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-20 20:13:36	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-20 20:13:36	 - 	- localhost Message Of The Day -
+2016-02-20 20:13:36	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-20 20:13:36	 - 	-
+2016-02-20 20:13:36	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-20 20:13:36	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-20 20:13:36	 - 	-
+2016-02-20 20:13:36	 - 	- You are getting this message because the server administrator has not
+2016-02-20 20:13:36	 - 	- yet had the time (or need) to change it.
+2016-02-20 20:13:36	 - 	-
+2016-02-20 20:13:36	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-20 20:13:36	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-20 20:13:36	 - 	- information.
+2016-02-20 20:13:36	 - 	-
+2016-02-20 20:13:36	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-20 20:13:36	 - 	- -- BitlBee development team.
+2016-02-20 20:13:36	 - 	-
+2016-02-20 20:13:36	 - 	- ... Buzzing, haha, get it?
+2016-02-20 20:13:36	 - 	End of MOTD
+2016-02-20 20:13:36	 - 	User mode [+s] by fsociety
+2016-02-20 20:13:36	 - 	User mode [+R] by fsociety
+2016-02-21 00:45:07	 - 	irc: disconnected from server
+2016-02-21 00:45:07		[00:45]
+2016-02-21 00:45:12	 - 	irc: connecting to server localhost/6667...
+2016-02-21 00:45:12		[00:45]
+2016-02-21 00:45:12	 - 	irc: connected to localhost/6667 (::1)
+2016-02-21 00:45:12	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-21 00:45:12	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-21 00:45:12	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-21 00:45:12	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-21 00:45:12	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-21 00:45:12	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-21 00:45:12	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-21 00:45:12	 - 	- localhost Message Of The Day -
+2016-02-21 00:45:12	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-21 00:45:12	 - 	-
+2016-02-21 00:45:12	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-21 00:45:12	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-21 00:45:12	 - 	-
+2016-02-21 00:45:12	 - 	- You are getting this message because the server administrator has not
+2016-02-21 00:45:12	 - 	- yet had the time (or need) to change it.
+2016-02-21 00:45:12	 - 	-
+2016-02-21 00:45:12	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-21 00:45:12	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-21 00:45:12	 - 	- information.
+2016-02-21 00:45:12	 - 	-
+2016-02-21 00:45:12	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-21 00:45:12	 - 	- -- BitlBee development team.
+2016-02-21 00:45:12	 - 	-
+2016-02-21 00:45:12	 - 	- ... Buzzing, haha, get it?
+2016-02-21 00:45:12	 - 	End of MOTD
+2016-02-21 00:45:12	 - 	User mode [+s] by fsociety
+2016-02-21 00:45:12	 - 	User mode [+R] by fsociety
+2016-02-21 12:02:24	 - 	error406 :Invalid channel name
+2016-02-21 12:02:24		[12:02]
+2016-02-21 12:52:23	 - 	irc: disconnected from server
+2016-02-21 12:52:23		[12:52]
+2016-02-21 17:51:21	 - 	irc: connecting to server localhost/6667...
+2016-02-21 17:51:21		[17:51]
+2016-02-21 17:51:21	 - 	irc: connected to localhost/6667 (::1)
+2016-02-21 17:51:21	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-21 17:51:21	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-21 17:51:21	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-21 17:51:21	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-21 17:51:21	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-21 17:51:21	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-21 17:51:21	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-21 17:51:21	 - 	- localhost Message Of The Day -
+2016-02-21 17:51:21	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-21 17:51:21	 - 	-
+2016-02-21 17:51:21	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-21 17:51:21	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-21 17:51:21	 - 	-
+2016-02-21 17:51:21	 - 	- You are getting this message because the server administrator has not
+2016-02-21 17:51:21	 - 	- yet had the time (or need) to change it.
+2016-02-21 17:51:21	 - 	-
+2016-02-21 17:51:21	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-21 17:51:21	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-21 17:51:21	 - 	- information.
+2016-02-21 17:51:21	 - 	-
+2016-02-21 17:51:21	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-21 17:51:21	 - 	- -- BitlBee development team.
+2016-02-21 17:51:21	 - 	-
+2016-02-21 17:51:21	 - 	- ... Buzzing, haha, get it?
+2016-02-21 17:51:21	 - 	End of MOTD
+2016-02-21 17:51:21	 - 	User mode [+s] by fsociety
+2016-02-21 17:51:21	 - 	User mode [+R] by fsociety
+2016-02-21 20:00:07	 !!! 	BitlBee crashed! (SIGSEGV received)
+2016-02-21 20:00:07		[20:00]
+2016-02-21 20:00:07	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-21 20:00:07	 - 	irc: disconnecting from server...
+2016-02-21 20:00:07	 - 	irc: disconnected from server
+2016-02-21 20:00:07	 - 	irc: reconnecting to server in 10 seconds
+2016-02-21 20:00:17	 - 	irc: reconnecting to server...
+2016-02-21 20:00:17	 - 	irc: connecting to server localhost/6667...
+2016-02-21 20:00:17	 - 	irc: connected to localhost/6667 (::1)
+2016-02-21 20:00:17	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-21 20:00:17	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-21 20:00:17	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-21 20:00:17	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-21 20:00:17	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-21 20:00:17	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-21 20:00:17	 - 	- localhost Message Of The Day -
+2016-02-21 20:00:17	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-21 20:00:17	 - 	-
+2016-02-21 20:00:17	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-21 20:00:17	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-21 20:00:17	 - 	-
+2016-02-21 20:00:17	 - 	- You are getting this message because the server administrator has not
+2016-02-21 20:00:17	 - 	- yet had the time (or need) to change it.
+2016-02-21 20:00:17	 - 	-
+2016-02-21 20:00:17	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-21 20:00:17	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-21 20:00:17	 - 	- information.
+2016-02-21 20:00:17	 - 	-
+2016-02-21 20:00:17	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-21 20:00:17	 - 	- -- BitlBee development team.
+2016-02-21 20:00:17	 - 	-
+2016-02-21 20:00:17	 - 	- ... Buzzing, haha, get it?
+2016-02-21 20:00:17	 - 	End of MOTD
+2016-02-21 20:00:17	 - 	User mode [+s] by fsociety
+2016-02-21 20:00:17	 - 	User mode [+R] by fsociety
+2016-02-21 20:06:00		[20:00]
+2016-02-21 21:55:25	 - 	irc: disconnected from server
+2016-02-21 21:55:25		[21:55]
+2016-02-22 09:20:47	 - 	irc: connecting to server localhost/6667...
+2016-02-22 09:20:47		[09:20]
+2016-02-22 09:20:47	 - 	irc: connected to localhost/6667 (::1)
+2016-02-22 09:20:47	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-22 09:20:47	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-22 09:20:47	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-22 09:20:47	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-22 09:20:47	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-22 09:20:47	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-22 09:20:47	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-22 09:20:47	 - 	- localhost Message Of The Day -
+2016-02-22 09:20:47	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-22 09:20:47	 - 	-
+2016-02-22 09:20:47	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-22 09:20:47	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-22 09:20:47	 - 	-
+2016-02-22 09:20:47	 - 	- You are getting this message because the server administrator has not
+2016-02-22 09:20:47	 - 	- yet had the time (or need) to change it.
+2016-02-22 09:20:47	 - 	-
+2016-02-22 09:20:47	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-22 09:20:47	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-22 09:20:47	 - 	- information.
+2016-02-22 09:20:47	 - 	-
+2016-02-22 09:20:47	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-22 09:20:47	 - 	- -- BitlBee development team.
+2016-02-22 09:20:47	 - 	-
+2016-02-22 09:20:47	 - 	- ... Buzzing, haha, get it?
+2016-02-22 09:20:47	 - 	End of MOTD
+2016-02-22 09:20:47	 - 	User mode [+s] by fsociety
+2016-02-22 09:20:47	 - 	User mode [+R] by fsociety
+2016-02-22 12:20:46	 - 	irc: disconnected from server
+2016-02-22 12:20:46		[12:20]
+2016-02-22 12:20:47	 - 	irc: connecting to server localhost/6667...
+2016-02-22 12:20:47		[12:20]
+2016-02-22 12:20:47	 - 	irc: connected to localhost/6667 (::1)
+2016-02-22 12:20:47	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-22 12:20:47	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-22 12:20:47	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-22 12:20:47	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-22 12:20:47	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-22 12:20:47	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-22 12:20:47	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-22 12:20:47	 - 	- localhost Message Of The Day -
+2016-02-22 12:20:47	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-22 12:20:47	 - 	-
+2016-02-22 12:20:47	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-22 12:20:47	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-22 12:20:47	 - 	-
+2016-02-22 12:20:47	 - 	- You are getting this message because the server administrator has not
+2016-02-22 12:20:47	 - 	- yet had the time (or need) to change it.
+2016-02-22 12:20:47	 - 	-
+2016-02-22 12:20:47	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-22 12:20:47	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-22 12:20:47	 - 	- information.
+2016-02-22 12:20:47	 - 	-
+2016-02-22 12:20:47	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-22 12:20:47	 - 	- -- BitlBee development team.
+2016-02-22 12:20:47	 - 	-
+2016-02-22 12:20:47	 - 	- ... Buzzing, haha, get it?
+2016-02-22 12:20:47	 - 	End of MOTD
+2016-02-22 12:20:47	 - 	User mode [+s] by fsociety
+2016-02-22 12:20:47	 - 	User mode [+R] by fsociety
+2016-02-22 16:28:56	 !!! 	Closing link: BitlBee server shutting down
+2016-02-22 16:28:56		[16:28]
+2016-02-22 16:28:56	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-22 16:28:56	 - 	irc: disconnecting from server...
+2016-02-22 16:28:56	 - 	irc: disconnected from server
+2016-02-22 16:28:56	 - 	irc: reconnecting to server in 10 seconds
+2016-02-22 16:28:58	 - 	irc: disconnected from server
+2016-02-22 16:35:03	 - 	irc: connecting to server localhost/6667...
+2016-02-22 16:35:03		[16:35]
+2016-02-22 16:35:03	 - 	irc: connected to localhost/6667 (::1)
+2016-02-22 16:35:03	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-22 16:35:03	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-22 16:35:03	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-22 16:35:03	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-22 16:35:03	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-22 16:35:03	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-22 16:35:03	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-22 16:35:03	 - 	- localhost Message Of The Day -
+2016-02-22 16:35:03	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-22 16:35:03	 - 	-
+2016-02-22 16:35:03	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-22 16:35:03	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-22 16:35:03	 - 	-
+2016-02-22 16:35:03	 - 	- You are getting this message because the server administrator has not
+2016-02-22 16:35:03	 - 	- yet had the time (or need) to change it.
+2016-02-22 16:35:03	 - 	-
+2016-02-22 16:35:03	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-22 16:35:03	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-22 16:35:03	 - 	- information.
+2016-02-22 16:35:03	 - 	-
+2016-02-22 16:35:03	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-22 16:35:03	 - 	- -- BitlBee development team.
+2016-02-22 16:35:03	 - 	-
+2016-02-22 16:35:03	 - 	- ... Buzzing, haha, get it?
+2016-02-22 16:35:03	 - 	End of MOTD
+2016-02-22 16:35:03	 - 	User mode [+s] by fsociety
+2016-02-22 16:35:03	 - 	User mode [+R] by fsociety
+2016-02-22 16:44:02	 - 	irc: disconnected from server
+2016-02-23 01:39:38	 - 	irc: connecting to server localhost/6667...
+2016-02-23 01:39:38		[01:39]
+2016-02-23 01:39:38	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 01:39:38	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 01:39:38	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 01:39:38	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 01:39:38	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 01:39:38	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 01:39:38	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 01:39:38	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 01:39:38	 - 	- localhost Message Of The Day -
+2016-02-23 01:39:38	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 01:39:38	 - 	-
+2016-02-23 01:39:38	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 01:39:38	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 01:39:38	 - 	-
+2016-02-23 01:39:38	 - 	- You are getting this message because the server administrator has not
+2016-02-23 01:39:38	 - 	- yet had the time (or need) to change it.
+2016-02-23 01:39:38	 - 	-
+2016-02-23 01:39:38	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 01:39:38	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 01:39:38	 - 	- information.
+2016-02-23 01:39:38	 - 	-
+2016-02-23 01:39:38	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 01:39:38	 - 	- -- BitlBee development team.
+2016-02-23 01:39:38	 - 	-
+2016-02-23 01:39:38	 - 	- ... Buzzing, haha, get it?
+2016-02-23 01:39:38	 - 	End of MOTD
+2016-02-23 01:39:38	 - 	User mode [+s] by fsociety
+2016-02-23 01:39:38	 - 	User mode [+R] by fsociety
+2016-02-23 04:13:13	 - 	irc: disconnected from server
+2016-02-23 04:13:13		[04:13]
+2016-02-23 04:13:22	 - 	irc: connecting to server localhost/6667...
+2016-02-23 04:13:22		[04:13]
+2016-02-23 04:13:22	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 04:13:22	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 04:13:22	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 04:13:22	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 04:13:22	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 04:13:22	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 04:13:22	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 04:13:22	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 04:13:22	 - 	- localhost Message Of The Day -
+2016-02-23 04:13:22	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 04:13:22	 - 	-
+2016-02-23 04:13:22	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 04:13:22	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 04:13:22	 - 	-
+2016-02-23 04:13:22	 - 	- You are getting this message because the server administrator has not
+2016-02-23 04:13:22	 - 	- yet had the time (or need) to change it.
+2016-02-23 04:13:22	 - 	-
+2016-02-23 04:13:22	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 04:13:22	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 04:13:22	 - 	- information.
+2016-02-23 04:13:22	 - 	-
+2016-02-23 04:13:22	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 04:13:22	 - 	- -- BitlBee development team.
+2016-02-23 04:13:22	 - 	-
+2016-02-23 04:13:22	 - 	- ... Buzzing, haha, get it?
+2016-02-23 04:13:22	 - 	End of MOTD
+2016-02-23 04:13:22	 - 	User mode [+s] by fsociety
+2016-02-23 04:13:22	 - 	User mode [+R] by fsociety
+2016-02-23 04:13:24	 - 	irc: disconnected from server
+2016-02-23 04:13:30	 - 	irc: connecting to server localhost/6667...
+2016-02-23 04:13:30		[04:13]
+2016-02-23 04:13:30	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 04:13:30	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 04:13:30	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 04:13:30	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 04:13:30	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 04:13:30	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 04:13:30	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 04:13:30	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 04:13:30	 - 	- localhost Message Of The Day -
+2016-02-23 04:13:30	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 04:13:30	 - 	-
+2016-02-23 04:13:30	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 04:13:30	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 04:13:30	 - 	-
+2016-02-23 04:13:30	 - 	- You are getting this message because the server administrator has not
+2016-02-23 04:13:30	 - 	- yet had the time (or need) to change it.
+2016-02-23 04:13:30	 - 	-
+2016-02-23 04:13:30	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 04:13:30	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 04:13:30	 - 	- information.
+2016-02-23 04:13:30	 - 	-
+2016-02-23 04:13:30	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 04:13:30	 - 	- -- BitlBee development team.
+2016-02-23 04:13:30	 - 	-
+2016-02-23 04:13:30	 - 	- ... Buzzing, haha, get it?
+2016-02-23 04:13:30	 - 	End of MOTD
+2016-02-23 04:13:30	 - 	User mode [+s] by fsociety
+2016-02-23 04:13:30	 - 	User mode [+R] by fsociety
+2016-02-23 05:51:37	 - 	irc: disconnected from server
+2016-02-23 05:51:37		[05:51]
+2016-02-23 05:51:48	 - 	irc: connecting to server localhost/6667...
+2016-02-23 05:51:48		[05:51]
+2016-02-23 05:51:48	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 05:51:48	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 05:51:48	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 05:51:48	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 05:51:48	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 05:51:48	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 05:51:48	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 05:51:48	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 05:51:48	 - 	- localhost Message Of The Day -
+2016-02-23 05:51:48	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 05:51:48	 - 	-
+2016-02-23 05:51:48	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 05:51:48	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 05:51:48	 - 	-
+2016-02-23 05:51:48	 - 	- You are getting this message because the server administrator has not
+2016-02-23 05:51:48	 - 	- yet had the time (or need) to change it.
+2016-02-23 05:51:48	 - 	-
+2016-02-23 05:51:48	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 05:51:48	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 05:51:48	 - 	- information.
+2016-02-23 05:51:48	 - 	-
+2016-02-23 05:51:48	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 05:51:48	 - 	- -- BitlBee development team.
+2016-02-23 05:51:48	 - 	-
+2016-02-23 05:51:48	 - 	- ... Buzzing, haha, get it?
+2016-02-23 05:51:48	 - 	End of MOTD
+2016-02-23 05:51:48	 - 	User mode [+s] by fsociety
+2016-02-23 05:51:48	 - 	User mode [+R] by fsociety
+2016-02-23 07:06:57	 - 	irc: disconnected from server
+2016-02-23 07:06:57		[07:06]
+2016-02-23 08:50:39	 - 	irc: connecting to server localhost/6667...
+2016-02-23 08:50:39		[08:50]
+2016-02-23 08:50:39	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 08:50:39	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 08:50:39	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 08:50:39	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 08:50:39	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 08:50:39	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 08:50:39	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 08:50:39	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 08:50:39	 - 	- localhost Message Of The Day -
+2016-02-23 08:50:39	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 08:50:39	 - 	-
+2016-02-23 08:50:39	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 08:50:39	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 08:50:39	 - 	-
+2016-02-23 08:50:39	 - 	- You are getting this message because the server administrator has not
+2016-02-23 08:50:39	 - 	- yet had the time (or need) to change it.
+2016-02-23 08:50:39	 - 	-
+2016-02-23 08:50:39	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 08:50:39	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 08:50:39	 - 	- information.
+2016-02-23 08:50:39	 - 	-
+2016-02-23 08:50:39	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 08:50:39	 - 	- -- BitlBee development team.
+2016-02-23 08:50:39	 - 	-
+2016-02-23 08:50:39	 - 	- ... Buzzing, haha, get it?
+2016-02-23 08:50:39	 - 	End of MOTD
+2016-02-23 08:50:39	 - 	User mode [+s] by fsociety
+2016-02-23 08:50:39	 - 	User mode [+R] by fsociety
+2016-02-23 08:59:08	 - 	irc: disconnected from server
+2016-02-23 08:59:09	 - 	irc: connecting to server localhost/6667...
+2016-02-23 08:59:09		[08:59]
+2016-02-23 08:59:09	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 08:59:09	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 08:59:09	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 08:59:09	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 08:59:09	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 08:59:09	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 08:59:09	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 08:59:09	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 08:59:09	 - 	- localhost Message Of The Day -
+2016-02-23 08:59:09	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 08:59:09	 - 	-
+2016-02-23 08:59:09	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 08:59:09	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 08:59:09	 - 	-
+2016-02-23 08:59:09	 - 	- You are getting this message because the server administrator has not
+2016-02-23 08:59:09	 - 	- yet had the time (or need) to change it.
+2016-02-23 08:59:09	 - 	-
+2016-02-23 08:59:09	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 08:59:09	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 08:59:09	 - 	- information.
+2016-02-23 08:59:09	 - 	-
+2016-02-23 08:59:09	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 08:59:09	 - 	- -- BitlBee development team.
+2016-02-23 08:59:09	 - 	-
+2016-02-23 08:59:09	 - 	- ... Buzzing, haha, get it?
+2016-02-23 08:59:09	 - 	End of MOTD
+2016-02-23 08:59:09	 - 	User mode [+s] by fsociety
+2016-02-23 08:59:09	 - 	User mode [+R] by fsociety
+2016-02-23 10:08:23	 - 	irc: disconnected from server
+2016-02-23 10:08:23		[10:08]
+2016-02-23 10:11:12	 - 	irc: connecting to server localhost/6667...
+2016-02-23 10:11:12		[10:11]
+2016-02-23 10:11:12	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 10:11:12	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 10:11:12	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 10:11:12	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 10:11:12	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 10:11:12	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 10:11:12	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 10:11:12	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 10:11:12	 - 	- localhost Message Of The Day -
+2016-02-23 10:11:12	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 10:11:12	 - 	-
+2016-02-23 10:11:12	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 10:11:12	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 10:11:12	 - 	-
+2016-02-23 10:11:12	 - 	- You are getting this message because the server administrator has not
+2016-02-23 10:11:12	 - 	- yet had the time (or need) to change it.
+2016-02-23 10:11:12	 - 	-
+2016-02-23 10:11:12	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 10:11:12	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 10:11:12	 - 	- information.
+2016-02-23 10:11:12	 - 	-
+2016-02-23 10:11:12	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 10:11:12	 - 	- -- BitlBee development team.
+2016-02-23 10:11:12	 - 	-
+2016-02-23 10:11:12	 - 	- ... Buzzing, haha, get it?
+2016-02-23 10:11:12	 - 	End of MOTD
+2016-02-23 10:11:12	 - 	User mode [+s] by fsociety
+2016-02-23 10:11:12	 - 	User mode [+R] by fsociety
+2016-02-23 11:03:29	 - 	irc: disconnected from server
+2016-02-23 11:03:29		[11:03]
+2016-02-23 11:03:30	 - 	irc: connecting to server localhost/6667...
+2016-02-23 11:03:30		[11:03]
+2016-02-23 11:03:30	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 11:03:30	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 11:03:30	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 11:03:30	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 11:03:30	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 11:03:30	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 11:03:30	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 11:03:30	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 11:03:30	 - 	- localhost Message Of The Day -
+2016-02-23 11:03:30	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 11:03:30	 - 	-
+2016-02-23 11:03:30	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 11:03:30	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 11:03:30	 - 	-
+2016-02-23 11:03:30	 - 	- You are getting this message because the server administrator has not
+2016-02-23 11:03:30	 - 	- yet had the time (or need) to change it.
+2016-02-23 11:03:30	 - 	-
+2016-02-23 11:03:30	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 11:03:30	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 11:03:30	 - 	- information.
+2016-02-23 11:03:30	 - 	-
+2016-02-23 11:03:30	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 11:03:30	 - 	- -- BitlBee development team.
+2016-02-23 11:03:30	 - 	-
+2016-02-23 11:03:30	 - 	- ... Buzzing, haha, get it?
+2016-02-23 11:03:30	 - 	End of MOTD
+2016-02-23 11:03:30	 - 	User mode [+s] by fsociety
+2016-02-23 11:03:30	 - 	User mode [+R] by fsociety
+2016-02-23 11:37:31	 - 	irc: disconnected from server
+2016-02-23 11:37:31		[11:37]
+2016-02-23 11:37:33	 - 	irc: connecting to server localhost/6667...
+2016-02-23 11:37:33		[11:37]
+2016-02-23 11:37:33	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 11:37:33	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 11:37:33	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 11:37:33	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 11:37:33	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 11:37:33	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 11:37:33	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 11:37:33	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 11:37:33	 - 	- localhost Message Of The Day -
+2016-02-23 11:37:33	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 11:37:33	 - 	-
+2016-02-23 11:37:33	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 11:37:33	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 11:37:33	 - 	-
+2016-02-23 11:37:33	 - 	- You are getting this message because the server administrator has not
+2016-02-23 11:37:33	 - 	- yet had the time (or need) to change it.
+2016-02-23 11:37:33	 - 	-
+2016-02-23 11:37:33	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 11:37:33	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 11:37:33	 - 	- information.
+2016-02-23 11:37:33	 - 	-
+2016-02-23 11:37:33	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 11:37:33	 - 	- -- BitlBee development team.
+2016-02-23 11:37:33	 - 	-
+2016-02-23 11:37:33	 - 	- ... Buzzing, haha, get it?
+2016-02-23 11:37:33	 - 	End of MOTD
+2016-02-23 11:37:33	 - 	User mode [+s] by fsociety
+2016-02-23 11:37:33	 - 	User mode [+R] by fsociety
+2016-02-23 12:59:09	 !!! 	Closing link: BitlBee server shutting down
+2016-02-23 12:59:09		[12:59]
+2016-02-23 12:59:09	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-23 12:59:09	 - 	irc: disconnecting from server...
+2016-02-23 12:59:09	 - 	irc: disconnected from server
+2016-02-23 12:59:09	 - 	irc: reconnecting to server in 10 seconds
+2016-02-23 12:59:11	 - 	irc: disconnected from server
+2016-02-23 20:03:26	 - 	irc: connecting to server localhost/6667...
+2016-02-23 20:03:26		[20:03]
+2016-02-23 20:03:26	 - 	irc: connected to localhost/6667 (::1)
+2016-02-23 20:03:26	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-23 20:03:26	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-23 20:03:26	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-23 20:03:26	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-23 20:03:26	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-23 20:03:26	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-23 20:03:26	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-23 20:03:26	 - 	- localhost Message Of The Day -
+2016-02-23 20:03:26	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-23 20:03:26	 - 	-
+2016-02-23 20:03:26	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-23 20:03:26	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-23 20:03:26	 - 	-
+2016-02-23 20:03:26	 - 	- You are getting this message because the server administrator has not
+2016-02-23 20:03:26	 - 	- yet had the time (or need) to change it.
+2016-02-23 20:03:26	 - 	-
+2016-02-23 20:03:26	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-23 20:03:26	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-23 20:03:26	 - 	- information.
+2016-02-23 20:03:26	 - 	-
+2016-02-23 20:03:26	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-23 20:03:26	 - 	- -- BitlBee development team.
+2016-02-23 20:03:26	 - 	-
+2016-02-23 20:03:26	 - 	- ... Buzzing, haha, get it?
+2016-02-23 20:03:26	 - 	End of MOTD
+2016-02-23 20:03:26	 - 	User mode [+s] by fsociety
+2016-02-23 20:03:26	 - 	User mode [+R] by fsociety
+2016-02-24 00:31:06	 - 	irc: disconnected from server
+2016-02-24 00:31:06		[00:31]
+2016-02-24 00:43:27	 - 	irc: connecting to server localhost/6667...
+2016-02-24 00:43:27		[00:43]
+2016-02-24 00:43:27	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 00:43:27	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 00:43:27	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 00:43:27	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 00:43:27	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 00:43:27	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 00:43:27	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 00:43:27	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 00:43:27	 - 	- localhost Message Of The Day -
+2016-02-24 00:43:27	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 00:43:27	 - 	-
+2016-02-24 00:43:27	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 00:43:27	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 00:43:27	 - 	-
+2016-02-24 00:43:27	 - 	- You are getting this message because the server administrator has not
+2016-02-24 00:43:27	 - 	- yet had the time (or need) to change it.
+2016-02-24 00:43:27	 - 	-
+2016-02-24 00:43:27	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 00:43:27	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 00:43:27	 - 	- information.
+2016-02-24 00:43:27	 - 	-
+2016-02-24 00:43:27	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 00:43:27	 - 	- -- BitlBee development team.
+2016-02-24 00:43:27	 - 	-
+2016-02-24 00:43:27	 - 	- ... Buzzing, haha, get it?
+2016-02-24 00:43:27	 - 	End of MOTD
+2016-02-24 00:43:27	 - 	User mode [+s] by fsociety
+2016-02-24 00:43:27	 - 	User mode [+R] by fsociety
+2016-02-24 00:47:42	 - 	irc: disconnected from server
+2016-02-24 00:48:49	 - 	irc: connecting to server localhost/6667...
+2016-02-24 00:48:49		[00:48]
+2016-02-24 00:48:49	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 00:48:49	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 00:48:49	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 00:48:49	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 00:48:49	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 00:48:49	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 00:48:49	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 00:48:49	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 00:48:49	 - 	- localhost Message Of The Day -
+2016-02-24 00:48:49	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 00:48:49	 - 	-
+2016-02-24 00:48:49	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 00:48:49	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 00:48:49	 - 	-
+2016-02-24 00:48:49	 - 	- You are getting this message because the server administrator has not
+2016-02-24 00:48:49	 - 	- yet had the time (or need) to change it.
+2016-02-24 00:48:49	 - 	-
+2016-02-24 00:48:49	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 00:48:49	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 00:48:49	 - 	- information.
+2016-02-24 00:48:49	 - 	-
+2016-02-24 00:48:49	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 00:48:49	 - 	- -- BitlBee development team.
+2016-02-24 00:48:49	 - 	-
+2016-02-24 00:48:49	 - 	- ... Buzzing, haha, get it?
+2016-02-24 00:48:49	 - 	End of MOTD
+2016-02-24 00:48:49	 - 	User mode [+s] by fsociety
+2016-02-24 00:48:49	 - 	User mode [+R] by fsociety
+2016-02-24 00:48:55	 - 	irc: disconnected from server
+2016-02-24 00:49:44	 - 	irc: connecting to server localhost/6667...
+2016-02-24 00:49:44		[00:49]
+2016-02-24 00:49:44	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 00:49:44	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 00:49:44	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 00:49:44	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 00:49:44	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 00:49:44	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 00:49:44	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 00:49:44	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 00:49:44	 - 	- localhost Message Of The Day -
+2016-02-24 00:49:44	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 00:49:44	 - 	-
+2016-02-24 00:49:44	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 00:49:44	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 00:49:44	 - 	-
+2016-02-24 00:49:44	 - 	- You are getting this message because the server administrator has not
+2016-02-24 00:49:44	 - 	- yet had the time (or need) to change it.
+2016-02-24 00:49:44	 - 	-
+2016-02-24 00:49:44	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 00:49:44	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 00:49:44	 - 	- information.
+2016-02-24 00:49:44	 - 	-
+2016-02-24 00:49:44	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 00:49:44	 - 	- -- BitlBee development team.
+2016-02-24 00:49:44	 - 	-
+2016-02-24 00:49:44	 - 	- ... Buzzing, haha, get it?
+2016-02-24 00:49:44	 - 	End of MOTD
+2016-02-24 00:49:44	 - 	User mode [+s] by fsociety
+2016-02-24 00:49:44	 - 	User mode [+R] by fsociety
+2016-02-24 00:49:55	 - 	irc: disconnected from server
+2016-02-24 00:50:18	 - 	irc: connecting to server localhost/6667...
+2016-02-24 00:50:18		[00:50]
+2016-02-24 00:50:18	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 00:50:18	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 00:50:18	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 00:50:18	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 00:50:18	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 00:50:18	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 00:50:18	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 00:50:18	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 00:50:18	 - 	- localhost Message Of The Day -
+2016-02-24 00:50:18	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 00:50:18	 - 	-
+2016-02-24 00:50:18	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 00:50:18	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 00:50:18	 - 	-
+2016-02-24 00:50:18	 - 	- You are getting this message because the server administrator has not
+2016-02-24 00:50:18	 - 	- yet had the time (or need) to change it.
+2016-02-24 00:50:18	 - 	-
+2016-02-24 00:50:18	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 00:50:18	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 00:50:18	 - 	- information.
+2016-02-24 00:50:18	 - 	-
+2016-02-24 00:50:18	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 00:50:18	 - 	- -- BitlBee development team.
+2016-02-24 00:50:18	 - 	-
+2016-02-24 00:50:18	 - 	- ... Buzzing, haha, get it?
+2016-02-24 00:50:18	 - 	End of MOTD
+2016-02-24 00:50:18	 - 	User mode [+s] by fsociety
+2016-02-24 00:50:18	 - 	User mode [+R] by fsociety
+2016-02-24 00:50:35	 - 	irc: disconnected from server
+2016-02-24 00:51:30	 - 	irc: connecting to server localhost/6667...
+2016-02-24 00:51:30		[00:51]
+2016-02-24 00:51:30	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 00:51:30	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 00:51:30	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 00:51:30	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 00:51:30	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 00:51:30	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 00:51:30	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 00:51:30	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 00:51:30	 - 	- localhost Message Of The Day -
+2016-02-24 00:51:30	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 00:51:30	 - 	-
+2016-02-24 00:51:30	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 00:51:30	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 00:51:30	 - 	-
+2016-02-24 00:51:30	 - 	- You are getting this message because the server administrator has not
+2016-02-24 00:51:30	 - 	- yet had the time (or need) to change it.
+2016-02-24 00:51:30	 - 	-
+2016-02-24 00:51:30	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 00:51:30	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 00:51:30	 - 	- information.
+2016-02-24 00:51:30	 - 	-
+2016-02-24 00:51:30	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 00:51:30	 - 	- -- BitlBee development team.
+2016-02-24 00:51:30	 - 	-
+2016-02-24 00:51:30	 - 	- ... Buzzing, haha, get it?
+2016-02-24 00:51:30	 - 	End of MOTD
+2016-02-24 00:51:30	 - 	User mode [+s] by fsociety
+2016-02-24 00:51:30	 - 	User mode [+R] by fsociety
+2016-02-24 00:51:40	 - 	irc: disconnected from server
+2016-02-24 00:51:44	 - 	irc: connecting to server localhost/6667...
+2016-02-24 00:51:44		[00:51]
+2016-02-24 00:51:44	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 00:51:44	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 00:51:44	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 00:51:44	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 00:51:44	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 00:51:44	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 00:51:44	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 00:51:44	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 00:51:44	 - 	- localhost Message Of The Day -
+2016-02-24 00:51:44	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 00:51:44	 - 	-
+2016-02-24 00:51:44	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 00:51:44	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 00:51:44	 - 	-
+2016-02-24 00:51:44	 - 	- You are getting this message because the server administrator has not
+2016-02-24 00:51:44	 - 	- yet had the time (or need) to change it.
+2016-02-24 00:51:44	 - 	-
+2016-02-24 00:51:44	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 00:51:44	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 00:51:44	 - 	- information.
+2016-02-24 00:51:44	 - 	-
+2016-02-24 00:51:44	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 00:51:44	 - 	- -- BitlBee development team.
+2016-02-24 00:51:44	 - 	-
+2016-02-24 00:51:44	 - 	- ... Buzzing, haha, get it?
+2016-02-24 00:51:44	 - 	End of MOTD
+2016-02-24 00:51:44	 - 	User mode [+s] by fsociety
+2016-02-24 00:51:44	 - 	User mode [+R] by fsociety
+2016-02-24 00:51:49	 - 	irc: disconnected from server
+2016-02-24 01:17:19	 - 	irc: connecting to server localhost/6667...
+2016-02-24 01:17:19		[01:17]
+2016-02-24 01:17:19	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 01:17:19	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 01:17:19	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 01:17:19	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 01:17:19	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 01:17:19	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 01:17:19	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 01:17:19	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 01:17:19	 - 	- localhost Message Of The Day -
+2016-02-24 01:17:19	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 01:17:19	 - 	-
+2016-02-24 01:17:19	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 01:17:19	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 01:17:19	 - 	-
+2016-02-24 01:17:19	 - 	- You are getting this message because the server administrator has not
+2016-02-24 01:17:19	 - 	- yet had the time (or need) to change it.
+2016-02-24 01:17:19	 - 	-
+2016-02-24 01:17:19	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 01:17:19	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 01:17:19	 - 	- information.
+2016-02-24 01:17:19	 - 	-
+2016-02-24 01:17:19	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 01:17:19	 - 	- -- BitlBee development team.
+2016-02-24 01:17:19	 - 	-
+2016-02-24 01:17:19	 - 	- ... Buzzing, haha, get it?
+2016-02-24 01:17:19	 - 	End of MOTD
+2016-02-24 01:17:19	 - 	User mode [+s] by fsociety
+2016-02-24 01:17:19	 - 	User mode [+R] by fsociety
+2016-02-24 01:17:26	 - 	irc: disconnected from server
+2016-02-24 01:18:10	 - 	irc: connecting to server localhost/6667...
+2016-02-24 01:18:10		[01:18]
+2016-02-24 01:18:10	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 01:18:10	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 01:18:10	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 01:18:10	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 01:18:10	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 01:18:10	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 01:18:10	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 01:18:10	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 01:18:10	 - 	- localhost Message Of The Day -
+2016-02-24 01:18:10	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 01:18:10	 - 	-
+2016-02-24 01:18:10	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 01:18:10	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 01:18:10	 - 	-
+2016-02-24 01:18:10	 - 	- You are getting this message because the server administrator has not
+2016-02-24 01:18:10	 - 	- yet had the time (or need) to change it.
+2016-02-24 01:18:10	 - 	-
+2016-02-24 01:18:10	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 01:18:10	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 01:18:10	 - 	- information.
+2016-02-24 01:18:10	 - 	-
+2016-02-24 01:18:10	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 01:18:10	 - 	- -- BitlBee development team.
+2016-02-24 01:18:10	 - 	-
+2016-02-24 01:18:10	 - 	- ... Buzzing, haha, get it?
+2016-02-24 01:18:10	 - 	End of MOTD
+2016-02-24 01:18:10	 - 	User mode [+s] by fsociety
+2016-02-24 01:18:10	 - 	User mode [+R] by fsociety
+2016-02-24 07:22:45	 - 	irc: connecting to server localhost/6667...
+2016-02-24 07:22:45		[07:22]
+2016-02-24 07:22:45	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 07:22:45	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 07:22:45	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 07:22:45	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 07:22:45	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 07:22:45	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 07:22:45	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 07:22:45	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 07:22:45	 - 	- localhost Message Of The Day -
+2016-02-24 07:22:45	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 07:22:45	 - 	-
+2016-02-24 07:22:45	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 07:22:45	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 07:22:45	 - 	-
+2016-02-24 07:22:45	 - 	- You are getting this message because the server administrator has not
+2016-02-24 07:22:45	 - 	- yet had the time (or need) to change it.
+2016-02-24 07:22:45	 - 	-
+2016-02-24 07:22:45	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 07:22:45	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 07:22:45	 - 	- information.
+2016-02-24 07:22:45	 - 	-
+2016-02-24 07:22:45	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 07:22:45	 - 	- -- BitlBee development team.
+2016-02-24 07:22:45	 - 	-
+2016-02-24 07:22:45	 - 	- ... Buzzing, haha, get it?
+2016-02-24 07:22:45	 - 	End of MOTD
+2016-02-24 07:22:45	 - 	User mode [+s] by fsociety
+2016-02-24 07:22:45	 - 	User mode [+R] by fsociety
+2016-02-24 07:22:49	 - 	irc: disconnected from server
+2016-02-24 07:22:53	 - 	irc: connecting to server localhost/6667...
+2016-02-24 07:22:53		[07:22]
+2016-02-24 07:22:53	 - 	irc: connected to localhost/6667 (::1)
+2016-02-24 07:22:53	 - 	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 07:22:53	 - 	Welcome to the BitlBee-LIBPURPLE gateway, fsociety
+2016-02-24 07:22:53	 - 	MSG(&bitlbee): identify dot.dot.dot
+2016-02-24 07:22:53	 - 	Host localhost is running BitlBee-LIBPURPLE 3.4.1 Linux/x86_64.
+2016-02-24 07:22:53	 - 	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 07:22:53	 - 	localhost 3.4.1 abiswRo ntC
+2016-02-24 07:22:53	 - 	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 07:22:53	 - 	- localhost Message Of The Day -
+2016-02-24 07:22:53	 - 	- Welcome to the BitlBee server at localhost.
+2016-02-24 07:22:53	 - 	-
+2016-02-24 07:22:53	 - 	- This server is running BitlBee version 3.4.1.
+2016-02-24 07:22:53	 - 	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 07:22:53	 - 	-
+2016-02-24 07:22:53	 - 	- You are getting this message because the server administrator has not
+2016-02-24 07:22:53	 - 	- yet had the time (or need) to change it.
+2016-02-24 07:22:53	 - 	-
+2016-02-24 07:22:53	 - 	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 07:22:53	 - 	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 07:22:53	 - 	- information.
+2016-02-24 07:22:53	 - 	-
+2016-02-24 07:22:53	 - 	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 07:22:53	 - 	- -- BitlBee development team.
+2016-02-24 07:22:53	 - 	-
+2016-02-24 07:22:53	 - 	- ... Buzzing, haha, get it?
+2016-02-24 07:22:53	 - 	End of MOTD
+2016-02-24 07:22:53	 - 	User mode [+s] by fsociety
+2016-02-24 07:22:53	 - 	User mode [+R] by fsociety
+2016-02-24 19:04:39	 !!! 	Closing link: BitlBee server shutting down
+2016-02-24 19:04:39		[19:04]
+2016-02-24 19:04:39	 !!! 	irc: reading data on socket: error 0 (connection closed by peer)
+2016-02-24 19:04:39	 - 	irc: disconnecting from server...
+2016-02-24 19:04:39	 - 	irc: disconnected from server
+2016-02-24 19:04:39	 - 	irc: reconnecting to server in 10 seconds
+2016-02-24 19:04:43	 - 	irc: disconnected from server

@@ -1,0 +1,1439 @@
+2016-02-18 21:52:48	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-18 21:52:48		[21:52]
+2016-02-18 21:52:48	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-18 21:52:48	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-18 21:52:48	 - 	Channel #linuxvoice: 77 nicks (1 op, 0 voices, 76 normals)
+2016-02-18 21:52:48	 - 	Notice(asimov.freenode.net): [freenode-info] channel flooding and no channel staff around to help? Please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2016-02-18 21:52:50	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-18 21:58:00		[21:52]
+2016-02-18 22:01:46	@degville	Devilment: I loved Boyhood. Found it very moving, despite not having much in common with the 'boy'. Watched The Revenant last night. 10/10 for effort. 4/10 for the film itself.
+2016-02-18 22:02:20	fs0ciety	Something about Leo I just don't like
+2016-02-18 22:02:26	fs0ciety	I think he tries that little bit too hard
+2016-02-18 22:03:07	@degville	Yeah. I think he's well cast in Wolf of Wall Street. And also Django Unchained. Tom Hardy would have been better for the lead in The Revenant imo.
+2016-02-18 22:04:51	fs0ciety	Hardy's great. Legend was awesome.. I kept putting on the voice of Ronnie for days
+2016-02-18 22:05:16	fs0ciety	Walked around the house and speaking to my housemates like that. Haha they probably got irritated, but I amused myself :)
+2016-02-18 22:06:41	fs0ciety	i'd imagine Hardy would be a big contender for the next Bond actually
+2016-02-18 22:06:55	 > 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has joined #linuxvoice
+2016-02-18 22:12:00		[22:06]
+2016-02-18 22:12:09	 < 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has quit (Ping timeout: 276 seconds)
+2016-02-18 22:14:57	@degville	Yeah, I think you're right, unless he decline the potential stereotype. He's one of those actors who seems to actually act, rather than relying on the cliche of menace.
+2016-02-18 22:16:45	 > 	mnavrati (milan@nat/redhat/x-ggrgoghxlgljsudt) has joined #linuxvoice
+2016-02-18 22:22:00		[22:16]
+2016-02-18 22:39:43	jherrmann	I've heard that Tom Hardy might be the next Wolverine, too, now that Hugh Jackman's stepping down
+2016-02-18 22:39:43		[22:39]
+2016-02-18 22:51:40	 - 	irc: disconnected from server
+2016-02-18 22:52:29	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-18 22:52:29		[22:52]
+2016-02-18 22:52:29	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-18 22:52:29	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-18 22:52:29	 - 	Channel #linuxvoice: 78 nicks (1 op, 0 voices, 77 normals)
+2016-02-18 22:52:39	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-18 22:58:00		[22:52]
+2016-02-18 23:07:40	 > 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has joined #linuxvoice
+2016-02-18 23:12:19	 < 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has quit (Ping timeout: 248 seconds)
+2016-02-18 23:18:00		[23:12]
+2016-02-18 23:21:51	 - 	irc: disconnected from server
+2016-02-18 23:22:13	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-18 23:22:13		[23:22]
+2016-02-18 23:22:13	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-18 23:22:13	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-18 23:22:13	 - 	Channel #linuxvoice: 78 nicks (1 op, 0 voices, 77 normals)
+2016-02-18 23:22:23	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-18 23:28:00		[23:22]
+2016-02-18 23:28:57	Devilment	In Django Unchained, enforced method acting by Leo. He really did cut his hand on the glass
+2016-02-18 23:29:36	Devilment	It's why the rest of the actors are looking at each other shiftedly
+2016-02-18 23:30:00	Devilment	They were expecting QT to shout "Cut!" (No pun intended)
+2016-02-18 23:30:45	 > 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has joined #linuxvoice
+2016-02-18 23:31:15	Devilment	I wasn't a fan of Leo when I was younger, mainly because of the Titanic hype, but was won over by his performance in 'Catch Me If You Can'
+2016-02-18 23:31:58	@degville	I felt the same. Didn't know about the hand... and yes, Catch Me If You Can is good.
+2016-02-18 23:36:00	 < 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has quit (Ping timeout: 276 seconds)
+2016-02-18 23:36:31	fs0ciety	One actor who I found was terribly underated was Adrian Brody
+2016-02-18 23:36:36	fs0ciety	Watch Detachment
+2016-02-18 23:36:44	fs0ciety	probably one of the best films I've seen in the past decade
+2016-02-18 23:42:00		[23:36]
+2016-02-18 23:42:28	 - 	irc: disconnected from server
+2016-02-18 23:45:04	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-18 23:45:04		[23:45]
+2016-02-18 23:45:04	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-18 23:45:04	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-18 23:45:04	 - 	Channel #linuxvoice: 78 nicks (1 op, 0 voices, 77 normals)
+2016-02-18 23:45:13	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-18 23:48:18	 - 	irc: disconnected from server
+2016-02-18 23:49:03	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-18 23:49:03		[23:49]
+2016-02-18 23:49:03	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-18 23:49:03	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-18 23:49:03	 - 	Channel #linuxvoice: 78 nicks (1 op, 0 voices, 77 normals)
+2016-02-18 23:49:12	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-18 23:52:21	 > 	TraceyC (~TraceyC@208.74.121.106) has joined #linuxvoice
+2016-02-18 23:58:00		[23:52]
+2016-02-19 00:08:29	 - 	irc: disconnected from server
+2016-02-19 00:11:04	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-19 00:11:04		[00:11]
+2016-02-19 00:11:04	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-19 00:11:04	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-19 00:11:04	 - 	Channel #linuxvoice: 78 nicks (1 op, 0 voices, 77 normals)
+2016-02-19 00:11:14	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-19 00:12:55	 > 	webpigeon (~quassel@kat.vps.livebytes.co.uk) has joined #linuxvoice
+2016-02-19 00:13:01	 - 	irc: disconnected from server
+2016-02-19 00:14:31	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-19 00:14:31		[00:14]
+2016-02-19 00:14:31	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-19 00:14:31	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-19 00:14:31	 - 	Channel #linuxvoice: 79 nicks (1 op, 0 voices, 78 normals)
+2016-02-19 00:14:41	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-19 00:20:00		[00:14]
+2016-02-19 00:21:46	 > 	jaake (~h4ckm3@129.59.122.17) has joined #linuxvoice
+2016-02-19 00:27:00		[00:21]
+2016-02-19 00:41:47	Devilment	http://blog.dustinkirkland.com/2016/02/zfs-is-fs-for-containers-in-ubuntu-1604.html
+2016-02-19 00:42:13	Devilment	If I'm reading that right, Canonical have baked ZFS into their kernel versions
+2016-02-19 00:42:13		[00:42]
+2016-02-19 00:45:07	TraceyC	neat
+2016-02-19 00:51:00		[00:45]
+2016-02-19 01:01:10	popey	looks that way http://packages.ubuntu.com/search?searchon=contents&keywords=zfs.ko&mode=filename&suite=xenial&arch=any
+2016-02-19 01:04:57	 < 	Arthur_D (~magne@ti0024a400-1474.bb.online.no) has quit (Ping timeout: 250 seconds)
+2016-02-19 01:07:04	 > 	Arthur_D (~magne@ti0024a400-1474.bb.online.no) has joined #linuxvoice
+2016-02-19 01:07:04		[01:07]
+2016-02-19 01:16:03	mcphail	That's an interesting one. Wonder how they are interpreting the licensing issues?
+2016-02-19 01:19:51	popey	This has been raised by a few individuals online, yes.
+2016-02-19 01:23:00	mcphail	I suspect this is all going to end in tears (or a bespoke licensing agreement between Canonical and Oracle)
+2016-02-19 01:23:00		[01:23]
+2016-02-19 01:24:21	popey	maybe such an agreement exists?
+2016-02-19 01:25:22	mcphail	Got to hope so, although it would make me sad as it would make the Ubuntu kernel less free
+2016-02-19 01:25:40	mcphail	(potentially)
+2016-02-19 01:26:00	mcphail	Suppose the GPLv2 would still give protection there
+2016-02-19 01:31:00		[01:26]
+2016-02-19 01:57:32	 < 	jherrmann (jirkah@nat/redhat/x-jwvaovkrntpmbgrn) has quit (Quit: Toodle pip!)
+2016-02-19 01:57:32		[01:57]
+2016-02-19 01:57:37	 < 	mnavrati (milan@nat/redhat/x-ggrgoghxlgljsudt) has quit (Quit: Leaving)
+2016-02-19 01:59:57	Cadair	find of the day: `curl wttr.in`
+2016-02-19 02:00:28	Cadair	although it seems to have gone a little to viral
+2016-02-19 02:02:53	 > 	jimbotux (~jimbotux@fpc3-sgyl30-2-0-cust5.18-2.static.cable.virginm.net) has joined #linuxvoice
+2016-02-19 02:03:01	 > 	mnavrati (milan@nat/redhat/x-lslyncabqwzckbnt) has joined #linuxvoice
+2016-02-19 02:09:00		[02:03]
+2016-02-19 02:13:09	 > 	jherrmann (jirkah@nat/redhat/x-syqjyupnefmitnws) has joined #linuxvoice
+2016-02-19 02:19:00		[02:13]
+2016-02-19 02:21:50	james_olympus	That's cool, but if I didn't use it often I'd soon forget the address and parameters
+2016-02-19 02:27:00		[02:21]
+2016-02-19 02:38:04	 < 	jaake (~h4ckm3@129.59.122.17) has quit (Ping timeout: 255 seconds)
+2016-02-19 02:43:45	 < 	jherrmann (jirkah@nat/redhat/x-syqjyupnefmitnws) has quit (Ping timeout: 250 seconds)
+2016-02-19 02:43:45		[02:43]
+2016-02-19 02:45:18	 < 	TraceyC (~TraceyC@208.74.121.106) has quit (Quit: Off I go into the wild, blue yonder)
+2016-02-19 02:51:00		[02:45]
+2016-02-19 02:55:52	 > 	jaake (~h4ckm3@129.59.122.17) has joined #linuxvoice
+2016-02-19 02:56:47	 > 	jherrmann (jirkah@nat/redhat/x-wegvualavjmdunzs) has joined #linuxvoice
+2016-02-19 03:02:00		[02:56]
+2016-02-19 03:11:36	 < 	mnavrati (milan@nat/redhat/x-lslyncabqwzckbnt) has quit (Quit: Leaving)
+2016-02-19 03:17:00		[03:11]
+2016-02-19 03:21:14	 > 	mnavrati (milan@nat/redhat/x-lplqsdqmqatjanhn) has joined #linuxvoice
+2016-02-19 03:27:00		[03:21]
+2016-02-19 03:37:29	 < 	Arthur_D (~magne@ti0024a400-1474.bb.online.no) has quit (Ping timeout: 240 seconds)
+2016-02-19 03:43:00		[03:37]
+2016-02-19 03:43:48	 > 	Arthur_D (~magne@ti0024a400-1474.bb.online.no) has joined #linuxvoice
+2016-02-19 03:49:00		[03:43]
+2016-02-19 03:49:51	 < 	AdamDBrown (~Thunderbi@233.114-240-116.dynamic.dsl.pth.iprimus.net.au) has quit (Quit: AdamDBrown)
+2016-02-19 03:55:00		[03:49]
+2016-02-19 03:56:41	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-19 04:01:48	 < 	TwistedLucidity (~TwistedLu@cpc80671-stap13-2-0-cust118.12-2.cable.virginm.net) has quit (Quit: Konversation terminated!)
+2016-02-19 04:04:41	 < 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has quit (Ping timeout: 268 seconds)
+2016-02-19 04:06:13	 > 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has joined #linuxvoice
+2016-02-19 04:07:35	 > 	M1C4HTRON13 (~micah@bodhilinux/team/M1C4HTRON13) has joined #linuxvoice
+2016-02-19 04:07:38	 < 	Guest53111 (~Thunderbi@te6compton.te.rl.ac.uk) has quit (Ping timeout: 240 seconds)
+2016-02-19 04:13:00		[04:07]
+2016-02-19 04:15:16	 - 	irc: disconnected from server
+2016-02-19 04:15:41	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-19 04:15:41	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-19 04:15:41	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-19 04:15:41	 - 	Channel #linuxvoice: 78 nicks (1 op, 0 voices, 77 normals)
+2016-02-19 04:15:55	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-19 04:20:43	vertreko	https://www.washingtonpost.com/posteverything/wp/2016/02/18/why-you-should-side-with-apple-not-the-fbi-in-the-san-bernardino-iphone-case/
+2016-02-19 04:20:49	 > 	writtenoff (~writtenof@of1.psych.ubc.ca) has joined #linuxvoice
+2016-02-19 04:25:57	 < 	andybalaam (andybalaam@nat/ibm/x-gntqdrdzknkkslpr) has quit (Remote host closed the connection)
+2016-02-19 04:31:00		[04:25]
+2016-02-19 04:46:42	 < 	jaake (~h4ckm3@129.59.122.17) has quit (Ping timeout: 276 seconds)
+2016-02-19 04:46:42		[04:46]
+2016-02-19 05:03:25	 < 	M1C4HTRON13 (~micah@bodhilinux/team/M1C4HTRON13) has quit (Ping timeout: 255 seconds)
+2016-02-19 05:03:25		[05:03]
+2016-02-19 05:13:20	 > 	georgeowell (~georgeowe@95.149.192.154) has joined #linuxvoice
+2016-02-19 05:19:00		[05:13]
+2016-02-19 05:20:28	 > 	asusk7m550 (~Thunderbi@2001:981:97b3:1:9d5d:720f:b004:bfd6) has joined #linuxvoice
+2016-02-19 05:20:45	 > 	jaake (~h4ckm3@129.59.122.17) has joined #linuxvoice
+2016-02-19 05:24:33	 < 	Arthur_D (~magne@ti0024a400-1474.bb.online.no) has quit (Ping timeout: 240 seconds)
+2016-02-19 05:30:00		[05:24]
+2016-02-19 05:35:13	 > 	TraceyC (~TraceyC@208.74.121.106) has joined #linuxvoice
+2016-02-19 05:40:08	 > 	Arthur_D (~magne@ti0024a400-1474.bb.online.no) has joined #linuxvoice
+2016-02-19 05:43:59	 > 	M1C4HTRON13 (~micah@bodhilinux/team/M1C4HTRON13) has joined #linuxvoice
+2016-02-19 05:48:09	mcphail	Ooh - this looks nice: http://www.worldofspectrum.org/forums/discussion/52113/zx-spectrum-vega-plus
+2016-02-19 05:48:09		[05:48]
+2016-02-19 05:52:21	 > 	towy71 (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has joined #linuxvoice
+2016-02-19 05:54:49	 < 	towy71_ (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has quit (Ping timeout: 240 seconds)
+2016-02-19 06:00:00		[05:54]
+2016-02-19 06:00:05	james_olympus	There have been a couple of similar consoles, none Spectrum-specific though
+2016-02-19 06:02:29	 < 	johnlane (~john@212.159.104.145) has left #linuxvoice
+2016-02-19 06:03:15	mcphail	I love a bit of Rick Dickinson computer design
+2016-02-19 06:09:00		[06:03]
+2016-02-19 06:11:32	 < 	blahdeblah (~quassel@unaffiliated/blahdeblah) has quit (Ping timeout: 248 seconds)
+2016-02-19 06:13:01	 < 	mnavrati (milan@nat/redhat/x-lplqsdqmqatjanhn) has quit (Quit: Leaving)
+2016-02-19 06:13:44	 > 	mnavrati (milan@nat/redhat/x-hhfjcqccylpamfsc) has joined #linuxvoice
+2016-02-19 06:16:12	 > 	blahdeblah (~quassel@unaffiliated/blahdeblah) has joined #linuxvoice
+2016-02-19 06:22:00		[06:16]
+2016-02-19 06:40:57	 < 	Arthur_D (~magne@ti0024a400-1474.bb.online.no) has quit (Quit: Leaving)
+2016-02-19 06:40:57		[06:40]
+2016-02-19 07:09:39	 > 	zmoylan-1i (~pi@109.79.84.168) has joined #linuxvoice
+2016-02-19 07:09:39		[07:09]
+2016-02-19 07:10:05	 > 	theru_ (~theru@theru.org) has joined #linuxvoice
+2016-02-19 07:10:18	 > 	mnavrati_ (milan@nat/redhat/x-bkprdhxltvrgnjpj) has joined #linuxvoice
+2016-02-19 07:12:02	 < 	zmoylan-pi (~pi@109.79.84.168) has quit (Ping timeout: 255 seconds)
+2016-02-19 07:12:02	 < 	mnavrati (milan@nat/redhat/x-hhfjcqccylpamfsc) has quit (Ping timeout: 255 seconds)
+2016-02-19 07:12:02	 < 	theru (~theru@theru.org) has quit (Ping timeout: 255 seconds)
+2016-02-19 07:18:00		[07:12]
+2016-02-19 07:18:31	 > 	SuperEngineer (~SuperEngi@host86-162-231-213.range86-162.btcentralplus.com) has joined #linuxvoice
+2016-02-19 07:24:00		[07:18]
+2016-02-19 07:43:39	 > 	LauRoman (~LauRoman@5-14-39-31.residential.rdsnet.ro) has joined #linuxvoice
+2016-02-19 07:43:39		[07:43]
+2016-02-19 07:45:08	 < 	jherrmann (jirkah@nat/redhat/x-wegvualavjmdunzs) has quit (Quit: Toodle pip!)
+2016-02-19 07:46:07	 > 	charlesay (~daro3@ip5f5bf53f.dynamic.kabel-deutschland.de) has joined #linuxvoice
+2016-02-19 07:51:10	 - 	zmoylan-1i is now known as zmoylan-pi
+2016-02-19 07:55:30	 > 	NYbill (~bill@104.236.1.137) has joined #linuxvoice
+2016-02-19 08:01:00		[07:55]
+2016-02-19 08:04:36	 < 	TraceyC (~TraceyC@208.74.121.106) has quit (Quit: Off I go into the wild, blue yonder)
+2016-02-19 08:07:17	 < 	SuperEngineer (~SuperEngi@host86-162-231-213.range86-162.btcentralplus.com) has quit (Quit: bfn...my planet needs me back)
+2016-02-19 08:08:40	 < 	mnavrati_ (milan@nat/redhat/x-bkprdhxltvrgnjpj) has quit (Quit: Leaving)
+2016-02-19 08:14:00		[08:08]
+2016-02-19 08:16:03	 < 	jaake (~h4ckm3@129.59.122.17) has quit (Ping timeout: 240 seconds)
+2016-02-19 08:22:00		[08:16]
+2016-02-19 08:29:21	 > 	JoeRess (~yaaic@cpc16-mort6-2-0-cust250.19-2.cable.virginm.net) has joined #linuxvoice
+2016-02-19 08:31:05	 > 	JoeRess2 (~joe@cpc16-mort6-2-0-cust250.19-2.cable.virginm.net) has joined #linuxvoice
+2016-02-19 08:31:23	 < 	JoeRess (~yaaic@cpc16-mort6-2-0-cust250.19-2.cable.virginm.net) has quit (Client Quit)
+2016-02-19 08:31:29	 - 	JoeRess2 is now known as JoeRess
+2016-02-19 08:31:36	JoeRess	you here, degville?
+2016-02-19 08:33:07	JoeRess	Oh well. If you see this (or someone is kind enough to copy/paste) I've come to suggest that you go on Linux Unplugged
+2016-02-19 08:34:04	JoeRess	apart from being a fun an interesting experience where you get to talk to other Linux nerds it's also a great platform to promote Beep Beep Yarr
+2016-02-19 08:34:51	JoeRess	@wimpress on twitter can help you out with details of the Mumble server etc
+2016-02-19 08:35:13	Ioangogo|sleep	http://www.bbc.co.uk/news/uk-scotland-glasgow-west-35603675 Computer Misuse Act 1990 has become silly, it allows acusations with no proof
+2016-02-19 08:35:33	zmoylan-pi	how very cardassian
+2016-02-19 08:37:28	 < 	JoeRess (~joe@cpc16-mort6-2-0-cust250.19-2.cable.virginm.net) has quit (Quit: Leaving.)
+2016-02-19 08:37:28		[08:37]
+2016-02-19 09:00:07	 < 	charlesay (~daro3@ip5f5bf53f.dynamic.kabel-deutschland.de) has quit (Quit: leaving)
+2016-02-19 09:00:07		[09:00]
+2016-02-19 09:02:23	 > 	charlesay (~daro3@ip5f5bf53f.dynamic.kabel-deutschland.de) has joined #linuxvoice
+2016-02-19 09:05:42	 > 	anglic00 (~james____@81-86-151-146.dsl.pipex.com) has joined #linuxvoice
+2016-02-19 09:11:00		[09:05]
+2016-02-19 09:30:35	 > 	BarcTecho (~BarcTecho@213.123.41.146) has joined #linuxvoice
+2016-02-19 09:30:35		[09:30]
+2016-02-19 09:33:25	@degville	thanks JoeRess.
+2016-02-19 09:34:39	Ioangogo|sleep	Brought one of these http://rasp.io/gpioruler/
+2016-02-19 09:40:00		[09:34]
+2016-02-19 09:41:41	 > 	B0rkedBear (~B0rkedBea@92.237.228.63) has joined #linuxvoice
+2016-02-19 09:43:50	 < 	B0rkedBear (~B0rkedBea@92.237.228.63) has left #linuxvoice
+2016-02-19 09:44:51	 < 	asusk7m550 (~Thunderbi@2001:981:97b3:1:9d5d:720f:b004:bfd6) has quit (Quit: asusk7m550)
+2016-02-19 09:45:16	 > 	mnavrati (~milan@ip-94-113-220-233.net.upcbroadband.cz) has joined #linuxvoice
+2016-02-19 09:46:18	charlesay	hi, does anyone know (where to read about) how to mount an encrypted volume in a live session to chroot into it?
+2016-02-19 09:50:35	 < 	BarcTecho (~BarcTecho@213.123.41.146) has quit (Ping timeout: 250 seconds)
+2016-02-19 09:56:00		[09:50]
+2016-02-19 10:00:19	 < 	gb00s (~gb00s@c50-31.i07-13.onvol.net) has quit (Quit: Leaving)
+2016-02-19 10:02:29	 < 	M1C4HTRON13 (~micah@bodhilinux/team/M1C4HTRON13) has quit (Quit: Leaving)
+2016-02-19 10:03:07	 < 	anglic00 (~james____@81-86-151-146.dsl.pipex.com) has quit (Remote host closed the connection)
+2016-02-19 10:07:42	 < 	blahdeblah (~quassel@unaffiliated/blahdeblah) has quit (Read error: Connection reset by peer)
+2016-02-19 10:13:00		[10:07]
+2016-02-19 10:25:19	 < 	ideasman42 (~cambo@124-170-60-116.dyn.iinet.net.au) has quit (Quit: Ex-Chat)
+2016-02-19 10:31:00		[10:25]
+2016-02-19 10:32:33	 - 	irc: disconnected from server
+2016-02-19 10:32:44	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-19 10:32:44		[10:32]
+2016-02-19 10:32:44	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-19 10:32:44	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-19 10:32:44	 - 	Channel #linuxvoice: 74 nicks (1 op, 0 voices, 73 normals)
+2016-02-19 10:32:54	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-19 10:33:23	 > 	blahdeblah (~quassel@unaffiliated/blahdeblah) has joined #linuxvoice
+2016-02-19 10:39:00		[10:33]
+2016-02-19 10:43:49	 > 	Arthur_D (~magne@195.1.125.245) has joined #linuxvoice
+2016-02-19 10:49:00		[10:43]
+2016-02-19 11:09:33	 < 	mavrix (~mavrix@unaffiliated/mavrix) has quit (Ping timeout: 276 seconds)
+2016-02-19 11:09:33		[11:09]
+2016-02-19 11:11:28	 > 	mavrix (~mavrix@unaffiliated/mavrix) has joined #linuxvoice
+2016-02-19 11:17:00		[11:11]
+2016-02-19 11:28:22	 > 	BarcTecho (~BarcTecho@213.123.41.146) has joined #linuxvoice
+2016-02-19 11:34:00		[11:28]
+2016-02-19 11:57:13	 < 	BarcTecho (~BarcTecho@213.123.41.146) has quit (Ping timeout: 240 seconds)
+2016-02-19 11:57:13		[11:57]
+2016-02-19 12:02:28	 > 	BarcTecho (~BarcTecho@213.123.41.146) has joined #linuxvoice
+2016-02-19 12:08:00		[12:02]
+2016-02-19 12:12:41	 < 	BarcTecho (~BarcTecho@213.123.41.146) has quit (Ping timeout: 276 seconds)
+2016-02-19 12:16:45	 > 	BarcTecho (~BarcTecho@213.123.41.146) has joined #linuxvoice
+2016-02-19 12:19:50	 < 	writtenoff (~writtenof@of1.psych.ubc.ca) has quit (Quit: WeeChat 1.3)
+2016-02-19 12:25:00		[12:19]
+2016-02-19 12:43:46	 > 	HEGX64 (~Scott@CPE-1-123-139-55.sml9.way.bigpond.net.au) has joined #linuxvoice
+2016-02-19 12:43:46		[12:43]
+2016-02-19 13:05:24	 > 	jaake (~jaake@c-68-52-45-79.hsd1.tn.comcast.net) has joined #linuxvoice
+2016-02-19 13:05:24		[13:05]
+2016-02-19 13:56:11	 > 	chemist69 (~apl@a89-182-60-153.net-htp.de) has joined #linuxvoice
+2016-02-19 13:56:11		[13:56]
+2016-02-19 13:59:19	 < 	chemist69_ (~apl@a89-182-45-153.net-htp.de) has quit (Ping timeout: 250 seconds)
+2016-02-19 14:02:40	 < 	draake (~h4ckm3@68.52.45.79) has quit (Quit: WeeChat 1.4)
+2016-02-19 14:08:00		[14:02]
+2016-02-19 14:59:35	 < 	jaake (~jaake@c-68-52-45-79.hsd1.tn.comcast.net) has quit (Quit: WeeChat 1.4)
+2016-02-19 14:59:35		[14:59]
+2016-02-19 15:15:37	 < 	topcyde (~topcyde@2602:304:cdb8:9e40:9947:174:352e:d07c) has quit (Ping timeout: 240 seconds)
+2016-02-19 15:15:37		[15:15]
+2016-02-19 15:37:37	 < 	mavrix (~mavrix@unaffiliated/mavrix) has quit (Ping timeout: 240 seconds)
+2016-02-19 15:37:37		[15:37]
+2016-02-19 15:38:47	 > 	mavrix (~mavrix@unaffiliated/mavrix) has joined #linuxvoice
+2016-02-19 15:44:00		[15:38]
+2016-02-19 16:03:41	 < 	zmoylan-pi (~pi@109.79.84.168) has quit (Ping timeout: 250 seconds)
+2016-02-19 16:03:41		[16:03]
+2016-02-19 16:08:17	 > 	zmoylan-pi (~pi@109.79.178.47) has joined #linuxvoice
+2016-02-19 16:14:00		[16:08]
+2016-02-19 16:46:37	 - 	irc: disconnected from server
+2016-02-19 16:46:37		[16:46]
+2016-02-19 17:58:37	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-19 17:58:37		[17:58]
+2016-02-19 17:58:37	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-19 17:58:37	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-19 17:58:37	 - 	Channel #linuxvoice: 73 nicks (1 op, 0 voices, 72 normals)
+2016-02-19 17:58:47	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-19 17:58:53	 - 	irc: disconnected from server
+2016-02-20 00:57:09	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-20 00:57:09		[00:57]
+2016-02-20 00:57:09	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-20 00:57:09	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-20 00:57:09	 - 	Channel #linuxvoice: 77 nicks (1 op, 0 voices, 76 normals)
+2016-02-20 00:57:18	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-20 00:57:28	 > 	jaake (~h4ckm3@129.59.122.17) has joined #linuxvoice
+2016-02-20 00:59:34	 > 	Ian1 (~Thunderbi@te6compton.te.rl.ac.uk) has joined #linuxvoice
+2016-02-20 01:00:01	anglic00	signed up for a few of the arch mailing lists this week
+2016-02-20 01:01:03	*	zmoylan-pi wonders if there's an os/2 user group still active... :-)
+2016-02-20 01:06:51	 < 	brucemuggins (~brucemint@95.41.233.220.static.exetel.com.au) has quit (Quit: Konversation terminated!)
+2016-02-20 01:10:26	Devilment	zmoylan-pi: Probably a few Warped individuals...
+2016-02-20 01:16:00		[01:10]
+2016-02-20 01:28:46	zmoylan-pi	i think there was a release post warp, klingon i think...
+2016-02-20 01:28:56	anglic00	I know nothing of os/2 just that I would always see options for it in bios
+2016-02-20 01:32:06	Devilment	Half an OS
+2016-02-20 01:32:06		[01:32]
+2016-02-20 01:32:59	zmoylan-pi	rock solid os that ran atms for ages as it was bulletproof ignored the malware written for all the popular oses...
+2016-02-20 01:33:02	Devilment	We used to use OS/2 Warp on our company's PCs back in 1995
+2016-02-20 01:33:22	Devilment	Then we switched over to Win95
+2016-02-20 01:33:34	Devilment	Or was it NT4
+2016-02-20 01:34:53	zmoylan-pi	probably 95 for the reliability... :-P
+2016-02-20 01:40:00		[01:34]
+2016-02-20 01:43:53	anglic00	i had a windows atm crash on me once and take my card when i was about 14
+2016-02-20 01:46:38	zmoylan-pi	wouldn't have happened on os/2, just drop you to a terminal, edit the config.sys... bing bang bosh a quick reboot and continue... :-)
+2016-02-20 01:47:48	Devilment	I'm surprised these days when Windows 7 BSoDs
+2016-02-20 01:48:32	zmoylan-pi	that doesn't happen, ms marketing said it doesn't...
+2016-02-20 01:48:58	Devilment	To be fair, a BSoD is a very rare event these days
+2016-02-20 01:49:22	Devilment	Usually faulty RAM
+2016-02-20 01:49:26	zmoylan-pi	well i use windows so rarely these days that part is easy... :-)
+2016-02-20 01:50:45	Devilment	A Colonel Panic on Linux is even rarer (outside of cutting edge development) but on the extremely rare occassions it happens, it's like being bitten by a aithful dog
+2016-02-20 01:50:49	Devilment	faithful
+2016-02-20 01:51:07	anglic00	lol
+2016-02-20 01:51:11	 < 	anglic00 (~james____@mail2.gforces.co.uk) has quit (Quit: Leaving)
+2016-02-20 01:57:00		[01:51]
+2016-02-20 02:04:54	 > 	asusk7m550 (~Thunderbi@2001:981:97b3:1:8c6b:46c9:e0cc:d889) has joined #linuxvoice
+2016-02-20 02:05:33	 < 	Arthur_D (~magne@195.1.125.245) has quit (Quit: Leaving)
+2016-02-20 02:11:00		[02:05]
+2016-02-20 02:19:10	 < 	jaake (~h4ckm3@129.59.122.17) has quit (Ping timeout: 255 seconds)
+2016-02-20 02:25:00		[02:19]
+2016-02-20 02:27:07	 < 	georgeowell (~georgeowe@95.149.192.154) has quit (Quit: Leaving)
+2016-02-20 02:29:22	 > 	zmoylan-1i (~pi@109.79.178.47) has joined #linuxvoice
+2016-02-20 02:29:53	 < 	HEGX64 (~Scott@CPE-1-123-139-55.sml9.way.bigpond.net.au) has quit (Quit: Leaving)
+2016-02-20 02:31:34	 < 	zmoylan-pi (~pi@109.79.178.47) has quit (Ping timeout: 240 seconds)
+2016-02-20 02:32:34	 > 	jaake (~h4ckm3@129.59.122.17) has joined #linuxvoice
+2016-02-20 02:35:37	 - 	zmoylan-1i is now known as zmoylan-pi
+2016-02-20 02:41:00		[02:35]
+2016-02-20 02:58:22	 < 	mnavrati (milan@nat/redhat/x-ixtyptwpqxkrtkff) has quit (Quit: Leaving)
+2016-02-20 02:58:22		[02:58]
+2016-02-20 03:09:34	 > 	B0rkedBear (~chris@92.237.228.63) has joined #linuxvoice
+2016-02-20 03:15:00		[03:09]
+2016-02-20 03:16:56	 < 	B0rkedBear (~chris@92.237.228.63) has left #linuxvoice ("WeeChat 1.3")
+2016-02-20 03:22:00		[03:16]
+2016-02-20 03:27:59	 > 	ideasman42 (~cambo@114-198-13-nwork.dyn.iinet.net.au) has joined #linuxvoice
+2016-02-20 03:32:54	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-20 03:35:44	 > 	writtenoff (~writtenof@of1.psych.ubc.ca) has joined #linuxvoice
+2016-02-20 03:41:00		[03:35]
+2016-02-20 03:59:55	 > 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has joined #linuxvoice
+2016-02-20 03:59:55		[03:59]
+2016-02-20 04:00:28	 < 	jherrmann (jirkah@nat/redhat/x-pwzrunxlqekrxhut) has quit (Quit: Toodle pip!)
+2016-02-20 04:01:38	 > 	swift110-phone (~swift110-@unaffiliated/swift110) has joined #linuxvoice
+2016-02-20 04:01:42	swift110-phone	Hey
+2016-02-20 04:02:52	mcphail	hi swift110-phone
+2016-02-20 04:03:11	swift110-phone	How r u mcphail
+2016-02-20 04:03:29	mcphail	swift110-phone: good. you?
+2016-02-20 04:03:47	swift110-phone	Good
+2016-02-20 04:03:56	swift110-phone	What ya up too
+2016-02-20 04:04:30	mcphail	Avoiding housework. Supposed to be cleaning the kitchen but ended up binging on Limmy's show sketches on youtube
+2016-02-20 04:04:42	swift110-phone	Oh ok
+2016-02-20 04:06:16	swift110-phone	I finally did another blog
+2016-02-20 04:08:34	 < 	jaake (~h4ckm3@129.59.122.17) has quit (Ping timeout: 240 seconds)
+2016-02-20 04:10:26	Devilment	20 minutes to the weekend
+2016-02-20 04:11:00	Devilment	Where I have the exciting choice of cleaning or Spring cleaning
+2016-02-20 04:13:01	 < 	Ian1 (~Thunderbi@te6compton.te.rl.ac.uk) has quit (Ping timeout: 255 seconds)
+2016-02-20 04:14:13	 < 	Aikidokajeff (~Thunderbi@213.106.248.240) has quit (Quit: Aikidokajeff)
+2016-02-20 04:14:43	 < 	andybalaam (andybalaam@nat/ibm/x-szpmlkcjhrevqbje) has quit (Remote host closed the connection)
+2016-02-20 04:20:00		[04:14]
+2016-02-20 04:20:59	 > 	Nitronium (~Dave@host109-156-178-255.range109-156.btcentralplus.com) has joined #linuxvoice
+2016-02-20 04:26:00		[04:20]
+2016-02-20 04:30:32	 > 	jaake (~h4ckm3@129.59.122.17) has joined #linuxvoice
+2016-02-20 04:33:17	 < 	jimbotux (~jimbotux@fpc3-sgyl30-2-0-cust5.18-2.static.cable.virginm.net) has quit (Quit: Leaving)
+2016-02-20 04:37:56	Devilment	http://www.theregister.co.uk/2016/02/19/three_network_level_ads_blocking/
+2016-02-20 04:43:00		[04:37]
+2016-02-20 05:00:34	 < 	jaake (~h4ckm3@129.59.122.17) has quit (Ping timeout: 240 seconds)
+2016-02-20 05:00:34		[05:00]
+2016-02-20 05:13:43	popey	mcphail: here? :)
+2016-02-20 05:13:59	mcphail	popey: why not...!
+2016-02-20 05:14:02	popey	 😃
+2016-02-20 05:14:11	mcphail	http://insights.ubuntu.com/2016/02/18/zfs-licensing-and-linux/ - that is sailing pretty close to the wind. To state that a kernel object is not a derivative work of the kernel is _one_ interpretation
+2016-02-20 05:16:53	mcphail	Now, my understanding is it is the GPL, rather than the CDDL, which forbids ZFS as a kernel module. Nvidia attempt to bypass this by providing a shim which the user compiles themselves between non-GPL compliant code and the kernel. Is there going to be a similar dkms'ed shim layer here?
+2016-02-20 05:16:53		[05:16]
+2016-02-20 05:18:33	mcphail	The google/oracle stushie already points to the header files falling under copyright (hence licence) of the original work, so using the kernel header files (to my mind) makes a module a derivative work
+2016-02-20 05:21:04	*	mcphail thinks that even if Canonical are correct here, there FUD surrounding the issue is not going to attract business
+2016-02-20 05:25:34	 < 	aptanet (~quassel@87-127-190-17.static.enta.net) has quit (*.net *.split)
+2016-02-20 05:25:34	 < 	Dave (~dave@freenode/staff/dave2) has quit (*.net *.split)
+2016-02-20 05:25:35	 < 	docapotamus (~pjuu@178.62.80.244) has quit (*.net *.split)
+2016-02-20 05:25:35	 < 	grifferz (~andy@bitfolk.com) has quit (*.net *.split)
+2016-02-20 05:25:37	 < 	matthew1471_ (~matthew14@194.74.188.133) has quit (*.net *.split)
+2016-02-20 05:25:37	 < 	FiftyOneFifty_ (~quassel@159.203.105.139) has quit (*.net *.split)
+2016-02-20 05:25:37	 < 	russor (~rw@188.166.11.128) has quit (*.net *.split)
+2016-02-20 05:25:37	 < 	rochelimit (~gcthomas@glencthomas.plus.com) has quit (*.net *.split)
+2016-02-20 05:25:45	 > 	FiftyOneFifty (~quassel@159.203.105.139) has joined #linuxvoice
+2016-02-20 05:25:46	 > 	grifferz (~andy@bitfolk.com) has joined #linuxvoice
+2016-02-20 05:25:49	 > 	aptanet (~quassel@humpback.aptanet.net) has joined #linuxvoice
+2016-02-20 05:25:58	 > 	russor (~rw@188.166.11.128) has joined #linuxvoice
+2016-02-20 05:26:02	 > 	docapotamus (~pjuu@cloudev.pjuu.net) has joined #linuxvoice
+2016-02-20 05:26:08	 > 	matthew1471_ (~matthew14@194.74.188.133) has joined #linuxvoice
+2016-02-20 05:26:13	 > 	Dave_____ (~dave@freenode/staff/dave2) has joined #linuxvoice
+2016-02-20 05:26:13	 > 	charlesay (~daro3@77.87.49.15) has joined #linuxvoice
+2016-02-20 05:26:15	 > 	rochelimit (~gcthomas@glencthomas.plus.com) has joined #linuxvoice
+2016-02-20 05:26:32	mcphail	degville: any chance you could ask Simon Phipps for his views on this for the mag? ^^
+2016-02-20 05:27:27	 < 	russor (~rw@188.166.11.128) has quit (*.net *.split)
+2016-02-20 05:27:28	 < 	amoe (~amoe@li195-121.members.linode.com) has quit (*.net *.split)
+2016-02-20 05:27:28	 < 	Devilment (~david@cpc1-jarr13-2-0-cust241.16-2.cable.virginm.net) has quit (*.net *.split)
+2016-02-20 05:27:35	 > 	Devilmen1 (~david@cpc1-jarr13-2-0-cust241.16-2.cable.virginm.net) has joined #linuxvoice
+2016-02-20 05:27:39	 > 	amoe (~amoe@li195-121.members.linode.com) has joined #linuxvoice
+2016-02-20 05:27:49	 > 	russor (~rw@188.166.11.128) has joined #linuxvoice
+2016-02-20 05:28:34	popey	mcphail: he commented on one of Dustin's posts on G+
+2016-02-20 05:28:44	popey	didn't give much of a reply, but a bit of one
+2016-02-20 05:30:27	popey	https://plus.google.com/u/0/+DustinKirkland/posts/ccaUAFZYL68
+2016-02-20 05:31:44	mcphail	popey: ta. I always struggle with the G+ interface. See he is playing his cards close to his chest
+2016-02-20 05:31:51	popey	yeah
+2016-02-20 05:32:58	popey	I have no idea what legal eagles Canonical spoke to. It's an interesting position.
+2016-02-20 05:32:58		[05:32]
+2016-02-20 05:33:25	mcphail	I don't know why Canonical do these things. It always causes so much of a distraction, and diverts them from more useful work.
+2016-02-20 05:33:35	popey	these things?
+2016-02-20 05:33:41	popey	What our customers ask for 😖
+2016-02-20 05:34:11	mcphail	Actions which are questionable (at best) to the community.
+2016-02-20 05:35:27	mcphail	It is particulary sad, because the future of ZFS in any context is becoming fuzzy. It isn't clear how much impetus Oracle are putting behind it
+2016-02-20 05:36:20	mcphail	Technically, it is a good solution just now for certain cases. But growing/developing btrfs surely has to be the preferred option in the long run
+2016-02-20 05:36:39	popey	we already have btrfs, it's been in ubuntu for aeons
+2016-02-20 05:36:44	popey	but it's just not stable
+2016-02-20 05:36:49	 > 	callumd (~callumd@gmdltd.plus.com) has joined #linuxvoice
+2016-02-20 05:36:50	popey	Not a lot _we_ can do about that
+2016-02-20 05:37:07	popey	I mean, SUSE have it as the default FS on their installs, but they have staff who work on btrfs (AIUI)
+2016-02-20 05:37:26	popey	we don't have any btrfs skills in house (not that we have zfs skills AFAIK)
+2016-02-20 05:38:03	popey	I love btrfs, but it seems the wider free software community has spoken and zfs is the annointed one
+2016-02-20 05:38:56	mcphail	Well, I suspect this is going to be painful
+2016-02-20 05:44:00		[05:38]
+2016-02-20 05:44:56	 < 	evilnickveitch (~evilnick@cpc83321-bath6-2-0-cust252.18-1.cable.virginm.net) has quit (Quit: Leaving)
+2016-02-20 05:48:46	 > 	jaake (~h4ckm3@129.59.122.17) has joined #linuxvoice
+2016-02-20 05:54:00		[05:48]
+2016-02-20 05:55:04	 < 	callumd (~callumd@gmdltd.plus.com) has quit (Ping timeout: 240 seconds)
+2016-02-20 06:01:00		[05:55]
+2016-02-20 06:01:08	 - 	Devilmen1 is now known as Devilment
+2016-02-20 06:07:00		[06:01]
+2016-02-20 06:30:12	 < 	writtenoff (~writtenof@of1.psych.ubc.ca) has quit (Quit: WeeChat 1.3)
+2016-02-20 06:30:12		[06:30]
+2016-02-20 06:30:32	 > 	writtenoff (~writtenof@of1.psych.ubc.ca) has joined #linuxvoice
+2016-02-20 06:36:00		[06:30]
+2016-02-20 06:39:43	 < 	swift110-phone (~swift110-@unaffiliated/swift110) has quit (Ping timeout: 255 seconds)
+2016-02-20 06:42:03	 > 	swift110-phone (~swift110-@unaffiliated/swift110) has joined #linuxvoice
+2016-02-20 06:44:45	 < 	torwag (~torsten@DHCP156.juelich9.fh-aachen.de) has quit (Remote host closed the connection)
+2016-02-20 06:46:27	 < 	gregoriosw_vp (~gregorios@176.126.244.125) has quit (Quit: WeeChat 1.4)
+2016-02-20 06:46:48	 > 	gregoriosw_vp (~gregorios@176.126.244.125) has joined #linuxvoice
+2016-02-20 06:47:08	 > 	SuperEngineer (~SuperEngi@host86-162-231-213.range86-162.btcentralplus.com) has joined #linuxvoice
+2016-02-20 06:47:22	 < 	gregoriosw_vp (~gregorios@176.126.244.125) has quit (Client Quit)
+2016-02-20 06:47:41	 > 	gregoriosw_vp (~gregorios@176.126.244.125) has joined #linuxvoice
+2016-02-20 06:49:57	 < 	g0nz085 (~gonzo@cpc81199-farn9-2-0-cust619.6-2.cable.virginm.net) has quit (Ping timeout: 276 seconds)
+2016-02-20 06:53:40	 < 	chemist69 (~apl@a89-182-60-153.net-htp.de) has quit (Quit: WeeChat 1.4)
+2016-02-20 06:53:40		[06:53]
+2016-02-20 06:57:48	einonm	A $(prev employer) used to have a load of proprietary drivers released under the 'other-os-developed' GPL exception. It's a massive pain, as you can't use a lot of kernel functionality within the other code. And it also has the side affect of no one other than the company that 'owns' the other code actually works on those kernels - which I assume is the state Canonical is already in, as there's bugger all 'community' development of ubuntu kernels anyway
+2016-02-20 06:58:00	 > 	chemist69 (~apl@a89-182-60-153.net-htp.de) has joined #linuxvoice
+2016-02-20 07:00:22	einonm	result is, kernels that are developed proprietary-style that are of poorer quality, because no one company can keep up with the pace of kernel development. Best of luck with that.
+2016-02-20 07:06:00		[07:00]
+2016-02-20 07:08:14	 < 	gregoriosw_vp (~gregorios@176.126.244.125) has quit (Quit: WeeChat 1.4)
+2016-02-20 07:08:29	 > 	gregoriosw_vp (~gregorios@176.126.244.125) has joined #linuxvoice
+2016-02-20 07:13:14	 - 	Dave_____ is now known as Dave
+2016-02-20 07:19:00		[07:13]
+2016-02-20 07:42:57	swift110-phone	Hey guys
+2016-02-20 07:42:57		[07:42]
+2016-02-20 07:45:07	 > 	B0rkedBear (~chris@92.237.228.63) has joined #linuxvoice
+2016-02-20 07:49:11	 < 	B0rkedBear (~chris@92.237.228.63) has left #linuxvoice
+2016-02-20 07:49:45	 > 	LauRoman (~LauRoman@5-14-39-31.residential.rdsnet.ro) has joined #linuxvoice
+2016-02-20 07:55:00		[07:49]
+2016-02-20 07:55:34	 < 	jaake (~h4ckm3@129.59.122.17) has quit (Ping timeout: 252 seconds)
+2016-02-20 08:01:00		[07:55]
+2016-02-20 08:08:47	 - 	foxhunt_away is now known as foxhunt72
+2016-02-20 08:14:00		[08:08]
+2016-02-20 08:37:29	 < 	charlesay (~daro3@77.87.49.15) has quit (Ping timeout: 240 seconds)
+2016-02-20 08:37:29		[08:37]
+2016-02-20 08:42:12	 < 	SuperEngineer (~SuperEngi@host86-162-231-213.range86-162.btcentralplus.com) has quit (Quit: bfn...my planet needs me back)
+2016-02-20 08:48:00		[08:42]
+2016-02-20 08:49:32	 > 	brucemuggins (~brucemint@95.41.233.220.static.exetel.com.au) has joined #linuxvoice
+2016-02-20 08:55:00		[08:49]
+2016-02-20 08:55:40	 > 	charlesay (~daro3@77.87.49.15) has joined #linuxvoice
+2016-02-20 09:01:00		[08:55]
+2016-02-20 09:05:25	 < 	writtenoff (~writtenof@of1.psych.ubc.ca) has quit (Quit: WeeChat 1.3)
+2016-02-20 09:05:44	 > 	writtenoff (~writtenof@of1.psych.ubc.ca) has joined #linuxvoice
+2016-02-20 09:11:00		[09:05]
+2016-02-20 09:14:51	 < 	Nitronium (~Dave@host109-156-178-255.range109-156.btcentralplus.com) has quit (Remote host closed the connection)
+2016-02-20 09:17:28	 < 	asusk7m550 (~Thunderbi@2001:981:97b3:1:8c6b:46c9:e0cc:d889) has quit (Quit: asusk7m550)
+2016-02-20 09:20:41	 < 	swift110-phone (~swift110-@unaffiliated/swift110) has quit (Quit: See you later)
+2016-02-20 09:21:31	 < 	charlesay (~daro3@77.87.49.15) has quit (Ping timeout: 250 seconds)
+2016-02-20 09:27:00		[09:21]
+2016-02-20 09:33:57	 > 	charlesay (~daro3@77.87.49.15) has joined #linuxvoice
+2016-02-20 09:39:00		[09:33]
+2016-02-20 09:42:31	 < 	charlesay (~daro3@77.87.49.15) has quit (Ping timeout: 244 seconds)
+2016-02-20 09:43:46	 < 	mavrix (~mavrix@unaffiliated/mavrix) has quit (Ping timeout: 255 seconds)
+2016-02-20 09:45:43	 > 	mavrix (~mavrix@unaffiliated/mavrix) has joined #linuxvoice
+2016-02-20 09:51:00		[09:45]
+2016-02-20 10:02:13	 > 	charlesay (~daro3@77.87.49.95) has joined #linuxvoice
+2016-02-20 10:08:00		[10:02]
+2016-02-20 10:09:53	 < 	gb00s (~gb00s@c50-31.i07-13.onvol.net) has quit (Quit: Leaving)
+2016-02-20 10:11:00	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-20 10:16:00		[10:11]
+2016-02-20 10:16:00	 < 	charlesay (~daro3@77.87.49.95) has quit (Ping timeout: 276 seconds)
+2016-02-20 10:51:32	 < 	Ioangogo|sleep (~quassel@huwloosley.plus.com) has quit (Ping timeout: 248 seconds)
+2016-02-20 10:51:32		[10:51]
+2016-02-20 10:53:13	 > 	Ioangogo (~quassel@huwloosley.plus.com) has joined #linuxvoice
+2016-02-20 10:59:00		[10:53]
+2016-02-20 11:01:17	 > 	charlesay (~daro3@ip5f5bf553.dynamic.kabel-deutschland.de) has joined #linuxvoice
+2016-02-20 11:07:00		[11:01]
+2016-02-20 11:09:46	 > 	Ioangogo|sleep (~quassel@huwloosley.plus.com) has joined #linuxvoice
+2016-02-20 11:09:51	 < 	Ioangogo (~quassel@huwloosley.plus.com) has quit (Read error: Connection reset by peer)
+2016-02-20 11:15:00		[11:09]
+2016-02-20 11:26:54	 < 	mavrix (~mavrix@unaffiliated/mavrix) has quit (Ping timeout: 252 seconds)
+2016-02-20 11:32:00		[11:26]
+2016-02-20 11:33:21	 > 	mavrix (~mavrix@unaffiliated/mavrix) has joined #linuxvoice
+2016-02-20 11:34:09	 - 	irc: disconnected from server
+2016-02-20 15:55:30	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-20 15:55:30		[15:55]
+2016-02-20 15:55:30	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-20 15:55:30	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-20 15:55:30	 - 	Channel #linuxvoice: 67 nicks (1 op, 0 voices, 66 normals)
+2016-02-20 15:55:39	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-20 16:01:00		[15:55]
+2016-02-20 16:04:24	 < 	zmoylan-pi (~pi@109.79.178.47) has quit (Ping timeout: 276 seconds)
+2016-02-20 16:08:18	 > 	zmoylan-pi (~pi@109.78.197.116) has joined #linuxvoice
+2016-02-20 16:14:00		[16:08]
+2016-02-20 16:16:33	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #linuxvoice
+2016-02-20 16:22:00		[16:16]
+2016-02-20 16:41:17	 > 	writtenoff (~writtenof@d172-218-204-26.bchsia.telus.net) has joined #linuxvoice
+2016-02-20 16:41:17		[16:41]
+2016-02-20 16:43:31	 < 	HEGX64 (~Scott@CPE-1-123-139-55.sml9.way.bigpond.net.au) has quit (Read error: Connection reset by peer)
+2016-02-20 16:49:00		[16:43]
+2016-02-20 18:09:20	 > 	SuperEngineer (~SuperEngi@host86-162-231-213.range86-162.btcentralplus.com) has joined #linuxvoice
+2016-02-20 18:09:20		[18:09]
+2016-02-20 18:55:24	 > 	HEGX64 (~Scott@CPE-1-123-139-55.sml9.way.bigpond.net.au) has joined #linuxvoice
+2016-02-20 18:55:24		[18:55]
+2016-02-20 19:11:21	 > 	charlesay (~daro3@ip5f5bf553.dynamic.kabel-deutschland.de) has joined #linuxvoice
+2016-02-20 19:11:21		[19:11]
+2016-02-20 20:05:42	 - 	irc: disconnected from server
+2016-02-20 20:05:42		[20:05]
+2016-02-20 20:05:54	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-20 20:05:54		[20:05]
+2016-02-20 20:05:54	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-20 20:05:54	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-20 20:05:54	 - 	Channel #linuxvoice: 71 nicks (1 op, 0 voices, 70 normals)
+2016-02-20 20:06:04	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-20 20:10:52	 > 	LauRoman (~LauRoman@5-14-39-31.residential.rdsnet.ro) has joined #linuxvoice
+2016-02-20 20:11:40	 < 	SuperEngineer (~SuperEngi@host86-162-231-213.range86-162.btcentralplus.com) has quit (Quit: bfn...my planet needs me back)
+2016-02-20 20:13:28	 - 	irc: disconnected from server
+2016-02-20 20:13:47	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-20 20:13:47		[20:13]
+2016-02-20 20:13:47	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-20 20:13:47	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-20 20:13:47	 - 	Channel #linuxvoice: 71 nicks (1 op, 0 voices, 70 normals)
+2016-02-20 20:13:57	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-20 20:14:25	 - 	ideasman42 is now known as ideasman42afk
+2016-02-20 20:20:00		[20:14]
+2016-02-20 21:43:49	 < 	HEGX64 (~Scott@CPE-1-123-139-55.sml9.way.bigpond.net.au) has quit (Quit: Leaving)
+2016-02-20 21:43:49		[21:43]
+2016-02-20 22:46:12	 - 	foxhunt_away is now known as foxhunt72
+2016-02-20 22:46:12		[22:46]
+2016-02-20 23:13:50	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-20 23:13:50		[23:13]
+2016-02-20 23:22:28	 < 	charlesay (~daro3@ip5f5bf553.dynamic.kabel-deutschland.de) has quit (Ping timeout: 244 seconds)
+2016-02-20 23:28:00		[23:22]
+2016-02-20 23:30:27	 - 	ideasman42afk is now known as ideasman42
+2016-02-20 23:36:00		[23:30]
+2016-02-20 23:49:13	 < 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has quit (Remote host closed the connection)
+2016-02-20 23:50:55	 < 	brucemuggins (~brucemint@95.41.233.220.static.exetel.com.au) has quit (Quit: Konversation terminated!)
+2016-02-20 23:56:00		[23:50]
+2016-02-21 00:22:14	 - 	theru_ is now known as theru
+2016-02-21 00:22:14		[00:22]
+2016-02-21 00:29:02	 > 	AndChat|205625 (~gct@glencthomas.plus.com) has joined #linuxvoice
+2016-02-21 00:29:29	 < 	AndChat|205625 (~gct@glencthomas.plus.com) has left #linuxvoice
+2016-02-21 00:31:53	 > 	rochelimit_ (~gcthomas@glencthomas.plus.com) has joined #linuxvoice
+2016-02-21 00:37:00		[00:31]
+2016-02-21 00:45:07	 - 	irc: disconnected from server
+2016-02-21 00:45:28	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-21 00:45:28		[00:45]
+2016-02-21 00:45:28	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-21 00:45:28	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-21 00:45:28	 - 	Channel #linuxvoice: 68 nicks (1 op, 0 voices, 67 normals)
+2016-02-21 00:45:38	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-21 00:51:00		[00:45]
+2016-02-21 01:13:46	 > 	rochelimit__ (~gcthomas@glencthomas.plus.com) has joined #linuxvoice
+2016-02-21 01:13:46		[01:13]
+2016-02-21 01:13:46	 < 	rochelimit_ (~gcthomas@glencthomas.plus.com) has quit (Read error: Connection reset by peer)
+2016-02-21 01:36:40	 > 	charlesay (~daro3@ip5f5bf553.dynamic.kabel-deutschland.de) has joined #linuxvoice
+2016-02-21 01:36:40		[01:36]
+2016-02-21 01:44:12	 > 	metasansana (~metasansa@190.213.225.135) has joined #linuxvoice
+2016-02-21 01:44:12	 < 	metasansana (~metasansa@190.213.225.135) has quit (Changing host)
+2016-02-21 01:44:12	 > 	metasansana (~metasansa@unaffiliated/metasansana) has joined #linuxvoice
+2016-02-21 01:47:46	 > 	SuperEngineer (~SuperEngi@host86-162-231-213.range86-162.btcentralplus.com) has joined #linuxvoice
+2016-02-21 01:53:00		[01:47]
+2016-02-21 02:16:17	 - 	foxhunt_away is now known as foxhunt72
+2016-02-21 02:16:17		[02:16]
+2016-02-21 02:26:47	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-21 02:32:00		[02:26]
+2016-02-21 02:33:54	 - 	foxhunt_away is now known as foxhunt72
+2016-02-21 02:39:00		[02:33]
+2016-02-21 03:17:20	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-21 03:17:20		[03:17]
+2016-02-21 03:26:10	 - 	foxhunt_away is now known as foxhunt72
+2016-02-21 03:32:00		[03:26]
+2016-02-21 03:38:54	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-21 03:44:00		[03:38]
+2016-02-21 04:20:46	SuperEngineer	thanks for all the away /not away notifies foxhunt_away / foxhunt72 [but really don't need to know]
+2016-02-21 04:20:46		[04:20]
+2016-02-21 04:22:02	*	zmoylan-pi releases the hounds
+2016-02-21 04:22:55	*	SuperEngineer release the robots
+2016-02-21 04:28:00		[04:22]
+2016-02-21 04:34:07	Devilment	I use autoaway.pl on irssi. It just sets me away, no nick change
+2016-02-21 04:40:00		[04:34]
+2016-02-21 04:43:25	SuperEngineer	oh, if only all "offenders" did similar, Devilment
+2016-02-21 04:46:05	SuperEngineer	no names, no pack drill eh, foxhunt_away [& lcawte on #ubuntu-uk]... but no names, no pack drill. [/me chuckles]
+2016-02-21 04:46:09	zmoylan-pi	you can always mark them as ignored
+2016-02-21 04:46:19	SuperEngineer	[done!]
+2016-02-21 04:48:54	SuperEngineer	[but every now & then I "unignore"... & regret it!]  ;-)
+2016-02-21 04:49:30	Devilment	I should use my hi-fi stack more often to listen to my music rather than my PC
+2016-02-21 04:49:43	Devilment	Been doing that this afternoon, far punchier
+2016-02-21 04:50:16	Devilment	Although, I'd accidentally turned the volume up to 11 when dusting
+2016-02-21 04:50:33	Devilment	It were a bit loud when the first track kicked in
+2016-02-21 04:52:39	SuperEngineer	So why turn it down?  Temporary deafness is a very under rated result sometimes ;-)
+2016-02-21 04:54:07	Devilment	Amp is 68W, speakers are rated for 100W. Didn't want to clip and potentially damage driver coils
+2016-02-21 04:54:40	Devilment	Audiolab 8000S, very clean, very neutral amp
+2016-02-21 04:55:20	zmoylan-pi	my brother picked up an amp as a teenager that came with speakers the size of stools.  when connected to his stereo and volume set to 3 it sounded like pub across road was having concert... :-)
+2016-02-21 04:55:20		[04:55]
+2016-02-21 04:56:58	Devilment	My speakers are about 30 years old. Mission 762i
+2016-02-21 04:57:13	Devilment	They have the woofer over the tweeter
+2016-02-21 04:57:25	Devilment	Good bass on them
+2016-02-21 04:57:48	*	SuperEngineer keeps mouth shut & hides jealousy
+2016-02-21 04:58:10	Devilment	Over the amp or speakers?
+2016-02-21 05:04:00		[04:58]
+2016-02-21 05:12:16	SuperEngineer	yes
+2016-02-21 05:16:23	*	SuperEngineer has speakers rated to 1000W [each], has an amp that begs to drive up to "fun" level... but doesn't live where it can be used
+2016-02-21 05:19:11	SuperEngineer	so puts up with mediocre 6 way home cinema player for all use... but... but...but...
+2016-02-21 05:19:11		[05:19]
+2016-02-21 05:19:25	SuperEngineer	my poor unused speakers!
+2016-02-21 05:20:32	gregoriosw_vp	ccccccdcdkfvigdkbcehitebgngukihinfnicvhgdtdh
+2016-02-21 05:20:44	gregoriosw_vp	Sorry folks.  Keyboard issue#
+2016-02-21 05:20:49	gregoriosw_vp	Ignore me!
+2016-02-21 05:21:30	gregoriosw_vp	Should now not reoccur.
+2016-02-21 05:23:28	 > 	callumd (~callumd@gmdltd.plus.com) has joined #linuxvoice
+2016-02-21 05:23:40	SuperEngineer	no prob, gregoriosw_vp dfp0njhbp'onj[#sbn #[frbm#eamb#a[pmr
+2016-02-21 05:24:23	gregoriosw_vp	:-P
+2016-02-21 05:30:00		[05:24]
+2016-02-21 05:43:23	 - 	foxhunt_away is now known as foxhunt72
+2016-02-21 05:49:00		[05:43]
+2016-02-21 05:57:16	 < 	LauRoman (~LauRoman@5-14-39-31.residential.rdsnet.ro) has quit (Read error: Connection reset by peer)
+2016-02-21 06:02:42	 > 	LauRoman (~LauRoman@5-14-39-31.residential.rdsnet.ro) has joined #linuxvoice
+2016-02-21 06:08:00		[06:02]
+2016-02-21 06:09:47	 > 	JoeRess (~joe@cpc16-mort6-2-0-cust250.19-2.cable.virginm.net) has joined #linuxvoice
+2016-02-21 06:11:23	JoeRess	I don't suppose Ben is around?
+2016-02-21 06:13:45	SuperEngineer	Ben goes "bonnnggggg"
+2016-02-21 06:13:59	SuperEngineer	....but e aint ere
+2016-02-21 06:14:17	JoeRess	fair enough
+2016-02-21 06:14:24	SuperEngineer	...but he is Big
+2016-02-21 06:14:31	SuperEngineer	;-)
+2016-02-21 06:17:10	 < 	JoeRess (~joe@cpc16-mort6-2-0-cust250.19-2.cable.virginm.net) has quit (Quit: Leaving.)
+2016-02-21 06:22:29	 > 	Nitronium (~Dave@host109-156-178-255.range109-156.btcentralplus.com) has joined #linuxvoice
+2016-02-21 06:23:30	 > 	Arthur_D (~magne@195.1.125.245) has joined #linuxvoice
+2016-02-21 06:23:30		[06:23]
+2016-02-21 06:25:59	 < 	charlesay (~daro3@ip5f5bf553.dynamic.kabel-deutschland.de) has quit (Ping timeout: 240 seconds)
+2016-02-21 06:31:00		[06:25]
+2016-02-21 06:41:30	 > 	m95lag (~m95lag@82-181-169-179.bb.dnainternet.fi) has joined #linuxvoice
+2016-02-21 06:42:23	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-21 06:48:00		[06:42]
+2016-02-21 06:48:36	 - 	foxhunt_away is now known as foxhunt72
+2016-02-21 06:54:00		[06:48]
+2016-02-21 06:57:43	 < 	SuperEngineer (~SuperEngi@host86-162-231-213.range86-162.btcentralplus.com) has left #linuxvoice ("bbs...my planet wants me back")
+2016-02-21 07:03:00		[06:57]
+2016-02-21 07:17:55	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-21 07:23:00		[07:17]
+2016-02-21 07:30:39	 < 	frankbell (~chatzilla@ip98-183-208-12.hr.hr.cox.net) has quit (Quit: ChatZilla 0.9.92 [SeaMonkey 2.39/20160127134954])
+2016-02-21 07:36:00		[07:30]
+2016-02-21 08:35:10	 < 	Nitronium (~Dave@host109-156-178-255.range109-156.btcentralplus.com) has quit (Remote host closed the connection)
+2016-02-21 08:35:10		[08:35]
+2016-02-21 08:37:22	 < 	m95lag (~m95lag@82-181-169-179.bb.dnainternet.fi) has quit (Quit: leaving)
+2016-02-21 08:39:48	 > 	Nitronium (~Dave@host109-156-178-255.range109-156.btcentralplus.com) has joined #linuxvoice
+2016-02-21 08:45:00		[08:39]
+2016-02-21 10:03:55	 < 	rochelimit__ (~gcthomas@glencthomas.plus.com) has quit (Quit: Bye)
+2016-02-21 10:03:55		[10:03]
+2016-02-21 10:04:07	 > 	charlesay (~daro3@ip5f5bd67b.dynamic.kabel-deutschland.de) has joined #linuxvoice
+2016-02-21 10:04:51	 > 	shadowfirebird (~shadowfir@host86-156-63-210.range86-156.btcentralplus.com) has joined #linuxvoice
+2016-02-21 10:10:00		[10:04]
+2016-02-21 10:22:18	 < 	charlesay (~daro3@ip5f5bd67b.dynamic.kabel-deutschland.de) has quit (Quit: leaving)
+2016-02-21 10:26:54	 < 	shadowfirebird (~shadowfir@host86-156-63-210.range86-156.btcentralplus.com) has quit (Ping timeout: 244 seconds)
+2016-02-21 10:26:54		[10:26]
+2016-02-21 11:12:27	 < 	LauRoman (~LauRoman@5-14-39-31.residential.rdsnet.ro) has quit (Read error: Connection reset by peer)
+2016-02-21 11:12:27		[11:12]
+2016-02-21 12:01:36	 < 	Nitronium (~Dave@host109-156-178-255.range109-156.btcentralplus.com) has quit (Remote host closed the connection)
+2016-02-21 12:01:36		[12:01]
+2016-02-21 12:52:23	 - 	irc: disconnected from server
+2016-02-21 12:52:23		[12:52]
+2016-02-21 17:51:29	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-21 17:51:29		[17:51]
+2016-02-21 17:51:29	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-21 17:51:29	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-21 17:51:29	 - 	Channel #linuxvoice: 72 nicks (1 op, 0 voices, 71 normals)
+2016-02-21 17:51:38	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-21 17:57:00		[17:51]
+2016-02-21 18:51:03	mavrix	mavrix
+2016-02-21 18:51:03		[18:51]
+2016-02-21 19:14:31	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #linuxvoice
+2016-02-21 19:14:31		[19:14]
+2016-02-21 19:49:01	 > 	SuperEngineer (~SuperEngi@86.162.231.213) has joined #linuxvoice
+2016-02-21 19:49:01		[19:49]
+2016-02-21 20:10:03	 > 	Nitronium (~Dave@host109-156-178-255.range109-156.btcentralplus.com) has joined #linuxvoice
+2016-02-21 20:10:03		[20:10]
+2016-02-21 20:45:40	 > 	charlesay (~daro3@ip5f5bd67b.dynamic.kabel-deutschland.de) has joined #linuxvoice
+2016-02-21 20:45:40		[20:45]
+2016-02-21 20:57:07	Ioangogo|sleep	gregoriosw_vp: that looks like a yubikey opt
+2016-02-21 21:03:00		[20:57]
+2016-02-21 21:11:58	 < 	brucemuggins (~brucemint@95.41.233.220.static.exetel.com.au) has quit (Quit: Konversation terminated!)
+2016-02-21 21:14:37	charlesay	on a scale from one to project ending, where is that linux mint compromise set?
+2016-02-21 21:15:56	zmoylan-pi	probably 2-3, a security cockup. but i'm glad it occurred and was caught
+2016-02-21 21:18:07	mcphail	what happened?
+2016-02-21 21:18:07		[21:18]
+2016-02-21 21:19:45	mcphail	http://blog.linuxmint.com/?p=2994 - aargh. Nasty
+2016-02-21 21:22:07	zmoylan-pi	spring is here, the daily mail hacker is no longer wearing a hoodie... :-) http://i.dailymail.co.uk/i/pix/2016/02/18/12/0236EF8900000578-3452774-image-m-93_1455800012124.jpg
+2016-02-21 21:22:12	mcphail	Depressingly, they've published MD5 hashes under "How to check if your ISO is compromised?" rather than something signed with their GPG key. FFS
+2016-02-21 21:22:53	zmoylan-pi	more people would know how to use a hash probably
+2016-02-21 21:23:40	mcphail	zmoylan-pi: a hash is useless if the scumbags can rewrite your website and modify the MD5s
+2016-02-21 21:24:11	zmoylan-pi	the server they got access to is still down according to that blog
+2016-02-21 21:24:52	mcphail	Yes, but looks as if it had been kept up for a further 24h after the initial discovering, hosting a new compromised .ISO
+2016-02-21 21:29:04	 < 	LauRoman|Alt (~LauRoman@5-14-81-219.residential.rdsnet.ro) has quit (Read error: Connection reset by peer)
+2016-02-21 21:29:31	charlesay	what is the point of a linux distro: packaging linux and other stuff into something useful and deliver it to people. that is exactly what they fucked up enormously
+2016-02-21 21:32:21	charlesay	they should have signed the isos with gpg keys (that others aren't doing this either doesn't make it any better). they/we should use secure boot to mitigate this. they shouldn't host their isos on the same box/vm as their bloody wordpress. they shouldn't use md5. they shouldn't need to be told by people commenting on the blog that the site is still/again compromised...
+2016-02-21 21:32:26	 > 	LauRoman|Alt (~LauRoman@5-14-81-219.residential.rdsnet.ro) has joined #linuxvoice
+2016-02-21 21:34:29	mcphail	charlesay: looks as if they do publish proper sigs, but should really have put them in the blog post (rather than the naked hashes)
+2016-02-21 21:34:29		[21:34]
+2016-02-21 21:37:17	*	mcphail is downloading manjaro, and notes they use naked hashes as well
+2016-02-21 21:43:00		[21:37]
+2016-02-21 21:55:25	 - 	irc: disconnected from server
+2016-02-22 09:20:56	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-22 09:20:56		[09:20]
+2016-02-22 09:20:56	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-22 09:20:56	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-22 09:20:56	 - 	Channel #linuxvoice: 70 nicks (1 op, 0 voices, 69 normals)
+2016-02-22 09:21:05	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-22 09:27:00		[09:21]
+2016-02-22 09:39:01	 < 	Scary_Nitro (~Dave@host213-1-14-213.range213-1.btcentralplus.com) has quit (Remote host closed the connection)
+2016-02-22 09:45:00		[09:39]
+2016-02-22 09:46:25	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-22 09:52:00		[09:46]
+2016-02-22 10:43:33	 > 	Arthur_D (~magne@195.1.125.245) has joined #linuxvoice
+2016-02-22 10:43:33		[10:43]
+2016-02-22 11:34:44	 < 	mcphail (~mcphail@unaffiliated/mcphail) has quit (Ping timeout: 248 seconds)
+2016-02-22 11:34:44		[11:34]
+2016-02-22 11:36:36	 > 	mcphail (~mcphail@unaffiliated/mcphail) has joined #linuxvoice
+2016-02-22 11:42:00		[11:36]
+2016-02-22 11:45:08	 < 	georgeowell (~georgeowe@95.149.192.154) has quit (Excess Flood)
+2016-02-22 11:45:39	 > 	georgeowell (~georgeowe@95.149.192.154) has joined #linuxvoice
+2016-02-22 11:51:00		[11:45]
+2016-02-22 12:20:46	 - 	irc: disconnected from server
+2016-02-22 12:20:46		[12:20]
+2016-02-22 12:21:02	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-22 12:21:02		[12:21]
+2016-02-22 12:21:02	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-22 12:21:02	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-22 12:21:02	 - 	Channel #linuxvoice: 70 nicks (1 op, 0 voices, 69 normals)
+2016-02-22 12:21:12	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-22 12:27:00		[12:21]
+2016-02-22 13:03:18	 < 	georgeowell (~georgeowe@95.149.192.154) has quit (Quit: Leaving)
+2016-02-22 13:03:18		[13:03]
+2016-02-22 13:33:05	 > 	swift110-phone (~swift110-@unaffiliated/swift110) has joined #linuxvoice
+2016-02-22 13:33:05		[13:33]
+2016-02-22 13:33:10	swift110-phone	Hey
+2016-02-22 13:39:00		[13:33]
+2016-02-22 13:45:30	 < 	metasansana (~metasansa@unaffiliated/metasansana) has quit (Quit: Leaving)
+2016-02-22 13:51:00		[13:45]
+2016-02-22 13:53:22	 > 	chemist69_ (~apl@a89-182-48-251.net-htp.de) has joined #linuxvoice
+2016-02-22 13:56:36	 < 	chemist69 (~apl@a89-182-40-85.net-htp.de) has quit (Ping timeout: 248 seconds)
+2016-02-22 14:02:00		[13:56]
+2016-02-22 15:11:35	 < 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has quit (Ping timeout: 250 seconds)
+2016-02-22 15:11:35		[15:11]
+2016-02-22 15:25:26	 > 	zmoylan-1i (~pi@109.76.211.74) has joined #linuxvoice
+2016-02-22 15:28:35	 < 	zmoylan-pi (~pi@109.79.96.145) has quit (Ping timeout: 244 seconds)
+2016-02-22 15:28:35		[15:28]
+2016-02-22 16:01:46	 > 	zmoylan-pi (~pi@109.76.171.237) has joined #linuxvoice
+2016-02-22 16:01:46		[16:01]
+2016-02-22 16:02:59	 < 	zmoylan-1i (~pi@109.76.211.74) has quit (Ping timeout: 240 seconds)
+2016-02-22 16:08:00		[16:02]
+2016-02-22 16:28:58	 - 	irc: disconnected from server
+2016-02-22 16:28:58		[16:28]
+2016-02-22 16:35:10	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-22 16:35:10		[16:35]
+2016-02-22 16:35:10	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-22 16:35:10	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-22 16:35:10	 - 	Channel #linuxvoice: 68 nicks (1 op, 0 voices, 67 normals)
+2016-02-22 16:35:20	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-22 16:41:00		[16:35]
+2016-02-22 16:44:02	 - 	irc: disconnected from server
+2016-02-23 01:39:47	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-23 01:39:47		[01:39]
+2016-02-23 01:39:47	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-23 01:39:47	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-23 01:39:47	 - 	Channel #linuxvoice: 78 nicks (1 op, 0 voices, 77 normals)
+2016-02-23 01:39:57	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-23 01:40:16	Devilment	But probably have to use that cash to replace the EU subsidies we get to certain sectors
+2016-02-23 01:46:00		[01:40]
+2016-02-23 01:46:29	 < 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has quit (Ping timeout: 240 seconds)
+2016-02-23 01:47:29	towy71	Devilment: 7bn a year net is not that much really
+2016-02-23 01:47:51	 > 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has joined #linuxvoice
+2016-02-23 01:48:05	towy71	hardly enough to cover Vodaphone and Amazon's tax bill
+2016-02-23 01:50:19	 < 	arubislander (~ubuntuadm@86.93.93.218) has quit (Quit: Leaving.)
+2016-02-23 01:51:39	 > 	arubislander (~ubuntuadm@86.93.93.218) has joined #linuxvoice
+2016-02-23 01:54:10	 > 	Ian (~Thunderbi@vpn-3-194.rl.ac.uk) has joined #linuxvoice
+2016-02-23 01:54:34	 - 	Ian is now known as Guest32275
+2016-02-23 01:55:36	Devilment	I'm totally on the fence over the EU issue
+2016-02-23 01:55:44	Devilment	Pros and cons either way
+2016-02-23 01:56:01	Devilment	We've been in the EU for most of my life
+2016-02-23 01:57:16	 < 	mnavrati (milan@nat/redhat/x-liqsjryzqsgaewgf) has quit (Quit: Leaving)
+2016-02-23 01:57:43	Devilment	I was born Nov 1972 and we joined in Jan 1973
+2016-02-23 02:00:10	 > 	mnavrati (milan@nat/redhat/x-sgvuhrywvjwhxqpp) has joined #linuxvoice
+2016-02-23 02:00:56	 < 	jherrmann (jirkah@nat/redhat/x-korlvtrgghhbddte) has quit (Quit: Toodle pip!)
+2016-02-23 02:00:59	 < 	Guest32275 (~Thunderbi@vpn-3-194.rl.ac.uk) has quit (Ping timeout: 240 seconds)
+2016-02-23 02:01:15	 < 	mnavrati (milan@nat/redhat/x-sgvuhrywvjwhxqpp) has quit (Client Quit)
+2016-02-23 02:01:15		[02:01]
+2016-02-23 02:01:40	 > 	mnavrati (milan@nat/redhat/x-plhycivarthpmwgc) has joined #linuxvoice
+2016-02-23 02:01:45	towy71	I voted in 1975 and thought that was that, would be very upset if we vote to leave having worked in Germany and France back in the day
+2016-02-23 02:07:00		[02:01]
+2016-02-23 02:11:31	 < 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has quit (Quit: ZNC - http://znc.in)
+2016-02-23 02:11:36	charlesay	for the uk to leave now would be a clear signal against political integration and Europe taking up it's responsibility in the world, and add support to a racist agenda
+2016-02-23 02:12:24	 > 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has joined #linuxvoice
+2016-02-23 02:14:25	 < 	swift110-phone (~swift110-@unaffiliated/swift110) has quit (Remote host closed the connection)
+2016-02-23 02:14:42	@degville	I have some sympathy with the no campaign but I too would be very dissappointed if the UK left the EU. I was also born in 1972, and have lived and worked in France. Knowing I can move/live around Europe is a huge part of what I consider my identity. Less integration takes us down an increasingly insular path, and I find that thought very depressing.
+2016-02-23 02:15:52	 > 	M1C4HTRON13 (~micah@bodhilinux/team/M1C4HTRON13) has joined #linuxvoice
+2016-02-23 02:20:34	Devilment	What effect, if any, would a Brexit have on selling LV to European readers and paying EU writers compared to now?
+2016-02-23 02:21:32	 < 	theru (~theru@theru.org) has quit (Quit: ZNC - http://znc.in)
+2016-02-23 02:23:02	 > 	theru (~theru@theru.org) has joined #linuxvoice
+2016-02-23 02:23:02		[02:23]
+2016-02-23 02:24:51	@degville	I really don't know. The current state of VAT is horrible, so I'm not sure it would be worse.
+2016-02-23 02:25:20	TraceyC	I wonder if it would mean additional headaches for Saunders
+2016-02-23 02:25:26	TraceyC	IIRC he's now in Germany
+2016-02-23 02:26:22	@degville	It may. It's part of the reason why he's taken on the Document Foundation job, as that's based in Germany and could help if he needs to become a German citizen, as far as I know.
+2016-02-23 02:27:58	Devilment	German citizen. Does that involve having his sense of humour removed?
+2016-02-23 02:28:42	TraceyC	+5 to logic -2 to humor
+2016-02-23 02:29:20	@degville	hehehe..  Mike's from the home of Stan Laurel, I'm sure his humour will survive.
+2016-02-23 02:29:42	Blackisle	will chase out the interview mcphail :)
+2016-02-23 02:29:44	Devilment	Joke I've told before: How many Germans does it take to change a lightbulb? Just one, as they are efficient and have no sense of humour.
+2016-02-23 02:29:49	 < 	mnavrati (milan@nat/redhat/x-plhycivarthpmwgc) has quit (Quit: Leaving)
+2016-02-23 02:30:53	Blackisle	one of the usual opt-out issues is the huge amount of red-tape you need to go through to sell stuff in the EU. We manufacture machines so the vast majority oif the red-tape is to do with the CE mark
+2016-02-23 02:31:12	Blackisle	whether we're in or out, you still need a CE mark to sell in the EU
+2016-02-23 02:31:42	Blackisle	so it's idiotic not to be part of the EU and at least try to steer some of the standards decisions made
+2016-02-23 02:33:10	Blackisle	tis crazy to think that splitting with the EU, our largest trading partner, won't have a negative impact on industry
+2016-02-23 02:34:44	Blackisle	anyone fancy re-negotiating the EU trade deals (as well as all the other EU bound deals) prior to Brexit?
+2016-02-23 02:35:04	@degville	I might just join Mike.
+2016-02-23 02:35:23	Blackisle	in Marketing?
+2016-02-23 02:35:27	@degville	ahaha
+2016-02-23 02:35:34	Blackisle	;)
+2016-02-23 02:35:36	@degville	True. I'm terrible at Marketing.
+2016-02-23 02:36:05	TraceyC	I keep thinking to the parallels to the cry of "States Rights!1!!!!!" in the US, which is most often used to justify racist, xenophobic rules & desires
+2016-02-23 02:37:33	 > 	mnavrati (milan@nat/redhat/x-qhmhdkiygbaewgrg) has joined #linuxvoice
+2016-02-23 02:42:11	 > 	jherrmann (jirkah@nat/redhat/x-gvzgqjfytibsenhi) has joined #linuxvoice
+2016-02-23 02:42:11		[02:42]
+2016-02-23 02:42:48	 < 	writtenoff (~writtenof@d172-218-204-26.bchsia.telus.net) has quit (Quit: WeeChat 1.3)
+2016-02-23 02:44:12	 < 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has quit (Quit: ZNC - http://znc.in)
+2016-02-23 02:44:27	 > 	bdmc_ (bdmc@cl-745.bos-01.us.sixxs.net) has joined #linuxvoice
+2016-02-23 02:45:24	 - 	bdmc_ is now known as bdmc
+2016-02-23 02:51:00		[02:45]
+2016-02-23 02:56:55	Ioangogo|sleep	Roads are slower than walking with the ammout of people not driving correctly
+2016-02-23 03:02:00		[02:56]
+2016-02-23 03:03:59	mcphail	degville: I thought Stan Laurel was a Glaswegian?
+2016-02-23 03:05:10	mcphail	He was certainly a resident at one of the music halls
+2016-02-23 03:05:22	@degville	I think he left Ulverston when he was very little.
+2016-02-23 03:05:29	Devilment	He was from Lancs, IIRC
+2016-02-23 03:06:06	mcphail	aah
+2016-02-23 03:11:51	 < 	hamgammon (~hamgammon@188.226.144.192) has quit (Quit: So long and thanks for all the fish!)
+2016-02-23 03:12:17	 > 	hamgammon (~hamgammon@188.226.144.192) has joined #linuxvoice
+2016-02-23 03:14:23	 < 	hamgammon (~hamgammon@188.226.144.192) has quit (Client Quit)
+2016-02-23 03:16:19	 > 	hamgammon (~hamgammon@188.226.144.192) has joined #linuxvoice
+2016-02-23 03:22:00		[03:16]
+2016-02-23 03:29:26	 > 	Ian (~Thunderbi@vpn-3-168.rl.ac.uk) has joined #linuxvoice
+2016-02-23 03:29:50	 - 	Ian is now known as Guest92327
+2016-02-23 03:32:13	 > 	Delu (bc9203c3@gateway/web/freenode/ip.188.146.3.195) has joined #linuxvoice
+2016-02-23 03:32:42	 < 	Delu (bc9203c3@gateway/web/freenode/ip.188.146.3.195) has quit (Client Quit)
+2016-02-23 03:33:19	 < 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has quit (Quit: ZNC - http://znc.in)
+2016-02-23 03:33:31	 > 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has joined #linuxvoice
+2016-02-23 03:39:00		[03:33]
+2016-02-23 03:40:14	towy71	https://en.wikipedia.org/wiki/Stan_Laurel
+2016-02-23 03:41:34	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-23 03:47:00		[03:41]
+2016-02-23 03:47:13	 < 	Guest92327 (~Thunderbi@vpn-3-168.rl.ac.uk) has quit (Ping timeout: 252 seconds)
+2016-02-23 03:50:59	 < 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has quit (Ping timeout: 240 seconds)
+2016-02-23 03:53:35	Ioangogo|sleep	https://www.youtube.com/watch?v=m5dXWJi4pIA
+2016-02-23 03:54:32	 > 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has joined #linuxvoice
+2016-02-23 04:00:00		[03:54]
+2016-02-23 04:00:21	 > 	swift110 (~swift110@pool-173-73-122-47.washdc.east.verizon.net) has joined #linuxvoice
+2016-02-23 04:01:28	 < 	swift110 (~swift110@pool-173-73-122-47.washdc.east.verizon.net) has quit (Changing host)
+2016-02-23 04:01:28	 > 	swift110 (~swift110@unaffiliated/swift110) has joined #linuxvoice
+2016-02-23 04:07:00		[04:01]
+2016-02-23 04:10:17	 > 	pdq_ (~pdq@p20030045431B70002D2BB8C64C61C40A.dip0.t-ipconnect.de) has joined #linuxvoice
+2016-02-23 04:13:13	 - 	irc: disconnected from server
+2016-02-23 04:13:39	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-23 04:13:39		[04:13]
+2016-02-23 04:13:39	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-23 04:13:39	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-23 04:13:39	 - 	Channel #linuxvoice: 79 nicks (1 op, 0 voices, 78 normals)
+2016-02-23 04:13:49	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-23 04:13:58	 < 	mnavrati (milan@nat/redhat/x-qhmhdkiygbaewgrg) has quit (Quit: Leaving)
+2016-02-23 04:19:00		[04:13]
+2016-02-23 04:20:07	 > 	writtenoff (~writtenof@of1.psych.ubc.ca) has joined #linuxvoice
+2016-02-23 04:21:34	 < 	charlesay (~daro3@zecd5.pia.fu-berlin.de) has quit (Ping timeout: 255 seconds)
+2016-02-23 04:22:59	 < 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has quit (Ping timeout: 240 seconds)
+2016-02-23 04:24:05	 > 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has joined #linuxvoice
+2016-02-23 04:30:00		[04:24]
+2016-02-23 04:30:02	 < 	TwistedLucidity (~TwistedLu@cpc80671-stap13-2-0-cust118.12-2.cable.virginm.net) has quit (Quit: Konversation terminated!)
+2016-02-23 04:36:00		[04:30]
+2016-02-23 04:50:47	 < 	andybalaam (andybalaam@nat/ibm/x-hcuraukttlsleahi) has quit (Remote host closed the connection)
+2016-02-23 04:56:00		[04:50]
+2016-02-23 05:05:29	 < 	bdmc (bdmc@cl-745.bos-01.us.sixxs.net) has quit (Ping timeout: 240 seconds)
+2016-02-23 05:07:30	 > 	CPrompt^ (~CPrompt^@cpe-45-36-163-153.triad.res.rr.com) has joined #linuxvoice
+2016-02-23 05:07:38	 > 	mnavrati (~milan@ip-94-113-220-233.net.upcbroadband.cz) has joined #linuxvoice
+2016-02-23 05:09:35	 > 	charlesay (~daro3@176.6.18.139) has joined #linuxvoice
+2016-02-23 05:15:00		[05:09]
+2016-02-23 05:27:07	 > 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has joined #linuxvoice
+2016-02-23 05:33:00		[05:27]
+2016-02-23 05:37:03	 < 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has quit (Ping timeout: 276 seconds)
+2016-02-23 05:37:23	 < 	charlesay (~daro3@176.6.18.139) has quit (Ping timeout: 250 seconds)
+2016-02-23 05:41:47	 > 	asusk7m550 (~Thunderbi@2001:981:97b3:1:1d90:60f0:7702:8f58) has joined #linuxvoice
+2016-02-23 05:47:00		[05:41]
+2016-02-23 05:51:37	 - 	irc: disconnected from server
+2016-02-23 05:51:56	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-23 05:51:56		[05:51]
+2016-02-23 05:51:56	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-23 05:51:56	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-23 05:51:56	 - 	Channel #linuxvoice: 78 nicks (1 op, 0 voices, 77 normals)
+2016-02-23 05:52:06	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-23 05:54:56	 < 	pdq_ (~pdq@p20030045431B70002D2BB8C64C61C40A.dip0.t-ipconnect.de) has quit (Remote host closed the connection)
+2016-02-23 05:58:44	 > 	bdmc (~bdmc@68.153.43.233) has joined #linuxvoice
+2016-02-23 06:04:00		[05:58]
+2016-02-23 06:20:04	 > 	Ian (~Thunderbi@pb-d-128-141-238-41.cern.ch) has joined #linuxvoice
+2016-02-23 06:20:04		[06:20]
+2016-02-23 06:20:27	 - 	Ian is now known as Guest11936
+2016-02-23 06:25:29	 < 	Guest11936 (~Thunderbi@pb-d-128-141-238-41.cern.ch) has quit (Ping timeout: 240 seconds)
+2016-02-23 06:27:43	 < 	jherrmann (jirkah@nat/redhat/x-gvzgqjfytibsenhi) has quit (Remote host closed the connection)
+2016-02-23 06:33:00		[06:27]
+2016-02-23 06:40:10	 > 	towy71_ (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has joined #linuxvoice
+2016-02-23 06:40:49	 > 	charlesay (~daro3@ip5f5bd6cf.dynamic.kabel-deutschland.de) has joined #linuxvoice
+2016-02-23 06:42:02	 < 	towy71 (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has quit (Ping timeout: 244 seconds)
+2016-02-23 06:44:47	Ioangogo|sleep	rooting a nook
+2016-02-23 06:45:20	TraceyC	:D
+2016-02-23 06:45:28	TraceyC	Are you going to keep the Amazon OS on it?
+2016-02-23 06:45:50	Ioangogo|sleep	TraceyC: Nook isnt amazon
+2016-02-23 06:46:12	TraceyC	d'oh, it comes with Android?
+2016-02-23 06:46:21	TraceyC	I new Nook is B&N. I just was in a B&N yesterday....
+2016-02-23 06:46:25	TraceyC	knew*
+2016-02-23 06:46:30	*	TraceyC goes back to bed
+2016-02-23 06:48:10	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Ping timeout: 252 seconds)
+2016-02-23 06:48:10		[06:48]
+2016-02-23 07:06:57	 - 	irc: disconnected from server
+2016-02-23 07:06:57		[07:06]
+2016-02-23 08:50:48	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-23 08:50:48		[08:50]
+2016-02-23 08:50:48	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-23 08:50:48	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-23 08:50:48	 - 	Channel #linuxvoice: 75 nicks (1 op, 0 voices, 74 normals)
+2016-02-23 08:50:56	 > 	swift110_ (~swift110@64.26.99.248) has joined #linuxvoice
+2016-02-23 08:50:57	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-23 08:56:00		[08:50]
+2016-02-23 08:59:07	 - 	irc: disconnected from server
+2016-02-23 08:59:16	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-23 08:59:16		[08:59]
+2016-02-23 08:59:16	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-23 08:59:16	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-23 08:59:16	 - 	Channel #linuxvoice: 76 nicks (1 op, 0 voices, 75 normals)
+2016-02-23 08:59:26	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-23 09:05:00		[08:59]
+2016-02-23 09:06:25	 > 	Ian1 (~Thunderbi@vpn-3-186.rl.ac.uk) has joined #linuxvoice
+2016-02-23 09:12:00		[09:06]
+2016-02-23 09:14:31	 < 	charlesay (~daro3@ip5f5bd6cf.dynamic.kabel-deutschland.de) has quit (Ping timeout: 255 seconds)
+2016-02-23 09:20:00		[09:14]
+2016-02-23 09:31:57	 > 	charlesay (~daro3@ip5f5bd6cf.dynamic.kabel-deutschland.de) has joined #linuxvoice
+2016-02-23 09:32:23	 < 	charlesay (~daro3@ip5f5bd6cf.dynamic.kabel-deutschland.de) has quit (Client Quit)
+2016-02-23 09:38:00		[09:32]
+2016-02-23 09:41:33	 - 	blahdeblah_ is now known as blahdeblah
+2016-02-23 09:47:00		[09:41]
+2016-02-23 09:53:22	 < 	M1C4HTRON13 (~micah@bodhilinux/team/M1C4HTRON13) has quit (Remote host closed the connection)
+2016-02-23 09:53:30	Ioangogo	BBC 3 has become a bbc production name thing
+2016-02-23 09:59:00		[09:53]
+2016-02-23 10:00:41	 < 	gb00s (~gb00s@c50-31.i07-13.onvol.net) has quit (Quit: Leaving)
+2016-02-23 10:06:00		[10:00]
+2016-02-23 10:06:39	 < 	Ian1 (~Thunderbi@vpn-3-186.rl.ac.uk) has quit (Ping timeout: 244 seconds)
+2016-02-23 10:07:48	Ioangogo	This is one thing that had me Lauthing out loud https://www.youtube.com/watch?v=DMG-hMJhySk
+2016-02-23 10:08:17	 - 	mnavrati_afk is now known as mnavrati
+2016-02-23 10:08:23	 - 	irc: disconnected from server
+2016-02-23 10:11:21	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-23 10:11:21		[10:11]
+2016-02-23 10:11:21	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-23 10:11:21	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-23 10:11:21	 - 	Channel #linuxvoice: 73 nicks (1 op, 0 voices, 72 normals)
+2016-02-23 10:11:30	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-23 10:15:53	swift110	hey all
+2016-02-23 10:21:00		[10:15]
+2016-02-23 10:54:04	Ioangogo	:( looks like beep beep yar wont make it
+2016-02-23 10:54:04		[10:54]
+2016-02-23 10:57:32	fs0ciety	:(
+2016-02-23 10:57:35	fs0ciety	that is sad
+2016-02-23 11:03:00		[10:57]
+2016-02-23 11:03:29	 - 	irc: disconnected from server
+2016-02-23 11:03:44	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-23 11:03:44		[11:03]
+2016-02-23 11:03:44	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-23 11:03:44	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-23 11:03:44	 - 	Channel #linuxvoice: 73 nicks (1 op, 0 voices, 72 normals)
+2016-02-23 11:03:54	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-23 11:09:00		[11:03]
+2016-02-23 11:18:18	 < 	mnavrati (~milan@ip-94-113-220-233.net.upcbroadband.cz) has quit (Quit: Leaving)
+2016-02-23 11:24:00		[11:18]
+2016-02-23 11:28:13	swift110	how are you Ioangogo
+2016-02-23 11:34:00		[11:28]
+2016-02-23 11:37:31	 - 	irc: disconnected from server
+2016-02-23 11:37:41	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-23 11:37:41		[11:37]
+2016-02-23 11:37:41	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-23 11:37:41	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-23 11:37:41	 - 	Channel #linuxvoice: 72 nicks (1 op, 0 voices, 71 normals)
+2016-02-23 11:37:50	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-23 11:43:00		[11:37]
+2016-02-23 11:56:05	 > 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has joined #linuxvoice
+2016-02-23 12:02:00		[11:56]
+2016-02-23 12:36:37	 < 	writtenoff (~writtenof@of1.psych.ubc.ca) has quit (Quit: WeeChat 1.3)
+2016-02-23 12:36:37		[12:36]
+2016-02-23 12:44:36	 < 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has quit (Ping timeout: 248 seconds)
+2016-02-23 12:44:45	 < 	corsack (~pi@cpc21-hudd9-2-0-cust116.4-1.cable.virginm.net) has quit (Ping timeout: 276 seconds)
+2016-02-23 12:47:29	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Ping timeout: 240 seconds)
+2016-02-23 12:51:01	 > 	corsack (~pi@cpc21-hudd9-2-0-cust116.4-1.cable.virginm.net) has joined #linuxvoice
+2016-02-23 12:57:00		[12:51]
+2016-02-23 12:57:08	 < 	swift110_ (~swift110@64.26.99.248) has quit (Ping timeout: 244 seconds)
+2016-02-23 12:59:11	 - 	irc: disconnected from server
+2016-02-23 20:03:34	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-23 20:03:34		[20:03]
+2016-02-23 20:03:34	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-23 20:03:34	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-23 20:03:34	 - 	Channel #linuxvoice: 75 nicks (1 op, 0 voices, 74 normals)
+2016-02-23 20:03:45	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-23 20:09:00		[20:03]
+2016-02-23 20:21:42	Devilment	http://www.bbc.co.uk/news/magazine-35560458
+2016-02-23 20:22:36	zmoylan-pi	i don't think it even comes close to worst video game
+2016-02-23 20:23:37	zmoylan-pi	atari who spent millions for rights to a game which they rushed out in 3 weeks with 1 programmer are to blame methinks
+2016-02-23 20:28:28	Devilment	In the 90s, I "played" a game called Pax <something> from a French software house. Set in the future, there was background radiation as a hazard. Said radiation killed my character within 5 minutes.
+2016-02-23 20:28:28		[20:28]
+2016-02-23 20:28:41	Devilment	That was the worst game I ever played
+2016-02-23 20:28:59	zmoylan-pi	collywobbles on zx spectrum, a gauntlet clone, unplayable
+2016-02-23 20:29:17	Devilment	4-5 cycles of "Start game. Die." and I uninstalled it
+2016-02-23 20:30:19	zmoylan-pi	i just pushed tape to back of shelf and never loaded it again...
+2016-02-23 20:32:50	mcphail	I think, to be properly bad, a game must have had some degree of hype and expectation which it spectacularly failed to meet. There are 1000s of back-bedroom Speccy games which were awful, but no-one would have expected them to be good
+2016-02-23 20:33:54	zmoylan-pi	well collywobbles had great looking graphics and synthisized speech and sound so effort HAD been put in
+2016-02-23 20:34:08	zmoylan-pi	but was ruined by bugs
+2016-02-23 20:35:15	zmoylan-pi	about a 1/3 of the games i had were never reviewed by magazines so you had no other way of knowing what to avoid for a lot of games
+2016-02-23 20:35:36	zmoylan-pi	no internet to check them out
+2016-02-23 20:40:29	Devilment	Daikatana, Duke Nukem Forever
+2016-02-23 20:41:58	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #linuxvoice
+2016-02-23 20:43:27	mcphail	I've been tempted to but Daikatana, to see if it is as bad as everyone says
+2016-02-23 20:43:31	mcphail	*buy
+2016-02-23 20:43:31		[20:43]
+2016-02-23 20:51:42	 > 	towy71 (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has joined #linuxvoice
+2016-02-23 20:54:12	Devilment	I picked up a couple of LED "golfball" bulbs y'day from Poundland. Rated at 5W / 330lm.
+2016-02-23 20:54:19	 < 	towy71_ (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has quit (Ping timeout: 250 seconds)
+2016-02-23 20:55:08	Devilment	They're to be used in a couple of mood-lighting lamps, but I tried them in my wall lights first, just to see how they compared to the 8W CFLs I'm already using
+2016-02-23 20:55:33	Devilment	I was surprised they were just as bright, if not a touch brighter
+2016-02-23 20:56:00	 < 	towy71 (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has quit (Ping timeout: 240 seconds)
+2016-02-23 20:56:19	Devilment	At £1/bulb, it'll take a year for them to pay back their costs if I replaced them :)
+2016-02-23 20:56:44	 > 	towy71 (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has joined #linuxvoice
+2016-02-23 20:57:29	mcphail	CFLs need to die. Horrible horrible things
+2016-02-23 20:58:08	james_olympus	Sounds good.  My kitchen has ten 20W halogens.  I don't like to use the ceiling lights, they're close to gaming graphics card territory
+2016-02-23 20:58:16	Devilment	I've used low energy lighting since I got the house, so have no comparison to running lighting using incandescents
+2016-02-23 20:58:41	Devilment	Often wondered how much a reduction people who have swapped over see in their leccy bills
+2016-02-23 20:58:41		[20:58]
+2016-02-23 20:59:15	mcphail	Devilment: they're nasty, and prone to explode. Wouldn't be so bad if they weren't full of mercury
+2016-02-23 20:59:40	Devilment	Prone to explode?
+2016-02-23 20:59:57	Devilment	And they're not full of mercury
+2016-02-23 21:05:00		[20:59]
+2016-02-23 21:11:06	Devilment	http://earthtechling.com/2011/10/the-mercury-myth-how-much-mercury-do-cfls-actually-contain/
+2016-02-23 21:11:23	mcphail	Devilment: they fail with a bang. I had one pop like a gunshot a couple of months ago, followed by a foul cabbage smell. I'll admit "full of" is hyperbole, but they do contain mercury and they do explode
+2016-02-23 21:11:47	*	mcphail would like to stress the foul cabbage smell did not come from his trousers
+2016-02-23 21:12:45	Devilment	Well, I've never had one explode on me and that's from a house with one in nearly every fitting
+2016-02-23 21:13:22	mcphail	http://www.maine.gov/dep/homeowner/cflreport.html
+2016-02-23 21:17:11	Devilment	I still maintain the "ZOMG! Mercury!" risk is over-hyped for CFLs
+2016-02-23 21:19:02	zmoylan-pi	still sitting on those cfl manufacturers shares? :-)
+2016-02-23 21:19:23	Devilment	Nope
+2016-02-23 21:19:49	Devilment	I have buggy-whip manufacturer shares though :)
+2016-02-23 21:21:11	zmoylan-pi	http://www.buggywhip.org/products.html
+2016-02-23 21:21:11		[21:21]
+2016-02-23 21:21:37	 < 	LauRoman (~LauRoman@5-14-81-219.residential.rdsnet.ro) has quit (Read error: Connection reset by peer)
+2016-02-23 21:27:00		[21:21]
+2016-02-23 21:30:50	 > 	brucemuggins (~brucemint@95.41.233.220.static.exetel.com.au) has joined #linuxvoice
+2016-02-23 21:36:00		[21:30]
+2016-02-23 21:41:58	 > 	Ian (~Thunderbi@vpn-3-088.rl.ac.uk) has joined #linuxvoice
+2016-02-23 21:42:22	 - 	Ian is now known as Guest42382
+2016-02-23 21:48:00		[21:42]
+2016-02-23 21:57:43	 < 	Guest42382 (~Thunderbi@vpn-3-088.rl.ac.uk) has quit (Ping timeout: 255 seconds)
+2016-02-23 22:03:00		[21:57]
+2016-02-23 22:16:31	 < 	aptanet (~quassel@humpback.aptanet.net) has quit (Remote host closed the connection)
+2016-02-23 22:18:03	 > 	aptanet (~quassel@humpback.aptanet.net) has joined #linuxvoice
+2016-02-23 22:18:03		[22:18]
+2016-02-23 22:39:28	 > 	felimwhiteley_ (~quassel@89.101.203.26) has joined #linuxvoice
+2016-02-23 22:39:28		[22:39]
+2016-02-23 22:42:35	 > 	haircode (~haircode@46.101.17.241) has joined #linuxvoice
+2016-02-23 22:48:00		[22:42]
+2016-02-23 22:56:56	 < 	haircode (~haircode@46.101.17.241) has quit (*.net *.split)
+2016-02-23 22:58:42	 > 	haircode (~haircode@46.101.17.241) has joined #linuxvoice
+2016-02-23 22:59:38	 > 	Ian (~Thunderbi@pb-d-128-141-156-23.cern.ch) has joined #linuxvoice
+2016-02-23 23:00:01	 - 	Ian is now known as Guest25011
+2016-02-23 23:06:00		[23:00]
+2016-02-23 23:06:59	 < 	Guest25011 (~Thunderbi@pb-d-128-141-156-23.cern.ch) has quit (Ping timeout: 240 seconds)
+2016-02-23 23:12:00		[23:06]
+2016-02-23 23:15:15	 > 	Ian (~Thunderbi@vpn-3-166.rl.ac.uk) has joined #linuxvoice
+2016-02-23 23:15:38	 - 	Ian is now known as Guest37850
+2016-02-23 23:21:00		[23:15]
+2016-02-23 23:26:56	 < 	brucemuggins (~brucemint@95.41.233.220.static.exetel.com.au) has quit (Quit: Konversation terminated!)
+2016-02-23 23:28:38	 < 	Guest37850 (~Thunderbi@vpn-3-166.rl.ac.uk) has quit (Ping timeout: 255 seconds)
+2016-02-23 23:34:00		[23:28]
+2016-02-24 00:01:20	 < 	mnavrati (milan@nat/redhat/x-cdsmmknlarbxrzlp) has quit (Quit: Leaving)
+2016-02-24 00:01:20		[00:01]
+2016-02-24 00:02:24	 < 	arubislander (~ubuntuadm@86.93.93.218) has quit (Quit: Leaving.)
+2016-02-24 00:02:47	 > 	mnavrati (milan@nat/redhat/x-nvjjuwkslgyfvzxj) has joined #linuxvoice
+2016-02-24 00:03:49	 > 	arubislander (~ubuntuadm@86.93.93.218) has joined #linuxvoice
+2016-02-24 00:09:00		[00:03]
+2016-02-24 00:12:54	 > 	Ian (~Thunderbi@vpn-3-035.rl.ac.uk) has joined #linuxvoice
+2016-02-24 00:13:18	 - 	Ian is now known as Guest8637
+2016-02-24 00:16:46	 > 	TraceyC (~TraceyC@ng2.cptxoffice.net) has joined #linuxvoice
+2016-02-24 00:20:05	 > 	jaake (~h4ckm3@129.59.122.17) has joined #linuxvoice
+2016-02-24 00:26:00		[00:20]
+2016-02-24 00:27:47	*	mcphail has an expired SSL certificate on his home server. Created it 10 years ago. /me is getting old :(
+2016-02-24 00:28:37	zmoylan-pi	pffffft. i'm sure if i made a few calls i could find code i wrote in 80s still in daily use :-)
+2016-02-24 00:29:43	mcphail	zmoylan-pi: the code I wote in the 80's went '10 PRINT "McPhail Rules OK" 20 GOTO 10'
+2016-02-24 00:30:16	zmoylan-pi	i wrote code in qbasic so not much different :-)
+2016-02-24 00:30:21	mcphail	:)
+2016-02-24 00:30:51	zmoylan-pi	initially gwbasic then qbasic and most was dragged kicking and screaming into visual basic...
+2016-02-24 00:31:06	 - 	irc: disconnected from server
+2016-02-24 00:43:36	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-24 00:43:36		[00:43]
+2016-02-24 00:43:36	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-24 00:43:36	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-24 00:43:36	 - 	Channel #linuxvoice: 80 nicks (1 op, 0 voices, 79 normals)
+2016-02-24 00:43:45	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-24 00:44:18	 < 	Guest8637 (~Thunderbi@vpn-3-035.rl.ac.uk) has quit (Ping timeout: 276 seconds)
+2016-02-24 00:47:42	 - 	irc: disconnected from server
+2016-02-24 00:50:32	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-24 00:50:32		[00:50]
+2016-02-24 00:50:32	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-24 00:50:32	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-24 00:50:32	 - 	Channel #linuxvoice: 79 nicks (1 op, 0 voices, 78 normals)
+2016-02-24 00:50:35	 - 	irc: disconnected from server
+2016-02-24 01:18:18	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-24 01:18:18		[01:18]
+2016-02-24 01:18:18	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-24 01:18:18	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-24 01:18:18	 - 	Channel #linuxvoice: 78 nicks (1 op, 0 voices, 77 normals)
+2016-02-24 01:18:29	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-24 01:22:18	Devilment	Damn. Just heard that one of our consultants had a stroke y'day morning
+2016-02-24 01:22:28	 < 	jaake (~h4ckm3@129.59.122.17) has quit (Ping timeout: 252 seconds)
+2016-02-24 01:22:44	zmoylan-pi	age?
+2016-02-24 01:22:45	TraceyC	:( I hope they are on the mend
+2016-02-24 01:22:49	Devilment	63
+2016-02-24 01:23:20	Devilment	Fortunately he was at home
+2016-02-24 01:23:35	zmoylan-pi	we work in a sedentary job environment and aren't the best at looking after our health...
+2016-02-24 01:23:45	Devilment	Could've been worse if he'd been on the road or in a hotel room
+2016-02-24 01:23:46	zmoylan-pi	fingers crossed he makes a full recovery
+2016-02-24 01:25:59	*	zmoylan-pi was listening this morning to radio interview from guy who had a stroke about charity that helps people deal with the aftermath of such health crisis
+2016-02-24 01:29:12	Devilment	He's lost his speech and mobility down one side
+2016-02-24 01:31:19	zmoylan-pi	not good... severe
+2016-02-24 01:37:00		[01:31]
+2016-02-24 01:42:33	 > 	jaake (~h4ckm3@129.59.122.17) has joined #linuxvoice
+2016-02-24 01:48:00		[01:42]
+2016-02-24 01:58:06	 < 	mnavrati (milan@nat/redhat/x-nvjjuwkslgyfvzxj) has quit (Quit: Leaving)
+2016-02-24 01:58:13	 < 	jherrmann (jirkah@nat/redhat/x-wjdzwbrartylqfyw) has quit (Quit: Toodle pip!)
+2016-02-24 02:02:30	 > 	mnavrati_mtg (milan@nat/redhat/x-ouxvihdqjqddiphr) has joined #linuxvoice
+2016-02-24 02:07:00	 > 	The_Farmer (~chatzilla@ip98-183-208-12.hr.hr.cox.net) has joined #linuxvoice
+2016-02-24 02:07:00		[02:07]
+2016-02-24 02:07:45	 > 	dizzyliz1y (~aubrey@raech.net) has joined #linuxvoice
+2016-02-24 02:07:50	 < 	frankbell (~chatzilla@ip98-183-208-12.hr.hr.cox.net) has quit (Ping timeout: 240 seconds)
+2016-02-24 02:07:50	 < 	dizzylizzy (~aubrey@raech.net) has quit (Ping timeout: 240 seconds)
+2016-02-24 02:07:50	 < 	hamgammon (~hamgammon@188.226.144.192) has quit (Ping timeout: 240 seconds)
+2016-02-24 02:07:58	 > 	hamgammo1 (~hamgammon@188.226.144.192) has joined #linuxvoice
+2016-02-24 02:07:58	 - 	The_Farmer is now known as frankbell
+2016-02-24 02:13:00		[02:07]
+2016-02-24 02:14:43	 > 	jherrmann (jirkah@nat/redhat/x-jvhouduepuqfsuwn) has joined #linuxvoice
+2016-02-24 02:14:52	 < 	TraceyC (~TraceyC@ng2.cptxoffice.net) has quit (Ping timeout: 244 seconds)
+2016-02-24 02:20:00		[02:14]
+2016-02-24 02:26:48	 > 	TraceyC (~TraceyC@208.74.121.106) has joined #linuxvoice
+2016-02-24 02:32:00		[02:26]
+2016-02-24 02:40:49	 < 	gb00s (~gb00s@c50-31.i07-13.onvol.net) has quit (Quit: Leaving)
+2016-02-24 02:41:03	 < 	writtenoff (~writtenof@172.218.204.26) has quit (Quit: WeeChat 1.3)
+2016-02-24 02:47:00		[02:41]
+2016-02-24 02:49:35	 > 	Ian (~Thunderbi@80-254-78-160.dynamic.monzoon.net) has joined #linuxvoice
+2016-02-24 02:49:58	 - 	Ian is now known as Guest93304
+2016-02-24 02:55:00		[02:49]
+2016-02-24 02:59:53	 < 	Guest93304 (~Thunderbi@80-254-78-160.dynamic.monzoon.net) has quit (Ping timeout: 244 seconds)
+2016-02-24 07:23:01	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linuxvoice
+2016-02-24 07:23:01		[07:23]
+2016-02-24 07:23:01	 - 	Topic for #linuxvoice is "An exciting new IRC channel for an exciting new dawn of exciting Linux MAGAZINES. It's very exciting. In accordance with #linuxformat tradition, the topic title will never, ever be changed."
+2016-02-24 07:23:01	 - 	Topic set by degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) on Fri, 13 Mar 2015 09:17:53
+2016-02-24 07:23:01	 - 	Channel #linuxvoice: 76 nicks (1 op, 0 voices, 75 normals)
+2016-02-24 07:23:11	 - 	Channel created on Tue, 12 Nov 2013 01:19:50
+2016-02-24 07:29:00		[07:23]
+2016-02-24 07:31:11	 > 	mjtowell (~mjtowell@unaffiliated/mjtowell) has joined #linuxvoice
+2016-02-24 07:35:26	 > 	LauRoman (~LauRoman@5-14-81-219.residential.rdsnet.ro) has joined #linuxvoice
+2016-02-24 07:41:00		[07:35]
+2016-02-24 07:54:44	 < 	TraceyC (~TraceyC@208.74.121.106) has quit (Quit: Off I go into the wild, blue yonder)
+2016-02-24 07:55:36	 > 	anglic00 (~james____@81-86-151-146.dsl.pipex.com) has joined #linuxvoice
+2016-02-24 07:58:44	 < 	mjtowell (~mjtowell@unaffiliated/mjtowell) has quit (Quit: Leaving)
+2016-02-24 07:58:44		[07:58]
+2016-02-24 08:13:38	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-24 08:14:48	 - 	foxhunt_away is now known as foxhunt72
+2016-02-24 08:14:48		[08:14]
+2016-02-24 08:19:29	 < 	jaake (~h4ckm3@129.59.122.17) has quit (Ping timeout: 240 seconds)
+2016-02-24 08:22:40	 > 	mnavrati (~milan@ip-94-113-220-233.net.upcbroadband.cz) has joined #linuxvoice
+2016-02-24 08:25:54	 > 	Nitronium (~Dave@host213-1-14-213.range213-1.btcentralplus.com) has joined #linuxvoice
+2016-02-24 08:31:00		[08:25]
+2016-02-24 08:45:38	 - 	foxhunt72 is now known as foxhunt_away
+2016-02-24 08:51:00		[08:45]
+2016-02-24 08:54:28	 < 	asusk7m550 (~Thunderbi@2001:981:97b3:1:9984:d771:e1dc:3573) has quit (Quit: asusk7m550)
+2016-02-24 08:59:13	anglic00	https://github.com/santinic/how2 pretty cool
+2016-02-24 09:03:47	 < 	Nitronium (~Dave@host213-1-14-213.range213-1.btcentralplus.com) has quit (Remote host closed the connection)
+2016-02-24 09:04:13	 > 	asusk7m550 (~Thunderbi@2001:981:97b3:1:9984:d771:e1dc:3573) has joined #linuxvoice
+2016-02-24 09:10:00		[09:04]
+2016-02-24 09:36:29	 < 	asusk7m550 (~Thunderbi@2001:981:97b3:1:9984:d771:e1dc:3573) has quit (Quit: asusk7m550)
+2016-02-24 09:36:29		[09:36]
+2016-02-24 09:37:19	 < 	M1C4HTRON13 (~micah@bodhilinux/team/M1C4HTRON13) has quit (Remote host closed the connection)
+2016-02-24 09:43:00		[09:37]
+2016-02-24 09:50:54	 < 	slashd (~slashd@205.204.31.10) has quit (Remote host closed the connection)
+2016-02-24 09:56:00		[09:50]
+2016-02-24 09:58:08	 < 	haircode (~haircode@46.101.17.241) has quit (*.net *.split)
+2016-02-24 09:58:08	 < 	Secret_Hamster (~pfft@pdpc/supporter/active/secret-hamster) has quit (*.net *.split)
+2016-02-24 09:58:08	 < 	russor (~rw@188.166.11.128) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	felimwhiteley_ (~quassel@89.101.203.26) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	popey (~alan@cpc81199-farn9-2-0-cust577.6-2.cable.virginm.net) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	evilnickveitch (~evilnick@cpc83321-bath6-2-0-cust252.18-1.cable.virginm.net) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	Arthur_D (~magne@195.1.125.245) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	towy71 (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	dizzyliz1y (~aubrey@raech.net) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	zmoylan-pi (~pi@109.79.100.243) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	bdmc (~bdmc@68.153.43.233) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	blahdeblah (~quassel@unaffiliated/blahdeblah) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	nomad_dw (~nomad@maia.oucs.ox.ac.uk) has quit (*.net *.split)
+2016-02-24 09:58:09	 < 	exoplanet (~exoplanet@unaffiliated/exoplanet) has quit (*.net *.split)
+2016-02-24 09:58:10	 < 	amoe (~amoe@li195-121.members.linode.com) has quit (*.net *.split)
+2016-02-24 09:58:10	 < 	mnavrati (~milan@ip-94-113-220-233.net.upcbroadband.cz) has quit (*.net *.split)
+2016-02-24 09:58:10	 < 	anglic00 (~james____@81-86-151-146.dsl.pipex.com) has quit (*.net *.split)
+2016-02-24 09:58:10	 < 	aptanet (~quassel@humpback.aptanet.net) has quit (*.net *.split)
+2016-02-24 09:58:10	 < 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has quit (*.net *.split)
+2016-02-24 09:58:10	 < 	Ioangogo (~quassel@huwloosley.plus.com) has quit (*.net *.split)
+2016-02-24 09:58:11	 < 	mparm9202 (~mparm920@71.227.15.34) has quit (*.net *.split)
+2016-02-24 09:58:11	 < 	nsc (~nsc@tardis.chantrell.net) has quit (*.net *.split)
+2016-02-24 09:58:11	 < 	CPrompt^ (~CPrompt^@cpe-45-36-163-153.triad.res.rr.com) has quit (*.net *.split)
+2016-02-24 09:58:11	 < 	Cueball (~lee@2001:8b0:ffb3::c0:ff:ee) has quit (*.net *.split)
+2016-02-24 09:58:11	 < 	Stilvoid (stilvoid@offend.me.uk) has quit (*.net *.split)
+2016-02-24 09:58:11	 < 	pwaring (~pwaring@davros.xk7.net) has quit (*.net *.split)
+2016-02-24 09:58:12	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (*.net *.split)
+2016-02-24 09:58:12	 < 	writtenoff (~writtenof@of1.psych.ubc.ca) has quit (*.net *.split)
+2016-02-24 09:58:12	 < 	corsack (~pi@cpc21-hudd9-2-0-cust116.4-1.cable.virginm.net) has quit (*.net *.split)
+2016-02-24 09:58:12	 < 	Blackisle (~Blackisle@kilchoman.blackisle.org.uk) has quit (*.net *.split)
+2016-02-24 09:58:12	 < 	mavrix (~mavrix@unaffiliated/mavrix) has quit (*.net *.split)
+2016-02-24 09:58:12	 < 	callumd (~callumd@gmdltd.plus.com) has quit (*.net *.split)
+2016-02-24 09:58:12	 < 	einonm (~einonm@81.174.139.2) has quit (*.net *.split)
+2016-02-24 09:58:13	 < 	foxhunt_away (~r.devos@vps2.zorro-online.nl) has quit (*.net *.split)
+2016-02-24 09:58:13	 < 	jampoole_ (~root@46.101.30.180) has quit (*.net *.split)
+2016-02-24 09:58:13	 < 	theru (~theru@theru.org) has quit (*.net *.split)
+2016-02-24 09:58:14	 < 	metasansana (~metasansa@unaffiliated/metasansana) has quit (*.net *.split)
+2016-02-24 09:58:14	 < 	hamgammon (~hamgammon@188.226.144.192) has quit (*.net *.split)
+2016-02-24 09:58:14	 < 	frankbell (~chatzilla@ip98-183-208-12.hr.hr.cox.net) has quit (*.net *.split)
+2016-02-24 09:58:14	 < 	chemist69 (~apl@89.182.180.160) has quit (*.net *.split)
+2016-02-24 09:58:14	 < 	quaisi_ (~simon@host-92-30-27-114.as13285.net) has quit (*.net *.split)
+2016-02-24 09:58:14	 < 	grifferz (~andy@85.119.80.223) has quit (*.net *.split)
+2016-02-24 09:58:14	 < 	gregoriosw_vp (~gregorios@176.126.244.125) has quit (*.net *.split)
+2016-02-24 09:58:14	 < 	matthew1471_ (~matthew14@194.74.188.133) has quit (*.net *.split)
+2016-02-24 09:58:15	 < 	Cadair (~Cadair@unaffiliated/cadair) has quit (*.net *.split)
+2016-02-24 09:58:15	 < 	opi (~opi@2001:41d0:52:800::49e) has quit (*.net *.split)
+2016-02-24 09:58:15	 < 	flexiondotorg_ (~flexiondo@2001:41d0:2:e3::) has quit (*.net *.split)
+2016-02-24 09:58:15	 < 	Theta159- (~Theta1594@unaffiliated/theta1594) has quit (*.net *.split)
+2016-02-24 09:58:15	 < 	anglisc (~aethelber@81-86-151-146.dsl.pipex.com) has quit (*.net *.split)
+2016-02-24 09:58:15	 < 	archie1 (~Archie@ces1700.keskus.post.ee) has quit (*.net *.split)
+2016-02-24 09:58:15	 < 	degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) has quit (*.net *.split)
+2016-02-24 09:58:16	 < 	webpigeon (~quassel@kat.vps.livebytes.co.uk) has quit (*.net *.split)
+2016-02-24 09:58:16	 < 	KCinJP (sid136901@gateway/web/irccloud.com/x-uasvzkwglipzgwjw) has quit (*.net *.split)
+2016-02-24 09:58:16	 < 	cardinalfink (~paul@178.62.20.157) has quit (*.net *.split)
+2016-02-24 09:58:16	 < 	SonikArc (~prayingma@203-7-33-136.dyn.iinet.net.au) has quit (*.net *.split)
+2016-02-24 09:58:17	 < 	LagerMon (~LagarMons@213.221.204.54) has quit (*.net *.split)
+2016-02-24 09:58:17	 < 	cromulon (~cromulon@45.62.227.43) has quit (*.net *.split)
+2016-02-24 09:58:17	 < 	mcphail (~mcphail@unaffiliated/mcphail) has quit (*.net *.split)
+2016-02-24 09:58:17	 < 	Devilment (~david@cpc1-jarr13-2-0-cust241.16-2.cable.virginm.net) has quit (*.net *.split)
+2016-02-24 09:58:17	 < 	docapotamus (~pjuu@cloudev.pjuu.net) has quit (*.net *.split)
+2016-02-24 09:58:17	 < 	NYbill (~bill@104.236.1.137) has quit (*.net *.split)
+2016-02-24 09:58:18	 < 	vertreko (~vertreko@172-4-34-97.lightspeed.sndgca.sbcglobal.net) has quit (*.net *.split)
+2016-02-24 09:58:18	 < 	EspadaV8 (~EspadaV8@unaffiliated/espadav8) has quit (*.net *.split)
+2016-02-24 09:58:18	 < 	skybert (user@2a01:7e00::f03c:91ff:fedf:9eed) has quit (*.net *.split)
+2016-02-24 09:58:18	 < 	brianhunter- (~brian@bhlm.net) has quit (*.net *.split)
+2016-02-24 09:58:18	 < 	petrichor (~znc@unaffiliated/petrichor) has quit (*.net *.split)
+2016-02-24 09:58:19	 < 	thesilentboatman (~thesilent@c83-248-87-13.bredband.comhem.se) has quit (*.net *.split)
+2016-02-24 09:59:55	 > 	amoe (~amoe@li195-121.members.linode.com) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	exoplanet (~exoplanet@unaffiliated/exoplanet) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	nomad_dw (~nomad@maia.oucs.ox.ac.uk) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	blahdeblah (~quassel@unaffiliated/blahdeblah) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	bdmc (~bdmc@68.153.43.233) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	zmoylan-pi (~pi@109.79.100.243) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	dizzyliz1y (~aubrey@raech.net) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	towy71 (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	degville (~Graham@2001:41c8:51:1ac:feff:ff:fe00:3258) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	archie1 (~Archie@ces1700.keskus.post.ee) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	anglisc (~aethelber@81-86-151-146.dsl.pipex.com) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	Theta159- (~Theta1594@unaffiliated/theta1594) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	flexiondotorg_ (~flexiondo@2001:41d0:2:e3::) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	opi (~opi@2001:41d0:52:800::49e) has joined #linuxvoice
+2016-02-24 09:59:55	 > 	Cadair (~Cadair@unaffiliated/cadair) has joined #linuxvoice
+2016-02-24 09:59:55	 - 	Mode #linuxvoice [+o degville] by barjavel.freenode.net
+2016-02-24 10:00:21	 > 	skybert (user@2a01:7e00::f03c:91ff:fedf:9eed) has joined #linuxvoice
+2016-02-24 10:00:21	 > 	brianhunter- (~brian@bhlm.net) has joined #linuxvoice
+2016-02-24 10:00:21	 > 	petrichor (~znc@unaffiliated/petrichor) has joined #linuxvoice
+2016-02-24 10:00:21	 > 	thesilentboatman (~thesilent@c83-248-87-13.bredband.comhem.se) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	mnavrati (~milan@ip-94-113-220-233.net.upcbroadband.cz) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	anglic00 (~james____@81-86-151-146.dsl.pipex.com) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	aptanet (~quassel@humpback.aptanet.net) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	Ioangogo (~quassel@huwloosley.plus.com) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	mparm9202 (~mparm920@71.227.15.34) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	nsc (~nsc@tardis.chantrell.net) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	CPrompt^ (~CPrompt^@cpe-45-36-163-153.triad.res.rr.com) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	Cueball (~lee@2001:8b0:ffb3::c0:ff:ee) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	Stilvoid (stilvoid@offend.me.uk) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	pwaring (~pwaring@davros.xk7.net) has joined #linuxvoice
+2016-02-24 10:00:56	 > 	haircode (~haircode@46.101.17.241) has joined #linuxvoice
+2016-02-24 10:01:00	 > 	Secret_Hamster (~pfft@pdpc/supporter/active/secret-hamster) has joined #linuxvoice
+2016-02-24 10:01:00	 > 	russor (~rw@188.166.11.128) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	swift110 (~swift110@unaffiliated/swift110) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	writtenoff (~writtenof@of1.psych.ubc.ca) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	corsack (~pi@cpc21-hudd9-2-0-cust116.4-1.cable.virginm.net) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	jampoole_ (~root@46.101.30.180) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	foxhunt_away (~r.devos@vps2.zorro-online.nl) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	theru (~theru@theru.org) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	Blackisle (~Blackisle@kilchoman.blackisle.org.uk) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	mavrix (~mavrix@unaffiliated/mavrix) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	callumd (~callumd@gmdltd.plus.com) has joined #linuxvoice
+2016-02-24 10:01:08	 > 	einonm (~einonm@81.174.139.2) has joined #linuxvoice
+2016-02-24 10:02:02	 > 	felimwhiteley_ (~quassel@89.101.203.26) has joined #linuxvoice
+2016-02-24 10:02:03	 > 	popey (~alan@cpc81199-farn9-2-0-cust577.6-2.cable.virginm.net) has joined #linuxvoice
+2016-02-24 10:02:03	 > 	evilnickveitch (~evilnick@cpc83321-bath6-2-0-cust252.18-1.cable.virginm.net) has joined #linuxvoice
+2016-02-24 10:02:03	 > 	Arthur_D (~magne@195.1.125.245) has joined #linuxvoice
+2016-02-24 10:02:57	 > 	LagerMon (~LagarMons@213.221.204.54) has joined #linuxvoice
+2016-02-24 10:02:57	 > 	cromulon (~cromulon@45.62.227.43) has joined #linuxvoice
+2016-02-24 10:02:57	 > 	mcphail (~mcphail@unaffiliated/mcphail) has joined #linuxvoice
+2016-02-24 10:02:57	 > 	Devilment (~david@cpc1-jarr13-2-0-cust241.16-2.cable.virginm.net) has joined #linuxvoice
+2016-02-24 10:02:57	 > 	docapotamus (~pjuu@cloudev.pjuu.net) has joined #linuxvoice
+2016-02-24 10:02:57	 > 	NYbill (~bill@104.236.1.137) has joined #linuxvoice
+2016-02-24 10:02:57	 > 	vertreko (~vertreko@172-4-34-97.lightspeed.sndgca.sbcglobal.net) has joined #linuxvoice
+2016-02-24 10:02:57	 > 	EspadaV8 (~EspadaV8@unaffiliated/espadav8) has joined #linuxvoice
+2016-02-24 10:03:04	 > 	webpigeon (~quassel@kat.vps.livebytes.co.uk) has joined #linuxvoice
+2016-02-24 10:03:04	 > 	KCinJP (sid136901@gateway/web/irccloud.com/x-uasvzkwglipzgwjw) has joined #linuxvoice
+2016-02-24 10:03:04	 > 	cardinalfink (~paul@178.62.20.157) has joined #linuxvoice
+2016-02-24 10:03:04	 > 	SonikArc (~prayingma@203-7-33-136.dyn.iinet.net.au) has joined #linuxvoice
+2016-02-24 10:03:04	 < 	russor (~rw@188.166.11.128) has quit (Max SendQ exceeded)
+2016-02-24 10:03:59	 > 	quaisi (~simon@host-92-30-27-114.as13285.net) has joined #linuxvoice
+2016-02-24 10:04:07	 < 	anglic00 (~james____@81-86-151-146.dsl.pipex.com) has quit (Quit: Leaving)
+2016-02-24 10:04:27	 > 	anglic00 (~james____@81-86-151-146.dsl.pipex.com) has joined #linuxvoice
+2016-02-24 10:04:51	 > 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has joined #linuxvoice
+2016-02-24 10:04:52	 < 	anglic00 (~james____@81-86-151-146.dsl.pipex.com) has quit (Client Quit)
+2016-02-24 10:07:01	 > 	metasansana (~metasansa@unaffiliated/metasansana) has joined #linuxvoice
+2016-02-24 10:07:01	 > 	hamgammon (~hamgammon@188.226.144.192) has joined #linuxvoice
+2016-02-24 10:07:01	 > 	frankbell (~chatzilla@ip98-183-208-12.hr.hr.cox.net) has joined #linuxvoice
+2016-02-24 10:07:01	 > 	chemist69 (~apl@89.182.180.160) has joined #linuxvoice
+2016-02-24 10:07:01	 > 	quaisi_ (~simon@host-92-30-27-114.as13285.net) has joined #linuxvoice
+2016-02-24 10:07:01	 > 	grifferz (~andy@85.119.80.223) has joined #linuxvoice
+2016-02-24 10:07:01	 > 	gregoriosw_vp (~gregorios@176.126.244.125) has joined #linuxvoice
+2016-02-24 10:07:01	 > 	matthew1471_ (~matthew14@194.74.188.133) has joined #linuxvoice
+2016-02-24 10:07:01	 < 	metasansana (~metasansa@unaffiliated/metasansana) has quit (Max SendQ exceeded)
+2016-02-24 10:07:02	 < 	quaisi_ (~simon@host-92-30-27-114.as13285.net) has quit (Ping timeout: 255 seconds)
+2016-02-24 10:07:08	 > 	metasansana (~metasansa@190.213.225.135) has joined #linuxvoice
+2016-02-24 10:07:08	 < 	metasansana (~metasansa@190.213.225.135) has quit (Changing host)
+2016-02-24 10:07:08	 > 	metasansana (~metasansa@unaffiliated/metasansana) has joined #linuxvoice
+2016-02-24 10:07:14	 > 	russor (~rw@188.166.11.128) has joined #linuxvoice
+2016-02-24 10:13:00		[10:07]
+2016-02-24 10:29:28	 > 	brucemuggins (~brucemint@95.41.233.220.static.exetel.com.au) has joined #linuxvoice
+2016-02-24 10:29:28		[10:29]
+2016-02-24 10:38:25	 < 	aptanet (~quassel@humpback.aptanet.net) has quit (Remote host closed the connection)
+2016-02-24 10:39:53	 > 	aptanet (~quassel@humpback.aptanet.net) has joined #linuxvoice
+2016-02-24 10:45:00		[10:39]
+2016-02-24 11:11:57	 < 	anglisc (~aethelber@81-86-151-146.dsl.pipex.com) has quit (Remote host closed the connection)
+2016-02-24 11:11:57		[11:11]
+2016-02-24 11:27:55	 < 	towy71 (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has quit (Ping timeout: 250 seconds)
+2016-02-24 11:27:55		[11:27]
+2016-02-24 11:28:24	 > 	towy71 (~dicky@82-71-2-15.dsl.in-addr.zen.co.uk) has joined #linuxvoice
+2016-02-24 11:34:00		[11:28]
+2016-02-24 11:50:52	 < 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has quit (Quit: Ex-Chat)
+2016-02-24 11:50:52		[11:50]
+2016-02-24 11:55:06	 < 	jaake (~h4ckm3@c-68-52-45-79.hsd1.tn.comcast.net) has quit (Ping timeout: 244 seconds)
+2016-02-24 12:01:00		[11:55]
+2016-02-24 12:16:18	 < 	mnavrati (~milan@ip-94-113-220-233.net.upcbroadband.cz) has quit (Quit: Leaving)
+2016-02-24 12:16:18		[12:16]
+2016-02-24 12:19:59	 < 	writtenoff (~writtenof@of1.psych.ubc.ca) has quit (Quit: WeeChat 1.3)
+2016-02-24 12:25:00		[12:19]
+2016-02-24 12:28:45	 > 	georgeowell (~georgeowe@95.149.192.154) has joined #linuxvoice
+2016-02-24 12:34:00		[12:28]
+2016-02-24 12:45:29	swift110	I did this recently: http://www.hackerpublicradio.org/eps/hpr1970.ogg
+2016-02-24 12:51:00		[12:45]
+2016-02-24 13:01:45	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Ping timeout: 244 seconds)
+2016-02-24 13:07:00		[13:01]
+2016-02-24 13:50:34	 > 	chemist69_ (~apl@a89-182-43-233.net-htp.de) has joined #linuxvoice
+2016-02-24 13:50:34		[13:50]
+2016-02-24 13:53:31	 < 	chemist69 (~apl@89.182.180.160) has quit (Ping timeout: 255 seconds)
+2016-02-24 13:59:00		[13:53]
+2016-02-24 14:40:50	 > 	writtenoff (~writtenof@d172-218-204-26.bchsia.telus.net) has joined #linuxvoice
+2016-02-24 14:40:50		[14:40]
+2016-02-24 14:45:37	 < 	frankbell (~chatzilla@ip98-183-208-12.hr.hr.cox.net) has left #linuxvoice
+2016-02-24 14:51:00		[14:45]
+2016-02-24 14:58:02	 < 	writtenoff (~writtenof@d172-218-204-26.bchsia.telus.net) has quit (Quit: WeeChat 1.3)
+2016-02-24 14:59:17	 > 	writtenoff (~writtenof@d172-218-204-26.bchsia.telus.net) has joined #linuxvoice
+2016-02-24 15:05:00		[14:59]
+2016-02-24 15:35:35	 > 	zmoylan-1i (~pi@109.76.234.109) has joined #linuxvoice
+2016-02-24 15:35:35		[15:35]
+2016-02-24 15:38:49	 < 	zmoylan-pi (~pi@109.79.100.243) has quit (Ping timeout: 250 seconds)
+2016-02-24 15:44:00		[15:38]
+2016-02-24 16:01:06	 > 	zmoylan-pi (~pi@109.79.164.4) has joined #linuxvoice
+2016-02-24 16:01:06		[16:01]
+2016-02-24 16:03:06	 < 	zmoylan-1i (~pi@109.76.234.109) has quit (Ping timeout: 244 seconds)
+2016-02-24 16:09:00		[16:03]
+2016-02-24 17:30:25	 < 	mavrix (~mavrix@unaffiliated/mavrix) has quit (Ping timeout: 244 seconds)
+2016-02-24 17:30:25		[17:30]
+2016-02-24 17:30:59	 > 	mavrix (~mavrix@unaffiliated/mavrix) has joined #linuxvoice
+2016-02-24 17:36:00		[17:30]
+2016-02-24 17:46:17	 > 	gb00s (~gb00s@c50-31.i07-13.onvol.net) has joined #linuxvoice
+2016-02-24 17:47:04	 < 	mavrix (~mavrix@unaffiliated/mavrix) has quit (Ping timeout: 255 seconds)
+2016-02-24 17:48:31	 > 	mavrix (~mavrix@unaffiliated/mavrix) has joined #linuxvoice
+2016-02-24 17:54:00		[17:48]
+2016-02-24 17:55:46	 > 	TwistedLucidity (~TwistedLu@cpc80671-stap13-2-0-cust118.12-2.cable.virginm.net) has joined #linuxvoice
+2016-02-24 18:01:00		[17:55]
+2016-02-24 18:14:28	 > 	HEGX64 (~Scott@CPE-121-214-211-228.lns6.fli.bigpond.net.au) has joined #linuxvoice
+2016-02-24 18:20:00		[18:14]
+2016-02-24 18:21:04	 < 	popey (~alan@cpc81199-farn9-2-0-cust577.6-2.cable.virginm.net) has quit (Changing host)
+2016-02-24 18:21:04	 > 	popey (~alan@ubuntu/member/popey) has joined #linuxvoice
+2016-02-24 18:23:31	 < 	HEGX64 (~Scott@CPE-121-214-211-228.lns6.fli.bigpond.net.au) has quit (Ping timeout: 255 seconds)
+2016-02-24 18:29:00		[18:23]
+2016-02-24 18:31:43	 > 	HEGX64 (~Scott@CPE-121-214-211-228.lns6.fli.bigpond.net.au) has joined #linuxvoice
+2016-02-24 18:37:00		[18:31]
+2016-02-24 18:55:33	 < 	HEGX64 (~Scott@CPE-121-214-211-228.lns6.fli.bigpond.net.au) has quit (Remote host closed the connection)
+2016-02-24 18:55:33		[18:55]
+2016-02-24 19:01:21	 - 	foxhunt_away is now known as foxhunt72
+2016-02-24 19:01:34	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #linuxvoice
+2016-02-24 19:04:43	 - 	irc: disconnected from server

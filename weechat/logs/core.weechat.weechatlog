@@ -1,0 +1,1574 @@
+2016-01-21 06:41:57		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-21 06:41:59		fifo: pipe closed
+2016-01-21 06:42:21		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-21 06:42:35		fifo: pipe closed
+2016-01-21 06:44:13		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-21 06:44:31		fifo: pipe closed
+2016-01-21 06:44:49		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-21 06:45:02		script: downloading list of scripts...
+2016-01-21 06:45:05		script: 299 scripts for WeeChat 1.4
+2016-01-21 06:45:17		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2016-01-21 06:45:17		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2016-01-21 06:45:23		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2016-01-21 06:45:23		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2016-01-21 06:45:23		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2016-01-21 06:45:23		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2016-01-21 06:45:32		URL server listening on ('192.168.1.10', 46073)
+2016-01-21 06:46:10		[look] (irc.conf)
+2016-01-21 06:46:10		  irc.look.buffer_open_before_autojoin = on
+2016-01-21 06:46:10		  irc.look.buffer_open_before_join = off
+2016-01-21 06:46:10		  irc.look.buffer_switch_autojoin = on
+2016-01-21 06:46:10		  irc.look.buffer_switch_join = on
+2016-01-21 06:46:10		  irc.look.color_nicks_in_names = off
+2016-01-21 06:46:10		  irc.look.color_nicks_in_nicklist = off
+2016-01-21 06:46:10		  irc.look.color_nicks_in_server_messages = on
+2016-01-21 06:46:10		  irc.look.color_pv_nick_like_channel = on
+2016-01-21 06:46:10		  irc.look.ctcp_time_format = "%a, %d %b %Y %T %z"
+2016-01-21 06:46:10		  irc.look.display_away = local
+2016-01-21 06:46:10		  irc.look.display_ctcp_blocked = on
+2016-01-21 06:46:10		  irc.look.display_ctcp_reply = on
+2016-01-21 06:46:10		  irc.look.display_ctcp_unknown = on
+2016-01-21 06:46:10		  irc.look.display_host_join = on
+2016-01-21 06:46:10		  irc.look.display_host_join_local = on
+2016-01-21 06:46:10		  irc.look.display_host_quit = on
+2016-01-21 06:46:10		  irc.look.display_join_message = "329,332,333,366"
+2016-01-21 06:46:10		  irc.look.display_old_topic = on
+2016-01-21 06:46:10		  irc.look.display_pv_away_once = on
+2016-01-21 06:46:10		  irc.look.display_pv_back = on
+2016-01-21 06:46:10		  irc.look.highlight_channel = "$nick"
+2016-01-21 06:46:10		  irc.look.highlight_pv = "$nick"
+2016-01-21 06:46:10		  irc.look.highlight_server = "$nick"
+2016-01-21 06:46:10		  irc.look.highlight_tags_restrict = "irc_privmsg,irc_notice"
+2016-01-21 06:46:10		  irc.look.item_away_message = on
+2016-01-21 06:46:10		  irc.look.item_channel_modes_hide_args = "k"
+2016-01-21 06:46:10		  irc.look.item_display_server = buffer_plugin
+2016-01-21 06:46:10		  irc.look.item_nick_modes = on
+2016-01-21 06:46:10		  irc.look.item_nick_prefix = on
+2016-01-21 06:46:10		  irc.look.join_auto_add_chantype = off
+2016-01-21 06:46:10		  irc.look.msgbuffer_fallback = current
+2016-01-21 06:46:10		  irc.look.new_channel_position = none
+2016-01-21 06:46:10		  irc.look.new_pv_position = none
+2016-01-21 06:46:10		  irc.look.nick_color_force = ""
+2016-01-21 06:46:10		  irc.look.nick_color_hash = sum
+2016-01-21 06:46:10		  irc.look.nick_color_stop_chars = "_|["
+2016-01-21 06:46:10		  irc.look.nick_completion_smart = speakers
+2016-01-21 06:46:10		  irc.look.nick_mode = prefix
+2016-01-21 06:46:10		  irc.look.nick_mode_empty = off
+2016-01-21 06:46:10		  irc.look.nicks_hide_password = "nickserv"
+2016-01-21 06:46:10		  irc.look.notice_as_pv = auto
+2016-01-21 06:46:10		  irc.look.notice_welcome_redirect = on
+2016-01-21 06:46:10		  irc.look.notice_welcome_tags = ""
+2016-01-21 06:46:10		  irc.look.notify_tags_ison = "notify_message"
+2016-01-21 06:46:10		  irc.look.notify_tags_whois = "notify_message"
+2016-01-21 06:46:10		  irc.look.part_closes_buffer = off
+2016-01-21 06:46:10		  irc.look.pv_buffer = independent
+2016-01-21 06:46:10		  irc.look.pv_tags = "notify_private"
+2016-01-21 06:46:10		  irc.look.raw_messages = 256
+2016-01-21 06:46:10		  irc.look.server_buffer = merge_with_core
+2016-01-21 06:46:10		  irc.look.smart_filter = on
+2016-01-21 06:46:10		  irc.look.smart_filter_delay = 5
+2016-01-21 06:46:10		  irc.look.smart_filter_join = on
+2016-01-21 06:46:10		  irc.look.smart_filter_join_unmask = 30
+2016-01-21 06:46:10		  irc.look.smart_filter_mode = "+"
+2016-01-21 06:46:10		  irc.look.smart_filter_nick = on
+2016-01-21 06:46:10		  irc.look.smart_filter_quit = on
+2016-01-21 06:46:10		  irc.look.temporary_servers = off
+2016-01-21 06:46:10		  irc.look.topic_strip_colors = off
+2016-01-21 06:46:10		[color] (irc.conf)
+2016-01-21 06:46:10		  irc.color.input_nick = lightcyan
+2016-01-21 06:46:10		  irc.color.item_away = yellow
+2016-01-21 06:46:10		  irc.color.item_channel_modes = default
+2016-01-21 06:46:10		  irc.color.item_lag_counting = default
+2016-01-21 06:46:10		  irc.color.item_lag_finished = yellow
+2016-01-21 06:46:10		  irc.color.item_nick_modes = default
+2016-01-21 06:46:10		  irc.color.message_join = green
+2016-01-21 06:46:10		  irc.color.message_quit = red
+2016-01-21 06:46:10		  irc.color.mirc_remap = "1,-1:darkgray"
+2016-01-21 06:46:10		  irc.color.nick_prefixes = "y:lightred;q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue"
+2016-01-21 06:46:10		  irc.color.notice = green
+2016-01-21 06:46:10		  irc.color.reason_quit = default
+2016-01-21 06:46:10		  irc.color.topic_current = default
+2016-01-21 06:46:10		  irc.color.topic_new = white
+2016-01-21 06:46:10		  irc.color.topic_old = default
+2016-01-21 06:46:10		[network] (irc.conf)
+2016-01-21 06:46:10		  irc.network.autoreconnect_delay_growing = 2
+2016-01-21 06:46:10		  irc.network.autoreconnect_delay_max = 600
+2016-01-21 06:46:10		  irc.network.ban_mask_default = "*!$ident@$host"
+2016-01-21 06:46:10		  irc.network.channel_encode = off
+2016-01-21 06:46:10		  irc.network.colors_receive = on
+2016-01-21 06:46:10		  irc.network.colors_send = on
+2016-01-21 06:46:10		  irc.network.lag_check = 60
+2016-01-21 06:46:10		  irc.network.lag_max = 1800
+2016-01-21 06:46:10		  irc.network.lag_min_show = 500
+2016-01-21 06:46:10		  irc.network.lag_reconnect = 0
+2016-01-21 06:46:10		  irc.network.lag_refresh_interval = 1
+2016-01-21 06:46:10		  irc.network.notify_check_ison = 1
+2016-01-21 06:46:10		  irc.network.notify_check_whois = 5
+2016-01-21 06:46:10		  irc.network.send_unknown_commands = off
+2016-01-21 06:46:10		  irc.network.whois_double_nick = off
+2016-01-21 06:46:10		[server_default] (irc.conf)
+2016-01-21 06:46:10		  irc.server_default.addresses = ""
+2016-01-21 06:46:10		  irc.server_default.anti_flood_prio_high = 2
+2016-01-21 06:46:10		  irc.server_default.anti_flood_prio_low = 2
+2016-01-21 06:46:10		  irc.server_default.autoconnect = off
+2016-01-21 06:46:10		  irc.server_default.autojoin = ""
+2016-01-21 06:46:10		  irc.server_default.autoreconnect = on
+2016-01-21 06:46:10		  irc.server_default.autoreconnect_delay = 10
+2016-01-21 06:46:10		  irc.server_default.autorejoin = off
+2016-01-21 06:46:10		  irc.server_default.autorejoin_delay = 30
+2016-01-21 06:46:10		  irc.server_default.away_check = 0
+2016-01-21 06:46:10		  irc.server_default.away_check_max_nicks = 25
+2016-01-21 06:46:10		  irc.server_default.capabilities = ""
+2016-01-21 06:46:10		  irc.server_default.command = ""
+2016-01-21 06:46:10		  irc.server_default.command_delay = 0
+2016-01-21 06:46:10		  irc.server_default.connection_timeout = 60
+2016-01-21 06:46:10		  irc.server_default.default_msg_kick = ""
+2016-01-21 06:46:10		  irc.server_default.default_msg_part = "WeeChat %v"
+2016-01-21 06:46:10		  irc.server_default.default_msg_quit = "WeeChat %v"
+2016-01-21 06:46:10		  irc.server_default.ipv6 = on
+2016-01-21 06:46:10		  irc.server_default.local_hostname = ""
+2016-01-21 06:46:10		  irc.server_default.nicks = "whoami,whoami1,whoami2,whoami3,whoami4"  (default: "")
+2016-01-21 06:46:10		  irc.server_default.nicks_alternate = on
+2016-01-21 06:46:10		  irc.server_default.notify = ""
+2016-01-21 06:46:10		  irc.server_default.password = ""
+2016-01-21 06:46:10		  irc.server_default.proxy = ""
+2016-01-21 06:46:10		  irc.server_default.realname = ""
+2016-01-21 06:46:10		  irc.server_default.sasl_fail = continue
+2016-01-21 06:46:10		  irc.server_default.sasl_key = ""
+2016-01-21 06:46:10		  irc.server_default.sasl_mechanism = plain
+2016-01-21 06:46:10		  irc.server_default.sasl_password = ""
+2016-01-21 06:46:10		  irc.server_default.sasl_timeout = 15
+2016-01-21 06:46:10		  irc.server_default.sasl_username = ""
+2016-01-21 06:46:10		  irc.server_default.ssl = off
+2016-01-21 06:46:10		  irc.server_default.ssl_cert = ""
+2016-01-21 06:46:10		  irc.server_default.ssl_dhkey_size = 2048
+2016-01-21 06:46:10		  irc.server_default.ssl_fingerprint = ""
+2016-01-21 06:46:10		  irc.server_default.ssl_priorities = "NORMAL:-VERS-SSL3.0"
+2016-01-21 06:46:10		  irc.server_default.ssl_verify = on
+2016-01-21 06:46:10		  irc.server_default.username = "whoami"  (default: "")
+2016-01-21 06:46:10		128 options (matching with "irc*")
+2016-01-21 06:46:47	=!=	Error: option "irc.server.nicks" not found
+2016-01-21 06:46:54	=!=	Error: option "irc.server.defaults.nicks" not found
+2016-01-21 06:47:02	=!=	Error: option "irc.server.default.nicks" not found
+2016-01-21 06:47:10		Option changed: irc.server_default.nicks = "fsociety,fs0ciety,f_s0ciety"  (default: "")
+2016-01-21 06:47:21	=!=	Error with command "/server help" (help on command: /help server)
+2016-01-21 06:47:24		[irc]  /server  list|listfull [<server>]
+2016-01-21 06:47:24		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2016-01-21 06:47:24		                copy|rename <server> <new_name>
+2016-01-21 06:47:24		                reorder <server> [<server>...]
+2016-01-21 06:47:24		                del|keep <server>
+2016-01-21 06:47:24		                deloutq|jump|raw
+2016-01-21 06:47:24		list, add or remove IRC servers
+2016-01-21 06:47:24		    list: list servers (without argument, this list is displayed)
+2016-01-21 06:47:24		listfull: list servers with detailed info for each server
+2016-01-21 06:47:24		     add: add a new server
+2016-01-21 06:47:24		  server: server name, for internal and display use
+2016-01-21 06:47:24		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2016-01-21 06:47:24		    temp: add a temporary server (not saved)
+2016-01-21 06:47:24		  option: set option for server (for boolean option, value can be omitted)
+2016-01-21 06:47:24		nooption: set boolean option to 'off' (for example: -nossl)
+2016-01-21 06:47:24		    copy: duplicate a server
+2016-01-21 06:47:24		  rename: rename a server
+2016-01-21 06:47:24		 reorder: reorder list of servers
+2016-01-21 06:47:24		    keep: keep server in config file (for temporary servers only)
+2016-01-21 06:47:24		     del: delete a server
+2016-01-21 06:47:24		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2016-01-21 06:47:24		    jump: jump to server buffer
+2016-01-21 06:47:24		     raw: open buffer with raw IRC data
+2016-01-21 06:47:24		Examples:
+2016-01-21 06:47:24		  /server listfull
+2016-01-21 06:47:24		  /server add freenode chat.freenode.net
+2016-01-21 06:47:24		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2016-01-21 06:47:24		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2016-01-21 06:47:24		  /server copy freenode freenode-test
+2016-01-21 06:47:24		  /server rename freenode-test freenode2
+2016-01-21 06:47:24		  /server reorder freenode2 freenode
+2016-01-21 06:47:24		  /server del freenode
+2016-01-21 06:47:24		  /server deloutq
+2016-01-21 06:47:43		irc: server freenode added
+2016-01-21 06:47:56		[server_default] (irc.conf)
+2016-01-21 06:47:56		  irc.server_default.addresses = ""
+2016-01-21 06:47:56		  irc.server_default.anti_flood_prio_high = 2
+2016-01-21 06:47:56		  irc.server_default.anti_flood_prio_low = 2
+2016-01-21 06:47:56		  irc.server_default.autoconnect = off
+2016-01-21 06:47:56		  irc.server_default.autojoin = ""
+2016-01-21 06:47:56		  irc.server_default.autoreconnect = on
+2016-01-21 06:47:56		  irc.server_default.autoreconnect_delay = 10
+2016-01-21 06:47:56		  irc.server_default.autorejoin = off
+2016-01-21 06:47:56		  irc.server_default.autorejoin_delay = 30
+2016-01-21 06:47:56		  irc.server_default.away_check = 0
+2016-01-21 06:47:56		  irc.server_default.away_check_max_nicks = 25
+2016-01-21 06:47:56		  irc.server_default.capabilities = ""
+2016-01-21 06:47:56		  irc.server_default.command = ""
+2016-01-21 06:47:56		  irc.server_default.command_delay = 0
+2016-01-21 06:47:56		  irc.server_default.connection_timeout = 60
+2016-01-21 06:47:56		  irc.server_default.default_msg_kick = ""
+2016-01-21 06:47:56		  irc.server_default.default_msg_part = "WeeChat %v"
+2016-01-21 06:47:56		  irc.server_default.default_msg_quit = "WeeChat %v"
+2016-01-21 06:47:56		  irc.server_default.ipv6 = on
+2016-01-21 06:47:56		  irc.server_default.local_hostname = ""
+2016-01-21 06:47:56		  irc.server_default.nicks = "fsociety,fs0ciety,f_s0ciety"  (default: "")
+2016-01-21 06:47:56		  irc.server_default.nicks_alternate = on
+2016-01-21 06:47:56		  irc.server_default.notify = ""
+2016-01-21 06:47:56		  irc.server_default.password = ""
+2016-01-21 06:47:56		  irc.server_default.proxy = ""
+2016-01-21 06:47:56		  irc.server_default.realname = ""
+2016-01-21 06:47:56		  irc.server_default.sasl_fail = continue
+2016-01-21 06:47:56		  irc.server_default.sasl_key = ""
+2016-01-21 06:47:56		  irc.server_default.sasl_mechanism = plain
+2016-01-21 06:47:56		  irc.server_default.sasl_password = ""
+2016-01-21 06:47:56		  irc.server_default.sasl_timeout = 15
+2016-01-21 06:47:56		  irc.server_default.sasl_username = ""
+2016-01-21 06:47:56		  irc.server_default.ssl = off
+2016-01-21 06:47:56		  irc.server_default.ssl_cert = ""
+2016-01-21 06:47:56		  irc.server_default.ssl_dhkey_size = 2048
+2016-01-21 06:47:56		  irc.server_default.ssl_fingerprint = ""
+2016-01-21 06:47:56		  irc.server_default.ssl_priorities = "NORMAL:-VERS-SSL3.0"
+2016-01-21 06:47:56		  irc.server_default.ssl_verify = on
+2016-01-21 06:47:56		  irc.server_default.username = "whoami"  (default: "")
+2016-01-21 06:47:56		[server] (irc.conf)
+2016-01-21 06:47:56		  irc.server.freenode.addresses = "chat.freenode.net/6697"  (default if null: "")
+2016-01-21 06:47:56		  irc.server.freenode.anti_flood_prio_high = null -> 2
+2016-01-21 06:47:56		  irc.server.freenode.anti_flood_prio_low = null -> 2
+2016-01-21 06:47:56		  irc.server.freenode.autoconnect = on  (default if null: off)
+2016-01-21 06:47:56		  irc.server.freenode.autojoin = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.autoreconnect = null -> on
+2016-01-21 06:47:56		  irc.server.freenode.autoreconnect_delay = null -> 10
+2016-01-21 06:47:56		  irc.server.freenode.autorejoin = null -> off
+2016-01-21 06:47:56		  irc.server.freenode.autorejoin_delay = null -> 30
+2016-01-21 06:47:56		  irc.server.freenode.away_check = null -> 0
+2016-01-21 06:47:56		  irc.server.freenode.away_check_max_nicks = null -> 25
+2016-01-21 06:47:56		  irc.server.freenode.capabilities = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.command = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.command_delay = null -> 0
+2016-01-21 06:47:56		  irc.server.freenode.connection_timeout = null -> 60
+2016-01-21 06:47:56		  irc.server.freenode.default_msg_kick = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.default_msg_part = null -> "WeeChat %v"
+2016-01-21 06:47:56		  irc.server.freenode.default_msg_quit = null -> "WeeChat %v"
+2016-01-21 06:47:56		  irc.server.freenode.ipv6 = null -> on
+2016-01-21 06:47:56		  irc.server.freenode.local_hostname = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.nicks = null -> "fsociety,fs0ciety,f_s0ciety"
+2016-01-21 06:47:56		  irc.server.freenode.nicks_alternate = null -> on
+2016-01-21 06:47:56		  irc.server.freenode.notify = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.password = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.proxy = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.realname = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.sasl_fail = null -> continue
+2016-01-21 06:47:56		  irc.server.freenode.sasl_key = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.sasl_mechanism = null -> plain
+2016-01-21 06:47:56		  irc.server.freenode.sasl_password = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.sasl_timeout = null -> 15
+2016-01-21 06:47:56		  irc.server.freenode.sasl_username = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.ssl = on  (default if null: off)
+2016-01-21 06:47:56		  irc.server.freenode.ssl_cert = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.ssl_dhkey_size = null -> 2048
+2016-01-21 06:47:56		  irc.server.freenode.ssl_fingerprint = null -> ""
+2016-01-21 06:47:56		  irc.server.freenode.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2016-01-21 06:47:56		  irc.server.freenode.ssl_verify = null -> on
+2016-01-21 06:47:56		  irc.server.freenode.username = null -> "whoami"
+2016-01-21 06:47:56		78 options (matching with "irc.server*")
+2016-01-21 06:48:11		Option changed: irc.server.freenode.nicks = "evilcorp,evilc0rp"  (default if null: "fsociety,fs0ciety,f_s0ciety")
+2016-01-21 06:48:42		URL server stopped
+2016-01-21 06:48:42		python: scripts unloaded
+2016-01-21 06:48:42		fifo: pipe closed
+2016-01-21 06:48:42		perl: scripts unloaded
+2016-01-21 06:49:12		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2016-01-21 06:49:12		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2016-01-21 06:49:12		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2016-01-21 06:49:12		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2016-01-21 06:49:12		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2016-01-21 06:49:12		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2016-01-21 06:49:12		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2016-01-21 06:49:12		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2016-01-21 06:49:12		perl scripts loaded: beep, buffers, iset
+2016-01-21 06:49:12		URL server listening on ('192.168.1.10', 39370)
+2016-01-21 06:49:12		python scripts loaded: urlserver
+2016-01-21 06:49:12		script: 299 scripts for WeeChat 1.4
+2016-01-21 06:49:12		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-21 06:49:49		URL server stopped
+2016-01-21 06:49:49		python: scripts unloaded
+2016-01-21 06:49:49		fifo: pipe closed
+2016-01-21 06:49:49		perl: scripts unloaded
+2016-01-20 22:28:13		perl scripts loaded: beep, buffers, iset
+2016-01-20 22:28:13		URL server listening on ('192.168.1.10', 35051)
+2016-01-20 22:28:13		python scripts loaded: urlserver
+2016-01-20 22:28:13		script: 299 scripts for WeeChat 1.4
+2016-01-20 22:28:13		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-20 22:28:15		URL server stopped
+2016-01-20 22:28:15		python: scripts unloaded
+2016-01-20 22:28:15		fifo: pipe closed
+2016-01-20 22:28:15		perl: scripts unloaded
+2016-01-20 22:29:19		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2016-01-20 22:29:19		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2016-01-20 22:29:19		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2016-01-20 22:29:19		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2016-01-20 22:29:19		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2016-01-20 22:29:19		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2016-01-20 22:29:19		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2016-01-20 22:29:19		perl scripts loaded: beep, buffers, iset
+2016-01-20 22:29:19		URL server listening on ('192.168.1.10', 44850)
+2016-01-20 22:29:19		python scripts loaded: urlserver
+2016-01-20 22:29:19		script: 299 scripts for WeeChat 1.4
+2016-01-20 22:29:19		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-20 22:29:54	 !!! 	Error: option "irc.server.xxx.ssl_priorities" not found
+2016-01-20 22:30:03		Option changed: irc.server.freenode.ssl_priorities = "NORMAL:-VERS-TLS-ALL:+VERS-TLS1.0:+VERS-SSL3.0:%COMPAT"  (default if null: "NORMAL:-VERS-SSL3.0")
+2016-01-20 22:30:15		URL server stopped
+2016-01-20 22:30:15		python: scripts unloaded
+2016-01-20 22:30:15		fifo: pipe closed
+2016-01-20 22:30:15		perl: scripts unloaded
+2016-01-20 22:30:16		perl scripts loaded: beep, buffers, iset
+2016-01-20 22:30:16		URL server listening on ('192.168.1.10', 41594)
+2016-01-20 22:30:16		python scripts loaded: urlserver
+2016-01-20 22:30:16		script: 299 scripts for WeeChat 1.4
+2016-01-20 22:30:16		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-20 22:31:43		Option changed: weechat.network.gnutls_ca_file = "/etc/ssl/certs/ca-certificates.crt"
+2016-01-20 22:31:46		URL server stopped
+2016-01-20 22:31:46		python: scripts unloaded
+2016-01-20 22:31:46		fifo: pipe closed
+2016-01-20 22:31:46		perl: scripts unloaded
+2016-01-20 22:31:47		perl scripts loaded: beep, buffers, iset
+2016-01-20 22:31:47		URL server listening on ('192.168.1.10', 46059)
+2016-01-20 22:31:47		python scripts loaded: urlserver
+2016-01-20 22:31:47		script: 299 scripts for WeeChat 1.4
+2016-01-20 22:31:47		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-20 22:33:52	 !!! 	Error: option "mouse" not found
+2016-01-20 22:33:55	 !!! 	Option "mouse*" not found (tip: you can use wildcard "*" in option to see a sublist)
+2016-01-20 22:34:01		[look] (weechat.conf)
+2016-01-20 22:34:01		  weechat.look.mouse = off
+2016-01-20 22:34:01		[color] (weechat.conf)
+2016-01-20 22:34:01		  weechat.color.status_mouse = green
+2016-01-20 22:34:01		2 options (matching with "*mouse")
+2016-01-20 22:34:07		Option changed: weechat.look.mouse = on  (default: off)
+2016-01-20 22:35:31		[irc]  /server  list|listfull [<server>]
+2016-01-20 22:35:31		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2016-01-20 22:35:31		                copy|rename <server> <new_name>
+2016-01-20 22:35:31		                reorder <server> [<server>...]
+2016-01-20 22:35:31		                del|keep <server>
+2016-01-20 22:35:31		                deloutq|jump|raw
+2016-01-20 22:35:31		list, add or remove IRC servers
+2016-01-20 22:35:31		    list: list servers (without argument, this list is displayed)
+2016-01-20 22:35:31		listfull: list servers with detailed info for each server
+2016-01-20 22:35:31		     add: add a new server
+2016-01-20 22:35:31		  server: server name, for internal and display use
+2016-01-20 22:35:31		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2016-01-20 22:35:31		    temp: add a temporary server (not saved)
+2016-01-20 22:35:31		  option: set option for server (for boolean option, value can be omitted)
+2016-01-20 22:35:31		nooption: set boolean option to 'off' (for example: -nossl)
+2016-01-20 22:35:31		    copy: duplicate a server
+2016-01-20 22:35:31		  rename: rename a server
+2016-01-20 22:35:31		 reorder: reorder list of servers
+2016-01-20 22:35:31		    keep: keep server in config file (for temporary servers only)
+2016-01-20 22:35:31		     del: delete a server
+2016-01-20 22:35:31		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2016-01-20 22:35:31		    jump: jump to server buffer
+2016-01-20 22:35:31		     raw: open buffer with raw IRC data
+2016-01-20 22:35:31		Examples:
+2016-01-20 22:35:31		  /server listfull
+2016-01-20 22:35:31		  /server add freenode chat.freenode.net
+2016-01-20 22:35:31		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2016-01-20 22:35:31		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2016-01-20 22:35:31		  /server copy freenode freenode-test
+2016-01-20 22:35:31		  /server rename freenode-test freenode2
+2016-01-20 22:35:31		  /server reorder freenode2 freenode
+2016-01-20 22:35:31		  /server del freenode
+2016-01-20 22:35:31		  /server deloutq
+2016-01-20 22:35:52		irc: server nixers added
+2016-01-20 22:36:02	 !!! 	Option "irc.nixers*" not found (tip: you can use wildcard "*" in option to see a sublist)
+2016-01-20 22:37:18		irc: server nixers has been deleted
+2016-01-20 22:37:43		irc: server unixchat added
+2016-01-20 22:38:29		[server] (irc.conf)
+2016-01-20 22:38:29		  irc.server.unixchat.addresses = "irc.unix.chat/6697"  (default if null: "")
+2016-01-20 22:38:29		  irc.server.unixchat.anti_flood_prio_high = null -> 2
+2016-01-20 22:38:29		  irc.server.unixchat.anti_flood_prio_low = null -> 2
+2016-01-20 22:38:29		  irc.server.unixchat.autoconnect = on  (default if null: off)
+2016-01-20 22:38:29		  irc.server.unixchat.autojoin = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.autoreconnect = null -> on
+2016-01-20 22:38:29		  irc.server.unixchat.autoreconnect_delay = null -> 10
+2016-01-20 22:38:29		  irc.server.unixchat.autorejoin = null -> off
+2016-01-20 22:38:29		  irc.server.unixchat.autorejoin_delay = null -> 30
+2016-01-20 22:38:29		  irc.server.unixchat.away_check = null -> 0
+2016-01-20 22:38:29		  irc.server.unixchat.away_check_max_nicks = null -> 25
+2016-01-20 22:38:29		  irc.server.unixchat.capabilities = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.command = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.command_delay = null -> 0
+2016-01-20 22:38:29		  irc.server.unixchat.connection_timeout = null -> 60
+2016-01-20 22:38:29		  irc.server.unixchat.default_msg_kick = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.default_msg_part = null -> "WeeChat %v"
+2016-01-20 22:38:29		  irc.server.unixchat.default_msg_quit = null -> "WeeChat %v"
+2016-01-20 22:38:29		  irc.server.unixchat.ipv6 = null -> on
+2016-01-20 22:38:29		  irc.server.unixchat.local_hostname = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.nicks = null -> "fsociety,fs0ciety,f_s0ciety"
+2016-01-20 22:38:29		  irc.server.unixchat.nicks_alternate = null -> on
+2016-01-20 22:38:29		  irc.server.unixchat.notify = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.password = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.proxy = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.realname = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.sasl_fail = null -> continue
+2016-01-20 22:38:29		  irc.server.unixchat.sasl_key = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.sasl_mechanism = null -> plain
+2016-01-20 22:38:29		  irc.server.unixchat.sasl_password = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.sasl_timeout = null -> 15
+2016-01-20 22:38:29		  irc.server.unixchat.sasl_username = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.ssl = on  (default if null: off)
+2016-01-20 22:38:29		  irc.server.unixchat.ssl_cert = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.ssl_dhkey_size = null -> 2048
+2016-01-20 22:38:29		  irc.server.unixchat.ssl_fingerprint = null -> ""
+2016-01-20 22:38:29		  irc.server.unixchat.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2016-01-20 22:38:29		  irc.server.unixchat.ssl_verify = null -> on
+2016-01-20 22:38:29		  irc.server.unixchat.username = null -> "whoami"
+2016-01-20 22:38:29		39 options (matching with "*unixchat*")
+2016-01-20 22:38:49		Option changed: irc.server.unixchat.autojoin = "#nixers"  (default if null: "")
+2016-01-20 22:39:22		Option changed: irc.server.freenode.autojoin = "#systemau #funtoo #gentoo #gamingonlinux"  (default if null: "")
+2016-01-20 22:39:54	 !!! 	Error: option "irc.server.freenode.nick" not found
+2016-01-20 22:40:01		Option changed: irc.server.freenode.nicks = "fs0ciety,fsociety"  (default if null: "fsociety,fs0ciety,f_s0ciety")
+2016-01-20 22:40:15		URL server stopped
+2016-01-20 22:40:15		python: scripts unloaded
+2016-01-20 22:40:15		fifo: pipe closed
+2016-01-20 22:40:15		perl: scripts unloaded
+2016-01-20 22:40:16		perl scripts loaded: beep, buffers, iset
+2016-01-20 22:40:16		URL server listening on ('192.168.1.10', 34505)
+2016-01-20 22:40:16		python scripts loaded: urlserver
+2016-01-20 22:40:16		script: 299 scripts for WeeChat 1.4
+2016-01-20 22:40:16		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-20 22:41:01		[server] (irc.conf)
+2016-01-20 22:41:01		  irc.server.freenode.addresses = "chat.freenode.net/6697"  (default if null: "")
+2016-01-20 22:41:01		  irc.server.freenode.anti_flood_prio_high = null -> 2
+2016-01-20 22:41:01		  irc.server.freenode.anti_flood_prio_low = null -> 2
+2016-01-20 22:41:01		  irc.server.freenode.autoconnect = on  (default if null: off)
+2016-01-20 22:41:01		  irc.server.freenode.autojoin = "#systemau #funtoo #gentoo #gamingonlinux"  (default if null: "")
+2016-01-20 22:41:01		  irc.server.freenode.autoreconnect = null -> on
+2016-01-20 22:41:01		  irc.server.freenode.autoreconnect_delay = null -> 10
+2016-01-20 22:41:01		  irc.server.freenode.autorejoin = null -> off
+2016-01-20 22:41:01		  irc.server.freenode.autorejoin_delay = null -> 30
+2016-01-20 22:41:01		  irc.server.freenode.away_check = null -> 0
+2016-01-20 22:41:01		  irc.server.freenode.away_check_max_nicks = null -> 25
+2016-01-20 22:41:01		  irc.server.freenode.capabilities = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.command = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.command_delay = null -> 0
+2016-01-20 22:41:01		  irc.server.freenode.connection_timeout = null -> 60
+2016-01-20 22:41:01		  irc.server.freenode.default_msg_kick = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.default_msg_part = null -> "WeeChat %v"
+2016-01-20 22:41:01		  irc.server.freenode.default_msg_quit = null -> "WeeChat %v"
+2016-01-20 22:41:01		  irc.server.freenode.ipv6 = null -> on
+2016-01-20 22:41:01		  irc.server.freenode.local_hostname = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.nicks = "fs0ciety,fsociety"  (default if null: "fsociety,fs0ciety,f_s0ciety")
+2016-01-20 22:41:01		  irc.server.freenode.nicks_alternate = null -> on
+2016-01-20 22:41:01		  irc.server.freenode.notify = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.password = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.proxy = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.realname = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.sasl_fail = null -> continue
+2016-01-20 22:41:01		  irc.server.freenode.sasl_key = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.sasl_mechanism = null -> plain
+2016-01-20 22:41:01		  irc.server.freenode.sasl_password = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.sasl_timeout = null -> 15
+2016-01-20 22:41:01		  irc.server.freenode.sasl_username = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.ssl = on  (default if null: off)
+2016-01-20 22:41:01		  irc.server.freenode.ssl_cert = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.ssl_dhkey_size = null -> 2048
+2016-01-20 22:41:01		  irc.server.freenode.ssl_fingerprint = null -> ""
+2016-01-20 22:41:01		  irc.server.freenode.ssl_priorities = "NORMAL:-VERS-TLS-ALL:+VERS-TLS1.0:+VERS-SSL3.0:%COMPAT"  (default if null: "NORMAL:-VERS-SSL3.0")
+2016-01-20 22:41:01		  irc.server.freenode.ssl_verify = null -> on
+2016-01-20 22:41:01		  irc.server.freenode.username = null -> "whoami"
+2016-01-20 22:41:01		39 options (matching with "*freenode*")
+2016-01-20 22:41:25		Option changed: irc.server.freenode.autojoin = "#systemau,#funtoo,#gentoo,#gamingonlinux"  (default if null: "")
+2016-01-20 22:41:38		URL server stopped
+2016-01-20 22:41:38		python: scripts unloaded
+2016-01-20 22:41:38		fifo: pipe closed
+2016-01-20 22:41:38		perl: scripts unloaded
+2016-01-20 22:41:39		perl scripts loaded: beep, buffers, iset
+2016-01-20 22:41:39		URL server listening on ('192.168.1.10', 41454)
+2016-01-20 22:41:39		python scripts loaded: urlserver
+2016-01-20 22:41:39		script: 299 scripts for WeeChat 1.4
+2016-01-20 22:41:39		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-20 22:47:31		Option changed: irc.look.server_buffer = independent  (default: merge_with_core)
+2016-01-20 22:05:23		[server] (irc.conf)
+2016-01-20 22:05:23		  irc.server.freenode.addresses = "chat.freenode.net/6697"  (default if null: "")
+2016-01-20 22:05:23		  irc.server.freenode.anti_flood_prio_high = null -> 2
+2016-01-20 22:05:23		  irc.server.freenode.anti_flood_prio_low = null -> 2
+2016-01-20 22:05:23		  irc.server.freenode.autoconnect = on  (default if null: off)
+2016-01-20 22:05:23		  irc.server.freenode.autojoin = "#systemau,#funtoo,#gentoo,#gamingonlinux"  (default if null: "")
+2016-01-20 22:05:23		  irc.server.freenode.autoreconnect = null -> on
+2016-01-20 22:05:23		  irc.server.freenode.autoreconnect_delay = null -> 10
+2016-01-20 22:05:23		  irc.server.freenode.autorejoin = null -> off
+2016-01-20 22:05:23		  irc.server.freenode.autorejoin_delay = null -> 30
+2016-01-20 22:05:23		  irc.server.freenode.away_check = null -> 0
+2016-01-20 22:05:23		  irc.server.freenode.away_check_max_nicks = null -> 25
+2016-01-20 22:05:23		  irc.server.freenode.capabilities = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.command = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.command_delay = null -> 0
+2016-01-20 22:05:23		  irc.server.freenode.connection_timeout = null -> 60
+2016-01-20 22:05:23		  irc.server.freenode.default_msg_kick = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.default_msg_part = null -> "WeeChat %v"
+2016-01-20 22:05:23		  irc.server.freenode.default_msg_quit = null -> "WeeChat %v"
+2016-01-20 22:05:23		  irc.server.freenode.ipv6 = null -> on
+2016-01-20 22:05:23		  irc.server.freenode.local_hostname = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.nicks = "fs0ciety,fsociety"  (default if null: "fsociety,fs0ciety,f_s0ciety")
+2016-01-20 22:05:23		  irc.server.freenode.nicks_alternate = null -> on
+2016-01-20 22:05:23		  irc.server.freenode.notify = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.password = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.proxy = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.realname = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.sasl_fail = null -> continue
+2016-01-20 22:05:23		  irc.server.freenode.sasl_key = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.sasl_mechanism = null -> plain
+2016-01-20 22:05:23		  irc.server.freenode.sasl_password = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.sasl_timeout = null -> 15
+2016-01-20 22:05:23		  irc.server.freenode.sasl_username = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.ssl = on  (default if null: off)
+2016-01-20 22:05:23		  irc.server.freenode.ssl_cert = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.ssl_dhkey_size = null -> 2048
+2016-01-20 22:05:23		  irc.server.freenode.ssl_fingerprint = null -> ""
+2016-01-20 22:05:23		  irc.server.freenode.ssl_priorities = "NORMAL:-VERS-TLS-ALL:+VERS-TLS1.0:+VERS-SSL3.0:%COMPAT"  (default if null: "NORMAL:-VERS-SSL3.0")
+2016-01-20 22:05:23		  irc.server.freenode.ssl_verify = null -> on
+2016-01-20 22:05:23		  irc.server.freenode.username = null -> "whoami"
+2016-01-20 22:05:23		39 options (matching with "*freenode*")
+2016-01-20 22:06:06		Option changed: irc.server.freenode.autojoin = "#systemau,#funtoo,#gentoo,#gentoo-chat,#gamingonlinux"  (default if null: "")
+2016-01-20 22:30:21		URL server stopped
+2016-01-20 22:30:21		python: scripts unloaded
+2016-01-20 22:30:21		fifo: pipe closed
+2016-01-20 22:30:21		perl: scripts unloaded
+2016-01-20 23:04:20		perl scripts loaded: beep, buffers, iset
+2016-01-20 23:04:21		URL server listening on ('192.168.1.10', 41354)
+2016-01-20 23:04:21		python scripts loaded: urlserver
+2016-01-20 23:04:21		script: 299 scripts for WeeChat 1.4
+2016-01-20 23:04:21		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-21 00:10:25		irc: server bitlbee added
+2016-01-21 07:31:17		URL server stopped
+2016-01-21 07:31:17		python: scripts unloaded
+2016-01-21 07:31:17		fifo: pipe closed
+2016-01-21 07:31:17		perl: scripts unloaded
+2016-01-21 11:07:33		perl scripts loaded: beep, buffers, iset
+2016-01-21 11:07:33		URL server listening on ('192.168.1.10', 46423)
+2016-01-21 11:07:33		python scripts loaded: urlserver
+2016-01-21 11:07:33		script: 299 scripts for WeeChat 1.4
+2016-01-21 11:07:33		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-21 18:11:56		URL server stopped
+2016-01-21 18:11:56		python: scripts unloaded
+2016-01-21 18:11:56		fifo: pipe closed
+2016-01-21 18:11:56		perl: scripts unloaded
+2016-01-21 18:12:57		perl scripts loaded: beep, buffers, iset
+2016-01-21 18:12:57		URL server listening on ('192.168.1.10', 38524)
+2016-01-21 18:12:57		python scripts loaded: urlserver
+2016-01-21 18:12:57		script: 299 scripts for WeeChat 1.4
+2016-01-21 18:12:57		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-22 13:40:56		URL server stopped
+2016-01-22 13:40:56		python: scripts unloaded
+2016-01-22 13:40:56		fifo: pipe closed
+2016-01-22 13:40:56		perl: scripts unloaded
+2016-01-24 10:37:00		perl scripts loaded: beep, buffers, iset
+2016-01-24 10:37:00		URL server listening on ('192.168.1.10', 34694)
+2016-01-24 10:37:00		python scripts loaded: urlserver
+2016-01-24 10:37:00		script: downloading list of scripts...
+2016-01-24 10:37:00		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-24 10:37:03		script: 299 scripts for WeeChat 1.4
+2016-01-24 11:06:44		URL server stopped
+2016-01-24 11:06:44		python: scripts unloaded
+2016-01-24 11:06:44		fifo: pipe closed
+2016-01-24 11:06:44		perl: scripts unloaded
+2016-01-24 11:33:58		perl scripts loaded: beep, buffers, iset
+2016-01-24 11:33:58		URL server listening on ('192.168.1.10', 45548)
+2016-01-24 11:33:58		python scripts loaded: urlserver
+2016-01-24 11:33:58		script: 299 scripts for WeeChat 1.4
+2016-01-24 11:33:58		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-24 11:34:02		URL server stopped
+2016-01-24 11:34:02		python: scripts unloaded
+2016-01-24 11:34:02		fifo: pipe closed
+2016-01-24 11:34:02		perl: scripts unloaded
+2016-01-24 11:34:31		perl scripts loaded: beep, buffers, iset
+2016-01-24 11:34:32		URL server listening on ('192.168.1.10', 38113)
+2016-01-24 11:34:32		python scripts loaded: urlserver
+2016-01-24 11:34:32		script: 299 scripts for WeeChat 1.4
+2016-01-24 11:34:32		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-24 16:34:29		URL server stopped
+2016-01-24 16:34:29		python: scripts unloaded
+2016-01-24 16:34:29		fifo: pipe closed
+2016-01-24 16:34:29		perl: scripts unloaded
+2016-01-25 20:38:04		perl scripts loaded: beep, buffers, iset
+2016-01-25 20:38:04		URL server listening on ('192.168.1.10', 45787)
+2016-01-25 20:38:04		python scripts loaded: urlserver
+2016-01-25 20:38:04		script: downloading list of scripts...
+2016-01-25 20:38:04		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-25 20:38:09		script: 299 scripts for WeeChat 1.4
+2016-01-26 11:22:37		fifo: removing old fifo pipe "/home/whoami/.weechat/weechat_fifo_13502"
+2016-01-26 11:22:37		perl scripts loaded: beep, buffers, iset
+2016-01-26 11:22:37		URL server listening on ('192.168.1.10', 36600)
+2016-01-26 11:22:37		python scripts loaded: urlserver
+2016-01-26 11:22:37		script: 299 scripts for WeeChat 1.4
+2016-01-26 11:22:37		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-07 07:56:59		fifo: removing old fifo pipe "/home/whoami/.weechat/weechat_fifo_4006"
+2016-02-07 07:56:59		perl scripts loaded: beep, buffers, iset
+2016-02-07 07:56:59		URL server listening on ('192.168.1.10', 38140)
+2016-02-07 07:56:59		python scripts loaded: urlserver
+2016-02-07 07:56:59		script: downloading list of scripts...
+2016-02-07 07:56:59		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-07 07:57:02		script: 299 scripts for WeeChat 1.4
+2016-02-07 07:57:05		[server] (irc.conf)
+2016-02-07 07:57:05		  irc.server.freenode.addresses = "chat.freenode.net/6697"  (default if null: "")
+2016-02-07 07:57:05		  irc.server.freenode.anti_flood_prio_high = null -> 2
+2016-02-07 07:57:05		  irc.server.freenode.anti_flood_prio_low = null -> 2
+2016-02-07 07:57:05		  irc.server.freenode.autoconnect = on  (default if null: off)
+2016-02-07 07:57:05		  irc.server.freenode.autojoin = "#systemau,#funtoo,#gentoo,#gentoo-chat,#gamingonlinux"  (default if null: "")
+2016-02-07 07:57:05		  irc.server.freenode.autoreconnect = null -> on
+2016-02-07 07:57:05		  irc.server.freenode.autoreconnect_delay = null -> 10
+2016-02-07 07:57:05		  irc.server.freenode.autorejoin = null -> off
+2016-02-07 07:57:05		  irc.server.freenode.autorejoin_delay = null -> 30
+2016-02-07 07:57:05		  irc.server.freenode.away_check = null -> 0
+2016-02-07 07:57:05		  irc.server.freenode.away_check_max_nicks = null -> 25
+2016-02-07 07:57:05		  irc.server.freenode.capabilities = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.command = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.command_delay = null -> 0
+2016-02-07 07:57:05		  irc.server.freenode.connection_timeout = null -> 60
+2016-02-07 07:57:05		  irc.server.freenode.default_msg_kick = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.default_msg_part = null -> "WeeChat %v"
+2016-02-07 07:57:05		  irc.server.freenode.default_msg_quit = null -> "WeeChat %v"
+2016-02-07 07:57:05		  irc.server.freenode.ipv6 = null -> on
+2016-02-07 07:57:05		  irc.server.freenode.local_hostname = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.nicks = "fs0ciety,fsociety"  (default if null: "fsociety,fs0ciety,f_s0ciety")
+2016-02-07 07:57:05		  irc.server.freenode.nicks_alternate = null -> on
+2016-02-07 07:57:05		  irc.server.freenode.notify = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.password = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.proxy = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.realname = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.sasl_fail = null -> continue
+2016-02-07 07:57:05		  irc.server.freenode.sasl_key = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.sasl_mechanism = null -> plain
+2016-02-07 07:57:05		  irc.server.freenode.sasl_password = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.sasl_timeout = null -> 15
+2016-02-07 07:57:05		  irc.server.freenode.sasl_username = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.ssl = on  (default if null: off)
+2016-02-07 07:57:05		  irc.server.freenode.ssl_cert = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.ssl_dhkey_size = null -> 2048
+2016-02-07 07:57:05		  irc.server.freenode.ssl_fingerprint = null -> ""
+2016-02-07 07:57:05		  irc.server.freenode.ssl_priorities = "NORMAL:-VERS-TLS-ALL:+VERS-TLS1.0:+VERS-SSL3.0:%COMPAT"  (default if null: "NORMAL:-VERS-SSL3.0")
+2016-02-07 07:57:05		  irc.server.freenode.ssl_verify = null -> on
+2016-02-07 07:57:05		  irc.server.freenode.username = null -> "whoami"
+2016-02-07 07:57:05		39 options (matching with "*freenode*")
+2016-02-07 07:57:29		Option changed: irc.server.freenode.command = "/msg nickserv identify dot.dot.dot"  (default if null: "")
+2016-02-07 07:57:34	 !!! 	Option "*unixporn*" not found (tip: you can use wildcard "*" in option to see a sublist)
+2016-02-07 07:57:40		[server] (irc.conf)
+2016-02-07 07:57:40		  irc.server.unixchat.addresses = "irc.unix.chat/6697"  (default if null: "")
+2016-02-07 07:57:40		  irc.server.unixchat.anti_flood_prio_high = null -> 2
+2016-02-07 07:57:40		  irc.server.unixchat.anti_flood_prio_low = null -> 2
+2016-02-07 07:57:40		  irc.server.unixchat.autoconnect = on  (default if null: off)
+2016-02-07 07:57:40		  irc.server.unixchat.autojoin = "#nixers"  (default if null: "")
+2016-02-07 07:57:40		  irc.server.unixchat.autoreconnect = null -> on
+2016-02-07 07:57:40		  irc.server.unixchat.autoreconnect_delay = null -> 10
+2016-02-07 07:57:40		  irc.server.unixchat.autorejoin = null -> off
+2016-02-07 07:57:40		  irc.server.unixchat.autorejoin_delay = null -> 30
+2016-02-07 07:57:40		  irc.server.unixchat.away_check = null -> 0
+2016-02-07 07:57:40		  irc.server.unixchat.away_check_max_nicks = null -> 25
+2016-02-07 07:57:40		  irc.server.unixchat.capabilities = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.command = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.command_delay = null -> 0
+2016-02-07 07:57:40		  irc.server.unixchat.connection_timeout = null -> 60
+2016-02-07 07:57:40		  irc.server.unixchat.default_msg_kick = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.default_msg_part = null -> "WeeChat %v"
+2016-02-07 07:57:40		  irc.server.unixchat.default_msg_quit = null -> "WeeChat %v"
+2016-02-07 07:57:40		  irc.server.unixchat.ipv6 = null -> on
+2016-02-07 07:57:40		  irc.server.unixchat.local_hostname = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.nicks = null -> "fsociety,fs0ciety,f_s0ciety"
+2016-02-07 07:57:40		  irc.server.unixchat.nicks_alternate = null -> on
+2016-02-07 07:57:40		  irc.server.unixchat.notify = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.password = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.proxy = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.realname = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.sasl_fail = null -> continue
+2016-02-07 07:57:40		  irc.server.unixchat.sasl_key = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.sasl_mechanism = null -> plain
+2016-02-07 07:57:40		  irc.server.unixchat.sasl_password = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.sasl_timeout = null -> 15
+2016-02-07 07:57:40		  irc.server.unixchat.sasl_username = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.ssl = on  (default if null: off)
+2016-02-07 07:57:40		  irc.server.unixchat.ssl_cert = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.ssl_dhkey_size = null -> 2048
+2016-02-07 07:57:40		  irc.server.unixchat.ssl_fingerprint = null -> ""
+2016-02-07 07:57:40		  irc.server.unixchat.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2016-02-07 07:57:40		  irc.server.unixchat.ssl_verify = null -> on
+2016-02-07 07:57:40		  irc.server.unixchat.username = null -> "whoami"
+2016-02-07 07:57:40		39 options (matching with "*unixchat*")
+2016-02-07 07:57:49		Option changed: irc.server.unixchat.command = "/msg nickserv identify dot.dot.dot"  (default if null: "")
+2016-02-07 07:57:53		URL server stopped
+2016-02-07 07:57:53		python: scripts unloaded
+2016-02-07 07:57:53		fifo: pipe closed
+2016-02-07 07:57:53		perl: scripts unloaded
+2016-02-07 07:57:54		perl scripts loaded: beep, buffers, iset
+2016-02-07 07:57:54		URL server listening on ('192.168.1.10', 43211)
+2016-02-07 07:57:54		python scripts loaded: urlserver
+2016-02-07 07:57:54		script: 299 scripts for WeeChat 1.4
+2016-02-07 07:57:54		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-07 10:17:41		URL server stopped
+2016-02-07 10:17:41		python: scripts unloaded
+2016-02-07 10:17:41		fifo: pipe closed
+2016-02-07 10:17:41		perl: scripts unloaded
+2016-02-08 14:15:21		perl scripts loaded: beep, buffers, iset
+2016-02-08 14:15:21		URL server listening on ('192.168.1.10', 35851)
+2016-02-08 14:15:21		python scripts loaded: urlserver
+2016-02-08 14:15:21		script: downloading list of scripts...
+2016-02-08 14:15:21		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-08 14:15:24		script: 299 scripts for WeeChat 1.4
+2016-02-09 15:57:00		URL server stopped
+2016-02-09 15:57:00		python: scripts unloaded
+2016-02-09 15:57:00		fifo: pipe closed
+2016-02-09 15:57:00		perl: scripts unloaded
+2016-02-14 21:53:26		perl scripts loaded: beep, buffers, iset
+2016-02-14 21:53:26		URL server listening on ('127.0.0.1', 44973)
+2016-02-14 21:53:26		python scripts loaded: urlserver
+2016-02-14 21:53:26		script: 299 scripts for WeeChat 1.4
+2016-02-14 21:53:26		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-15 01:24:50		URL server stopped
+2016-02-15 01:24:50		python: scripts unloaded
+2016-02-15 01:57:52		perl scripts loaded: beep, buffers, iset
+2016-02-15 01:57:52		URL server listening on ('127.0.0.1', 46724)
+2016-02-15 01:57:52		python scripts loaded: urlserver
+2016-02-15 01:57:52		script: 299 scripts for WeeChat 1.4
+2016-02-15 01:57:52		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-15 02:26:43		URL server stopped
+2016-02-15 02:26:43		python: scripts unloaded
+2016-02-15 21:36:03		perl scripts loaded: beep, buffers, iset
+2016-02-15 21:36:03		URL server listening on ('127.0.0.1', 40717)
+2016-02-15 21:36:03		python scripts loaded: urlserver
+2016-02-15 21:36:03		script: 299 scripts for WeeChat 1.4
+2016-02-15 21:36:03		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-16 11:12:26		URL server stopped
+2016-02-16 11:12:26		python: scripts unloaded
+2016-02-16 11:12:27		perl scripts loaded: beep, buffers, iset
+2016-02-16 11:12:27		URL server listening on ('127.0.0.1', 38217)
+2016-02-16 11:12:27		python scripts loaded: urlserver
+2016-02-16 11:12:27		script: downloading list of scripts...
+2016-02-16 11:12:27		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-16 11:12:30		script: 299 scripts for WeeChat 1.4
+2016-02-16 13:22:20	 !!! 	Error with command "/script help" (help on command: /help script)
+2016-02-16 13:22:36		[script]  /script  list [-o|-i]
+2016-02-16 13:22:36		                   search <text>
+2016-02-16 13:22:36		                   show <script>
+2016-02-16 13:22:36		                   load|unload|reload <script> [<script>...]
+2016-02-16 13:22:36		                   autoload|noautoload|toggleautoload <script> [<script>...]
+2016-02-16 13:22:36		                   install|remove|installremove|hold [-q] <script> [<script>...]
+2016-02-16 13:22:36		                   upgrade
+2016-02-16 13:22:36		                   update
+2016-02-16 13:22:36		WeeChat scripts manager
+2016-02-16 13:22:36		          list: list loaded scripts (all languages)
+2016-02-16 13:22:36		            -o: send list of loaded scripts to buffer
+2016-02-16 13:22:36		            -i: copy list of loaded scripts in command line (for sending to buffer)
+2016-02-16 13:22:36		        search: search scripts by tags, language (python, perl, ...), filename extension (py, pl, ...) or text; result is displayed on scripts buffer
+2016-02-16 13:22:36		          show: show detailed info about a script
+2016-02-16 13:22:36		          load: load script(s)
+2016-02-16 13:22:36		        unload: unload script(s)
+2016-02-16 13:22:36		        reload: reload script(s)
+2016-02-16 13:22:36		      autoload: autoload the script
+2016-02-16 13:22:36		    noautoload: do not autoload the script
+2016-02-16 13:22:36		toggleautoload: toggle autoload
+2016-02-16 13:22:36		       install: install/upgrade script(s)
+2016-02-16 13:22:36		        remove: remove script(s)
+2016-02-16 13:22:36		 installremove: install or remove script(s), depending on current state
+2016-02-16 13:22:36		          hold: hold/unhold script(s) (a script held will not be upgraded any more and cannot be removed)
+2016-02-16 13:22:36		            -q: quiet mode: do not display messages
+2016-02-16 13:22:36		       upgrade: upgrade all installed scripts which are obsolete (new version available)
+2016-02-16 13:22:36		        update: update local scripts cache
+2016-02-16 13:22:36		Without argument, this command opens a buffer with list of scripts.
+2016-02-16 13:22:36		On script buffer, the possible status for each script are:
+2016-02-16 13:22:36		  * i a H r N
+2016-02-16 13:22:36		  | | | | | |
+2016-02-16 13:22:36		  | | | | | obsolete (new version available)
+2016-02-16 13:22:36		  | | | | running (loaded)
+2016-02-16 13:22:36		  | | | held
+2016-02-16 13:22:36		  | | autoloaded
+2016-02-16 13:22:36		  | installed
+2016-02-16 13:22:36		  popular script
+2016-02-16 13:22:36		Keys on script buffer:
+2016-02-16 13:22:36		  alt+i  install script
+2016-02-16 13:22:36		  alt+r  remove script
+2016-02-16 13:22:36		  alt+l  load script
+2016-02-16 13:22:36		  alt+L  reload script
+2016-02-16 13:22:36		  alt+u  unload script
+2016-02-16 13:22:36		  alt+A  autoload script
+2016-02-16 13:22:36		  alt+h  (un)hold script
+2016-02-16 13:22:36		  alt+v  view script
+2016-02-16 13:22:36		Input allowed on script buffer:
+2016-02-16 13:22:36		  i/r/l/L/u/h  action on script (same as keys above)
+2016-02-16 13:22:36		  q            close buffer
+2016-02-16 13:22:36		  $            refresh buffer
+2016-02-16 13:22:36		  s:x,y        sort buffer using keys x and y (see /help script.look.sort)
+2016-02-16 13:22:36		  s:           reset sort (use default sort)
+2016-02-16 13:22:36		  word(s)      filter scripts: search word(s) in scripts (description, tags, ...)
+2016-02-16 13:22:36		  *            remove filter
+2016-02-16 13:22:36		Mouse actions on script buffer:
+2016-02-16 13:22:36		  wheel         scroll list
+2016-02-16 13:22:36		  left button   select script
+2016-02-16 13:22:36		  right button  install/remove script
+2016-02-16 13:22:36		Examples:
+2016-02-16 13:22:36		  /script search url
+2016-02-16 13:22:36		  /script install iset.pl buffers.pl
+2016-02-16 13:22:36		  /script remove iset.pl
+2016-02-16 13:22:36		  /script hold urlserver.py
+2016-02-16 13:22:36		  /script reload urlserver
+2016-02-16 13:22:36		  /script upgrade
+2016-02-16 13:23:32	 !!! 	python: unable to register script "bitlbee_typing_notice" (another script already exists with this name)
+2016-02-16 13:23:32	 !!! 	python: function "register" not found (or failed) in file "/home/whoami/.weechat/python/autoload/bitlbee_typing_notice.py"
+2016-02-16 13:27:58	 !!! 	python: unable to register script "ichatts" (another script already exists with this name)
+2016-02-16 13:27:58		[13:27]
+2016-02-16 13:27:58	 !!! 	python: function "register" not found (or failed) in file "/home/whoami/.weechat/python/autoload/ichatts.py"
+2016-02-16 15:53:51		URL server stopped
+2016-02-16 15:53:51		python: scripts unloaded
+2016-02-16 22:01:16		perl scripts loaded: beep, buffers, iset
+2016-02-16 22:01:16		URL server listening on ('127.0.0.1', 43547)
+2016-02-16 22:01:16		[22:01]
+2016-02-16 22:01:16		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-16 22:01:16		script: 299 scripts for WeeChat 1.4
+2016-02-16 22:01:16		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-16 22:11:29		URL server stopped
+2016-02-16 22:11:29		python: scripts unloaded
+2016-02-16 22:11:34		perl scripts loaded: beep, buffers, iset
+2016-02-16 22:11:35		URL server listening on ('127.0.0.1', 44923)
+2016-02-16 22:11:35		[22:11]
+2016-02-16 22:11:35		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-16 22:11:35		script: 299 scripts for WeeChat 1.4
+2016-02-16 22:11:35		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-17 21:10:36		URL server stopped
+2016-02-17 21:10:36		python: scripts unloaded
+2016-02-17 21:34:54		perl scripts loaded: beep, buffers, iset
+2016-02-17 21:34:54		URL server listening on ('127.0.0.1', 36705)
+2016-02-17 21:34:54		[21:34]
+2016-02-17 21:34:54		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-17 21:34:54		script: downloading list of scripts...
+2016-02-17 21:34:54		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-17 21:34:57		script: 299 scripts for WeeChat 1.4
+2016-02-17 21:40:00		[21:34]
+2016-02-17 21:42:54		URL server stopped
+2016-02-17 21:42:54		python: scripts unloaded
+2016-02-18 09:34:41		perl scripts loaded: beep, buffers, iset
+2016-02-18 09:34:41		URL server listening on ('127.0.0.1', 43172)
+2016-02-18 09:34:41		[09:34]
+2016-02-18 09:34:41		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 09:34:41		script: 299 scripts for WeeChat 1.4
+2016-02-18 09:34:41		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 11:31:50		URL server stopped
+2016-02-18 11:31:50		python: scripts unloaded
+2016-02-18 11:32:04		perl scripts loaded: beep, buffers, iset
+2016-02-18 11:32:04		URL server listening on ('127.0.0.1', 40631)
+2016-02-18 11:32:04		[11:32]
+2016-02-18 11:32:04		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 11:32:04		script: 299 scripts for WeeChat 1.4
+2016-02-18 11:32:04		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 11:32:55	 !!! 	Too few arguments for command "/OPER" (help on command: /help OPER)
+2016-02-18 11:37:29	 !!! 	Error: unknown command "/acc" (type /help for help)
+2016-02-18 11:40:45	 !!! 	Too few arguments for command "/OPER" (help on command: /help OPER)
+2016-02-18 11:42:03	 !!! 	Error: unknown command "/vlodr" (type /help for help)
+2016-02-18 11:48:00		[11:42]
+2016-02-18 13:20:12		URL server stopped
+2016-02-18 13:20:12		python: scripts unloaded
+2016-02-18 13:32:34		perl scripts loaded: beep, buffers, iset
+2016-02-18 13:32:34		URL server listening on ('127.0.0.1', 34787)
+2016-02-18 13:32:34		[13:32]
+2016-02-18 13:32:34		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 13:32:34		script: 299 scripts for WeeChat 1.4
+2016-02-18 13:32:34		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 13:32:44		URL server stopped
+2016-02-18 13:32:44		python: scripts unloaded
+2016-02-18 13:33:03		perl scripts loaded: beep, buffers, iset
+2016-02-18 13:33:04		URL server listening on ('127.0.0.1', 33498)
+2016-02-18 13:33:04		[13:33]
+2016-02-18 13:33:04		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 13:33:04		script: 299 scripts for WeeChat 1.4
+2016-02-18 13:33:04		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 13:49:24		URL server stopped
+2016-02-18 13:49:24		python: scripts unloaded
+2016-02-18 13:55:13		perl scripts loaded: beep, buffers, iset
+2016-02-18 13:55:13		URL server listening on ('127.0.0.1', 40967)
+2016-02-18 13:55:13		[13:55]
+2016-02-18 13:55:13		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 13:55:13		script: 299 scripts for WeeChat 1.4
+2016-02-18 13:55:13		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 13:56:34		URL server stopped
+2016-02-18 13:56:34		python: scripts unloaded
+2016-02-18 13:56:45		perl scripts loaded: beep, buffers, iset
+2016-02-18 13:56:45		URL server listening on ('127.0.0.1', 44338)
+2016-02-18 13:56:45		[13:56]
+2016-02-18 13:56:45		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 13:56:45		script: 299 scripts for WeeChat 1.4
+2016-02-18 13:56:45		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 14:14:26		URL server stopped
+2016-02-18 14:14:26		python: scripts unloaded
+2016-02-18 14:15:10		perl scripts loaded: beep, buffers, iset
+2016-02-18 14:15:10		URL server listening on ('127.0.0.1', 33604)
+2016-02-18 14:15:10		[14:15]
+2016-02-18 14:15:10		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 14:15:10		script: 299 scripts for WeeChat 1.4
+2016-02-18 14:15:10		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 15:04:14		URL server stopped
+2016-02-18 15:04:14		python: scripts unloaded
+2016-02-18 15:04:52		perl scripts loaded: beep, buffers, iset
+2016-02-18 15:04:52		URL server listening on ('127.0.0.1', 39199)
+2016-02-18 15:04:52		[15:04]
+2016-02-18 15:04:52		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 15:04:52		script: 299 scripts for WeeChat 1.4
+2016-02-18 15:04:52		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 15:14:07		URL server stopped
+2016-02-18 15:14:07		python: scripts unloaded
+2016-02-18 16:51:45		perl scripts loaded: beep, buffers, iset
+2016-02-18 16:51:45		URL server listening on ('127.0.0.1', 33107)
+2016-02-18 16:51:45		[16:51]
+2016-02-18 16:51:45		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 16:51:45		script: 299 scripts for WeeChat 1.4
+2016-02-18 16:51:45		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 20:53:17		fifo: removing old fifo pipe "/home/whoami/.weechat/weechat_fifo_22429"
+2016-02-18 20:53:17		perl scripts loaded: beep, buffers, iset
+2016-02-18 20:53:17		URL server listening on ('127.0.0.1', 45332)
+2016-02-18 20:53:17		[20:53]
+2016-02-18 20:53:17		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 20:53:17		script: 299 scripts for WeeChat 1.4
+2016-02-18 20:53:17		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 21:28:11		URL server stopped
+2016-02-18 21:28:11		python: scripts unloaded
+2016-02-18 21:28:24		perl scripts loaded: beep, buffers, iset
+2016-02-18 21:28:24		URL server listening on ('127.0.0.1', 44063)
+2016-02-18 21:28:24		[21:28]
+2016-02-18 21:28:24		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 21:28:24		script: 299 scripts for WeeChat 1.4
+2016-02-18 21:28:24		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 21:44:25		[var] (plugins.conf)
+2016-02-18 21:44:25		[21:44]
+2016-02-18 21:44:25		  plugins.var.python.bitlbee_typing_notice.channel = "&bitlbee"
+2016-02-18 21:44:25		  plugins.var.python.bitlbee_typing_notice.server = "bitlbee"
+2016-02-18 21:44:25		  plugins.var.python.bitlbee_typing_notice.timeout = "4"
+2016-02-18 21:44:25		[server] (irc.conf)
+2016-02-18 21:44:25		  irc.server.bitlbee.addresses = "localhost"  (default if null: "")
+2016-02-18 21:44:25		  irc.server.bitlbee.anti_flood_prio_high = null -> 2
+2016-02-18 21:44:25		  irc.server.bitlbee.anti_flood_prio_low = null -> 2
+2016-02-18 21:44:25		  irc.server.bitlbee.autoconnect = null -> off
+2016-02-18 21:44:25		  irc.server.bitlbee.autojoin = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.autoreconnect = null -> on
+2016-02-18 21:44:25		  irc.server.bitlbee.autoreconnect_delay = null -> 10
+2016-02-18 21:44:25		  irc.server.bitlbee.autorejoin = null -> off
+2016-02-18 21:44:25		  irc.server.bitlbee.autorejoin_delay = null -> 30
+2016-02-18 21:44:25		  irc.server.bitlbee.away_check = null -> 0
+2016-02-18 21:44:25		  irc.server.bitlbee.away_check_max_nicks = null -> 25
+2016-02-18 21:44:25		  irc.server.bitlbee.capabilities = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.command = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.command_delay = null -> 0
+2016-02-18 21:44:25		  irc.server.bitlbee.connection_timeout = null -> 60
+2016-02-18 21:44:25		  irc.server.bitlbee.default_msg_kick = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.default_msg_part = null -> "WeeChat %v"
+2016-02-18 21:44:25		  irc.server.bitlbee.default_msg_quit = null -> "WeeChat %v"
+2016-02-18 21:44:25		  irc.server.bitlbee.ipv6 = null -> on
+2016-02-18 21:44:25		  irc.server.bitlbee.local_hostname = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.nicks = null -> "fsociety,fs0ciety,f_s0ciety"
+2016-02-18 21:44:25		  irc.server.bitlbee.nicks_alternate = null -> on
+2016-02-18 21:44:25		  irc.server.bitlbee.notify = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.password = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.proxy = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.realname = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.sasl_fail = null -> continue
+2016-02-18 21:44:25		  irc.server.bitlbee.sasl_key = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.sasl_mechanism = null -> plain
+2016-02-18 21:44:25		  irc.server.bitlbee.sasl_password = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.sasl_timeout = null -> 15
+2016-02-18 21:44:25		  irc.server.bitlbee.sasl_username = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.ssl = null -> off
+2016-02-18 21:44:25		  irc.server.bitlbee.ssl_cert = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.ssl_dhkey_size = null -> 2048
+2016-02-18 21:44:25		  irc.server.bitlbee.ssl_fingerprint = null -> ""
+2016-02-18 21:44:25		  irc.server.bitlbee.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2016-02-18 21:44:25		  irc.server.bitlbee.ssl_verify = null -> on
+2016-02-18 21:44:25		  irc.server.bitlbee.username = null -> "whoami"
+2016-02-18 21:44:25		42 options (matching with "*bitlbee*")
+2016-02-18 21:44:45		Option changed: irc.server.bitlbee.autoconnect = on  (default if null: off)
+2016-02-18 21:45:08		Option changed: irc.server.bitlbee.command = "identify dot.dot.dot"  (default if null: "")
+2016-02-18 21:45:20		URL server stopped
+2016-02-18 21:45:20		python: scripts unloaded
+2016-02-18 21:45:21		perl scripts loaded: beep, buffers, iset
+2016-02-18 21:45:21		URL server listening on ('127.0.0.1', 33010)
+2016-02-18 21:45:21		[21:45]
+2016-02-18 21:45:21		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 21:45:21		script: downloading list of scripts...
+2016-02-18 21:45:21		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 21:45:25		script: 299 scripts for WeeChat 1.4
+2016-02-18 21:45:41		[var] (plugins.conf)
+2016-02-18 21:45:41		  plugins.var.python.bitlbee_typing_notice.channel = "&bitlbee"
+2016-02-18 21:45:41		  plugins.var.python.bitlbee_typing_notice.server = "bitlbee"
+2016-02-18 21:45:41		  plugins.var.python.bitlbee_typing_notice.timeout = "4"
+2016-02-18 21:45:41		[server] (irc.conf)
+2016-02-18 21:45:41		  irc.server.bitlbee.addresses = "localhost"  (default if null: "")
+2016-02-18 21:45:41		  irc.server.bitlbee.anti_flood_prio_high = null -> 2
+2016-02-18 21:45:41		  irc.server.bitlbee.anti_flood_prio_low = null -> 2
+2016-02-18 21:45:41		  irc.server.bitlbee.autoconnect = on  (default if null: off)
+2016-02-18 21:45:41		  irc.server.bitlbee.autojoin = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.autoreconnect = null -> on
+2016-02-18 21:45:41		  irc.server.bitlbee.autoreconnect_delay = null -> 10
+2016-02-18 21:45:41		  irc.server.bitlbee.autorejoin = null -> off
+2016-02-18 21:45:41		  irc.server.bitlbee.autorejoin_delay = null -> 30
+2016-02-18 21:45:41		  irc.server.bitlbee.away_check = null -> 0
+2016-02-18 21:45:41		  irc.server.bitlbee.away_check_max_nicks = null -> 25
+2016-02-18 21:45:41		  irc.server.bitlbee.capabilities = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.command = "identify dot.dot.dot"  (default if null: "")
+2016-02-18 21:45:41		  irc.server.bitlbee.command_delay = null -> 0
+2016-02-18 21:45:41		  irc.server.bitlbee.connection_timeout = null -> 60
+2016-02-18 21:45:41		  irc.server.bitlbee.default_msg_kick = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.default_msg_part = null -> "WeeChat %v"
+2016-02-18 21:45:41		  irc.server.bitlbee.default_msg_quit = null -> "WeeChat %v"
+2016-02-18 21:45:41		  irc.server.bitlbee.ipv6 = null -> on
+2016-02-18 21:45:41		  irc.server.bitlbee.local_hostname = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.nicks = null -> "fsociety,fs0ciety,f_s0ciety"
+2016-02-18 21:45:41		  irc.server.bitlbee.nicks_alternate = null -> on
+2016-02-18 21:45:41		  irc.server.bitlbee.notify = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.password = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.proxy = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.realname = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.sasl_fail = null -> continue
+2016-02-18 21:45:41		  irc.server.bitlbee.sasl_key = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.sasl_mechanism = null -> plain
+2016-02-18 21:45:41		  irc.server.bitlbee.sasl_password = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.sasl_timeout = null -> 15
+2016-02-18 21:45:41		  irc.server.bitlbee.sasl_username = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.ssl = null -> off
+2016-02-18 21:45:41		  irc.server.bitlbee.ssl_cert = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.ssl_dhkey_size = null -> 2048
+2016-02-18 21:45:41		  irc.server.bitlbee.ssl_fingerprint = null -> ""
+2016-02-18 21:45:41		  irc.server.bitlbee.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2016-02-18 21:45:41		  irc.server.bitlbee.ssl_verify = null -> on
+2016-02-18 21:45:41		  irc.server.bitlbee.username = null -> "whoami"
+2016-02-18 21:45:41		42 options (matching with "*bitlbee*")
+2016-02-18 21:45:53		Option changed: irc.server.bitlbee.command_delay = 3  (default if null: 0)
+2016-02-18 21:45:56		URL server stopped
+2016-02-18 21:45:56		python: scripts unloaded
+2016-02-18 21:45:57		perl scripts loaded: beep, buffers, iset
+2016-02-18 21:45:57		URL server listening on ('127.0.0.1', 36043)
+2016-02-18 21:45:57		[21:45]
+2016-02-18 21:45:57		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 21:45:57		script: 299 scripts for WeeChat 1.4
+2016-02-18 21:45:57		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 21:46:21		[var] (plugins.conf)
+2016-02-18 21:46:21		  plugins.var.python.bitlbee_typing_notice.channel = "&bitlbee"
+2016-02-18 21:46:21		  plugins.var.python.bitlbee_typing_notice.server = "bitlbee"
+2016-02-18 21:46:21		  plugins.var.python.bitlbee_typing_notice.timeout = "4"
+2016-02-18 21:46:21		[server] (irc.conf)
+2016-02-18 21:46:21		  irc.server.bitlbee.addresses = "localhost"  (default if null: "")
+2016-02-18 21:46:21		  irc.server.bitlbee.anti_flood_prio_high = null -> 2
+2016-02-18 21:46:21		  irc.server.bitlbee.anti_flood_prio_low = null -> 2
+2016-02-18 21:46:21		  irc.server.bitlbee.autoconnect = on  (default if null: off)
+2016-02-18 21:46:21		  irc.server.bitlbee.autojoin = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.autoreconnect = null -> on
+2016-02-18 21:46:21		  irc.server.bitlbee.autoreconnect_delay = null -> 10
+2016-02-18 21:46:21		  irc.server.bitlbee.autorejoin = null -> off
+2016-02-18 21:46:21		  irc.server.bitlbee.autorejoin_delay = null -> 30
+2016-02-18 21:46:21		  irc.server.bitlbee.away_check = null -> 0
+2016-02-18 21:46:21		  irc.server.bitlbee.away_check_max_nicks = null -> 25
+2016-02-18 21:46:21		  irc.server.bitlbee.capabilities = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.command = "identify dot.dot.dot"  (default if null: "")
+2016-02-18 21:46:21		  irc.server.bitlbee.command_delay = 3  (default if null: 0)
+2016-02-18 21:46:21		  irc.server.bitlbee.connection_timeout = null -> 60
+2016-02-18 21:46:21		  irc.server.bitlbee.default_msg_kick = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.default_msg_part = null -> "WeeChat %v"
+2016-02-18 21:46:21		  irc.server.bitlbee.default_msg_quit = null -> "WeeChat %v"
+2016-02-18 21:46:21		  irc.server.bitlbee.ipv6 = null -> on
+2016-02-18 21:46:21		  irc.server.bitlbee.local_hostname = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.nicks = null -> "fsociety,fs0ciety,f_s0ciety"
+2016-02-18 21:46:21		  irc.server.bitlbee.nicks_alternate = null -> on
+2016-02-18 21:46:21		  irc.server.bitlbee.notify = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.password = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.proxy = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.realname = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.sasl_fail = null -> continue
+2016-02-18 21:46:21		  irc.server.bitlbee.sasl_key = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.sasl_mechanism = null -> plain
+2016-02-18 21:46:21		  irc.server.bitlbee.sasl_password = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.sasl_timeout = null -> 15
+2016-02-18 21:46:21		  irc.server.bitlbee.sasl_username = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.ssl = null -> off
+2016-02-18 21:46:21		  irc.server.bitlbee.ssl_cert = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.ssl_dhkey_size = null -> 2048
+2016-02-18 21:46:21		  irc.server.bitlbee.ssl_fingerprint = null -> ""
+2016-02-18 21:46:21		  irc.server.bitlbee.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2016-02-18 21:46:21		  irc.server.bitlbee.ssl_verify = null -> on
+2016-02-18 21:46:21		  irc.server.bitlbee.username = null -> "whoami"
+2016-02-18 21:46:21		42 options (matching with "*bitlbee*")
+2016-02-18 21:47:07		Option changed: irc.server.bitlbee.command = "/msg &bitlbee identify dot.dot.dot"  (default if null: "")
+2016-02-18 21:47:16		[var] (plugins.conf)
+2016-02-18 21:47:16		  plugins.var.python.bitlbee_typing_notice.channel = "&bitlbee"
+2016-02-18 21:47:16		  plugins.var.python.bitlbee_typing_notice.server = "bitlbee"
+2016-02-18 21:47:16		  plugins.var.python.bitlbee_typing_notice.timeout = "4"
+2016-02-18 21:47:16		[server] (irc.conf)
+2016-02-18 21:47:16		  irc.server.bitlbee.addresses = "localhost"  (default if null: "")
+2016-02-18 21:47:16		  irc.server.bitlbee.anti_flood_prio_high = null -> 2
+2016-02-18 21:47:16		  irc.server.bitlbee.anti_flood_prio_low = null -> 2
+2016-02-18 21:47:16		  irc.server.bitlbee.autoconnect = on  (default if null: off)
+2016-02-18 21:47:16		  irc.server.bitlbee.autojoin = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.autoreconnect = null -> on
+2016-02-18 21:47:16		  irc.server.bitlbee.autoreconnect_delay = null -> 10
+2016-02-18 21:47:16		  irc.server.bitlbee.autorejoin = null -> off
+2016-02-18 21:47:16		  irc.server.bitlbee.autorejoin_delay = null -> 30
+2016-02-18 21:47:16		  irc.server.bitlbee.away_check = null -> 0
+2016-02-18 21:47:16		  irc.server.bitlbee.away_check_max_nicks = null -> 25
+2016-02-18 21:47:16		  irc.server.bitlbee.capabilities = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.command = "/msg &bitlbee identify dot.dot.dot"  (default if null: "")
+2016-02-18 21:47:16		  irc.server.bitlbee.command_delay = 3  (default if null: 0)
+2016-02-18 21:47:16		  irc.server.bitlbee.connection_timeout = null -> 60
+2016-02-18 21:47:16		  irc.server.bitlbee.default_msg_kick = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.default_msg_part = null -> "WeeChat %v"
+2016-02-18 21:47:16		  irc.server.bitlbee.default_msg_quit = null -> "WeeChat %v"
+2016-02-18 21:47:16		  irc.server.bitlbee.ipv6 = null -> on
+2016-02-18 21:47:16		  irc.server.bitlbee.local_hostname = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.nicks = null -> "fsociety,fs0ciety,f_s0ciety"
+2016-02-18 21:47:16		  irc.server.bitlbee.nicks_alternate = null -> on
+2016-02-18 21:47:16		  irc.server.bitlbee.notify = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.password = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.proxy = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.realname = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.sasl_fail = null -> continue
+2016-02-18 21:47:16		  irc.server.bitlbee.sasl_key = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.sasl_mechanism = null -> plain
+2016-02-18 21:47:16		  irc.server.bitlbee.sasl_password = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.sasl_timeout = null -> 15
+2016-02-18 21:47:16		  irc.server.bitlbee.sasl_username = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.ssl = null -> off
+2016-02-18 21:47:16		  irc.server.bitlbee.ssl_cert = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.ssl_dhkey_size = null -> 2048
+2016-02-18 21:47:16		  irc.server.bitlbee.ssl_fingerprint = null -> ""
+2016-02-18 21:47:16		  irc.server.bitlbee.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2016-02-18 21:47:16		  irc.server.bitlbee.ssl_verify = null -> on
+2016-02-18 21:47:16		  irc.server.bitlbee.username = null -> "whoami"
+2016-02-18 21:47:16		42 options (matching with "*bitlbee*")
+2016-02-18 21:47:26		Option changed: irc.server.bitlbee.command_delay = 0  (default if null: 0)
+2016-02-18 21:47:30		URL server stopped
+2016-02-18 21:47:30		python: scripts unloaded
+2016-02-18 21:47:31		perl scripts loaded: beep, buffers, iset
+2016-02-18 21:47:31		URL server listening on ('127.0.0.1', 46700)
+2016-02-18 21:47:31		[21:47]
+2016-02-18 21:47:31		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 21:47:31		script: 299 scripts for WeeChat 1.4
+2016-02-18 21:47:31		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 21:47:46		URL server stopped
+2016-02-18 21:47:46		python: scripts unloaded
+2016-02-18 21:47:55		perl scripts loaded: beep, buffers, iset
+2016-02-18 21:47:55		URL server listening on ('127.0.0.1', 40121)
+2016-02-18 21:47:55		[21:47]
+2016-02-18 21:47:55		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 21:47:55		script: 299 scripts for WeeChat 1.4
+2016-02-18 21:47:55		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 21:48:51		URL server stopped
+2016-02-18 21:48:51		python: scripts unloaded
+2016-02-18 21:48:56		perl scripts loaded: beep, buffers, iset
+2016-02-18 21:48:56		URL server listening on ('127.0.0.1', 38490)
+2016-02-18 21:48:56		[21:48]
+2016-02-18 21:48:56		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 21:48:56		script: 299 scripts for WeeChat 1.4
+2016-02-18 21:48:56		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 21:50:07		URL server stopped
+2016-02-18 21:50:07		python: scripts unloaded
+2016-02-18 21:50:35		perl scripts loaded: beep, buffers, iset
+2016-02-18 21:50:35		URL server listening on ('127.0.0.1', 44120)
+2016-02-18 21:50:35		[21:50]
+2016-02-18 21:50:35		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 21:50:35		script: 299 scripts for WeeChat 1.4
+2016-02-18 21:50:35		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 21:52:58		[server] (irc.conf)
+2016-02-18 21:52:58		  irc.server.freenode.addresses = "chat.freenode.net/6697"  (default if null: "")
+2016-02-18 21:52:58		  irc.server.freenode.anti_flood_prio_high = null -> 2
+2016-02-18 21:52:58		  irc.server.freenode.anti_flood_prio_low = null -> 2
+2016-02-18 21:52:58		  irc.server.freenode.autoconnect = on  (default if null: off)
+2016-02-18 21:52:58		  irc.server.freenode.autojoin = "#systemau,#funtoo,#gentoo,#gentoo-chat,#gamingonlinux"  (default if null: "")
+2016-02-18 21:52:58		  irc.server.freenode.autoreconnect = null -> on
+2016-02-18 21:52:58		  irc.server.freenode.autoreconnect_delay = null -> 10
+2016-02-18 21:52:58		  irc.server.freenode.autorejoin = null -> off
+2016-02-18 21:52:58		  irc.server.freenode.autorejoin_delay = null -> 30
+2016-02-18 21:52:58		  irc.server.freenode.away_check = null -> 0
+2016-02-18 21:52:58		  irc.server.freenode.away_check_max_nicks = null -> 25
+2016-02-18 21:52:58		  irc.server.freenode.capabilities = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.command = "/msg nickserv identify dot.dot.dot"  (default if null: "")
+2016-02-18 21:52:58		  irc.server.freenode.command_delay = null -> 0
+2016-02-18 21:52:58		  irc.server.freenode.connection_timeout = null -> 60
+2016-02-18 21:52:58		  irc.server.freenode.default_msg_kick = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.default_msg_part = null -> "WeeChat %v"
+2016-02-18 21:52:58		  irc.server.freenode.default_msg_quit = null -> "WeeChat %v"
+2016-02-18 21:52:58		  irc.server.freenode.ipv6 = null -> on
+2016-02-18 21:52:58		  irc.server.freenode.local_hostname = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.nicks = "fs0ciety,fsociety"  (default if null: "fsociety,fs0ciety,f_s0ciety")
+2016-02-18 21:52:58		  irc.server.freenode.nicks_alternate = null -> on
+2016-02-18 21:52:58		  irc.server.freenode.notify = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.password = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.proxy = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.realname = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.sasl_fail = null -> continue
+2016-02-18 21:52:58		  irc.server.freenode.sasl_key = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.sasl_mechanism = null -> plain
+2016-02-18 21:52:58		  irc.server.freenode.sasl_password = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.sasl_timeout = null -> 15
+2016-02-18 21:52:58		  irc.server.freenode.sasl_username = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.ssl = on  (default if null: off)
+2016-02-18 21:52:58		  irc.server.freenode.ssl_cert = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.ssl_dhkey_size = null -> 2048
+2016-02-18 21:52:58		  irc.server.freenode.ssl_fingerprint = null -> ""
+2016-02-18 21:52:58		  irc.server.freenode.ssl_priorities = "NORMAL:-VERS-TLS-ALL:+VERS-TLS1.0:+VERS-SSL3.0:%COMPAT"  (default if null: "NORMAL:-VERS-SSL3.0")
+2016-02-18 21:52:58		  irc.server.freenode.ssl_verify = null -> on
+2016-02-18 21:52:58		  irc.server.freenode.username = null -> "whoami"
+2016-02-18 21:52:58		39 options (matching with "*freenode*")
+2016-02-18 21:54:00		Option changed: irc.server.freenode.autojoin = "#systemau,#funtoo,#gentoo,#gentoo-chat,#gamingonlinx,#linuxvoice,#linux"  (default if null: "")
+2016-02-18 21:54:10		Option changed: irc.server.freenode.autojoin = "#systemau,#funtoo,#gentoo,#gentoo-chat,#gamingonlinux,#linuxvoice,#linux"  (default if null: "")
+2016-02-18 21:54:13	 !!! 	irc: command "join" must be executed on irc buffer (server or channel)
+2016-02-18 21:58:34		[var] (plugins.conf)
+2016-02-18 21:58:34		  plugins.var.python.bitlbee_typing_notice.channel = "&bitlbee"
+2016-02-18 21:58:34		  plugins.var.python.bitlbee_typing_notice.server = "bitlbee"
+2016-02-18 21:58:34		  plugins.var.python.bitlbee_typing_notice.timeout = "4"
+2016-02-18 21:58:34		[server] (irc.conf)
+2016-02-18 21:58:34		  irc.server.bitlbee.addresses = "localhost"  (default if null: "")
+2016-02-18 21:58:34		  irc.server.bitlbee.anti_flood_prio_high = null -> 2
+2016-02-18 21:58:34		  irc.server.bitlbee.anti_flood_prio_low = null -> 2
+2016-02-18 21:58:34		  irc.server.bitlbee.autoconnect = on  (default if null: off)
+2016-02-18 21:58:34		  irc.server.bitlbee.autojoin = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.autoreconnect = null -> on
+2016-02-18 21:58:34		  irc.server.bitlbee.autoreconnect_delay = null -> 10
+2016-02-18 21:58:34		  irc.server.bitlbee.autorejoin = null -> off
+2016-02-18 21:58:34		  irc.server.bitlbee.autorejoin_delay = null -> 30
+2016-02-18 21:58:34		  irc.server.bitlbee.away_check = null -> 0
+2016-02-18 21:58:34		  irc.server.bitlbee.away_check_max_nicks = null -> 25
+2016-02-18 21:58:34		  irc.server.bitlbee.capabilities = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.command = "/msg &bitlbee identify dot.dot.dot"  (default if null: "")
+2016-02-18 21:58:34		  irc.server.bitlbee.command_delay = 0  (default if null: 0)
+2016-02-18 21:58:34		  irc.server.bitlbee.connection_timeout = null -> 60
+2016-02-18 21:58:34		  irc.server.bitlbee.default_msg_kick = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.default_msg_part = null -> "WeeChat %v"
+2016-02-18 21:58:34		  irc.server.bitlbee.default_msg_quit = null -> "WeeChat %v"
+2016-02-18 21:58:34		  irc.server.bitlbee.ipv6 = null -> on
+2016-02-18 21:58:34		  irc.server.bitlbee.local_hostname = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.nicks = null -> "fsociety,fs0ciety,f_s0ciety"
+2016-02-18 21:58:34		  irc.server.bitlbee.nicks_alternate = null -> on
+2016-02-18 21:58:34		  irc.server.bitlbee.notify = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.password = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.proxy = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.realname = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.sasl_fail = null -> continue
+2016-02-18 21:58:34		  irc.server.bitlbee.sasl_key = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.sasl_mechanism = null -> plain
+2016-02-18 21:58:34		  irc.server.bitlbee.sasl_password = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.sasl_timeout = null -> 15
+2016-02-18 21:58:34		  irc.server.bitlbee.sasl_username = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.ssl = null -> off
+2016-02-18 21:58:34		  irc.server.bitlbee.ssl_cert = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.ssl_dhkey_size = null -> 2048
+2016-02-18 21:58:34		  irc.server.bitlbee.ssl_fingerprint = null -> ""
+2016-02-18 21:58:34		  irc.server.bitlbee.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2016-02-18 21:58:34		  irc.server.bitlbee.ssl_verify = null -> on
+2016-02-18 21:58:34		  irc.server.bitlbee.username = null -> "whoami"
+2016-02-18 21:58:34		42 options (matching with "*bitlbee*")
+2016-02-18 21:58:55		Option changed: irc.server.bitlbee.autojoin = "##systemau"  (default if null: "")
+2016-02-18 22:04:00		[21:58]
+2016-02-18 22:51:40		URL server stopped
+2016-02-18 22:51:40		python: scripts unloaded
+2016-02-18 22:52:19		perl scripts loaded: beep, buffers, iset
+2016-02-18 22:52:19		URL server listening on ('127.0.0.1', 44123)
+2016-02-18 22:52:19		[22:52]
+2016-02-18 22:52:19		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 22:52:19		script: 299 scripts for WeeChat 1.4
+2016-02-18 22:52:19		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 23:21:51		URL server stopped
+2016-02-18 23:21:51		python: scripts unloaded
+2016-02-18 23:22:05		perl scripts loaded: beep, buffers, iset
+2016-02-18 23:22:05		URL server listening on ('127.0.0.1', 40807)
+2016-02-18 23:22:05		[23:22]
+2016-02-18 23:22:05		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 23:22:05		script: 299 scripts for WeeChat 1.4
+2016-02-18 23:22:05		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 23:42:28		URL server stopped
+2016-02-18 23:42:28		python: scripts unloaded
+2016-02-18 23:44:54		perl scripts loaded: beep, buffers, iset
+2016-02-18 23:44:54		URL server listening on ('127.0.0.1', 46399)
+2016-02-18 23:44:54		[23:44]
+2016-02-18 23:44:54		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 23:44:54		script: 299 scripts for WeeChat 1.4
+2016-02-18 23:44:54		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-18 23:48:19		URL server stopped
+2016-02-18 23:48:19		python: scripts unloaded
+2016-02-18 23:48:54		perl scripts loaded: beep, buffers, iset
+2016-02-18 23:48:54		URL server listening on ('127.0.0.1', 42460)
+2016-02-18 23:48:54		[23:48]
+2016-02-18 23:48:54		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-18 23:48:54		script: 299 scripts for WeeChat 1.4
+2016-02-18 23:48:54		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-19 00:08:29		URL server stopped
+2016-02-19 00:08:29		python: scripts unloaded
+2016-02-19 00:10:55		perl scripts loaded: beep, buffers, iset
+2016-02-19 00:10:55		URL server listening on ('127.0.0.1', 38977)
+2016-02-19 00:10:55		[00:10]
+2016-02-19 00:10:55		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-19 00:10:55		script: 299 scripts for WeeChat 1.4
+2016-02-19 00:10:55		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-19 00:13:01		URL server stopped
+2016-02-19 00:13:01		python: scripts unloaded
+2016-02-19 00:14:22		perl scripts loaded: beep, buffers, iset
+2016-02-19 00:14:22		URL server listening on ('127.0.0.1', 42765)
+2016-02-19 00:14:22		[00:14]
+2016-02-19 00:14:22		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-19 00:14:23		script: 299 scripts for WeeChat 1.4
+2016-02-19 00:14:23		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-19 00:20:00		[00:14]
+2016-02-19 10:32:33		URL server stopped
+2016-02-19 10:32:33		python: scripts unloaded
+2016-02-19 10:32:34		perl scripts loaded: beep, buffers, iset
+2016-02-19 10:32:35		URL server listening on ('127.0.0.1', 37455)
+2016-02-19 10:32:35		[10:32]
+2016-02-19 10:32:35		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-19 10:32:35		script: 299 scripts for WeeChat 1.4
+2016-02-19 10:32:35		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-19 12:31:21		Host: phenotype-OS: Linux 4.4.2-gentoo/x86_64-Distro: Gentoo 2.2-CPU: 8 x Intel Core i7-4770K (4200.273 MHz)-Processes: 174-Uptime: 15h 38m-Users: 3-Load Average: 0.55-Memory Usage: 31457.82MB/32105.22MB (97.94%)-Disk Usage: 755.88GB/1355.63GB (55.76%)
+2016-02-19 12:31:21		[12:31]
+2016-02-19 14:19:05	 !!! 	No help available, "purple" is not a command or an option
+2016-02-19 14:19:05		[14:19]
+2016-02-19 16:46:38		URL server stopped
+2016-02-19 16:46:38		python: scripts unloaded
+2016-02-19 17:58:28		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-19 17:58:28		URL server listening on ('127.0.0.1', 45078)
+2016-02-19 17:58:28		[17:58]
+2016-02-19 17:58:28		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-19 17:58:28		script: 299 scripts for WeeChat 1.4
+2016-02-19 17:58:28		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-19 17:58:53		URL server stopped
+2016-02-19 17:58:53		python: scripts unloaded
+2016-02-20 00:57:00		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-20 00:57:00		URL server listening on ('127.0.0.1', 44920)
+2016-02-20 00:57:00		[00:57]
+2016-02-20 00:57:00		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-20 00:57:00		script: downloading list of scripts...
+2016-02-20 00:57:00		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-20 00:57:03		script: 299 scripts for WeeChat 1.4
+2016-02-20 00:57:57		xfer: incoming file from TristanJames (::1, irc.bitlbee), name: 417773955357997467.mp4, 1170965 bytes (protocol: dcc)
+2016-02-20 00:58:37	 !!! 	xfer: file 417773955357997467.mp4 received from TristanJames (::1): FAILED
+2016-02-20 01:04:00		[00:58]
+2016-02-20 11:34:09		URL server stopped
+2016-02-20 11:34:09		python: scripts unloaded
+2016-02-20 15:55:20		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-20 15:55:20		URL server listening on ('127.0.0.1', 46776)
+2016-02-20 15:55:20		[15:55]
+2016-02-20 15:55:20		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-20 15:55:20		script: 299 scripts for WeeChat 1.4
+2016-02-20 15:55:20		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-20 20:05:42		URL server stopped
+2016-02-20 20:05:42		python: scripts unloaded
+2016-02-20 20:05:44		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-20 20:05:44		URL server listening on ('127.0.0.1', 39906)
+2016-02-20 20:05:44		[20:05]
+2016-02-20 20:05:44		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-20 20:05:44		script: 299 scripts for WeeChat 1.4
+2016-02-20 20:05:44		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-20 20:13:28		URL server stopped
+2016-02-20 20:13:28		python: scripts unloaded
+2016-02-20 20:13:36		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-20 20:13:36		URL server listening on ('127.0.0.1', 42443)
+2016-02-20 20:13:36		[20:13]
+2016-02-20 20:13:36		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-20 20:13:36		script: 299 scripts for WeeChat 1.4
+2016-02-20 20:13:36		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-21 00:45:07		URL server stopped
+2016-02-21 00:45:07		python: scripts unloaded
+2016-02-21 00:45:12		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-21 00:45:12		URL server listening on ('127.0.0.1', 43542)
+2016-02-21 00:45:12		[00:45]
+2016-02-21 00:45:12		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-21 00:45:12		script: 299 scripts for WeeChat 1.4
+2016-02-21 00:45:12		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-21 12:52:23		URL server stopped
+2016-02-21 12:52:23		python: scripts unloaded
+2016-02-21 17:51:21		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-21 17:51:21		URL server listening on ('127.0.0.1', 33992)
+2016-02-21 17:51:21		[17:51]
+2016-02-21 17:51:21		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-21 17:51:21		script: downloading list of scripts...
+2016-02-21 17:51:21		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-21 17:51:24		script: 299 scripts for WeeChat 1.4
+2016-02-21 17:51:26		xfer: incoming file from PaulGleeson (::1, irc.bitlbee), name: 2404202807568841344.ogg, 4835 bytes (protocol: dcc)
+2016-02-21 17:57:00		[17:51]
+2016-02-21 21:55:25		URL server stopped
+2016-02-21 21:55:25		python: scripts unloaded
+2016-02-22 09:20:47		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-22 09:20:47		URL server listening on ('127.0.0.1', 39409)
+2016-02-22 09:20:47		[09:20]
+2016-02-22 09:20:47		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-22 09:20:47		script: 299 scripts for WeeChat 1.4
+2016-02-22 09:20:47		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-22 12:20:46		URL server stopped
+2016-02-22 12:20:46		python: scripts unloaded
+2016-02-22 12:20:47		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-22 12:20:47		URL server listening on ('127.0.0.1', 41163)
+2016-02-22 12:20:47		[12:20]
+2016-02-22 12:20:47		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-22 12:20:47		script: 299 scripts for WeeChat 1.4
+2016-02-22 12:20:47		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-22 16:28:58		URL server stopped
+2016-02-22 16:28:58		python: scripts unloaded
+2016-02-22 16:35:03		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-22 16:35:03		URL server listening on ('127.0.0.1', 36934)
+2016-02-22 16:35:03		[16:35]
+2016-02-22 16:35:03		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-22 16:35:03		script: 299 scripts for WeeChat 1.4
+2016-02-22 16:35:03		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-22 16:44:02		URL server stopped
+2016-02-22 16:44:02		python: scripts unloaded
+2016-02-23 01:39:38		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 01:39:38		URL server listening on ('127.0.0.1', 32961)
+2016-02-23 01:39:38		[01:39]
+2016-02-23 01:39:38		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 01:39:38		script: downloading list of scripts...
+2016-02-23 01:39:38		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-23 01:39:42		script: 299 scripts for WeeChat 1.4
+2016-02-23 01:45:00		[01:39]
+2016-02-23 04:13:13		URL server stopped
+2016-02-23 04:13:13		python: scripts unloaded
+2016-02-23 04:13:22		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 04:13:22		URL server listening on ('127.0.0.1', 45221)
+2016-02-23 04:13:22		[04:13]
+2016-02-23 04:13:22		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 04:13:22		script: 299 scripts for WeeChat 1.4
+2016-02-23 04:13:22		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-23 04:13:24		URL server stopped
+2016-02-23 04:13:24		python: scripts unloaded
+2016-02-23 04:13:30		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 04:13:30		URL server listening on ('127.0.0.1', 34244)
+2016-02-23 04:13:30		[04:13]
+2016-02-23 04:13:30		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 04:13:30		script: 299 scripts for WeeChat 1.4
+2016-02-23 04:13:30		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-23 04:48:18	 !!! 	No help available, "telegram" is not a command or an option
+2016-02-23 04:48:18		[04:48]
+2016-02-23 04:52:44	 !!! 	Error: unknown command "/blist" (type /help for help)
+2016-02-23 04:52:53	 !!! 	Error: unknown command "/show" (type /help for help)
+2016-02-23 04:58:00		[04:52]
+2016-02-23 05:51:37		URL server stopped
+2016-02-23 05:51:37		python: scripts unloaded
+2016-02-23 05:51:48		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 05:51:48		URL server listening on ('127.0.0.1', 36235)
+2016-02-23 05:51:48		[05:51]
+2016-02-23 05:51:48		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 05:51:48		script: 299 scripts for WeeChat 1.4
+2016-02-23 05:51:48		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-23 07:06:57		URL server stopped
+2016-02-23 07:06:57		python: scripts unloaded
+2016-02-23 08:50:39		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 08:50:39		URL server listening on ('127.0.0.1', 43301)
+2016-02-23 08:50:39		[08:50]
+2016-02-23 08:50:39		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 08:50:39		script: 299 scripts for WeeChat 1.4
+2016-02-23 08:50:39		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-23 08:59:08		URL server stopped
+2016-02-23 08:59:08		python: scripts unloaded
+2016-02-23 08:59:09		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 08:59:09		URL server listening on ('127.0.0.1', 33410)
+2016-02-23 08:59:09		[08:59]
+2016-02-23 08:59:09		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 08:59:09		script: 299 scripts for WeeChat 1.4
+2016-02-23 08:59:09		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-23 10:08:23		URL server stopped
+2016-02-23 10:08:23		python: scripts unloaded
+2016-02-23 10:11:12		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 10:11:12		URL server listening on ('127.0.0.1', 34089)
+2016-02-23 10:11:12		[10:11]
+2016-02-23 10:11:12		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 10:11:12		script: 299 scripts for WeeChat 1.4
+2016-02-23 10:11:12		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-23 11:03:29		URL server stopped
+2016-02-23 11:03:29		python: scripts unloaded
+2016-02-23 11:03:30		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 11:03:30		URL server listening on ('127.0.0.1', 42873)
+2016-02-23 11:03:30		[11:03]
+2016-02-23 11:03:30		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 11:03:30		script: 299 scripts for WeeChat 1.4
+2016-02-23 11:03:30		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-23 11:37:31		URL server stopped
+2016-02-23 11:37:31		python: scripts unloaded
+2016-02-23 11:37:33		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 11:37:33		URL server listening on ('127.0.0.1', 45220)
+2016-02-23 11:37:33		[11:37]
+2016-02-23 11:37:33		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 11:37:33		script: 299 scripts for WeeChat 1.4
+2016-02-23 11:37:33		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-23 12:59:11		URL server stopped
+2016-02-23 12:59:11		python: scripts unloaded
+2016-02-23 20:03:26		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-23 20:03:26		URL server listening on ('127.0.0.1', 38633)
+2016-02-23 20:03:26		[20:03]
+2016-02-23 20:03:26		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-23 20:03:26		script: 299 scripts for WeeChat 1.4
+2016-02-23 20:03:26		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 00:31:06		URL server stopped
+2016-02-24 00:31:06		python: scripts unloaded
+2016-02-24 00:43:27		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 00:43:27		URL server listening on ('127.0.0.1', 42277)
+2016-02-24 00:43:27		[00:43]
+2016-02-24 00:43:27		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 00:43:27		script: 299 scripts for WeeChat 1.4
+2016-02-24 00:43:27		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 00:47:42		URL server stopped
+2016-02-24 00:47:42		python: scripts unloaded
+2016-02-24 00:48:49		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 00:48:49		URL server listening on ('127.0.0.1', 37905)
+2016-02-24 00:48:49		[00:48]
+2016-02-24 00:48:49		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 00:48:49		script: 299 scripts for WeeChat 1.4
+2016-02-24 00:48:49		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 00:48:55		URL server stopped
+2016-02-24 00:48:55		python: scripts unloaded
+2016-02-24 00:49:44		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 00:49:44		URL server listening on ('127.0.0.1', 44491)
+2016-02-24 00:49:44		[00:49]
+2016-02-24 00:49:44		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 00:49:44		script: 299 scripts for WeeChat 1.4
+2016-02-24 00:49:44		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 00:49:55		URL server stopped
+2016-02-24 00:49:55		python: scripts unloaded
+2016-02-24 00:50:18		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 00:50:18		URL server listening on ('127.0.0.1', 33233)
+2016-02-24 00:50:18		[00:50]
+2016-02-24 00:50:18		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 00:50:18		script: 299 scripts for WeeChat 1.4
+2016-02-24 00:50:18		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 00:50:35		URL server stopped
+2016-02-24 00:50:35		python: scripts unloaded
+2016-02-24 00:51:30		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 00:51:30		URL server listening on ('127.0.0.1', 33902)
+2016-02-24 00:51:30		[00:51]
+2016-02-24 00:51:30		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 00:51:30		script: 299 scripts for WeeChat 1.4
+2016-02-24 00:51:30		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 00:51:40		URL server stopped
+2016-02-24 00:51:40		python: scripts unloaded
+2016-02-24 00:51:44		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 00:51:44		URL server listening on ('127.0.0.1', 44531)
+2016-02-24 00:51:44		[00:51]
+2016-02-24 00:51:44		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 00:51:44		script: 299 scripts for WeeChat 1.4
+2016-02-24 00:51:44		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 00:51:49		URL server stopped
+2016-02-24 00:51:49		python: scripts unloaded
+2016-02-24 01:17:19		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 01:17:19		URL server listening on ('127.0.0.1', 41828)
+2016-02-24 01:17:19		[01:17]
+2016-02-24 01:17:19		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 01:17:19		script: 299 scripts for WeeChat 1.4
+2016-02-24 01:17:19		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 01:17:26		URL server stopped
+2016-02-24 01:17:26		python: scripts unloaded
+2016-02-24 01:18:10		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 01:18:10		URL server listening on ('127.0.0.1', 33552)
+2016-02-24 01:18:10		[01:18]
+2016-02-24 01:18:10		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 01:18:10		script: 299 scripts for WeeChat 1.4
+2016-02-24 01:18:10		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 07:22:45		fifo: removing old fifo pipe "/home/whoami/.weechat/weechat_fifo_29249"
+2016-02-24 07:22:45		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 07:22:45		URL server listening on ('127.0.0.1', 39857)
+2016-02-24 07:22:45		[07:22]
+2016-02-24 07:22:45		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 07:22:45		script: downloading list of scripts...
+2016-02-24 07:22:45		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 07:22:47		script: 299 scripts for WeeChat 1.4
+2016-02-24 07:22:49		URL server stopped
+2016-02-24 07:22:49		python: scripts unloaded
+2016-02-24 07:22:53		perl scripts loaded: beep, buffers, iset, sysinfo
+2016-02-24 07:22:53		URL server listening on ('127.0.0.1', 40108)
+2016-02-24 07:22:53		[07:22]
+2016-02-24 07:22:53		python scripts loaded: bitlbee_completion, bitlbee_typing_notice, ichatts, urlserver
+2016-02-24 07:22:53		script: 299 scripts for WeeChat 1.4
+2016-02-24 07:22:53		Plugins loaded: alias, aspell, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-24 09:54:01		xfer: incoming file from Moritz (::1, irc.bitlbee), name: WiredUK_Podcast_with_Pavel_Durov.mp3, 49199893 bytes (protocol: dcc)
+2016-02-24 09:54:01		[09:54]
+2016-02-24 19:04:43		URL server stopped
+2016-02-24 19:04:43		python: scripts unloaded

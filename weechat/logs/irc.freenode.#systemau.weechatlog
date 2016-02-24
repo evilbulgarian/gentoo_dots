@@ -1,0 +1,707 @@
+2016-01-20 22:32:04	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-20 22:32:04	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-20 22:32:04	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-20 22:32:04	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-01-20 22:32:05	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-01-20 22:40:15	 - 	irc: disconnected from server
+2016-01-20 22:40:24	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-20 22:40:25	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-20 22:40:25	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-20 22:40:25	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-01-20 22:40:25	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-01-20 22:41:38	 - 	irc: disconnected from server
+2016-01-20 22:41:48	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-20 22:41:48	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-20 22:41:48	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-20 22:41:48	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-01-20 22:41:48	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-01-20 22:51:20	 < 	ideasman42 (~cambo@203-217-73-65.dyn.iinet.net.au) has quit (Quit: Ex-Chat)
+2016-01-20 22:30:21	 - 	irc: disconnected from server
+2016-01-20 23:04:29	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-20 23:04:29	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-20 23:04:29	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-20 23:04:29	 - 	Channel #systemau: 9 nicks (1 op, 0 voices, 8 normals)
+2016-01-20 23:04:30	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-01-21 00:51:06	 > 	antonpia1ek_away (~anton@northrend.tastycake.net) has joined #systemau
+2016-01-21 00:54:06	 > 	azm- (~az@gemini.whatbox.ca) has joined #systemau
+2016-01-21 00:55:21	 < 	azm_ (~az@gemini.whatbox.ca) has quit (*.net *.split)
+2016-01-21 00:55:22	 < 	antonpiatek_away (~anton@northrend.tastycake.net) has quit (*.net *.split)
+2016-01-21 02:18:20	 < 	popey (~popey@ubuntu/member/popey) has quit (Read error: Connection reset by peer)
+2016-01-21 02:21:58	 > 	popey (~popey@ubuntu/member/popey) has joined #systemau
+2016-01-21 04:54:57	 < 	popey (~popey@ubuntu/member/popey) has quit (Quit: Drink your weak lemon drink now!)
+2016-01-21 06:04:16	 > 	ideasman42 (~cambo@203-217-73-65.dyn.iinet.net.au) has joined #systemau
+2016-01-21 07:31:17	 - 	irc: disconnected from server
+2016-01-21 11:07:42	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-21 11:07:42	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-21 11:07:42	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-21 11:07:42	 - 	Channel #systemau: 11 nicks (1 op, 0 voices, 10 normals)
+2016-01-21 11:07:42	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-01-21 11:11:15	 < 	swift110_ (~swift110@64.26.99.248) has quit (Ping timeout: 250 seconds)
+2016-01-21 11:12:12	 > 	swift110_ (~swift110@64.26.99.248) has joined #systemau
+2016-01-21 11:30:35	 < 	popey (~popey@ubuntu/member/popey) has quit (Quit: Drink your weak lemon drink now!)
+2016-01-21 12:15:49	 < 	ideasman42 (~cambo@203-217-73-65.dyn.iinet.net.au) has quit (Ping timeout: 276 seconds)
+2016-01-21 12:37:17	 > 	ideasman42 (~cambo@203-217-73-65.dyn.iinet.net.au) has joined #systemau
+2016-01-21 12:45:08	 < 	swift110_ (~swift110@64.26.99.248) has quit (Ping timeout: 264 seconds)
+2016-01-21 12:56:41	 < 	ideasman42 (~cambo@203-217-73-65.dyn.iinet.net.au) has quit (Ping timeout: 265 seconds)
+2016-01-21 13:12:39	 > 	ideasman42 (~cambo@203-217-73-65.dyn.iinet.net.au) has joined #systemau
+2016-01-21 18:11:56	 - 	irc: disconnected from server
+2016-01-21 18:13:04	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-21 18:13:04	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-21 18:13:04	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-21 18:13:04	 - 	Channel #systemau: 9 nicks (1 op, 0 voices, 8 normals)
+2016-01-21 18:13:04	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-01-21 22:37:38	 < 	ideasman42 (~cambo@203-217-73-65.dyn.iinet.net.au) has quit (Quit: Ex-Chat)
+2016-01-22 06:02:15	 > 	ideasman42 (~cambo@203-217-73-65.dyn.iinet.net.au) has joined #systemau
+2016-01-22 09:04:28	 > 	swift110 (~swift110@205.201.255.5) has joined #systemau
+2016-01-22 09:08:46	 < 	swift110 (~swift110@205.201.255.5) has quit (Changing host)
+2016-01-22 09:08:47	 > 	swift110 (~swift110@unaffiliated/swift110) has joined #systemau
+2016-01-22 11:07:58	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Ping timeout: 250 seconds)
+2016-01-22 11:45:23	 - 	ideasman42 is now known as ideasman42afk
+2016-01-22 11:47:19	 < 	ideasman42afk (~cambo@203-217-73-65.dyn.iinet.net.au) has quit (Quit: Ex-Chat)
+2016-01-22 11:54:04	 < 	Almgren (~almgren@do.debian.tjockfet.se) has quit (Quit: No Ping reply in 180 seconds.)
+2016-01-22 11:56:16	 > 	Almgren (~almgren@do.debian.tjockfet.se) has joined #systemau
+2016-01-22 13:40:55	 - 	irc: disconnected from server
+2016-01-24 10:37:08	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-24 10:37:08	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-24 10:37:08	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-24 10:37:08	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-01-24 10:37:09	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-01-24 11:06:44	 - 	irc: disconnected from server
+2016-01-24 11:34:40	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-24 11:34:40	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-24 11:34:40	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-24 11:34:40	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-01-24 11:34:41	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-01-24 14:33:16	 > 	kloinka (~eric@199.182.148.122.sta.dodo.net.au) has joined #systemau
+2016-01-24 15:30:14	 < 	kloinka (~eric@199.182.148.122.sta.dodo.net.au) has quit (Quit: Ex-Chat)
+2016-01-24 16:34:29	 - 	irc: disconnected from server
+2016-01-25 20:38:14	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-25 20:38:14	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-25 20:38:14	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-25 20:38:14	 - 	Channel #systemau: 9 nicks (1 op, 0 voices, 8 normals)
+2016-01-25 20:38:15	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-01-25 21:04:25	 < 	ideasman42 (~cambo@203-217-73-65.dyn.iinet.net.au) has left #systemau ("Ex-Chat")
+2016-01-26 11:22:45	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-01-26 11:22:45	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-01-26 11:22:45	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-01-26 11:22:45	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-01-26 11:22:46	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-07 07:57:07	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-07 07:57:07	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-07 07:57:07	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-07 07:57:07	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-07 07:57:07	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-07 07:57:53	 - 	irc: disconnected from server
+2016-02-07 07:58:03	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-07 07:58:03	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-07 07:58:03	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-07 07:58:03	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-07 07:58:03	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-07 10:07:35	 < 	swift110_ (~swift110@64.26.99.248) has quit (Ping timeout: 240 seconds)
+2016-02-07 10:17:41	 - 	irc: disconnected from server
+2016-02-08 14:15:30	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-08 14:15:30	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-08 14:15:30	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-08 14:15:30	 - 	Channel #systemau: 9 nicks (1 op, 0 voices, 8 normals)
+2016-02-08 14:15:31	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-08 15:31:03	 > 	ideasman42 (~cambo@203-214-41-86.dyn.iinet.net.au) has joined #systemau
+2016-02-08 18:39:14	 < 	ideasman42 (~cambo@203-214-41-86.dyn.iinet.net.au) has quit (Remote host closed the connection)
+2016-02-08 20:04:08	 > 	antonpiatek (~anton@northrend.tastycake.net) has joined #systemau
+2016-02-08 20:15:23	 > 	ideasman42 (~cambo@203-214-41-86.dyn.iinet.net.au) has joined #systemau
+2016-02-08 21:11:24	 < 	popey (~popey@ubuntu/member/popey) has quit (Quit: Drink your weak lemon drink now!)
+2016-02-08 21:13:13	 > 	popey (~alan@ubuntu/member/popey) has joined #systemau
+2016-02-09 01:32:00	 < 	ideasman42 (~cambo@203-214-41-86.dyn.iinet.net.au) has quit (Quit: Ex-Chat)
+2016-02-09 03:34:36	 < 	popey (~alan@ubuntu/member/popey) has quit (Read error: Connection reset by peer)
+2016-02-09 03:34:49	 > 	popey (~alan@cpc81199-farn9-2-0-cust577.6-2.cable.virginm.net) has joined #systemau
+2016-02-09 03:50:37	 < 	popey (~alan@cpc81199-farn9-2-0-cust577.6-2.cable.virginm.net) has quit (Changing host)
+2016-02-09 03:50:38	 > 	popey (~alan@ubuntu/member/popey) has joined #systemau
+2016-02-09 09:13:26	 > 	swift110_ (~swift110@64.26.99.248) has joined #systemau
+2016-02-09 12:39:58	 > 	ideasman42 (~cambo@203-214-41-86.dyn.iinet.net.au) has joined #systemau
+2016-02-09 12:46:56	 < 	swift110_ (~swift110@64.26.99.248) has quit (Ping timeout: 240 seconds)
+2016-02-09 15:57:00	 - 	irc: disconnected from server
+2016-02-14 21:53:35	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-14 21:53:35	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-14 21:53:35	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-14 21:53:35	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-14 21:53:35	 - 	Notice(hobana.freenode.net): [freenode-info] why register and identify? your IRC nick is how people know you. http://freenode.net/faq.shtml#nicksetup
+2016-02-14 21:53:36	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-14 22:45:12	 - 	ideasman42 is now known as ideasman42afk
+2016-02-14 22:49:15	 - 	ideasman42afk is now known as ideasman42
+2016-02-15 01:24:50	 - 	irc: disconnected from server
+2016-02-15 01:58:00	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-15 01:58:00	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-15 01:58:00	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-15 01:58:00	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-15 01:58:01	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-15 02:26:43	 - 	irc: disconnected from server
+2016-02-15 21:36:12	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-15 21:36:12	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-15 21:36:12	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-15 21:36:12	 - 	Channel #systemau: 11 nicks (1 op, 0 voices, 10 normals)
+2016-02-15 21:36:13	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-16 03:52:34	 > 	floppler (~floppler@47.219.39.22) has joined #systemau
+2016-02-16 03:57:02	 < 	floppler (~floppler@47.219.39.22) has quit (Read error: Connection reset by peer)
+2016-02-16 06:44:51	 > 	swift110 (~swift110@c-50-190-75-64.hsd1.md.comcast.net) has joined #systemau
+2016-02-16 06:45:24	 < 	swift110 (~swift110@c-50-190-75-64.hsd1.md.comcast.net) has quit (Changing host)
+2016-02-16 06:45:25	 > 	swift110 (~swift110@unaffiliated/swift110) has joined #systemau
+2016-02-16 07:13:50	 < 	ideasman42 (~cambo@124-170-60-116.dyn.iinet.net.au) has quit (Quit: Ex-Chat)
+2016-02-16 08:14:56	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Ping timeout: 250 seconds)
+2016-02-16 08:23:56	 > 	swift110 (~swift110@216-164-48-140.c3-0.slvr-ubr1.lnh-slvr.md.cable.rcn.com) has joined #systemau
+2016-02-16 08:30:05	 < 	swift110 (~swift110@216-164-48-140.c3-0.slvr-ubr1.lnh-slvr.md.cable.rcn.com) has quit (Changing host)
+2016-02-16 08:30:05	 > 	swift110 (~swift110@unaffiliated/swift110) has joined #systemau
+2016-02-16 08:56:58	hermitcl	Morning all! A beautifull grey morning in dreary old Melbourne town.
+2016-02-16 09:05:20	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Ping timeout: 260 seconds)
+2016-02-16 09:18:07	 > 	swift110 (~swift110@216-164-48-140.c3-0.slvr-ubr1.lnh-slvr.md.cable.rcn.com) has joined #systemau
+2016-02-16 10:10:16	 < 	swift110 (~swift110@216-164-48-140.c3-0.slvr-ubr1.lnh-slvr.md.cable.rcn.com) has quit (Changing host)
+2016-02-16 10:10:16	 > 	swift110 (~swift110@unaffiliated/swift110) has joined #systemau
+2016-02-16 11:12:26	 - 	irc: disconnected from server
+2016-02-16 11:12:35	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-16 11:12:35	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-16 11:12:35	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-16 11:12:35	 - 	Channel #systemau: 11 nicks (1 op, 0 voices, 10 normals)
+2016-02-16 11:12:36	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-16 11:30:52	hoolio	good morning!
+2016-02-16 11:33:04	swift110	hey hoolio how are you?
+2016-02-16 11:33:40	hoolio	very well thanks.  i just had coffee.  so yep, all good. yep.
+2016-02-16 11:35:35	swift110	good to hear
+2016-02-16 11:36:00	hoolio	so, i've been meaning to ask; why am i here?
+2016-02-16 11:36:46	hoolio	i found a tape at Linux Conf au titled #systemau and so here i am
+2016-02-16 11:36:57	hoolio	but i know nothing more.
+2016-02-16 11:37:00	swift110	thats cool
+2016-02-16 11:37:07	swift110	its a pretty cool podcast
+2016-02-16 11:37:46	hoolio	ok; is this a fan club?
+2016-02-16 11:39:02	swift110	um check the topic
+2016-02-16 11:51:00	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Ping timeout: 260 seconds)
+2016-02-16 11:59:55	hermitcl	hey hoolio - it CAN be a fan club: what are you a fan of?
+2016-02-16 12:00:47	hoolio	well i DO like holidays.
+2016-02-16 12:09:24	hermitcl	yeah, me too.
+2016-02-16 12:15:29	fs0ciety	haha welcome hoolio 
+2016-02-16 12:15:34	fs0ciety	welcome to the rabbit hole
+2016-02-16 12:16:07	hoolio	are you mr.robot?
+2016-02-16 12:17:01	fs0ciety	no thats my father
+2016-02-16 12:17:03	fs0ciety	;)
+2016-02-16 12:17:10	hoolio	heheh
+2016-02-16 12:17:27	hoolio	he lies
+2016-02-16 12:17:42	fs0ciety	nice to see you found those cassette tapes, was amusing to see how many people would pick them up at linuxconf
+2016-02-16 12:17:57	fs0ciety	i was at good ol' linux conf.. i was the person wearing the fsociety hoodie
+2016-02-16 12:17:58	fs0ciety	haha
+2016-02-16 12:18:49	hoolio	well thanks .. now i have to visit my mums attic to find my walkman..
+2016-02-16 12:18:52	hoolio	;)
+2016-02-16 12:20:47	fs0ciety	i'm yet still to purchase one
+2016-02-16 12:20:53	fs0ciety	i think you can purchase usb powered ones
+2016-02-16 12:23:08	hoolio	that would be too ironic
+2016-02-16 13:20:23	fs0ciety	http://www.innovations.com.au/p/electronics/audio-sound/cassette-tape-usb-express?Affiliate=ADIA&gclid=CjwKEAiAi4a2BRCu_eXo3O_k3hUSJABmN9N1oOhVNYHfkqHD24agCa1QmKdNPLpyxFIZFyo5nPGmvBoCD7bw_wcB
+2016-02-16 13:22:01	hoolio	https://the5kinny.files.wordpress.com/2010/10/walkman3.jpg
+2016-02-16 13:22:26	hoolio	i'm guessing that cost me all my pocket money at the time
+2016-02-16 15:53:51	 - 	irc: disconnected from server
+2016-02-16 15:53:51		[15:53]
+2016-02-16 22:01:25	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-16 22:01:25		[22:01]
+2016-02-16 22:01:25	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-16 22:01:25	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-16 22:01:25	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-16 22:01:26	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-16 22:07:00		[22:01]
+2016-02-16 22:11:29	 - 	irc: disconnected from server
+2016-02-16 22:11:48	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-16 22:11:48		[22:11]
+2016-02-16 22:11:48	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-16 22:11:48	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-16 22:11:48	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-16 22:11:49	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-16 22:17:00		[22:11]
+2016-02-17 06:54:24	 < 	ideasman42 (~cambo@124-170-60-116.dyn.iinet.net.au) has quit (Remote host closed the connection)
+2016-02-17 06:54:24		[06:54]
+2016-02-17 06:56:20	 > 	swift110 (~swift110@64.26.99.248) has joined #systemau
+2016-02-17 06:57:19	 < 	swift110 (~swift110@64.26.99.248) has quit (Changing host)
+2016-02-17 06:57:19	 > 	swift110 (~swift110@unaffiliated/swift110) has joined #systemau
+2016-02-17 07:03:00		[06:57]
+2016-02-17 09:06:24	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Remote host closed the connection)
+2016-02-17 09:06:24		[09:06]
+2016-02-17 09:10:06	 > 	swift110 (~swift110@64.26.99.248) has joined #systemau
+2016-02-17 09:16:00		[09:10]
+2016-02-17 10:05:42	 < 	swift110 (~swift110@64.26.99.248) has quit (Remote host closed the connection)
+2016-02-17 10:05:42		[10:05]
+2016-02-17 10:09:40	 > 	swift110 (~swift110@64.26.99.248) has joined #systemau
+2016-02-17 10:15:00		[10:09]
+2016-02-17 10:30:25	 < 	swift110 (~swift110@64.26.99.248) has quit (Changing host)
+2016-02-17 10:30:25		[10:30]
+2016-02-17 10:30:26	 > 	swift110 (~swift110@unaffiliated/swift110) has joined #systemau
+2016-02-17 10:36:00		[10:30]
+2016-02-17 10:37:09	 < 	eddiex (~eddiex@cloud.eddiex.se) has quit (*.net *.split)
+2016-02-17 10:43:00		[10:37]
+2016-02-17 10:47:56	 > 	eddiex (~eddiex@cloud.eddiex.se) has joined #systemau
+2016-02-17 10:53:00		[10:47]
+2016-02-17 12:42:15	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Ping timeout: 240 seconds)
+2016-02-17 12:42:15		[12:42]
+2016-02-17 19:23:04	 > 	ideasman42 (~cambo@124-170-60-116.dyn.iinet.net.au) has joined #systemau
+2016-02-17 19:23:04		[19:23]
+2016-02-17 20:52:47	 < 	azm- (~az@gemini.whatbox.ca) has quit (*.net *.split)
+2016-02-17 20:52:47		[20:52]
+2016-02-17 20:52:55	 > 	azm (~az@gemini.whatbox.ca) has joined #systemau
+2016-02-17 20:58:00		[20:52]
+2016-02-17 21:03:35	 < 	azm (~az@gemini.whatbox.ca) has quit (*.net *.split)
+2016-02-17 21:03:38	 < 	eddiex (~eddiex@cloud.eddiex.se) has quit (*.net *.split)
+2016-02-17 21:04:17	 > 	azm (~az@gemini.whatbox.ca) has joined #systemau
+2016-02-17 21:05:11	 > 	eddiex (~eddiex@cloud.eddiex.se) has joined #systemau
+2016-02-17 21:08:13	 < 	popey (~alan@ubuntu/member/popey) has quit (*.net *.split)
+2016-02-17 21:08:24	 > 	popey (~alan@cpc81199-farn9-2-0-cust577.6-2.cable.virginm.net) has joined #systemau
+2016-02-17 21:10:36	 - 	irc: disconnected from server
+2016-02-17 21:35:09	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-17 21:35:09		[21:35]
+2016-02-17 21:35:09	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-17 21:35:09	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-17 21:35:09	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-17 21:35:10	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-17 21:41:00		[21:35]
+2016-02-17 21:42:54	 - 	irc: disconnected from server
+2016-02-18 09:34:49	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 09:34:49		[09:34]
+2016-02-18 09:34:49	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 09:34:49	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 09:34:49	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 09:34:50	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 09:40:00		[09:34]
+2016-02-18 11:31:50	 - 	irc: disconnected from server
+2016-02-18 11:31:50		[11:31]
+2016-02-18 11:32:12	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 11:32:12		[11:32]
+2016-02-18 11:32:12	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 11:32:12	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 11:32:12	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 11:32:13	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 11:38:00		[11:32]
+2016-02-18 13:20:12	 - 	irc: disconnected from server
+2016-02-18 13:20:12		[13:20]
+2016-02-18 13:32:42	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 13:32:42		[13:32]
+2016-02-18 13:32:42	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 13:32:42	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 13:32:42	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 13:32:43	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 13:32:44	 - 	irc: disconnected from server
+2016-02-18 13:33:17	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 13:33:17		[13:33]
+2016-02-18 13:33:17	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 13:33:17	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 13:33:17	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 13:33:17	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 13:49:24	 - 	irc: disconnected from server
+2016-02-18 13:49:24		[13:49]
+2016-02-18 13:55:22	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 13:55:22		[13:55]
+2016-02-18 13:55:22	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 13:55:22	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 13:55:22	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 13:55:23	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 13:56:34	 - 	irc: disconnected from server
+2016-02-18 13:56:52	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 13:56:52		[13:56]
+2016-02-18 13:56:52	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 13:56:52	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 13:56:52	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 13:56:53	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 14:02:00		[13:56]
+2016-02-18 14:14:26	 - 	irc: disconnected from server
+2016-02-18 14:15:19	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 14:15:19		[14:15]
+2016-02-18 14:15:19	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 14:15:19	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 14:15:19	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 14:15:19	 - 	Notice(barjavel.freenode.net): [freenode-info] why register and identify? your IRC nick is how people know you. http://freenode.net/faq.shtml#nicksetup
+2016-02-18 14:15:20	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 14:21:00		[14:15]
+2016-02-18 15:04:14	 - 	irc: disconnected from server
+2016-02-18 15:04:14		[15:04]
+2016-02-18 15:05:00	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 15:05:00		[15:05]
+2016-02-18 15:05:00	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 15:05:00	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 15:05:00	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 15:05:01	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 15:11:00		[15:05]
+2016-02-18 15:14:07	 - 	irc: disconnected from server
+2016-02-18 16:51:54	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 16:51:54		[16:51]
+2016-02-18 16:51:54	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 16:51:54	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 16:51:54	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 16:51:55	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 16:57:00		[16:51]
+2016-02-18 17:25:56	 < 	azm (~az@gemini.whatbox.ca) has quit (Quit: ZNC - 1.6.0 - http://znc.in)
+2016-02-18 17:25:56		[17:25]
+2016-02-18 20:25:49	 > 	ideasman42 (~cambo@124-170-60-116.dyn.iinet.net.au) has joined #systemau
+2016-02-18 20:25:49		[20:25]
+2016-02-18 20:53:27	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 20:53:27		[20:53]
+2016-02-18 20:53:27	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 20:53:27	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 20:53:27	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 20:53:28	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 20:59:00		[20:53]
+2016-02-18 21:28:11	 - 	irc: disconnected from server
+2016-02-18 21:28:11		[21:28]
+2016-02-18 21:28:32	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 21:28:32		[21:28]
+2016-02-18 21:28:32	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 21:28:32	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 21:28:32	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 21:28:33	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 21:34:00		[21:28]
+2016-02-18 21:45:20	 - 	irc: disconnected from server
+2016-02-18 21:45:30	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 21:45:30		[21:45]
+2016-02-18 21:45:30	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 21:45:30	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 21:45:30	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 21:45:31	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 21:45:56	 - 	irc: disconnected from server
+2016-02-18 21:46:05	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 21:46:05		[21:46]
+2016-02-18 21:46:05	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 21:46:05	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 21:46:05	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 21:46:06	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 21:47:30	 - 	irc: disconnected from server
+2016-02-18 21:47:41	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 21:47:41		[21:47]
+2016-02-18 21:47:41	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 21:47:41	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 21:47:41	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 21:47:42	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 21:47:46	 - 	irc: disconnected from server
+2016-02-18 21:48:04	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 21:48:04		[21:48]
+2016-02-18 21:48:04	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 21:48:04	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 21:48:04	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 21:48:05	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 21:48:51	 - 	irc: disconnected from server
+2016-02-18 21:49:05	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 21:49:05		[21:49]
+2016-02-18 21:49:05	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 21:49:05	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 21:49:05	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 21:49:06	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 21:50:07	 - 	irc: disconnected from server
+2016-02-18 21:50:44	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 21:50:44		[21:50]
+2016-02-18 21:50:44	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 21:50:44	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 21:50:44	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 21:50:44	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 22:51:40	 - 	irc: disconnected from server
+2016-02-18 22:51:40		[22:51]
+2016-02-18 22:52:28	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 22:52:28		[22:52]
+2016-02-18 22:52:28	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 22:52:28	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 22:52:28	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 22:52:29	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 22:58:00		[22:52]
+2016-02-18 23:21:51	 - 	irc: disconnected from server
+2016-02-18 23:21:51		[23:21]
+2016-02-18 23:22:13	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 23:22:13		[23:22]
+2016-02-18 23:22:13	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 23:22:13	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 23:22:13	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 23:22:14	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 23:28:00		[23:22]
+2016-02-18 23:42:28	 - 	irc: disconnected from server
+2016-02-18 23:45:03	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 23:45:03		[23:45]
+2016-02-18 23:45:03	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 23:45:03	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 23:45:03	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 23:45:04	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 23:48:18	 - 	irc: disconnected from server
+2016-02-18 23:49:02	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-18 23:49:02		[23:49]
+2016-02-18 23:49:02	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-18 23:49:02	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-18 23:49:02	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-18 23:49:03	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-18 23:55:00		[23:49]
+2016-02-19 00:08:29	 - 	irc: disconnected from server
+2016-02-19 00:11:03	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-19 00:11:03		[00:11]
+2016-02-19 00:11:03	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-19 00:11:03	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-19 00:11:03	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-19 00:11:04	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-19 00:13:01	 - 	irc: disconnected from server
+2016-02-19 00:14:30	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-19 00:14:30		[00:14]
+2016-02-19 00:14:30	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-19 00:14:30	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-19 00:14:30	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-19 00:14:30	 - 	Notice(tepper.freenode.net): [freenode-info] please register your nickname...don't forget to auto-identify! http://freenode.net/faq.shtml#nicksetup
+2016-02-19 00:14:31	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-19 00:20:00		[00:14]
+2016-02-19 04:15:16	 - 	irc: disconnected from server
+2016-02-19 04:15:16		[04:15]
+2016-02-19 04:15:34	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-19 04:15:34	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-19 04:15:34	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-19 04:15:34	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-19 04:15:45	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-19 04:21:00		[04:15]
+2016-02-19 10:25:19	 < 	ideasman42 (~cambo@124-170-60-116.dyn.iinet.net.au) has quit (Quit: Ex-Chat)
+2016-02-19 10:25:19		[10:25]
+2016-02-19 10:32:33	 - 	irc: disconnected from server
+2016-02-19 10:32:43	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-19 10:32:43		[10:32]
+2016-02-19 10:32:43	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-19 10:32:43	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-19 10:32:43	 - 	Channel #systemau: 7 nicks (1 op, 0 voices, 6 normals)
+2016-02-19 10:32:44	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-19 10:38:00		[10:32]
+2016-02-19 16:46:37	 - 	irc: disconnected from server
+2016-02-19 16:46:37		[16:46]
+2016-02-19 17:58:36	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-19 17:58:36		[17:58]
+2016-02-19 17:58:36	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-19 17:58:36	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-19 17:58:36	 - 	Channel #systemau: 7 nicks (1 op, 0 voices, 6 normals)
+2016-02-19 17:58:37	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-19 17:58:53	 - 	irc: disconnected from server
+2016-02-20 00:57:08	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-20 00:57:08		[00:57]
+2016-02-20 00:57:08	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-20 00:57:08	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-20 00:57:08	 - 	Channel #systemau: 7 nicks (1 op, 0 voices, 6 normals)
+2016-02-20 00:57:09	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-20 01:03:00		[00:57]
+2016-02-20 02:08:31	 > 	antonpiatek (~anton@northrend.tastycake.net) has joined #systemau
+2016-02-20 02:08:31		[02:08]
+2016-02-20 03:27:59	 > 	ideasman42 (~cambo@114-198-13-nwork.dyn.iinet.net.au) has joined #systemau
+2016-02-20 03:27:59		[03:27]
+2016-02-20 11:34:08	 - 	irc: disconnected from server
+2016-02-20 11:34:08		[11:34]
+2016-02-20 15:55:29	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-20 15:55:29		[15:55]
+2016-02-20 15:55:29	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-20 15:55:29	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-20 15:55:29	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-20 15:55:30	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-20 16:01:00		[15:55]
+2016-02-20 16:16:33	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #systemau
+2016-02-20 16:16:33		[16:16]
+2016-02-20 20:05:42	 - 	irc: disconnected from server
+2016-02-20 20:05:42		[20:05]
+2016-02-20 20:05:53	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-20 20:05:53		[20:05]
+2016-02-20 20:05:53	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-20 20:05:53	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-20 20:05:53	 - 	Channel #systemau: 9 nicks (1 op, 0 voices, 8 normals)
+2016-02-20 20:05:54	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-20 20:11:00		[20:05]
+2016-02-20 20:13:27	 - 	irc: disconnected from server
+2016-02-20 20:13:46	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-20 20:13:46		[20:13]
+2016-02-20 20:13:46	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-20 20:13:46	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-20 20:13:46	 - 	Channel #systemau: 9 nicks (1 op, 0 voices, 8 normals)
+2016-02-20 20:13:47	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-20 20:14:25	 - 	ideasman42 is now known as ideasman42afk
+2016-02-20 20:20:00		[20:14]
+2016-02-20 23:30:27	 - 	ideasman42afk is now known as ideasman42
+2016-02-20 23:30:27		[23:30]
+2016-02-20 23:49:13	 < 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has quit (Remote host closed the connection)
+2016-02-20 23:49:13		[23:49]
+2016-02-21 00:45:07	 - 	irc: disconnected from server
+2016-02-21 00:45:07		[00:45]
+2016-02-21 00:45:28	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-21 00:45:28		[00:45]
+2016-02-21 00:45:28	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-21 00:45:28	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-21 00:45:28	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-21 00:45:28	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-21 02:04:29	 > 	westoz (~oz@203.59.28.84) has joined #systemau
+2016-02-21 02:04:29		[02:04]
+2016-02-21 02:46:01	 < 	westoz (~oz@203.59.28.84) has quit (Quit: Leaving)
+2016-02-21 02:46:01		[02:46]
+2016-02-21 12:52:23	 - 	irc: disconnected from server
+2016-02-21 12:52:23		[12:52]
+2016-02-21 17:51:28	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-21 17:51:28		[17:51]
+2016-02-21 17:51:28	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-21 17:51:28	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-21 17:51:28	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-21 17:51:29	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-21 17:57:00		[17:51]
+2016-02-21 19:14:32	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #systemau
+2016-02-21 19:14:32		[19:14]
+2016-02-21 20:14:30	 > 	westoz (~oz@203.59.28.84) has joined #systemau
+2016-02-21 20:14:30		[20:14]
+2016-02-21 21:55:24	 - 	irc: disconnected from server
+2016-02-21 21:55:24		[21:55]
+2016-02-22 09:20:55	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-22 09:20:55		[09:20]
+2016-02-22 09:20:55	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-22 09:20:55	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-22 09:20:55	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-22 09:20:56	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-22 09:26:00		[09:20]
+2016-02-22 12:20:46	 - 	irc: disconnected from server
+2016-02-22 12:20:46		[12:20]
+2016-02-22 12:21:02	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-22 12:21:02		[12:21]
+2016-02-22 12:21:02	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-22 12:21:02	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-22 12:21:02	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-22 12:21:02	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-22 16:28:58	 - 	irc: disconnected from server
+2016-02-22 16:28:58		[16:28]
+2016-02-22 16:35:10	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-22 16:35:10		[16:35]
+2016-02-22 16:35:10	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-22 16:35:10	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-22 16:35:10	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-22 16:35:10	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-22 16:44:02	 - 	irc: disconnected from server
+2016-02-23 01:39:46	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-23 01:39:46		[01:39]
+2016-02-23 01:39:46	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-23 01:39:46	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-23 01:39:46	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-23 01:39:47	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-23 01:45:00		[01:39]
+2016-02-23 02:41:44	 < 	westoz (~oz@203.59.28.84) has quit (Quit: Leaving)
+2016-02-23 02:41:44		[02:41]
+2016-02-23 04:13:13	 - 	irc: disconnected from server
+2016-02-23 04:13:13		[04:13]
+2016-02-23 04:13:38	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-23 04:13:38		[04:13]
+2016-02-23 04:13:38	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-23 04:13:38	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-23 04:13:38	 - 	Channel #systemau: 9 nicks (1 op, 0 voices, 8 normals)
+2016-02-23 04:13:39	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-23 04:19:00		[04:13]
+2016-02-23 05:51:37	 - 	irc: disconnected from server
+2016-02-23 05:51:37		[05:51]
+2016-02-23 05:51:55	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-23 05:51:55		[05:51]
+2016-02-23 05:51:55	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-23 05:51:55	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-23 05:51:55	 - 	Channel #systemau: 9 nicks (1 op, 0 voices, 8 normals)
+2016-02-23 05:51:56	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-23 05:57:00		[05:51]
+2016-02-23 07:06:57	 - 	irc: disconnected from server
+2016-02-23 07:06:57		[07:06]
+2016-02-23 08:50:47	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-23 08:50:47		[08:50]
+2016-02-23 08:50:47	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-23 08:50:47	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-23 08:50:47	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-23 08:50:48	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-23 08:56:00		[08:50]
+2016-02-23 08:59:07	 - 	irc: disconnected from server
+2016-02-23 08:59:16	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-23 08:59:16		[08:59]
+2016-02-23 08:59:16	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-23 08:59:16	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-23 08:59:16	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-23 08:59:17	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-23 09:05:00		[08:59]
+2016-02-23 10:08:23	 - 	irc: disconnected from server
+2016-02-23 10:08:23		[10:08]
+2016-02-23 10:11:20	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-23 10:11:20		[10:11]
+2016-02-23 10:11:20	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-23 10:11:20	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-23 10:11:20	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-23 10:11:21	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-23 10:17:00		[10:11]
+2016-02-23 11:03:29	 - 	irc: disconnected from server
+2016-02-23 11:03:29		[11:03]
+2016-02-23 11:03:44	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-23 11:03:44		[11:03]
+2016-02-23 11:03:44	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-23 11:03:44	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-23 11:03:44	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-23 11:03:44	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-23 11:37:31	 - 	irc: disconnected from server
+2016-02-23 11:37:31		[11:37]
+2016-02-23 11:37:40	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-23 11:37:40		[11:37]
+2016-02-23 11:37:40	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-23 11:37:40	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-23 11:37:40	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-23 11:37:41	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-23 11:43:00		[11:37]
+2016-02-23 12:47:29	 < 	swift110 (~swift110@unaffiliated/swift110) has quit (Ping timeout: 240 seconds)
+2016-02-23 12:47:29		[12:47]
+2016-02-23 12:59:11	 - 	irc: disconnected from server
+2016-02-23 20:03:34	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-23 20:03:34		[20:03]
+2016-02-23 20:03:34	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-23 20:03:34	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-23 20:03:34	 - 	Channel #systemau: 8 nicks (1 op, 0 voices, 7 normals)
+2016-02-23 20:03:35	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-23 20:09:00		[20:03]
+2016-02-23 20:41:59	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #systemau
+2016-02-23 20:41:59		[20:41]
+2016-02-24 00:24:00	 > 	westoz (~quassel@203.59.28.84) has joined #systemau
+2016-02-24 00:24:00		[00:24]
+2016-02-24 00:31:06	 - 	irc: disconnected from server
+2016-02-24 00:43:35	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-24 00:43:35		[00:43]
+2016-02-24 00:43:35	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-24 00:43:35	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-24 00:43:35	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-24 00:43:36	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-24 00:47:42	 - 	irc: disconnected from server
+2016-02-24 00:50:32	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-24 00:50:32		[00:50]
+2016-02-24 00:50:32	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-24 00:50:32	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-24 00:50:32	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-24 00:50:32	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-24 00:50:35	 - 	irc: disconnected from server
+2016-02-24 01:18:17	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-24 01:18:17		[01:18]
+2016-02-24 01:18:17	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-24 01:18:17	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-24 01:18:17	 - 	Channel #systemau: 10 nicks (1 op, 0 voices, 9 normals)
+2016-02-24 01:18:18	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-24 01:24:00		[01:18]
+2016-02-24 02:03:03	 < 	westoz (~quassel@203.59.28.84) has quit (Ping timeout: 244 seconds)
+2016-02-24 02:03:03		[02:03]
+2016-02-24 02:52:38	 > 	westoz (~westoz@203.59.28.84) has joined #systemau
+2016-02-24 02:52:38		[02:52]
+2016-02-24 07:23:01	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #systemau
+2016-02-24 07:23:01		[07:23]
+2016-02-24 07:23:01	 - 	Topic for #systemau is "systemau, the australian tech leaning podcast (with a linux bent) - it only took us three months to set a topic!"
+2016-02-24 07:23:01	 - 	Topic set by Enjay (~Enjay___@168.1.75.25-static.reverse.softlayer.com) on Tue, 30 Jun 2015 19:37:51
+2016-02-24 07:23:01	 - 	Channel #systemau: 9 nicks (1 op, 0 voices, 8 normals)
+2016-02-24 07:23:02	 - 	Channel created on Thu, 30 Apr 2015 15:06:00
+2016-02-24 07:29:00		[07:23]
+2016-02-24 09:58:09	 < 	popey (~alan@cpc81199-farn9-2-0-cust577.6-2.cable.virginm.net) has quit (*.net *.split)
+2016-02-24 09:58:09		[09:58]
+2016-02-24 09:58:10	 < 	antonpiatek (~anton@northrend.tastycake.net) has quit (*.net *.split)
+2016-02-24 09:58:10	 < 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has quit (*.net *.split)
+2016-02-24 09:58:15	 < 	flexiondotorg_ (~flexiondo@2001:41d0:2:e3::) has quit (*.net *.split)
+2016-02-24 09:58:16	 < 	Almgren (~almgren@do.debian.tjockfet.se) has quit (*.net *.split)
+2016-02-24 09:58:18	 < 	hoolio (~hoolio@vm-144-6-224-56.rc.tasmania.nectar.org.au) has quit (*.net *.split)
+2016-02-24 09:58:19	 < 	eddiex (~eddiex@cloud.eddiex.se) has quit (*.net *.split)
+2016-02-24 09:58:19	 < 	ChanServ (ChanServ@services.) has quit (*.net *.split)
+2016-02-24 09:59:55	 > 	antonpiatek (~anton@northrend.tastycake.net) has joined #systemau
+2016-02-24 09:59:55	 > 	flexiondotorg_ (~flexiondo@2001:41d0:2:e3::) has joined #systemau
+2016-02-24 10:00:20	 > 	eddiex (~eddiex@cloud.eddiex.se) has joined #systemau
+2016-02-24 10:00:55	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #systemau
+2016-02-24 10:01:46	 > 	popey (~alan@cpc81199-farn9-2-0-cust577.6-2.cable.virginm.net) has joined #systemau
+2016-02-24 10:02:55	 > 	hoolio (~hoolio@vm-144-6-224-56.rc.tasmania.nectar.org.au) has joined #systemau
+2016-02-24 10:03:03	 > 	Almgren (~almgren@do.debian.tjockfet.se) has joined #systemau
+2016-02-24 10:06:28	 > 	ChanServ (ChanServ@services.) has joined #systemau
+2016-02-24 10:06:28	 - 	Mode #systemau [+o ChanServ] by barjavel.freenode.net
+2016-02-24 10:12:00		[10:06]
+2016-02-24 11:50:52	 < 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has quit (Quit: Ex-Chat)
+2016-02-24 11:50:52		[11:50]
+2016-02-24 18:21:04	 < 	popey (~alan@cpc81199-farn9-2-0-cust577.6-2.cable.virginm.net) has quit (Changing host)
+2016-02-24 18:21:04		[18:21]
+2016-02-24 18:21:04	 > 	popey (~alan@ubuntu/member/popey) has joined #systemau
+2016-02-24 19:01:35	 > 	ideasman42 (~cambo@203-206-123-225.dyn.iinet.net.au) has joined #systemau
+2016-02-24 19:01:35		[19:01]
+2016-02-24 19:04:43	 - 	irc: disconnected from server

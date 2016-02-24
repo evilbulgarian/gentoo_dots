@@ -1,0 +1,306 @@
+2016-01-20 22:32:20	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linux.conf.au
+2016-01-20 22:32:20	 - 	Topic for #linux.conf.au is "SOLD OUT | LCA2016 Registrations now open! | Conference Schedule now available: https://linux.conf.au/programme/schedule/monday | https://linux.conf.au | LCA2016 - 1-5 February 2016"
+2016-01-20 22:32:20	 - 	Topic set by jayvee (~quassel@pi.sunriseroad.net) on Sun, 17 Jan 2016 16:57:37
+2016-01-20 22:32:20	 - 	Channel #linux.conf.au: 132 nicks (1 op, 0 voices, 131 normals)
+2016-01-20 22:32:20	 - 	PvNotice(ChanServ): Welcome to the Linux.conf.au channel!
+2016-01-20 22:32:20	 - 	URL for #linux.conf.au: http://www.linux.conf.au/
+2016-01-20 22:32:22	 - 	Channel created on Sun, 26 Nov 2006 17:42:44
+2016-01-20 22:38:51	 > 	fourminutemonta (~david@ppp118-209-1-244.lns20.mel4.internode.on.net) has joined #linux.conf.au
+2016-01-20 22:39:56	 < 	threeminutemonta (~david@ppp118-209-241-152.lns20.mel8.internode.on.net) has quit (Ping timeout: 260 seconds)
+2016-01-20 22:40:15	 - 	irc: disconnected from server
+2016-01-21 11:10:57	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #linux.conf.au
+2016-01-21 11:10:57	 - 	Topic for #linux.conf.au is "SOLD OUT | LCA2016 Registrations now open! | Conference Schedule now available: https://linux.conf.au/programme/schedule/monday | https://linux.conf.au | LCA2016 - 1-5 February 2016"
+2016-01-21 11:10:57	 - 	Topic set by jayvee (~quassel@pi.sunriseroad.net) on Sun, 17 Jan 2016 16:57:37
+2016-01-21 11:10:58	 - 	Channel #linux.conf.au: 136 nicks (1 op, 0 voices, 135 normals)
+2016-01-21 11:10:58	 - 	PvNotice(ChanServ): Welcome to the Linux.conf.au channel!
+2016-01-21 11:10:58	 - 	URL for #linux.conf.au: http://www.linux.conf.au/
+2016-01-21 11:11:00	 - 	Channel created on Sun, 26 Nov 2006 17:42:44
+2016-01-21 11:11:02	brong	meeting with Pobox people and learning how to sysadmin SmartOS so can help with their machines.  Yay for different unixes
+2016-01-21 11:11:17	brong	DrParis: I think we considered IRCloud
+2016-01-21 11:11:31	brong	not sure why slack won off the top of my head
+2016-01-21 11:11:35	brong	it might be as good or even better
+2016-01-21 11:11:48	brong	the underlying thing is that nobody decided to set it up
+2016-01-21 11:11:58	fs0ciety	brong: Haha yeah, different unixessseses.. if I have to deal with AIX or Solaris anytime soon I'd rather run screaming.  
+2016-01-21 11:12:00	brong	until someone else went and painted the bikeshed
+2016-01-21 11:12:07	adhoc_	bot integrations is the only thing going for it, that swayed us
+2016-01-21 11:12:13	brong	and now everybody is out with the graffiti cans
+2016-01-21 11:12:33	nevyn	fs0ciety: tru64
+2016-01-21 11:12:52	brong	fs0ciety: there's OpenBSD in there too
+2016-01-21 11:12:53	DrParis	My biggest issue with Slack TBH is that the apps are all weird web wrappers that don’t feel fast enough
+2016-01-21 11:13:07	brong	DrParis: I don't type fast on mobile anyway
+2016-01-21 11:13:16	DrParis	I meant desktop, too
+2016-01-21 11:13:18	nevyn	until the email to the list I'd never heard of it.
+2016-01-21 11:13:24	brong	yeah, so I just use the web on desktop
+2016-01-21 11:13:35	fs0ciety	brong: Hahaha.  Glad there isn't an OpenBSD machine in here in my office.  Then again I've spent the past 3 days installing Funtoo on my laptop
+2016-01-21 11:13:44	DrParis	their web (and native app, which is just a wrapper) is slow and unpleasant :(
+2016-01-21 11:14:04	brong	I used to like OpenBSD for routers when I last used it 16 years ago... and it's probably still good for that, which is what it's doing
+2016-01-21 11:14:19	brong	DrParis: yeah, you saw my rant about the scrolling
+2016-01-21 11:14:25	brong	but it's consistent
+2016-01-21 11:14:26	DrParis	aye
+2016-01-21 11:14:32	brong	I use the IRC gateway on my work desktop as well
+2016-01-21 11:15:01	simon_green	For everyone of us who hasn't heard of Slack, there were be thousands of Slackers who haven't heard of IRC.
+2016-01-21 11:15:13	brong	simon_green: not that unbalanced in this community
+2016-01-21 11:15:18	adhoc_	simon_green: indeed.
+2016-01-21 11:15:24	DrParis	I’m surprised that people in tech wouldn’t have heard of Slack TBH
+2016-01-21 11:15:26	DrParis	But yeah
+2016-01-21 11:15:37	brong	yeah, not having heard of slack, or uber, or tinder or whatever
+2016-01-21 11:15:48	fs0ciety	ahh the slack conversation from the mailing list
+2016-01-21 11:15:49	vmbrasseur	o_O
+2016-01-21 11:15:51	simon_green	I used it at a $job once, and of course their big incident last March.
+2016-01-21 11:15:52	brong	I guess if you're in a silo which doesn't interact with messaging
+2016-01-21 11:15:54	DrParis	Apparently the IRC gateway is not being turned on for the Slack instance, so meh to that
+2016-01-21 11:15:57	fs0ciety	that conversation escalated quickly
+2016-01-21 11:15:57	adhoc_	DrParis: it has made news for al lthe wrong reasons, so i'm surprised too
+2016-01-21 11:16:01	DrParis	adhoc_: right
+2016-01-21 11:16:13	edunham	I'd suppose that for someone in FOSS communities, it's easier to miss noticing Slack than to be unaware of IRC
+2016-01-21 11:16:47	fs0ciety	I'm a newbie to Linux Conf, not a newbie to Linux.. I'd rather just stay in irc :)
+2016-01-21 11:17:06	adhoc_	edunham: it isn't FLOSS, so easy for eyes to glaze over, if you don't care about all the integrations, which is its key selling point, to part you with your money =)
+2016-01-21 11:18:45	fs0ciety	adhoc_: Personally I don't think Slack is the right software to use for this purpose. But it is an "unofficial" thing - 
+2016-01-21 11:19:08	edunham	my biggest complaints are the scrollback disappearing on free tier, the inaccessibility to community members who rely on screen readers, high barrier to entry (need manual invitation or someone to set up an auto-invite system) and Yet Another Login
+2016-01-21 11:19:18	adhoc_	fs0ciety: i'm not saying it isn't useful (it is), but context is everything.
+2016-01-21 11:19:23	edunham	but oh well, I think the right solution here is to just hang out in IRC and get help here :)
+2016-01-21 11:20:11	fs0ciety	adhoc_: Oh I understand, promoting open-source is the whole point of the conference and then use Slack is like a slap in the office
+2016-01-21 11:20:17	fs0ciety	edunham: I agree
+2016-01-21 11:20:43	adhoc_	so how FLOSSy is irccloud ?
+2016-01-21 11:20:44	edunham	oh and just for the record, I'm more than happy to mentor any newbies who're afraid of IRC clients. 
+2016-01-21 11:21:29	fs0ciety	edunham: how involved can linuxconf be if it requires newbies to be mentored?
+2016-01-21 11:21:59	 < 	threeminutemonta (~david@eth778.vic.adsl.internode.on.net) has quit (Ping timeout: 272 seconds)
+2016-01-21 11:22:27	adhoc_	fs0ciety: if you are entering a new community, there will always be new things, and things that look daunting
+2016-01-21 11:22:32	edunham	fs0ciety: I don't really understand what you're asking, but I've met a variety of nice people who just needed a little "no it won't explode" type handholding at the start of learning to use a tool, and then they're ok
+2016-01-21 11:22:50	adhoc_	fs0ciety: a five minute conversation can break the ice and help you get you on your feet and in the right direction =)
+2016-01-21 11:23:20	edunham	sure, at some point you'll never get anywhere if you can't be self-directed -- but when something's totally new, it helpes to have someone point at the screen and name all the parts so you can Google your problems usefullly
+2016-01-21 11:23:26	fs0ciety	edunham: this is the thing i'm confused about, are you talking in the aspect of a "linux newbie"
+2016-01-21 11:24:15	ecognito	Well, that's been a mighty big cat set amongst the pigeons.
+2016-01-21 11:24:17	edunham	I'm talking about anyone in the target audience identified for Slack -- those who for whatever reason find IRC daunting.
+2016-01-21 11:24:25	fs0ciety	see i thought this whole newbie thing was are you new to the conference, not new to open source
+2016-01-21 11:24:29	fs0ciety	edunham: now i see
+2016-01-21 11:24:47	fs0ciety	edunham: well i guess i'm not in that demographic then :)
+2016-01-21 11:25:09	edunham	I mean, this'll be my first LCA, but I'm on the "pretty please don't make me Slack" side of the holy war so I figure I'd better back up my opinions with time and energy :)
+2016-01-21 11:25:45	bradm	what I don't get is people are all up in arms about Slack, but seem ok to use Twitter
+2016-01-21 11:26:23	fs0ciety	bradm: people are like that. haha.
+2016-01-21 11:26:29	 > 	threeminutemonta (~david@eth778.vic.adsl.internode.on.net) has joined #linux.conf.au
+2016-01-21 11:26:39	adhoc_	bradm: for twitter, the barrier to entry is lower and it is public
+2016-01-21 11:26:42	fs0ciety	personally i'm not any social network sites, i do have my own personal xmpp server though.
+2016-01-21 11:26:45	*	faulteh_ expresses his smugness on gnusocial ;)
+2016-01-21 11:26:49	adhoc_	bradm: thats a good point actually =)
+2016-01-21 11:27:26	adhoc_	faulteh_: that still exists? link!??!
+2016-01-21 11:27:37	DrParis	adhoc_: irccloud isn’t very flossy, but it provides a featureset equivalent to slack on top of irc for those who want the slack features..
+2016-01-21 11:27:49	faulteh_	adhoc_: http://gnu.io/social/
+2016-01-21 11:27:56	DrParis	and also provides the ease-of-entry that slack does, but to the IRC channel
+2016-01-21 11:28:06	adhoc_	DrParis: i see the pricing model there now 
+2016-01-21 11:28:14	fs0ciety	i'd just say just set up a irc channel that can be accessed via a web-page :)
+2016-01-21 11:28:27	DrParis	that’s already a thing, but then there’s no scrollback
+2016-01-21 11:28:40	DrParis	adhoc_: the free one is good enough; most of my friends use that to chat in our friends irc channel
+2016-01-21 11:29:01	adhoc_	its another busuness model looking for a problem =)
+2016-01-21 11:29:04	edunham	faulteh_: that's neat! for "Quitter", is there a heuristic for deciding whether to hit the Sweden, Norway, or Iceland button?
+2016-01-21 11:29:21	DrParis	adhoc_: I think their business model is quite solid TBH –– I pay
+2016-01-21 11:29:49	faulteh_	edunham: i'm not sure i was on LoadAverage for a while but now I run my own instance of gnusocial since it's all federated, even set one up for TasLUG to replace wordpress hehe
+2016-01-21 11:29:59	edunham	ah, cool
+2016-01-21 11:30:07	 < 	ecognito (~ecognito@cpe-120-146-201-233.static.vic.bigpond.net.au) has left #linux.conf.au
+2016-01-21 11:30:46	 < 	plaw (~plaw@ucalegon.bleeter.id.au) has quit (Changing host)
+2016-01-21 11:30:46	 > 	plaw (~plaw@guifications/user/plaw) has joined #linux.conf.au
+2016-01-21 11:32:45	 < 	jerrykan (~jerrykan@103.1.184.234) has quit (Ping timeout: 272 seconds)
+2016-01-21 11:32:48	 < 	dtbell91 (~dtbell91@127-20-88-118.dcwest.net.au) has quit (Ping timeout: 244 seconds)
+2016-01-21 11:32:48	 < 	[julian] (~jdemarchi@opennic/julian) has quit (Ping timeout: 244 seconds)
+2016-01-21 11:33:24	 > 	dtbell91 (~dtbell91@127-20-88-118.dcwest.net.au) has joined #linux.conf.au
+2016-01-21 11:33:33	 > 	jerrykan (~jerrykan@whatsit.theintraweb.net) has joined #linux.conf.au
+2016-01-21 11:33:45	 > 	[julian] (~jdemarchi@opennic/julian) has joined #linux.conf.au
+2016-01-21 11:34:23	dtbell91	well there's a downside to IRC... when someone tried to steal your nick off your bouncer you get kicked and everything goes crazy for a minute
+2016-01-21 11:34:33	dtbell91	s/tried/tries
+2016-01-21 11:34:45	 > 	gorilla (~George@203.208.90.115) has joined #linux.conf.au
+2016-01-21 11:37:47	*	vmbrasseur eyes dtbell91 suspiciously and keeps him far from her bouncer.
+2016-01-21 11:38:26	adhoc_	dtbell91: does that occur with registered nicks ?
+2016-01-21 11:38:36	fs0ciety	vmbrasseur: Haha, i some how imagined that sentence in my head as if you literally had a bouncer? ;)
+2016-01-21 11:38:44	dtbell91	I've registered this one I'm sure... It has a password (I think)
+2016-01-21 11:39:09	adhoc_	dtbell91: i haven't had that problem in er .. about a decade
+2016-01-21 11:39:14	adhoc_	at least
+2016-01-21 11:39:25	 < 	rav0__ (~rav0@252.87.149.122.sta.dodo.net.au) has quit (Ping timeout: 276 seconds)
+2016-01-21 11:39:41	vmbrasseur	fs0ciety I didn't before but I may need to open a req for one.
+2016-01-21 11:39:45	simon_green	And then there are the netsplits...
+2016-01-21 11:41:03	adhoc_	simon_green: as oppsed to SPoFs ?
+2016-01-21 11:41:05	fs0ciety	simon_green: netsplits are .. ... painful
+2016-01-21 11:41:55	adhoc_	when twitter or slacks auth goes down, which is does occasionally ...
+2016-01-21 11:42:10	adhoc_	simon_green: every technology has its pain points
+2016-01-21 11:44:18	 > 	taylorbyte (~taylorbyt@202.172.121.52) has joined #linux.conf.au
+2016-01-21 11:44:54	 < 	taylorbyte (~taylorbyt@202.172.121.52) has quit (Max SendQ exceeded)
+2016-01-21 11:49:18	 > 	taylorbyte (~taylorbyt@202.172.121.52) has joined #linux.conf.au
+2016-01-21 11:49:54	 < 	taylorbyte (~taylorbyt@202.172.121.52) has quit (Max SendQ exceeded)
+2016-01-21 11:50:58	 - 	Guest96090 is now known as l33t0
+2016-01-21 11:51:05	 < 	l33t0 (~l33t0@srv1.tok.jp.vps.epic.as) has quit (Changing host)
+2016-01-21 11:51:05	 > 	l33t0 (~l33t0@unaffiliated/l33t0) has joined #linux.conf.au
+2016-01-21 11:54:18	 > 	taylorbyte (~taylorbyt@202.172.121.52) has joined #linux.conf.au
+2016-01-21 11:54:49	 < 	taylorbyte (~taylorbyt@202.172.121.52) has quit (Max SendQ exceeded)
+2016-01-21 11:56:39	 > 	todthomson (01846058@gateway/web/freenode/ip.1.132.96.88) has joined #linux.conf.au
+2016-01-21 11:57:15	todthomson	ELHO all ;)
+2016-01-21 11:59:18	 > 	taylorbyte (~taylorbyt@202.172.121.52) has joined #linux.conf.au
+2016-01-21 11:59:54	 < 	taylorbyte (~taylorbyt@202.172.121.52) has quit (Max SendQ exceeded)
+2016-01-21 12:04:05	 > 	ohithere (~binary@unaffiliated/ohithere) has joined #linux.conf.au
+2016-01-21 12:11:03	 > 	joern (~joern@50-206-43-50-static.hfc.comcastbusiness.net) has joined #linux.conf.au
+2016-01-21 12:11:36	 > 	taylorbyte (~taylorbyt@202.172.121.52) has joined #linux.conf.au
+2016-01-21 12:11:45	 < 	taylorbyte (~taylorbyt@202.172.121.52) has quit (Max SendQ exceeded)
+2016-01-21 12:13:17	Hoolio	lo todthomson 
+2016-01-21 12:16:36	 > 	taylorbyte (~taylorbyt@202.172.121.52) has joined #linux.conf.au
+2016-01-21 12:19:16	 < 	stibbons (~stibbons@eth59-167-133-100.static.internode.on.net) has quit (Quit: Leaving.)
+2016-01-21 12:22:06	 > 	itgrrl (8899126a@gateway/web/freenode/ip.136.153.18.106) has joined #linux.conf.au
+2016-01-21 12:30:42	 < 	taylorbyte (~taylorbyt@202.172.121.52) has quit (Read error: Connection reset by peer)
+2016-01-21 12:35:30	 > 	taylorbyte (~taylorbyt@202.172.121.52) has joined #linux.conf.au
+2016-01-21 12:37:23	todthomson	lo Hoolio :)
+2016-01-21 12:47:17	 < 	taylorbyte (~taylorbyt@202.172.121.52) has quit (Ping timeout: 272 seconds)
+2016-01-21 12:48:09	Endy	Wow.... we have good signage this year, looking at the twitter feed :D
+2016-01-21 12:49:54	fs0ciety	how many attendee's do have now that it is sold out
+2016-01-21 12:50:33	 < 	todthomson (01846058@gateway/web/freenode/ip.1.132.96.88) has quit (Ping timeout: 252 seconds)
+2016-01-21 12:50:35	bradm	all of them? :)
+2016-01-21 12:51:44	fs0ciety	yup
+2016-01-21 12:51:47	fs0ciety	all of them
+2016-01-21 12:52:12	dtbell91	yes, we have all of the attendees
+2016-01-21 12:52:26	dtbell91	Endy: it's not what you know but who ;-)
+2016-01-21 12:52:52	fs0ciety	im glad i got my ticket in november
+2016-01-21 12:54:19	Endy	dtbell91: Too true, too true :D
+2016-01-21 12:58:28	 > 	taylorbyte (~taylorbyt@202.172.121.52) has joined #linux.conf.au
+2016-01-21 13:02:26	 > 	itgrrl_ (~itgrrl@pa49-195-151-206.pa.nsw.optusnet.com.au) has joined #linux.conf.au
+2016-01-21 13:03:09	simon_green	I'm glad I got ticket, airfare and accomodation back then.
+2016-01-21 13:04:30	fs0ciety	luckily i'm in melbourne, so i'm just driving back and forth except on thursday when its drink-a-thon for me
+2016-01-21 13:07:52	nevyn	fs0ciety: hallway track?
+2016-01-21 13:08:01	*	nevyn is driving down for the week
+2016-01-21 13:08:32	 < 	itgrrl_ (~itgrrl@pa49-195-151-206.pa.nsw.optusnet.com.au) has quit (Quit: bye)
+2016-01-21 13:09:07	 < 	joern (~joern@50-206-43-50-static.hfc.comcastbusiness.net) has quit (Ping timeout: 276 seconds)
+2016-01-21 13:10:38	fs0ciety	nevyn: systemau linux podcast are having a live episode at a local pub
+2016-01-21 13:10:53	fs0ciety	which gives me an excuse to drink in the evening
+2016-01-21 13:13:46	nevyn	excuse?
+2016-01-21 13:15:36	fs0ciety	well work is paying for linux conf ;)
+2016-01-21 13:19:13	nevyn	have you been before?
+2016-01-21 13:20:00	 > 	ctudball (cbd6451e@gateway/web/freenode/ip.203.214.69.30) has joined #linux.conf.au
+2016-01-21 13:23:56	 < 	AzMoo (~matt@unaffiliated/azmoo) has quit (Quit: AzMoo)
+2016-01-21 13:27:33	 - 	fukawi2 is now known as fukawi2`afk
+2016-01-21 13:29:09	lordlod_	I think it was Sydney when I got to the end of the week and realised I had boozed it up every single night.
+2016-01-21 13:32:34	 > 	anibal (~anibal@CPE-124-189-180-120.cxzr1.win.bigpond.net.au) has joined #linux.conf.au
+2016-01-21 13:33:30	 < 	anibal (~anibal@CPE-124-189-180-120.cxzr1.win.bigpond.net.au) has quit (Quit: AtomicIRC: The nuclear option.)
+2016-01-21 13:34:20	 > 	AzMoo (~matt@unaffiliated/azmoo) has joined #linux.conf.au
+2016-01-21 13:34:50	 > 	anibal (~anibal@CPE-124-189-180-120.cxzr1.win.bigpond.net.au) has joined #linux.conf.au
+2016-01-21 13:35:22	 > 	ecognito (~ecognito@cpe-120-146-201-233.static.vic.bigpond.net.au) has joined #linux.conf.au
+2016-01-21 13:39:26	brong	this is my first LCA
+2016-01-21 13:39:35	 > 	teolupus (~teolupus@2404:130:0:1000:8192:6168:2716:ed05) has joined #linux.conf.au
+2016-01-21 13:39:45	brong	we booked a large AirBnB close to the conference for whoever from the company wants to crash on any night :)
+2016-01-21 13:39:59	brong	somehow I got accepted as a speaker
+2016-01-21 13:40:14	brong	I suspect it was a mistake, but I'm not going to look a gift horse in the camera
+2016-01-21 13:40:58	KathyReid	brong: with my Speaker Liaison hat on, I can definitively say it was not a mistake
+2016-01-21 13:41:11	brong	excellent
+2016-01-21 13:41:15	brong	I guess I should write my talk then
+2016-01-21 13:41:42	KathyReid	brong: first rule of Speaking, don't tell the Speaker Liaison you haven't written your talk :D
+2016-01-21 13:41:49	KathyReid	<-- #WrathyKathy
+2016-01-21 13:41:59	brong	oh, I mean - I guess I should _polish_ my talk
+2016-01-21 13:42:13	KathyReid	correct :-) 
+2016-01-21 13:42:43	teolupus	I've got a registration code (voucher) provided by my company, but I'm getting a sold out error message from the website. Is there a way I can claim back this ticket online?
+2016-01-21 13:42:53	brong	I'll crack out a bucket of TurdSparkle2000Plus[tm]
+2016-01-21 13:43:02	thaytan	KathyReid, I prefer to write my talks the night before
+2016-01-21 13:43:06	thaytan	so it's all fresh in my mind
+2016-01-21 13:43:23	KathyReid	teolupus: drop me a line at contact@lcabythebay.org.au with your details. If you have a voucher code, we can register you
+2016-01-21 13:43:23	thaytan	otherwise, how do you know what you were going to say?
+2016-01-21 13:43:41	brong	thaytan: I was planning to make it all up on the spot
+2016-01-21 13:43:47	teolupus	KathyReid: will do. You should have an email form me in the next 3min.
+2016-01-21 13:43:49	*	KathyReid twitches nervously
+2016-01-21 13:43:50	brong	"hi, I'm Bron - any questions?"
+2016-01-21 13:43:56	thaytan	brong, the freshest of fresh!
+2016-01-21 13:44:13	thaytan	best to peruse the CoC a little beforehand
+2016-01-21 13:44:17	KathyReid	next you guys will be staying you don't rehearse your talk
+2016-01-21 13:44:26	KathyReid	teolupus: great stuff, thank you
+2016-01-21 13:44:34	brong	<flandersandswan>they practice beforehand, which ruins the fun</>
+2016-01-21 13:44:59	*	brong nips over to slack to sell a different story
+2016-01-21 13:45:11	thaytan	KathyReid, to me, rehearse is just a car you use for the 2nd funeral
+2016-01-21 13:45:40	*	KathyReid twitches more nervously
+2016-01-21 13:46:09	JackScott	brong: Make sure you include a live demo too, those always go well.
+2016-01-21 13:46:10	zindello	with regards to staying at LCA, I learned a long time ago that staying on or near campus is a must to get the most out of it
+2016-01-21 13:46:34	brong	oh man - I wish I had a video of the last time I did a live demo
+2016-01-21 13:46:43	brong	in front of the entire company :)
+2016-01-21 13:46:48	zindello	The conversations that go on, after hours, after a lot of beer, are priceless and every bit as valuable as the conference content its self (If you can remember them the next morning that is!)
+2016-01-21 13:46:53	brong	I shut down a production web server in the middle of my talk
+2016-01-21 13:47:01	brong	told it to reinstall itself
+2016-01-21 13:47:03	robn`	yeah, I was just about to say that
+2016-01-21 13:47:10	robn`	what brong calls "live demo" the rest of us call "production"
+2016-01-21 13:47:12	 - 	robn` is now known as robn
+2016-01-21 13:47:19	brong	got to the end of my talk and there was a slide saying "don't forget to bring web5 back up"
+2016-01-21 13:47:22	zindello	Haha
+2016-01-21 13:47:27	zindello	I love doing autoscaling demonstations
+2016-01-21 13:47:32	brong	so I switched to the console where the reinstall had finished and brought it back into production
+2016-01-21 13:47:39	zindello	"Here we have 6 servers in production" I'm just going to shutdown -h 3 of them
+2016-01-21 13:47:49	zindello	"Here hold my beer"
+2016-01-21 13:48:15	teolupus	KathyReid: done. I have provided all the details requested by the registration form on the email. Let me know if you need anything else.
+2016-01-21 13:48:16	brong	{emoji response}
+2016-01-21 13:49:23	robn	brong: that's just lazy 😎
+2016-01-21 13:49:29	brong	ok, enough harassing organisers - I'm going to go pretend I understand email RFCs for real for a bit
+2016-01-21 13:49:51	 < 	radsy (~irc@unaffiliated/radsy) has quit (Quit: Leaving)
+2016-01-21 13:50:33	brong	KathyReid: I promise you my talk will be written, rehearsed(ish) and awesome before the appointed time
+2016-01-21 13:50:42	brong	robn: shut up
+2016-01-21 13:50:49	KathyReid	brong: this pleases me :D 
+2016-01-21 13:50:57	robn	brong: yes boss
+2016-01-21 13:51:05	 > 	noisymime (noisymime@nat/ibm/x-laohpnwvkyyvklfj) has joined #linux.conf.au
+2016-01-21 13:52:58	 < 	neonsignal (~neonsigna@2400:6180:0:d0::438:4001) has left #linux.conf.au
+2016-01-21 13:58:03	teolupus	Will there be a bus service on Friday returning to Melbourne? What time will it start? Will the airport be its destination?
+2016-01-21 13:59:03	teolupus	Ignore my question. Found the bus service page. ;-)
+2016-01-21 13:59:11	lathiat	was jsut about to link that :P
+2016-01-21 14:01:49	 > 	fraxinath (~quassel@p4FD48AE7.dip0.t-ipconnect.de) has joined #linux.conf.au
+2016-01-21 14:03:29	 - 	fukawi2`afk is now known as fukawi2
+2016-01-21 14:03:49	 > 	joern (~joern@c-69-181-137-195.hsd1.ca.comcast.net) has joined #linux.conf.au
+2016-01-21 14:04:26	 < 	fraxinas (~quassel@p4FD487DC.dip0.t-ipconnect.de) has quit (Ping timeout: 260 seconds)
+2016-01-21 14:04:51	 > 	realist (~realist@unaffiliated/realist) has joined #linux.conf.au
+2016-01-21 14:06:13	 - 	Hoolio is now known as Hoolio_
+2016-01-21 14:06:15	 < 	AzMoo (~matt@unaffiliated/azmoo) has quit (Quit: AzMoo)
+2016-01-21 14:11:33	 > 	AzMoo (~matt@unaffiliated/azmoo) has joined #linux.conf.au
+2016-01-21 14:17:10	 > 	Hoolio (~hoolio@vm-144-6-224-56.rc.tasmania.nectar.org.au) has joined #linux.conf.au
+2016-01-21 14:20:22	 > 	neonsignal (~neonsigna@2400:6180:0:d0::438:4001) has joined #linux.conf.au
+2016-01-21 14:20:28	teolupus	KathyReid: it is done. Just need you to manually confirm the payment of the invoice now.
+2016-01-21 14:20:59	KathyReid	teolupus: on it
+2016-01-21 14:22:53	KathyReid	teolupus: manual payment applied, you're good to go
+2016-01-21 14:23:32	hoju37	another satisfied customer
+2016-01-21 14:50:57	 < 	anibal (~anibal@CPE-124-189-180-120.cxzr1.win.bigpond.net.au) has quit (Ping timeout: 250 seconds)
+2016-01-21 14:53:52	 - 	DocJosh_ is now known as DocJosh
+2016-01-21 15:04:20	 < 	ccaffeini (crazyed@wrongplanet/CrazyEddy) has quit (Remote host closed the connection)
+2016-01-21 15:14:34	craige	Heya evil_steve. I'm going bring some scotch to LCA so I can lure you to comfy couch some where and talk at length admin work and other related matters (if you saw my eail from some weeks ago).
+2016-01-21 15:15:18	fs0ciety	craige: that sounded pretty creepy
+2016-01-21 15:15:20	fs0ciety	;)
+2016-01-21 15:16:44	hoju37	A bottle of scotch attached to a length of string?
+2016-01-21 15:16:57	tserong	there'll probably be a net, too
+2016-01-21 15:17:29	bradm	does the scotch have ACME written down the side?
+2016-01-21 15:17:39	 > 	ccaffeini (crazyed@wrongplanet/CrazyEddy) has joined #linux.conf.au
+2016-01-21 15:17:56	tserong	i expect it to go a bit like this: http://i.giphy.com/dybLdL1l7mB6o.gif
+2016-01-21 15:18:05	craige	Was meant to fs0ciety. evil_steve likes it that way.
+2016-01-21 15:18:36	tserong	(that vid is from http://www.nature.com/news/when-chickens-go-wild-1.19195 BTW)
+2016-01-21 15:21:10	craige	I prefer the sequel, Chickens on Spring Break.
+2016-01-21 15:22:28	bradm	I was thinking more Road Runner and Wile E Coyote, but the classic one, not the new modern 3d version.
+2016-01-21 15:34:27	 < 	itgrrl (8899126a@gateway/web/freenode/ip.136.153.18.106) has quit (Ping timeout: 252 seconds)
+2016-01-21 15:37:26	 < 	brong (~brong@c-71-58-2-242.hsd1.pa.comcast.net) has quit (Remote host closed the connection)
+2016-01-21 15:38:32	 > 	brong (~brong@c-71-58-2-242.hsd1.pa.comcast.net) has joined #linux.conf.au
+2016-01-21 15:38:34	 > 	anibal (~anibal@CPE-124-189-180-120.cxzr1.win.bigpond.net.au) has joined #linux.conf.au
+2016-01-21 15:43:27	 < 	teolupus (~teolupus@2404:130:0:1000:8192:6168:2716:ed05) has quit (Ping timeout: 250 seconds)
+2016-01-21 15:50:07	zindello	I hope it's a top notch bottle of scotch, otherwise that's pretty cheap consulting rates :P
+2016-01-21 15:52:38	adhoc_	i presume there will be a scotch BoF
+2016-01-21 15:52:45	adhoc_	speaking of invite only social networks 
+2016-01-21 15:52:46	adhoc_	=P
+2016-01-21 16:02:28	 < 	brong (~brong@c-71-58-2-242.hsd1.pa.comcast.net) has quit (Remote host closed the connection)
+2016-01-21 16:17:34	 < 	noisymime (noisymime@nat/ibm/x-laohpnwvkyyvklfj) has quit (Quit: noisymime)
+2016-01-21 16:42:32	evil_steve	adhoc_: I tend to find out about it 30 minutes into the event
+2016-01-21 16:42:42	evil_steve	when someone messages me to say "hey, where are"
+2016-01-21 16:46:39	evil_steve	craige: this is the "anyone can commit a change to the LA systems if they can find enough friends to upvote it" crowdsourced devops idea?
+2016-01-21 16:49:21	craige	among many others evil_steve.
+2016-01-21 16:49:24	aj	evil_steve: i read that as crowd-sourced content updates (wikipedia like) not devops (jenkins/openstack)
+2016-01-21 16:49:45	craige	I need to do some high bandwidth listening evil_steve.
+2016-01-21 16:50:05	craige	Then perhaps bounce some ideas around and see what sticks.
+2016-01-21 16:54:01	evil_steve	sure
+2016-01-21 16:54:16	evil_steve	aj: the example used was to resolve an issue with some apache configuration
+2016-01-21 16:54:34	evil_steve	but I think Craige will need to bring several cases and a new liver, and we'll see what comes out of it
+2016-01-21 16:57:11	 > 	noisymime (~noisymime@189.85.96.58.static.exetel.com.au) has joined #linux.conf.au
+2016-01-21 16:57:23	 < 	anibal (~anibal@CPE-124-189-180-120.cxzr1.win.bigpond.net.au) has quit (Ping timeout: 265 seconds)
+2016-01-21 16:58:44	 < 	noisymime (~noisymime@189.85.96.58.static.exetel.com.au) has quit (Client Quit)
+2016-01-21 16:59:53	craige	sounds like a plan evil_steve.
+2016-01-21 17:04:00	 < 	AzMoo (~matt@unaffiliated/azmoo) has quit (Quit: AzMoo)
+2016-01-21 17:09:51	aj	evil_steve: well i could imagine gerrit/etc and configuration /could/ work, but it doesn't seem like as much of a win as doing it for website contents
+2016-01-21 17:20:33	bradm	aj: that's how the openstack infra team works, I thought.
+2016-01-21 17:21:54	aj	bradm: don't know; suspect it's mostly within the team rather than getting benefits from crowdsourcing though?
+2016-01-21 17:23:26	bradm	aj: I'm fairly sure you need someone from the team to approve it at least
+2016-01-21 17:24:41	bradm	there's even a talk at the conf about it.
+2016-01-21 17:25:26	 < 	threeminutemonta (~david@eth778.vic.adsl.internode.on.net) has quit (Ping timeout: 250 seconds)
+2016-01-21 17:30:32	 > 	noisymime (~noisymime@189.85.96.58.static.exetel.com.au) has joined #linux.conf.au
+2016-01-21 17:31:18	 < 	noisymime (~noisymime@189.85.96.58.static.exetel.com.au) has quit (Client Quit)
+2016-01-21 17:42:07	 > 	rav0__ (~rav0@110.143.149.122.sta.dodo.net.au) has joined #linux.conf.au
+2016-01-21 17:43:14	 > 	radsy (~irc@unaffiliated/radsy) has joined #linux.conf.au
+2016-01-21 18:11:56	 - 	irc: disconnected from server

@@ -1,0 +1,15 @@
+2016-02-24 01:18:27	 > 	fs0ciety (~whoami@c27-253-43-52.thoms4.vic.optusnet.com.au) has joined #bspwm
+2016-02-24 01:18:27		[01:18]
+2016-02-24 01:18:27	 - 	Topic for #bspwm is ""BSPWM support channel""
+2016-02-24 01:18:27	 - 	Topic set by earsplit (~sunn@pool-96-246-172-70.nwrknj.fios.verizon.net) on Thu, 07 Nov 2013 04:12:02
+2016-02-24 01:18:27	 - 	Channel #bspwm: 59 nicks (0 ops, 0 voices, 59 normals)
+2016-02-24 01:18:27	 - 	PvNotice(ChanServ): "Welcome to the bspwm support channel. Mailing list:'bspwm at librelist.com', Tutorial: 'https://github.com/windelicato/dotfiles/wiki/bspwm-for-dummies'"
+2016-02-24 01:18:27	 - 	URL for #bspwm: https://github.com/baskerville/bspwm
+2016-02-24 01:18:33	 - 	Channel created on Thu, 07 Nov 2013 03:59:37
+2016-02-24 01:18:38	fs0ciety	i was wondering if someone can help with me on how to get circulate working
+2016-02-24 01:19:04	fs0ciety	i tried bspc desktop --circulate forward but it doesnt seem to do anything
+2016-02-24 01:19:10	fs0ciety	neither does rotate
+2016-02-24 01:19:27	fs0ciety	just wonder how you go about rotating all the windows so they are either vertial or horizontal?
+2016-02-24 01:25:00		[01:19]
+2016-02-24 01:29:03	 < 	Norith (~Norith@unaffiliated/norith) has quit (Ping timeout: 250 seconds)
+2016-02-24 01:35:00		[01:29]
